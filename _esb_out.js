@@ -1,0 +1,5 @@
+const x = { href: "/fr/a/" };
+const y = categories.map((c) => ({ id: "h-" + c.key, catUk: c.uk }));
+const t = "<title>\u0412\u0441\u0456 \u0442\u0435\u043C\u0438 \u2014 \u0424\u0440\u0430\u043D\u0446\u0443\u0437\u044C\u043A\u0430 \u0433\u0440\u0430\u043C\u0430\u0442\u0438\u043A\u0430</title>";
+const label = { meta: "\u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u043E\u0432\u0430\u043D\u0438\u0439 \u2014 \u0434\u043E\u0432\u0456\u0434\u043D\u0438\u043A" };
+console.log(x, y, t, label);

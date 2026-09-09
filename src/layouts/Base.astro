@@ -16,7 +16,7 @@
     <script type="module" src="/pagefind/pagefind-ui.js" data-pagefind-ui>
     </script>
   </head>
-  <body class={frontmatter?.bodyClass ?? 'site'}>
+  <body class="site">
     <a class="skip-link" href="#main">Перейти до контенту</a>
     <slot name="header" />
     <main id="main">
@@ -24,16 +24,16 @@
     </main>
     <slot name="footer" />
     <script>
-      // Простий тумблер темної режиму (без JS-залежностей).
-      const stored =
-        localStorage.getItem('theme') ||
-        (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+      // Простой тумблер тема (без JS-залежностей, напоминает выбор з localStorage).
+      var stored = localStorage.getItem('theme') || 'light';
       document.documentElement.setAttribute('data-theme', stored);
-      const toggle = document.getElementById('theme-toggle');
+      var toggle = document.getElementById('theme-toggle');
       if (toggle) {
-        toggle.addEventListener('click', () => {
-          const next =
-            document.documentElement.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+        toggle.addEventListener('click', function () {
+          var next =
+            document.documentElement.getAttribute('data-theme') === 'dark'
+              ? 'light'
+              : 'dark';
           document.documentElement.setAttribute('data-theme', next);
           localStorage.setItem('theme', next);
         });

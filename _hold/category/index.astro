@@ -15,43 +15,49 @@ export const prerender = true;
 
 const { category } = Astro.params;
 const cat = getCategory(category);
-const all = (await getCollection('fr'))
+
+const topics = (await getCollection('fr'))
   .filter((e) => e.data.category === category)
-  .sort((a, b) => a.data.order - b.data.order);
+  .sort((a, b) => a.data.order - b.data.order)
+  .map((e) => ({
+    title: e.data.title_uk,
+    desc: e.data.description_uk,
+    href: '/fr/' + category + '/' + e.id + '/',
+  }));
 
-if (!cat || all.length === 0) {
-  return Astro.redirect('/404');
-}
-
+const catName = cat ? cat.uk : category;
 const crumbs = [
   { label: 'Головна', href: '/' },
   { label: 'Всі теми', href: '/fr/' },
-  { label: cat.uk, href: null },
+  { label: catName, href: null },
 ];
+
+const canonical = '/fr/' + category + '/';
+const metaTitle = catName + ' — Французька граматика';
 ---
 <Base>
   <Fragment slot="head">
-    <title>{cat.uk} — Французька граматика</title>
-    <meta name="description" content={cat.description} />
-    <link rel="canonical" href={`/fr/${cat.key}/`} />
+    <title>{metaTitle}</title>
+    <meta name="description" content={cat ? cat.description : metaTitle} />
+    <link rel="canonical" href={canonical} />
   </Fragment>
   <Header slot="header" />
   <Footer slot="footer" />
 
   <div class="container">
     <Breadcrumbs crumbs={crumbs} />
-    <h1>{cat.uk}</h1>
-    <p class="lead">{cat.description}</p>
+    <h1>{catName}</h1>
+    <p class="lead">{cat ? cat.description : ''}</p>
 
     <ul class="topic-list">
-      {
-        all.map((e) => (
+      {topics.map(
+        (t) => (
           <li>
-            <a href={`/fr/${cat.key}/${e.id}/`}>{e.data.title_uk}</a>
-            <span class="topic-desc">{e.data.description_uk}</span>
+            <a href={t.href}>{t.title}</a>
+            <span class="topic-desc">{t.desc}</span>
           </li>
-        ))
-      }
+        )
+      )}
     </ul>
   </div>
 </Base>
