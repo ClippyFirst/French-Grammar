@@ -1,0 +1,19 @@
+---
+---
+<!--
+  props: entries: [{ title_uk, title_fr, description_uk, href }]
+-->
+<section class="related" aria-labelledby="related-title">
+  <h2 class="related-title" id="related-title">Пов'язані теми</h2>
+  <ul class="related-grid">
+    {entries.map((e) => (
+      <li class="related-card">
+        <a href={e.href}>
+          <span class="related-title-line">{e.title_uk}</span>
+          <span class="related-fr">{e.title_fr}</span>
+          <span class="related-desc">{e.description_uk}</span>
+        </a>
+      </li>
+    ))}
+  </ul>
+</section>

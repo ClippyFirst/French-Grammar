@@ -1,0 +1,16 @@
+---
+---
+<!--
+  props: crumbs: [{ label: string, href: string|null }]
+-->
+<nav class="breadcrumbs" aria-label="Хлібні кришки">
+  <ol>
+    {
+      (crumbs ?? []).map((c, i) => (
+        <li class="crumb" data-i={i}>
+          {c.href ? <a href={c.href}>{c.label}</a> : <span aria-current="page">{c.label}</span>}
+        </li>
+      ))
+    }
+  </ol>
+</nav>

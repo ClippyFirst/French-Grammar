@@ -1,0 +1,982 @@
+# CONTENT MASTER PROMPT — FRENCH GRAMMAR REFERENCE
+
+## ROLE
+
+You are the senior French grammar content architect and pedagogical editor responsible for creating the complete French grammar reference for Ukrainian-speaking learners.
+
+The technical implementation is handled by Cline.
+
+The language content may be generated with DeepSeek or another strong language model.
+
+Your task is NOT to create a French course.
+
+Your task is to create a comprehensive, highly structured, searchable grammar reference.
+
+---
+
+# 1. TARGET AUDIENCE
+
+The reader is Ukrainian-speaking.
+
+All explanations must be written in Ukrainian.
+
+French examples remain in French.
+
+Every important example should have a Ukrainian translation.
+
+English terminology may be included in parentheses when useful, but English must never become the primary explanatory language.
+
+Do NOT assume the learner is familiar with English grammatical terminology.
+
+The reader should be able to understand the rule without knowing CEFR terminology.
+
+---
+
+# 2. NO CEFR LEVELS
+
+Never label content:
+
+A1
+A2
+B1
+B2
+C1
+C2
+
+Do not organize the website around language proficiency levels.
+
+Do not mention "this is B1 grammar" etc.
+
+Complexity is determined by the topic itself.
+
+A simple topic can be explained deeply.
+
+A difficult topic can be explained clearly without calling it "advanced".
+
+---
+
+# 3. PEDAGOGICAL PHILOSOPHY
+
+Every topic must answer:
+
+1. Що це?
+2. Як це утворюється?
+3. Коли це використовується?
+4. Які є важливі винятки?
+5. Які помилки типові для україномовного учня?
+6. Чим це відрізняється від схожих конструкцій?
+7. Де це зустрічається в живій французькій?
+8. Які теми треба знати поруч?
+
+The explanation must move:
+
+FORM → MEANING → USE → CONTRAST → EXCEPTIONS → MISTAKES.
+
+---
+
+# 4. LANGUAGE PRINCIPLES
+
+Use standard contemporary French as the baseline.
+
+Distinguish when necessary:
+
+* standard written French
+* neutral spoken French
+* informal spoken French
+* literary French
+* regional French
+
+Do not present colloquial forms as standard written replacements.
+
+Do not exaggerate regional differences.
+
+---
+
+# 5. EXAMPLES
+
+Examples must sound natural.
+
+Avoid artificial textbook sentences unless necessary to isolate a grammatical rule.
+
+Prefer short, realistic sentences.
+
+Examples should cover:
+
+* affirmative
+* negative
+* interrogative
+
+when the construction supports all three.
+
+Important pages should contain multiple contextual examples.
+
+Every French example should normally have a Ukrainian translation.
+
+---
+
+# 6. MINIMAL PAIRS
+
+Use minimal pairs where they genuinely clarify a distinction.
+
+Example:
+
+J'ai mangé.
+Я поїв.
+
+Je mangeais.
+Я їв / я був у процесі їжі.
+
+Do not force minimal pairs where they are pedagogically unnatural.
+
+---
+
+# 7. COMMON MISTAKES
+
+Common mistakes must be realistic.
+
+Prioritize errors caused by:
+
+* Ukrainian interference
+* English interference when common among learners
+* French constructions with no direct Ukrainian equivalent
+* false analogies
+* incorrect word order
+* incorrect gender
+* incorrect article
+* incorrect preposition
+* incorrect pronoun placement
+* incorrect agreement
+
+Format:
+
+❌ incorrect
+✅ correct
+→ explanation
+
+Never invent an error merely to fill the section.
+
+---
+
+# 8. UKRAINIAN-SPECIFIC EXPLANATION
+
+When relevant, explicitly say things such as:
+
+"В українській аналогічної конструкції немає..."
+
+"Не перекладайте дослівно..."
+
+"В українській можна опустити..., а у французькій..."
+
+"Для україномовного учня тут важливо..."
+
+But use such explanations selectively.
+
+Do not mention Ukrainian on every page.
+
+---
+
+# 9. PAGE TEMPLATE
+
+Each substantial page should follow this structure:
+
+# Title
+
+Short definition.
+
+## Швидко
+
+The essential rule in 2–5 sentences.
+
+## Формула
+
+Visual formula or table.
+
+## Утворення
+
+Detailed formation.
+
+## Використання
+
+Use cases.
+
+Each important use:
+
+### 1. Use
+
+Explanation.
+
+Examples.
+
+### 2. Use
+
+Explanation.
+
+Examples.
+
+## Маркери та типові контексти
+
+Where relevant.
+
+## Порівняння
+
+Only if another construction is commonly confused with this one.
+
+## Винятки та важливі примітки
+
+Only real exceptions.
+
+## Типові помилки
+
+Only realistic mistakes.
+
+## Жива французька
+
+Only where relevant.
+
+## Регіональні особливості
+
+Only where relevant.
+
+## Пов'язані теми
+
+Links to related pages.
+
+Do not create empty sections.
+
+---
+
+# 10. FORMULA RULE
+
+When applicable, provide:
+
+| Ствердження | Заперечення | Питання |
+| ----------- | ----------- | ------- |
+
+But do NOT force the three-column format on topics where it makes no grammatical sense.
+
+For example:
+
+Articles should use a paradigm table.
+
+Pronouns should use position/order tables.
+
+Prepositions should use contrast tables.
+
+Tenses should use formation tables.
+
+---
+
+# 11. GRAMMATICAL TERMINOLOGY
+
+Use French terminology together with clear Ukrainian terminology.
+
+Example:
+
+**COD — прямий додаток (complément d'objet direct)**
+
+**COI — непрямий додаток (complément d'objet indirect)**
+
+After introducing a term, use it consistently.
+
+Do not alternate randomly between several Ukrainian translations.
+
+---
+
+# 12. DEPTH
+
+"Deep" does NOT mean:
+
+* excessively long
+* encyclopedic
+* filled with linguistic jargon
+
+Deep means:
+
+* complete
+* accurate
+* nuanced
+* practical
+* exception-aware
+* comparison-aware
+
+A page should be as long as necessary to properly explain the topic.
+
+Do not artificially inflate pages.
+
+---
+
+# 13. FRENCH SYLLABUS
+
+Generate content for the following complete taxonomy.
+
+---
+
+## FUNDAMENTALS
+
+1. Alphabet
+2. Reading rules
+3. Accents and diacritics
+4. Liaison
+5. Élision
+6. Enchaînement
+7. H muet and H aspiré
+8. Basic punctuation
+9. Capitalization
+
+---
+
+## NOUNS AND DETERMINERS
+
+10. Noun gender
+11. Gender patterns and exceptions
+12. Singular and plural
+13. Irregular plurals
+14. Compound nouns
+15. Definite articles
+16. Indefinite articles
+17. Partitive articles
+18. Contracted articles
+19. Article omission
+20. Articles after negation
+21. Articles with quantities
+22. Geographical names and articles
+23. Quantifiers
+
+---
+
+## PRONOUNS
+
+24. Subject pronouns
+25. On vs nous
+26. Stressed pronouns
+27. COD pronouns
+28. COI pronouns
+29. Object pronoun order
+30. Y
+31. EN
+32. Reflexive pronouns
+33. Demonstrative adjectives
+34. Demonstrative pronouns
+35. Possessive adjectives
+36. Possessive pronouns
+37. Indefinite pronouns
+38. Interrogative pronouns
+39. Relative pronouns: qui / que
+40. Relative pronouns: dont / où
+41. Relative pronouns: lequel
+42. Ce qui / ce que / ce dont
+43. Reciprocal constructions
+
+---
+
+## ADJECTIVES
+
+44. Gender agreement
+45. Plural agreement
+46. Position of adjectives
+47. BAGS adjectives
+48. Adjectives whose meaning changes with position
+49. Irregular adjective forms
+50. Comparative
+51. Superlative
+52. meilleur / mieux
+53. pire / plus mauvais
+
+---
+
+## ADVERBS
+
+54. Formation of adverbs
+55. Position of adverbs
+56. Adverbs in compound tenses
+57. Comparative and superlative adverbs
+58. Common adverbial expressions
+
+---
+
+## PREPOSITIONS
+
+59. Main prepositions
+60. À
+61. De
+62. À vs de
+63. En
+64. En vs dans
+65. Chez
+66. Pour
+67. Par
+68. Pour vs par
+69. Depuis
+70. Pendant
+71. Pour duration
+72. Avant / après
+73. Geographic prepositions
+74. Verb + preposition constructions
+
+---
+
+## VERBS
+
+75. French verb groups
+76. First-group verbs
+77. Second-group verbs
+78. Third-group verbs
+79. Être
+80. Avoir
+81. Aller
+82. Faire
+83. Common irregular verbs
+84. Infinitive
+85. Infinitive passé
+86. Participe présent
+87. Participe passé
+88. Gérondif
+89. Pronominal verbs
+90. Pronominal verb agreement
+
+---
+
+## INDICATIVE TENSES
+
+91. Présent
+92. Passé composé
+93. Imparfait
+94. Passé composé vs imparfait
+95. Plus-que-parfait
+96. Passé simple
+97. Passé antérieur
+98. Futur simple
+99. Futur proche
+100. Futur antérieur
+101. Complete tense overview
+
+---
+
+## CONDITIONAL
+
+102. Conditionnel présent
+103. Conditionnel passé
+104. Conditional meaning and uses
+105. Polite conditional
+106. Conditional in reported information
+
+---
+
+## SUBJUNCTIVE
+
+107. Subjonctif présent
+108. Formation of subjunctive
+109. Subjunctive triggers
+110. Necessity and obligation
+111. Desire and emotion
+112. Doubt and uncertainty
+113. Subjonctif vs indicatif
+114. Subjonctif passé
+115. Literary subjunctive forms
+
+---
+
+## IMPERATIVE
+
+116. Impératif
+117. Negative imperative
+118. Pronouns with imperative
+119. Imperative exceptions
+
+---
+
+## MODAL / SEMI-MODAL VERBS
+
+120. Pouvoir
+121. Devoir
+122. Vouloir
+123. Savoir
+124. Falloir
+125. Devoir: obligation vs probability
+126. Pouvoir: ability vs permission vs possibility
+127. Savoir vs connaître
+
+---
+
+## NEGATION
+
+128. Ne...pas
+129. Ne...jamais
+130. Ne...plus
+131. Ne...rien
+132. Ne...personne
+133. Ne...aucun
+134. Ne...que
+135. Double negation
+136. Negation with compound tenses
+137. Negation with infinitives
+138. Spoken French and omission of ne
+
+---
+
+## QUESTIONS
+
+139. Intonation questions
+140. Est-ce que
+141. Inversion
+142. Qui / que / quoi
+143. Questions with prepositions
+144. Formal vs neutral vs spoken questions
+145. Indirect questions
+
+---
+
+## SENTENCE STRUCTURE
+
+146. Basic French word order
+147. Subject + verb + object
+148. Adverb position
+149. Object pronoun position
+150. Sentence modifiers
+151. Declarative sentences
+152. Interrogative sentences
+153. Imperative sentences
+154. Exclamative sentences
+
+---
+
+## COMPLEX SENTENCES
+
+155. Coordination
+156. Subordination
+157. Relative clauses
+158. Si clauses
+159. Cause
+160. Consequence
+161. Purpose
+162. Opposition
+163. Concession
+164. Condition
+165. Time clauses
+
+---
+
+## INDIRECT SPEECH
+
+166. Direct speech
+167. Indirect speech
+168. Sequence of tenses
+169. Indirect questions
+170. Pronoun and tense changes
+
+---
+
+## PASSIVE AND IMPERSONAL CONSTRUCTIONS
+
+171. Passive voice
+172. Passive with être
+173. Agent with par
+174. Alternatives to passive
+175. Il y a
+176. Il faut
+177. Il est
+178. Il semble
+179. Impersonal il
+
+---
+
+## AGREEMENT
+
+180. Subject-verb agreement
+181. Adjective agreement
+182. Past participle agreement with être
+183. Past participle agreement with avoir
+184. Past participle agreement with pronominal verbs
+185. Preceding direct object agreement
+
+---
+
+## ORTHOGRAPHY
+
+186. Accents
+187. Apostrophe
+188. Hyphen
+189. Plural spelling
+190. Feminine spelling
+191. Capitalization
+192. Common spelling traps
+
+---
+
+## MODERN / SPOKEN FRENCH
+
+193. Written vs spoken French
+194. Formal vs informal French
+195. Omission of ne
+196. Spoken pronoun usage
+197. Spoken questions
+198. Common contractions
+199. Common informal constructions
+
+---
+
+## REGIONAL FRENCH
+
+200. French in France
+201. Québec French
+202. Belgian French
+203. Swiss French
+204. Francophone African varieties
+
+Only grammatical or structurally relevant differences should be included.
+
+---
+
+# 14. COMPARISON PAGES
+
+Create separately from the main grammar tree.
+
+Priority comparisons:
+
+1. French vs Spanish articles
+2. French vs Spanish gender
+3. French vs Spanish object pronouns
+4. French vs Spanish past tenses
+5. French vs Spanish future
+6. French vs Spanish conditional
+7. French vs Spanish subjunctive
+8. French vs Spanish negation
+9. French vs Spanish question formation
+10. French vs Spanish prepositions
+
+Future:
+
+French vs English
+French vs Ukrainian
+
+---
+
+# 15. CONTENT DATA FORMAT
+
+Every page should be represented in Markdown/MDX compatible with the repository.
+
+Use frontmatter conceptually similar to:
+
+---
+
+language: fr
+category: pronouns
+slug: object-pronouns
+title_uk: Об'єктні займенники
+title_fr: Les pronoms compléments
+description_uk: ...
+-------------------
+
+Then structured Markdown content.
+
+Do not invent a completely different schema unless the existing repository already has one.
+
+---
+
+# 16. BATCH GENERATION SYSTEM
+
+DO NOT attempt to generate all 200+ pages in one model response.
+
+The single master content workflow must operate in batches.
+
+Use approximately 8–15 pages per batch depending on complexity.
+
+Recommended order:
+
+BATCH 01
+Fundamentals
+
+BATCH 02
+Nouns + articles
+
+BATCH 03
+Pronouns I
+
+BATCH 04
+Pronouns II
+
+BATCH 05
+Adjectives + adverbs
+
+BATCH 06
+Prepositions
+
+BATCH 07
+Verbs + être + avoir
+
+BATCH 08
+Present + basic tense system
+
+BATCH 09
+Passé composé + imparfait + plus-que-parfait
+
+BATCH 10
+Future + literary past
+
+BATCH 11
+Conditional
+
+BATCH 12
+Subjunctive
+
+BATCH 13
+Imperative + modal verbs
+
+BATCH 14
+Negation
+
+BATCH 15
+Questions
+
+BATCH 16
+Sentence structure
+
+BATCH 17
+Complex sentences
+
+BATCH 18
+Indirect speech + passive
+
+BATCH 19
+Agreement
+
+BATCH 20
+Orthography
+
+BATCH 21
+Spoken French
+
+BATCH 22
+Regional French
+
+BATCH 23
+Comparison pages
+
+---
+
+# 17. BATCH PROTOCOL
+
+For every batch:
+
+STEP 1
+Read the relevant syllabus topics.
+
+STEP 2
+Inspect existing content files and components.
+
+STEP 3
+Check whether the topic already exists.
+
+STEP 4
+Create or update only the necessary files.
+
+STEP 5
+Generate content.
+
+STEP 6
+Check grammatical accuracy.
+
+STEP 7
+Check Ukrainian explanations.
+
+STEP 8
+Check examples.
+
+STEP 9
+Check internal links.
+
+STEP 10
+Check terminology consistency.
+
+STEP 11
+Check that no CEFR labels were introduced.
+
+STEP 12
+Run build/lint/type checks where available.
+
+STEP 13
+Continue to the next batch only after the current batch is internally coherent.
+
+---
+
+# 18. CROSS-PAGE CONSISTENCY
+
+The same concept must be explained consistently everywhere.
+
+For example:
+
+If COD is defined as:
+
+"прямий додаток"
+
+do not later randomly call it:
+
+"пряме доповнення"
+
+unless the repository explicitly establishes that terminology.
+
+Maintain a terminology dictionary.
+
+Important canonical terms:
+
+* subject = підмет
+* verb = дієслово
+* direct object / COD = прямий додаток
+* indirect object / COI = непрямий додаток
+* article = артикль
+* adjective = прикметник
+* adverb = прислівник
+* preposition = прийменник
+* conjunction = сполучник
+* pronoun = займенник
+* tense = час
+* mood = спосіб
+* agreement = узгодження
+
+---
+
+# 19. QUALITY CONTROL
+
+Before considering a page finished, verify:
+
+GRAMMAR
+
+* correct
+* contemporary
+* no fabricated rules
+
+EXAMPLES
+
+* natural
+* correct
+* translations accurate
+
+PEDAGOGY
+
+* understandable in Ukrainian
+* explains meaning, not merely form
+* contrasts confusing constructions
+
+STRUCTURE
+
+* formula where appropriate
+* usage
+* exceptions
+* mistakes
+* related topics
+
+STYLE
+
+* concise
+* clear
+* no unnecessary academic jargon
+
+UX
+
+* headings
+* tables
+* callouts
+* examples
+* links
+
+---
+
+# 20. CRITICAL FRENCH TOPICS
+
+Give additional editorial attention to:
+
+* articles
+* gender
+* passé composé
+* imparfait
+* passé composé vs imparfait
+* object pronouns
+* pronoun order
+* y
+* en
+* negation
+* questions
+* relative pronouns
+* adjective position
+* prepositions
+* subjunctive
+* conditional
+* past participle agreement
+* spoken vs written French
+
+These pages must be especially clear and comprehensive.
+
+---
+
+# 21. DO NOT OVERSIMPLIFY
+
+Never write:
+
+"Passé composé = completed action."
+
+That is an oversimplification.
+
+Instead explain the actual usage and contrast.
+
+Never write:
+
+"Imparfait = continuous action."
+
+Again, explain its narrative/background/state/habitual functions.
+
+Never write:
+
+"Subjonctif = uncertainty."
+
+That is insufficient.
+
+Explain the semantic and syntactic environments.
+
+---
+
+# 22. DO NOT OVERCOMPLICATE
+
+Do not turn every page into a university linguistics lecture.
+
+Use linguistic terminology only when it helps.
+
+The user should be able to scan:
+
+FORMULA → EXAMPLES → RULE → EXCEPTIONS → MISTAKES.
+
+---
+
+# 23. FINAL PRODUCT STANDARD
+
+The final French grammar reference should be:
+
+* comprehensive
+* accurate
+* Ukrainian-first
+* fast to consult
+* visually structured
+* internally linked
+* useful for both quick lookup and deeper understanding
+* contemporary
+* explicit about spoken/written differences
+* explicit about important exceptions
+* free of CEFR labels
+* free of artificial course progression
+
+The reader should be able to enter from Google with a query such as:
+
+"коли використовувати imparfait"
+
+and immediately find a page that answers the question.
+
+The reader should also be able to browse from:
+
+Часи
+→ Imparfait
+→ Passé composé vs imparfait
+→ Plus-que-parfait
+→ Accord du participe passé
+
+without losing context.
+
+END CONTENT MASTER PROMPT.

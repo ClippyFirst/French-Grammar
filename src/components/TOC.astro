@@ -1,0 +1,20 @@
+---
+---
+<!--
+  props: items: [{ id: string, text: string }]
+  Aдс (без JS) — якірні посиланьня на заголовки.
+-->
+{
+  items?.length
+    ? (
+        <nav class="toc" aria-label="Зміст сторінки">
+          <h2 class="toc-title">На этой сторінці</h2>
+          <ul>
+            {items.map((it) => (
+              <li><a href={`#${it.id}`}>{it.text}</a></li>
+            ))}
+          </ul>
+        </nav>
+      )
+    : null
+}

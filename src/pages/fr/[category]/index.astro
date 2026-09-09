@@ -1,0 +1,57 @@
+---
+---
+import { getCollection } from 'astro:content';
+import { categories, getCategory } from '../../../data/categories.mjs';
+import Base from '../../../layouts/Base.astro';
+import Header from '../../../components/Header.astro';
+import Footer from '../../../components/Footer.astro';
+import Breadcrumbs from '../../../components/Breadcrumbs.astro';
+
+export function getStaticPaths() {
+  return categories.map((c) => ({ params: { category: c.key } }));
+}
+
+export const prerender = true;
+
+const { category } = Astro.params;
+const cat = getCategory(category);
+const all = (await getCollection('fr'))
+  .filter((e) => e.data.category === category)
+  .sort((a, b) => a.data.order - b.data.order);
+
+if (!cat || all.length === 0) {
+  return Astro.redirect('/404');
+}
+
+const crumbs = [
+  { label: 'Головна', href: '/' },
+  { label: 'Всі теми', href: '/fr/' },
+  { label: cat.uk, href: null },
+];
+---
+<Base>
+  <Fragment slot="head">
+    <title>{cat.uk} — Французька граматика</title>
+    <meta name="description" content={cat.description} />
+    <link rel="canonical" href={`/fr/${cat.key}/`} />
+  </Fragment>
+  <Header slot="header" />
+  <Footer slot="footer" />
+
+  <div class="container">
+    <Breadcrumbs crumbs={crumbs} />
+    <h1>{cat.uk}</h1>
+    <p class="lead">{cat.description}</p>
+
+    <ul class="topic-list">
+      {
+        all.map((e) => (
+          <li>
+            <a href={`/fr/${cat.key}/${e.id}/`}>{e.data.title_uk}</a>
+            <span class="topic-desc">{e.data.description_uk}</span>
+          </li>
+        ))
+      }
+    </ul>
+  </div>
+</Base>

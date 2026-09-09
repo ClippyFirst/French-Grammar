@@ -1,0 +1,22 @@
+---
+---
+import Base from '../layouts/Base.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+
+export const prerender = true;
+---
+<Base>
+  <Fragment slot="head">
+    <title>Сторінка не знайдена — Французька граматика</title>
+    <meta name="robots" content="noindex" />
+  </Fragment>
+  <Header slot="header" />
+  <Footer slot="footer" />
+
+  <div class="container">
+    <h1>404 — Сторінка не знайдена</h1>
+    <p>Такої сторінки немає або адрес змінен.</p>
+    <p><a href="/">Повернутись на головну</a> або <a href="/fr/">оберіть тему</a>.</p>
+  </div>
+</Base>
