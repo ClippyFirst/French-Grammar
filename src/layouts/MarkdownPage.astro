@@ -1,0 +1,34 @@
+---
+import { getCategory } from '../data/categories.mjs';
+import Base from './Base.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+
+const { frontmatter } = Astro.props;
+const cat = getCategory(frontmatter.category);
+const crumbs = [
+  { label: 'Головна', href: '/' },
+  { label: 'Всі теми', href: '/fr/' },
+  ...(cat ? [{ label: cat.uk, href: '/fr/' + frontmatter.category + '/' }] : []),
+  { label: frontmatter.title_uk, href: null },
+];
+---
+<Base>
+  <Fragment slot="head">
+    <title>{frontmatter.title_uk} — Французька граматика</title>
+    <meta name="description" content={frontmatter.description_uk} />
+    <link rel="canonical" href={Astro.url.pathname} />
+    <meta property="og:title" content="{frontmatter.title_uk} — Французька граматика" />
+    <meta property="og:description" content={frontmatter.description_uk} />
+    {frontmatter.tags && frontmatter.tags.length ? (
+      <meta name="keywords" content={frontmatter.tags.join(', ')} />
+    ) : ''}
+  </Fragment>
+  <Header slot="header" />
+  <Footer slot="footer" />
+  <article class="prose">
+    <Breadcrumbs crumbs={crumbs} />
+    <slot />
+  </article>
+</Base>
