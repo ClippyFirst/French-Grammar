@@ -1,11 +1,54 @@
 ---
+import { getCollection } from 'astro:content';
 import Base from '../layouts/Base.astro';
-const x = await Promise.resolve(5);
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { categories } from '../data/categories.mjs';
+
+const all = await getCollection('fr');
+const catCounts = {};
+for (const e of all) {
+  catCounts[e.data.category] = (catCounts[e.data.category] || 0) + 1;
+}
 ---
+
 <Base>
   <Fragment slot="head">
-    <title>minimal {x}</title>
+    <title>Французька граматика — довідник для україномовних</title>
+    <meta name="description" content="Довідник з французької граматики для україномовних. Шукацька система, чіткі формули, приклади з перекладом, типові помилки." />
+    <link rel="canonical" href={Astro.url.pathname} />
   </Fragment>
-  <h1>HELLO {x}</h1>
-  <p>minimal test</p>
+  <Header slot="header" />
+  <Footer slot="footer" />
+
+  <section class="hero">
+    <h1>Французька граматика</h1>
+    <p class="lede">Довідник з французької граматики для україномовних студентів і вчителів. Точність, а не спрощення.</p>
+    <div class="home-search">
+      <button class="home-search-input" data-search-input type="button" aria-label="Пошук граматичних тем">
+        <span aria-hidden="true">🔍</span> Пошук граматичних тем…
+      </button>
+    </div>
+  </section>
+
+  <div class="container">
+    <h2>Категорії граматики</h2>
+    <p style="color: var(--ink-soft); margin-bottom: 1.5rem;">
+      Всього тем: <strong>{all.length}</strong>
+    </p>
+    <div class="category-grid">
+      {categories.map((cat) => {
+        const count = catCounts[cat.key] || 0;
+        return (
+          <div class="category-card">
+            <a href={'/fr/' + cat.key + '/'}>
+              <span class="category-name">{cat.uk}</span>
+              <span class="category-desc">{cat.description}</span>
+              <span class="category-count">{count} тем</span>
+            </a>
+          </div>
+        );
+      })}
+    </div>
+  </div>
 </Base>

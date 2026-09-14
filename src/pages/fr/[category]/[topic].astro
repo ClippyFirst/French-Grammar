@@ -1,0 +1,24 @@
+---
+import { getCollection, render } from 'astro:content';
+import { relatedFor } from '../../../lib/pages.mjs';
+import MarkdownPage from '../../../layouts/MarkdownPage.astro';
+
+export async function getStaticPaths() {
+  const all = await getCollection('fr');
+  return all.map((entry) => ({
+    params: {
+      category: entry.data.category,
+      topic: entry.id.replace(/\.(md|mdx)$/, ''),
+    },
+    props: { entry, allEntries: all },
+  }));
+}
+
+const { entry, allEntries } = Astro.props;
+const { Content, headings } = await render(entry);
+const relatedEntries = relatedFor(allEntries, entry.data.category, entry.data.related || []);
+---
+
+<MarkdownPage entry={entry} headings={headings} relatedEntries={relatedEntries}>
+  <Content />
+</MarkdownPage>

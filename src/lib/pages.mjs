@@ -1,6 +1,14 @@
 // Helpers to build resolved page data.
 // Keeps .astro templates declarative and logic in plain JS modules.
 
+/**
+ * Strip file extension from a content collection entry id.
+ * In Astro 5, entry IDs may include the .md extension; we normalize to slug.
+ */
+function slugFromId(id) {
+  return id.replace(/\.(md|mdx)$/, '');
+}
+
 export function sectionsFor(all, categories) {
   return categories
     .map((c) => ({
@@ -9,7 +17,7 @@ export function sectionsFor(all, categories) {
       topics: all
         .filter((e) => e.data.category === c.key)
         .map((e) => ({
-          href: '/fr/' + e.data.category + '/' + e.id + '/',
+          href: '/fr/' + e.data.category + '/' + slugFromId(e.id) + '/',
           title: e.data.title_uk,
           desc: e.data.description_uk,
         })),
@@ -32,7 +40,7 @@ export function topicsFor(all, category) {
     .map((e) => ({
       title: e.data.title_uk,
       desc: e.data.description_uk,
-      href: '/fr/' + category + '/' + e.id + '/',
+      href: '/fr/' + category + '/' + slugFromId(e.id) + '/',
     }));
 }
 
@@ -48,13 +56,13 @@ export function relatedFor(all, category, refs) {
       const slash = ref.indexOf('/');
       const rcat = ref.slice(0, slash);
       const rslug = ref.slice(slash + 1);
-      return all.find((e) => e.id === rslug && e.data.category === rcat);
+      return all.find((e) => slugFromId(e.id) === rslug && e.data.category === rcat);
     })
     .filter(Boolean)
     .map((e) => ({
       title_uk: e.data.title_uk,
       title_fr: e.data.title_fr,
       description_uk: e.data.description_uk,
-      href: '/fr/' + e.data.category + '/' + e.id + '/',
+      href: '/fr/' + e.data.category + '/' + slugFromId(e.id) + '/',
     }));
 }
