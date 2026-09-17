@@ -1,274 +1,204 @@
----
-title_uk: "Imparfait — Минулий недоконаний час"
-title_fr: "L'imparfait"
-description_uk: "Як утворюється і коли вживається минулий недоконаний час у французькій мові. Порівняння з українською мовою для українськомовних."
-category: tenses
-order: 2
-related:
-  - passe-compose
-  - passe-compose-vs-imparfait
-  - plus-que-parfait
-tags: [часи, минулий, граматика, дієслово, недоконаний]
----
+# Недоконаний минулий час (L'Imparfait)
 
-# Imparfait — Минулий недоконаний час
+## 🇺🇦 Для українськомовних
 
-## Коротке визначення
+**Imparfait** - це минулий час у французькій мові, який вживається для вираження:
+- **Тривалих дій у минулому**
+- **Звичок у минулому**
+- **Опису стану чи ситуації у минулому**
+- **Фону для інших дій**
 
-**Imparfait** (імпарфе) — це минулий час у французькій мові, який описує **тривалі, звичні або неповторювані дії в минулому**, а також **стан, опис чи фонову інформацію**. Це еквівалент українського минулого недоконаного часу (робив, ходив, був).
+### 🔹 Утворення Imparfait
 
----
+**Формула:**
+```
+Основа теперішнього часу (nous) + закінчення Imparfait
+```
 
-## Швидко
+**Закінчення Imparfait:**
+- **-ais** (je)
+- **-ais** (tu)
+- **-ait** (il/elle/on)
+- **-ions** (nous)
+- **-iez** (vous)
+- **-aient** (ils/elles)
 
-Imparfait використовується для:
-- **Звичок в минулому**: *Quand j'étais enfant, je jouais au football tous les jours.* (Коли я був дитиною, я грав у футбол щодня.)
-- **Опису стану**: *Il était grand et mince.* (Він був високим і худорлявим.)
-- **Фонової інформації**: *Il pleuvait quand je suis arrivé.* (Йшов дощ, коли я приїхав.)
-- **Тривалих дій**: *Je lisais un livre.* (Я читав книгу.)
+#### Приклади утворення
 
-⚠️ **Українцям важливо**: Imparfait НЕ вживається для **одноразових завершених дій** — для цього потрібен **passé composé**.
+1. **Parler (говорити)**
+   - Основа: nous **parlons** → parl-
+   - Imparfait: je **parlais**, tu **parlais**, il **parlait**, nous **parlions**, vous **parliez**, ils **parlaient**
 
----
+2. **Finir (закінчувати)**
+   - Основа: nous **finissons** → finiss-
+   - Imparfait: je **finissais**, tu **finissais**, il **finissait**, nous **finissions**, vous **finissiez**, ils **finissaient**
 
-## Формула
+3. **Être (бути)** - виняток
+   - Основа: **ét-**
+   - Imparfait: j'**étais**, tu **étais**, il **était**, nous **étions**, vous **étiez**, ils **étaient**
 
-| Ствердження | Заперечення | Питання |
-|-------------|-------------|---------|
-| Je parl**ais** | Je ne parl**ais** pas | Parl**ais**-je ? |
-| Tu finiss**ais** | Tu ne finiss**ais** pas | Finiss**ais**-tu ? |
-| Il part**ait** | Il ne part**ait** pas | Part**ait**-il ? |
+### 🔹 Відмінювання дієслів у Imparfait
 
----
+#### Дієслова I групи (-er)
 
-## Утворення
+| Особа | Приклад (parler) |
+|-------|------------------|
+| je | **parlais** |
+| tu | **parlais** |
+| il/elle/on | **parlait** |
+| nous | **parlions** |
+| vous | **parliez** |
+| ils/elles | **parlaient** |
 
-### Загальне правило
+**Приклади:**
+- Je **parlais** français quand j'étais petit. → **Я говорив** французькою, коли був маленьким.
+- Tu **dansais** bien. → **Ти добре танцювала**.
+- Il **travaillait** beaucoup. → **Він багато працював**.
 
-**Imparfait = основа теперішнього часу (nous) + закінчення**
+#### Дієслова II групи (-ir)
 
-Закінчення для всіх дієслів:
-| Особа | Закінчення |
-|-------|-----------|
-| Je | -ais |
-| Tu | -ais |
-| Il/Elle/On | -ait |
-| Nous | -ions |
-| Vous | -iez |
-| Ils/Elles | -aient |
+| Особа | Приклад (finir) |
+|-------|-----------------|
+| je | **finissais** |
+| tu | **finissais** |
+| il/elle/on | **finissait** |
+| nous | **finissions** |
+| vous | **finissiez** |
+| ils/elles | **finissaient** |
 
-### Приклади утворення
+**Приклади:**
+- Je **choisissais** toujours les mêmes plats. → **Я завжди вибирав** ті самі страви.
+- Tu **grandissais** vite. → **Ти швидко ріс**.
 
-#### Дієслово parler (говорити)
-1. Беремо основу від "nous parlons" → **parl-**
-2. Додаємо закінчення:
-   - Je parl**ais**
-   - Tu parl**ais**
-   - Il parl**ait**
-   - Nous parl**ions**
-   - Vous parl**iez**
-   - Ils parl**aient**
+#### Неправильні дієслова
 
-#### Дієслово finir (закінчувати)
-1. Основа від "nous finissons" → **finiss-**
-2. Додаємо закінчення:
-   - Je finiss**ais**
-   - Tu finiss**ais**
-   - Il finiss**ait**
-   - Nous finiss**ions**
-   - Vous finiss**iez**
-   - Ils finiss**aient**
-
-#### Дієслово être (бути) — виняток
-Imparfait від "être" утворюється від основи **ét-**:
-- J'**étais**
-- Tu **étais**
-- Il/Elle/On **était**
-- Nous **étions**
-- Vous **étiez**
-- Ils/Elles **étaient**
-
----
-
-## Вживання
-
-### 1. Звички в минулому
-Дії, які повторювалися регулярно:
-- *Quand j'habitais à Kiev, je prenais le métro tous les matins.* (Коли я жив у Києві, я їздив метро кожного ранку.)
-- *Elle étudiait le français trois fois par semaine.* (Вона вивчала французьку три рази на тиждень.)
-
-### 2. Опис стану чи характеристики
-Опис людей, місця, ситуації:
-- *La maison était vieille mais confortable.* (Будинок був старим, але зручним.)
-- *Il avait les cheveux longs et portait des lunettes.* (У нього були довге волосся, і він носив окуляри.)
-
-### 3. Фонова інформація
-Створення атмосфери чи контексту:
-- *Il faisait beau. Les oiseaux chantaient.* (Стояла гарна погода. Птахи співали.)
-- *J'étais dans ma chambre quand le téléphone a sonné.* (Я був у своїй кімнаті, коли зателефонував телефон.)
-
-### 4. Тривалі дії
-Дії, які тривали у певний момент:
-- *À 8 heures, je prenais mon petit déjeuner.* (О 8 годині я снідав.)
-- *Les enfants jouaient dans le jardin.* (Діти гралися в саду.)
-
-### 5. Опис процесу
-Коли ми хочемо показати, як щось відбувалося:
-- *Il pleuvait de plus en plus fort.* (Дощ йшов щораз сильніше.)
-- *La situation s'améliorait jour après jour.* (Ситуація покращувалася день у день.)
-
----
-
-## Приклади
-
-### Звички
-| Français | Українська |
+| Дієслово | Imparfait |
 |----------|-----------|
-| Quand j'étais petit, je regardais des dessins animés. | Коли я був маленьким, я дивився мультфільми. |
-| Elle travaillait dans une banque. | Вона працювала в банку. |
-| Nous allions à l'école à pied. | Ми ходили до школи пішки. |
+| être | **j'étais**, tu **étais**, il **était**, nous **étions**, vous **étiez**, ils **étaient** |
+| avoir | **j'avais**, tu **avais**, il **avait**, nous **avions**, vous **aviez**, ils **avaient** |
+| aller | **j'allais**, tu **allais**, il **allait**, nous **allions**, vous **alliez**, ils **allaient** |
+| faire | **je faisais**, tu **faisais**, il **faisait**, nous **faisions**, vous **faisiez**, ils **faisaient** |
 
-### Опис
-| Français | Українська |
-|----------|-----------|
-| La salle était grande et lumineuse. | Зал був великим і світлим. |
-| Il portait un costume élégant. | Він носив елегантний костюм. |
-| Le ciel était bleu et sans nuages. | Небо було блакитним і безхмарним. |
+**Приклади:**
+- J'**étais** fatigué. → **Я був** втомлений.
+- Tu **avais** un chat. → **У тебе був** кіт.
+- Il **allait** à l'école tous les jours. → **Він ходив** до школи кожного дня.
+- Nous **faisions** du sport. → **Ми займалися** спортом.
 
-### Фонова інформація
-| Français | Українська |
-|----------|-----------|
-| Il était 10 heures du soir. Tout le monde dormait. | Була 10 година вечора. Усі спали. |
-| La porte était ouverte, alors je suis entré. | Двері були відкриті, тому я увійшов. |
-| Il faisait froid, donc j'ai mis mon manteau. | Було холодно, тому я одягнув пальто. |
+### ⚠️ Важливі правила
 
----
+1. **Основа від 1-ї особи множини (nous)**
+   - parler → nous parl**ons** → parl- + ais → je **parlais**
+   - finir → nous finiss**ons** → finiss- + ais → je **finissais**
 
-## Важливі відмінності від української
+2. **Être - виняток**
+   - Основа не **étons**, а **ét-**
+   - je **étais**, tu **étais**, il **était**
 
-### 1. Вживання з "коли"\nУ французькій **imparfait** вживається після "quand" (коли), коли мова йде про **фонову дію**:
-- ❌ *Quand il **est arrivé**, je mangeais.* (✅ правильно)
-- ❌ *Quand il **arrivait**, je mangeais.* (❌ неправильно для одноразової дії)
+3. **Вимова**
+   - Закінчення **-ais, -ait, -aient** вимовляються як [ɛ] (е відкрите)
+   - Закінчення **-ions, -iez** вимовляються як [jɔ̃] та [je]
 
-Українською: "Коли він прийшов, я їв." — обидві дії в минулому, але французькою перша діє — **passé composé** (одноразова), друга — **imparfait** (тривала).
+### 🇫🇷 vs 🇺🇦 Порівняння з українською
 
-### 2. Вживання з "тоді"
-- *À ce moment-là, je lisais un livre.* (У цей момент я читав книгу.)
-- *En ce temps, il habitait à Paris.* (У той час він жив у Парижі.)
+| Французька | Українська | Примітки |
+|------------|-----------|----------|
+| Je parlais | Я говорив | Тривала дія |
+| Tu dansais | Ти танцювала | Звичка |
+| Il était grand | Він був високий | Стан |
+| Nous avions | Ми мали | Володіння |
 
-### 3. Відсутність чіткого розмежування
-Українською ми можемо сказати "Я читав" (недоконаний) або "Я прочитав" (доконаний). У французькій:
-- **Imparfait**: *Je lisais* (Я читав — процес)
-- **Passé composé**: *J'ai lu* (Я прочитав — результат)
+### 💡 Поради для українськомовних
 
----
+1. **Основа від nous** - це ключ до правильного утворення
+2. **Être - виняток** - запам'ятайте його форму
+3. **Imparfait = минулий час недоконаного виду** в українській
+4. **Використовуйте для опису, звичок, фону**
 
-## Винятки та нотатки
+### 📚 Вправи для закріплення
 
-### Дієслово être (бути)
-Imparfait від "être" — **j'étais, tu étais, il était, nous étions, vous étiez, ils étaient**
+1. Утворіть Imparfait:
+   - parler: je parlais, tu parlais, il parlait, nous parlions, vous parliez, ils parlaient
+   - finir: je finissais, tu finissais, il finissait, nous finissions, vous finissiez, ils finissaient
+   - être: j'étais, tu étais, il était, nous étions, vous étiez, ils étaient
 
-### Дієслова на -cer, -ger
-- **Commencer** → je commen**ç**ais (додаємо cedil подвоєння "c")
-- **Manger** → je mangeais (не змінюється, бо "g" перед "e" вимовляється м'яко)
+2. Доповніть речення правильною формою:
+   - Quand j'étais petit, je ___ (parler) français. (parlais)
+   - Tu ___ (être) très beau. (étais)
+   - Il ___ (avoir) un chien. (avait)
+   - Nous ___ (aller) à l'école tous les jours. (allions)
 
-### Дієслова з основою на приголосний
-- **Prendre** → je pren**ais** (основа "pren-" від "nous prenons")
-- **Vendre** → je vend**ais** (основа "vend-" від "nous vendons")
+3. Перекладіть українською:
+   - Je parlais ukrainien. → Я говорив українською.
+   - Tu étais intelligent. → Ти був розумний.
+   - Il avait un livre. → У нього була книга.
+   - Nous allions au parc. → Ми ходили до парку.
 
----
+4. Складіть речення з Imparfait:
+   - (je / lire / un livre / quand j'étais enfant) → Quand j'étais enfant, je lisais un livre.
+   - (il / faire / du sport / tous les jours) → Il faisait du sport tous les jours.
+   - (nous / être / heureux) → Nous étions heureux.
 
-## Поширені помилки українців
+### ❌ Типові помилки українськомовних
 
-### ❌ Помилка 1: Вживання imparfait для одноразових дій
-- ❌ *Hier, je **allais** au cinéma.* (Помилково — це одноразова дія)
-- ✅ *Hier, **je suis allé** au cinéma.* (Правильно — passé composé)
+1. **Плутання основи**
+   - ❌ Je parlais (взято основу від je parle) → ✅ Je **parlais** (основа від nous parlons)
 
-### ❌ Помилка 2: Неправильне утворення
-- ❌ *Je **parlais** mal le français.* (Помилково — закінчення для "je")
-- ✅ *Je **parlais** mal le français.* (Правильно)
+2. **Забування про виняток être**
+   - ❌ J'étais → ✅ J'**étais** (правильно)
+   - ❌ Nous étons → ✅ Nous **étions**
 
-**Увага**: Закінчення для "nous" — **-ions**, а не **-ons** (теперішній час).
-- ❌ *Nous **mangeons** hier.* (Теперішній час!)
-- ✅ *Nous **mangions** hier.* (Imparfait)
+3. **Неправильні закінчення**
+   - ❌ Je parlai → ✅ Je **parlais**
+   - ❌ Il parlait → ✅ Il **parlait** (правильно)
 
-### ❌ Помилка 3: Плутанка з passé composé
-- ❌ *Quand j'**ai eu** 10 ans, j'habitais à Lviv.* (Помилково — вікові зміни — це одноразова дія)
-- ✅ *Quand j'**ai eu** 10 ans, j'habitais à Lviv.* (Правильно — "мати 10 років" — це момент, а не процес)
+4. **Плутання з Passé Composé**
+   - ❌ J'ai parlé quand j'étais petit → ✅ Je **parlais** quand j'étais petit (тривала дія)
 
-**Пояснення**: У французькій вікові зміни, зміна стану (одружитися, померти тощо) — це **passé composé**, навіть якщо українською ми можемо сказати "коли мені було 10 років".
+### 🎯 Додаткові приклади
 
-### ❌ Помилка 4: Забуте закінчення
-- ❌ *Je parl* (Помилково — відсутнє закінчення)
-- ✅ *Je **parlais*** (Правильно)
+- **Опис у минулому:**
+  - Il **faisait** beau. → **Була** гарна погода.
+  - La maison **était** grande. → **Будинок був** великий.
+  - J'**’avais** 10 ans. → **Мені було** 10 років.
 
----
+- **Звички у минулому:**
+  - Quand j'étais enfant, je **jouais** au football. → Коли я був дитиною, я **грав** у футбол.
+  - Tous les dimanches, nous **allions** chez mes grands-parents. → Кожної неділі ми **їздили** до бабусі і дідуся.
+  - Elle **étudiait** beaucoup. → Вона **багато вчилася**.
 
-## Розмовна vs письмова
+- **Фон для інших дій:**
+  - Je **mangeais** quand le téléphone a sonné. → Я **їв**, коли задзвонив телефон.
+  - Il **lisait** un livre quand je suis entré. → Він **читав** книгу, коли я увійшов.
 
-### Усне мовлення
-- Imparfait часто використовується у розповідях про минуле
-- Можна скорочувати: *j'étais → j'étais* (скорочення не змінюється)
-- У діалогах часто вживається для опису ситуації
+### 📝 Порівняння з Passé Composé
 
-### Писемне мовлення
-- Обов'язково використовується у літературних текстах
-- Часто комбінується з passé composé для створення ефекту "кадри з минулого"
+| Imparfait | Passé Composé |
+|-----------|----------------|
+| **Тривала дія** | **Завершена дія** |
+| Je parlais. (я говорив) | J'ai parlé. (я поговорив) |
+| **Звичка** | **Один раз** |
+| Il allait au parc tous les jours. (він ходив до парку що дня) | Il est allé au parc hier. (він пішов до парку учора) |
+| **Опис/стан** | **Конкретна дія** |
+| Il était grand. (він був високий) | Il a grandi. (він виріс) |
+| **Фон** | **Дія на передньому плані** |
+| Je lisais quand il est entré. (я читав, коли він увійшов) | J'ai lu un livre. (я прочитав книгу) |
 
----
+### 🎯 Коли вживати Imparfait
 
-## Порівняння: Imparfait vs Passé composé
+✅ **Так:**
+- Опис людини, місця, ситуації: **Il était grand et mince.**
+- Звички у минулому: **Je jouais au football quand j'étais enfant.**
+- Тривалі дії: **Il pleuvait quand je suis sorti.**
+- Фон для інших дій: **Je dormais quand le téléphone a sonné.**
 
-| Критерій | Imparfait | Passé composé |
-|---------|-----------|---------------|
-| **Тип дії** | Тривала, звична, опис | Завершена, одноразова |
-| **Приклад** | Je **mangeais** (Я їв) | J'**ai mangé** (Я з'їв) |
-| **Час** | Не вказується точно | Можна вказувати (hier, hier soir) |
-| **З "quand"** | Фонова дія | Основна дія |
-| **Стан** | ✅ Так | ❌ Ні |
-| **Звичка** | ✅ Так | ❌ Ні |
-
-### Приклад комбінації
-- *Il **pleuvait** (imparfait) quand je **suis sorti** (passé composé).* (Йшов дощ, коли я вийшов.)
-- *Je **lisais** (imparfait) un livre quand le téléphone **a sonné** (passé composé).* (Я читав книгу, коли зателефонував телефон.)
-
----
-
-## Пов'язані теми
-
-- [Passé composé — Минулий складений час](./passe-compose)
-- [Passé composé vs Imparfait — Порівняння часів](./passe-compose-vs-imparfait)
-- [Plus-que-parfait — Давно минулий час](../plus-que-parfait)
-- [Le présent — Теперішній час](../present)
-
----
-
-## Вправи для закріплення
-
-### Вправа 1: Виберіть правильний час
-1. Hier, je (mangeais / ai mangé) au restaurant. → **ai mangé**
-2. Quand j'étais enfant, je (allais / suis allé) à l'école à pied. → **allais**
-3. Il (pleuvait / a plu) quand nous sommes arrivés. → **pleuvait**
-
-### Вправа 2: Утворіть imparfait
-1. parler → je **parlais**
-2. finir → tu **finissais**
-3. être → il **était**
-4. prendre → nous **prenions**
-
-### Вправа 3: Переклад українською
-1. *Je lisais un livre.* → Я читав книгу.
-2. *Il faisait beau.* → Стояла гарна погода.
-3. *Nous habitions à Paris.* → Ми жили в Парижі.
+❌ **Ні (використовуйте Passé Composé):**
+- Завершені дії: **J'ai mangé une pomme.**
+- Конкретні події: **Il est parti à 8h.**
+- Дії, які відбулися один раз: **J'ai visité Paris l'année dernière.**
 
 ---
 
-## Корисні посилання
-
-- [Conjuguons.fr — Відмінювання дієслів](https://conjuguons.lefigaro.fr)
-- [Français Facile — Вправи на imparfait](https://www.francaisfacile.com)
-- [Lingolia — Граматика французької](https://fr.lingolia.com)
-
----
-
-*Остання оновлення: 2025-09-17*
+*[Повернутися до списку тем](../french_grammar_topics_uk.md)*
+*[Дивитися також: Passé Composé](passe-compose.md)
+*[Порівняння: Passé Composé vs Imparfait](passe-compose-vs-imparfait.md)
