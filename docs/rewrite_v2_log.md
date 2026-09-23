@@ -31,7 +31,7 @@ rewrite/ukrainian-grammar-v2
 
 ## Методологічний QA
 
-Academic Writing Toolkit: paragraph logic review — проблем не виявлено для перевіреного концептуального фрагмента.
+Academic Writing Toolkit: paragraph logic review — проблем не виявлено для перевірених концептуальних фрагментів.
 
 ## Джерельна перевірка
 
@@ -47,7 +47,6 @@ Academic Writing Toolkit: paragraph logic review — проблем не вия�
 - Повна редакція regional French.
 - Повні comparison pages.
 
-
 ## B01 — Articles: second-pass correction
 
 Переписано й виправлено чотири взаємопов’язані сторінки:
@@ -60,7 +59,6 @@ Academic Writing Toolkit: paragraph logic review — проблем не вия�
 
 Виявлені та усунені проблеми старої редакції: некоректне трактування `des` як партитивного артикля; надмірне ототожнення partitif з українським родовим; помилкове твердження про автоматичне зникнення артикля після `être`; подання розмовного *Je mange poulet* як нейтральної норми; змішування елізії, злиття та нульового артикля.
 
-
 ## B02 — Prepositions: rigorous second pass
 
 Переписано `prepositions-a.md`, `prepositions-de.md` та `prepositions-en.md`.
@@ -70,3 +68,26 @@ Academic Writing Toolkit: paragraph logic review — проблем не вия�
 Окремо виправлено небезпечні твердження попередньої редакції: `coûter` не потребує обов’язкового `à`; вибір `en` для транспорту не пояснюється граматичним родом транспортного іменника; `dans la voiture` та `en voiture` мають різні функції; `dans deux heures` і `en deux heures` виражають різні часові відношення.
 
 Методологічний QA: Academic Writing Toolkit — review_paragraph_logic, проблем не виявлено.
+
+## B03 — Pronouns: COD, COI and demonstratives
+
+Переписано:
+- `pronouns-cod.md`
+- `pronouns-coi.md`
+
+Додано:
+- `pronouns-demonstrative.md`
+
+Фокус B03:
+- чітке розмежування COD, COI, `y`, `en` та наголошених займенників;
+- дієслівне керування замість механічного правила «`à` → `lui/leur`»;
+- позиція клитичних займенників у простих, складених та інфінітивних конструкціях;
+- окреме правило узгодження participe passé з попереднім COD у конструкціях з `avoir`;
+- розмежування `ce/cet/cette/ces` як визначників і `celui/celle/ceux/celles` як займенників;
+- `ce qui / ce que / ce dont` та зв’язок із синтаксичною функцією;
+- контрастивні пояснення для українськомовного учня.
+
+Важливе виправлення попередньої редакції: твердження «дієслово не узгоджується з COD» замінено на точне правило про **participe passé з avoir**, коли попередній COD є прямим додатком відповідного дієслова.
+
+Методологічний QA B03:
+- Academic Writing Toolkit — review_paragraph_logic: 2 концептуальні фрагменти, issue_count = 0 в обох випадках.
