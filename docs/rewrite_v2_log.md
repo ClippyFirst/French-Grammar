@@ -326,3 +326,36 @@ Git commits:
 
 ### Наступний крок
 Перевірити складні аспектуальні випадки: лексичний клас дієслова, telicity, стани та події, habituality, narrative sequencing, а також взаємодію часових форм із `être/avoir`, pronominal verbs та accord du participe passé.
+
+
+## B10 — Lexical aspect and narrative consistency
+
+Проведено наступний рівень аспектуального аудиту: **lexical aspect → context → temporal viewpoint**.
+
+### Переписано
+- `src/content/fr/passe-compose.md`
+- `src/content/fr/imparfait.md`
+- `src/content/fr/passe-compose-vs-imparfait.md`
+- `src/content/fr/plus-que-parfait.md`
+
+### Основні уточнення
+- додано окремий рівень часової та аспектуальної перспективи;
+- прямо розмежовано лексичний тип дієслова, структуру конкретної ситуації та граматичну перспективу;
+- показано, що `dormir`, `arriver`, `habiter` можуть мати різні часові форми залежно від контексту;
+- прибрано ризик механічних правил «стан → imparfait» або «подія → passé composé»;
+- посилено відмінність між telicity і граматичним часом;
+- habituality та narrative sequencing подано як типові функціональні середовища, а не абсолютні тригери;
+- plus-que-parfait додатково пояснено через reference point, а не «давність».
+
+### Academic Writing Toolkit QA
+Чотири цільові концептуальні фрагменти перевірено через `review_paragraph_logic`:
+- passé composé + viewpoint → **0 issues**;
+- imparfait + viewpoint → **0 issues**;
+- lexical verb class → **0 issues**;
+- plus-que-parfait + reference point → **0 issues**.
+
+### Документація
+Додано `docs/lexical-aspect-consistency-audit.md`.
+
+### Наступний крок
+B11: системний аудит складених форм і `accord du participe passé` — `avoir/être`, pronominal verbs, preceding COD, relative clauses та випадки, де синтаксична функція змінює форму participe passé.
