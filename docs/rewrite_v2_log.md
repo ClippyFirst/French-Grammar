@@ -293,3 +293,36 @@ Git commits:
 ### Наступний крок
 
 Провести глибокий audit `passé composé / imparfait / plus-que-parfait` як системи аспектуальної перспективи, а також перевірити `subjonctif` у часових та відносних конструкціях.
+
+
+## B09 — Aspectual perspective: passé composé / imparfait / plus-que-parfait
+
+Проведено глибокий cross-page audit минулих часів як системи **часової та аспектуальної перспективи**.
+
+### Переписано
+- `src/content/fr/passe-compose.md`
+- `src/content/fr/imparfait.md`
+- `src/content/fr/passe-compose-vs-imparfait.md`
+- `src/content/fr/plus-que-parfait.md`
+
+### Виправлено
+- прибрано можливе прочитання «актуальний результат = умова passé composé»;
+- посилено принцип, що актуальний результат є контекстуальним ефектом, а не визначенням форми;
+- прибрано ризик прив'язки `dormir` / `travailler` до imparfait як до лексичної властивості;
+- додано контраст `Quand je suis arrivé, il dormait` / `Quand je suis arrivé, il a dormi pendant deux heures`;
+- посилено правило, що `pendant`, тривалість і часовий сполучник самі по собі не визначають passé composé або imparfait;
+- закріплено `plus-que-parfait` як форму передування відносно минулої точки відліку, а не як «дуже давнє минуле».
+
+### Academic Writing Toolkit QA
+Перевірено три цільові концептуальні фрагменти через `review_paragraph_logic`:
+- passé composé / imparfait / duration → **0 issues**;
+- `dormait / a dormi` → **0 issues**;
+- plus-que-parfait / past reference point → **0 issues**.
+
+Як і в B05–B08, повні grammar pages не використовуються як кількісний zero-warning gate через передбачувані `short-paragraph` false positives на формулах, прикладах, таблицях і вправах.
+
+### Документація
+Додано `docs/aspectual-consistency-audit.md` з описом принципів, виявлених ризиків, виправлень і подальших QA-напрямів.
+
+### Наступний крок
+Перевірити складні аспектуальні випадки: лексичний клас дієслова, telicity, стани та події, habituality, narrative sequencing, а також взаємодію часових форм із `être/avoir`, pronominal verbs та accord du participe passé.
