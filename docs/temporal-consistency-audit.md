@@ -86,7 +86,7 @@
 
 → `après que + indicatif`.
 
-Це правило перевірено за матеріалами Académie française. Академія прямо протиставляє `avant que` як конструкцію з notion d'éventualité та `après que`, яке вводить факт, що розглядається як здійснений, і вимагає indicatif. У її прикладі для майбутнього вжито `Je rentrerai après que la nuit sera tombée`. citeturn0search0turn0search1
+Це правило перевірено за матеріалами Académie française. Академія прямо протиставляє `avant que` як конструкцію з notion d'éventualité та `après que`, яке вводить факт, що розглядається як здійснений, і вимагає indicatif. У її прикладі для майбутнього вжито `Je rentrerai après que la nuit sera tombée`. (Académie française, « Après que »).
 
 ### Pendant que
 
@@ -127,7 +127,7 @@
 
 - `après que` → indicatif;
 - приклад майбутнього: `Je rentrerai après que la nuit sera tombée`;
-- приклад минулого: `Il est parti après que nous l'avons tous salué`. citeturn0search1
+- приклад минулого: `Il est parti après que nous l'avons tous salué`.
 
 ## Залишкові питання
 
