@@ -170,3 +170,16 @@ Git commit:
 Git commits:
 - `si-clauses.md`: `56feafc2e4a705dd921e579a6f92400d4a10f13f`
 - `conditionnel-present.md`: `5367ea98d403f675ccc1f3cd86c821fb34fba2de`
+
+
+## B06 path correction / repository integrity
+
+Під час перевірки після B06 виявлено, що три нові редакції спочатку були записані у staging-шлях `content/fr/`, тоді як чинна Astro content collection репозиторію використовує `src/content/fr/`.
+
+Виправлено:
+- фінальну редакцію `relative-pronouns.md` перенесено до `src/content/fr/relative-pronouns.md`;
+- фінальну редакцію `si-clauses.md` перенесено до `src/content/fr/si-clauses.md`;
+- фінальну редакцію `conditionnel-present.md` перенесено до `src/content/fr/conditionnel-present.md`;
+- staging-дублікати з `content/fr/` видалено.
+
+Це важливий структурний QA-крок: контентний rewrite має змінювати фактичні файли колекції, а не залишати непідключені копії.
