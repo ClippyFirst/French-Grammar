@@ -1,257 +1,159 @@
 ---
-title_uk: "Майбутній простий час — Futur simple: як утворити та коли використовувати"
+title_uk: "Futur simple — майбутній простий час"
 title_fr: "Le futur simple"
-description_uk: "Повний посібник з утворення та вживання майбутнього простого часу у французькій мові для українськомовних. Дізнайтеся про закінчення, неправильні дієслова та відмінності від futur proche."
+description_uk: "Системний довідник futur simple: утворення, часові та модальні значення, умовні конструкції та контраст із futur proche."
 category: tenses
 order: 5
 related:
   - present
   - passe-compose
-  - imparfait
   - conditionnel-present
-tags: [майбутній, час, futur, simple, дієслово]
+tags: [futur simple, майбутній час, futur proche, conditionnel]
 ---
 
-# Майбутній простий час — Futur simple
+# Futur simple
 
-> **Коротко:** Майбутній простий час (futur simple) у французькій мові використовується для вираження дій, які відбуватимуться у майбутньому. На відміну від української, французька має спеціальні закінчення для цього часу.
+## Швидко
 
----
+**Futur simple** — граматична форма, яка найчастіше локалізує ситуацію після моменту мовлення або іншої часової точки. Вона також має модальні й стилістичні функції.
 
-## 🎯 Швидко
+Не зводьте його до формули «запланована дія». Вибір між **futur simple** і **futur proche** залежить не лише від віддаленості події, а й від перспективи, наміру, контексту та стилю.
 
-**Futur simple** — це час для вираження:
-- Простих фактів про майбутнє: *Je partirai demain* (Я поїду завтра)
-- Обіцянок: *Je t'aiderai* (Я тобі допоможу)
-- Прогнозів: *Il pleuvra* (Пійде дощ)
+## Утворення
 
-**Основне правило:** До інфінітиву дієслова додаємо закінчення залежно від особи.
+Для більшості дієслів береться інфінітив як основа + закінчення:
 
----
+**-ai, -as, -a, -ons, -ez, -ont**
 
-## 📐 Формула
+| Особа | parler |
+|---|---|
+| je | parlerai |
+| tu | parleras |
+| il/elle/on | parlera |
+| nous | parlerons |
+| vous | parlerez |
+| ils/elles | parleront |
 
-### Для правильних дієслів (всі групи)
+Для дієслів на **-re** кінцеве **-e** інфінітива випадає: **vendre → vendrai**.
 
-```
-Інфінітив + закінчення
-```
+### Поширені нерегулярні основи
 
-| Особа | Закінчення | Приклад (parler) | Переклад |
-|--------|------------|------------------|----------|
-| je | **-ai** | je parler**ai** | я поговорю |
-| tu | **-as** | tu parler**as** | ти поговориш |
-| il/elle/on | **-a** | il parler**a** | він/вона поговорить |
-| nous | **-ons** | nous parler**ons** | ми поговоримо |
-| vous | **-ez** | vous parler**ez** | ви поговорите |
-| ils/elles | **-ont** | ils parler**ont** | вони поговорять |
+| Інфінітив | Основа | Приклад |
+|---|---|---|
+| être | ser- | je serai |
+| avoir | aur- | j'aurai |
+| aller | ir- | j'irai |
+| faire | fer- | je ferai |
+| venir | viendr- | je viendrai |
+| tenir | tiendr- | je tiendrai |
+| pouvoir | pourr- | je pourrai |
+| vouloir | voudr- | je voudrai |
+| devoir | devr- | je devrai |
+| savoir | saur- | je saurai |
+| voir | verr- | je verrai |
+| recevoir | recevr- | je recevrai |
+| envoyer | enverr- | j'enverrai |
 
-### Примітка для дієслів I групи (-er)
+## Основні часові вживання
 
-Дієслова на **-er** втрачають **-e** перед додаванням закінчення:
-- parler → je parlerai (а не ~~parlererai~~)
+### 1. Майбутня ситуація
 
----
+**Je partirai demain.** — Я поїду завтра.
 
-## 🏗️ Утворення
+**Nous habiterons ici l'année prochaine.** — Наступного року ми житимемо тут.
 
-### Правильні дієслова
+### 2. Прогноз, передбачення або висновок
 
-#### I група: Дієслова на -er
+**Il fera froid demain.** — Завтра буде холодно.
 
-| Дієслово | Je | Tu | Il/Elle | Nous | Vous | Ils/Elles |
-|-----------|----|----|---------|------|------|----------|
-| **parler** | parlerai | parleras | parlera | parlerons | parlerez | parleront |
-| **manger** | mangerai | mangeras | mangera | mangerons | mangerez | mangeront |
-| **aimer** | aimerai | aimeras | aimera | aimerons | aimerez | aimeront |
+**Le train arrivera à 18 heures.** — Поїзд прибуде о 18-й.
 
-#### II група: Дієслова на -ir
+Контекст може робити висловлювання прогнозом, очікуванням або просто повідомленням про майбутню подію.
 
-| Дієслово | Je | Tu | Il/Elle | Nous | Vous | Ils/Elles |
-|-----------|----|----|---------|------|------|----------|
-| **finir** | finirai | finiras | finira | finirons | finirez | finiront |
-| **choisir** | choisirai | choisiras | choisira | choisirons | choisirez | choisiront |
-| **réfléchir** | réfléchirai | réfléchiras | réfléchira | réfléchirons | réfléchirez | réfléchiront |
+### 3. Обіцянка, рішення, запевнення
 
-#### III група: Дієслова на -re, -oir, -ir (неправильні)
+**Je t'aiderai.** — Я тобі допоможу.
 
-| Дієслово | Je | Tu | Il/Elle | Nous | Vous | Ils/Elles |
-|-----------|----|----|---------|------|------|----------|
-| **vendre** | vendrai | vendras | vendra | vendrons | vendrez | vendront |
-| **attendre** | attendrai | attendras | attendra | attendrons | attendrez | attendront |
-| **dormir** | dormirai | dormiras | dormira | dormirons | dormirez | dormiront |
+### 4. Після часових і умовних сполучників
 
-### Неправильні дієслова (винятки)
+У французькій стандартній нормі майбутню подію в підрядному реченні після **quand, lorsque, dès que, aussitôt que** часто теж виражають futur, якщо вона справді належить до майбутньої часової рамки:
 
-⚠️ **УВАГА:** Ці дієслова мають особливі форми у futur simple:
+**Quand tu arriveras, nous commencerons.**
 
-| Дієслово | Основа | Je | Tu | Il/Elle | Nous | Vous | Ils/Elles |
-|-----------|--------|----|----|---------|------|------|----------|
-| **être** | ser- | **serai** | seras | sera | serons | serez | seront |
-| **avoir** | aur- | **aurai** | auras | aura | aurons | aurez | auront |
-| **aller** | ir- | **irai** | iras | ira | irons | irez | iront |
-| **faire** | fer- | **ferai** | feras | fera | ferons | ferez | feront |
-| **pouvoir** | pourr- | **pourrai** | pourras | pourra | pourrons | pourrez | pourront |
-| **vouloir** | voudr- | **voudrai** | voudras | voudra | voudrons | voudrez | voudront |
-| **savoir** | saur- | **saurai** | sauras | saura | saurons | saurez | sauront |
-| **devoir** | devr- | **devrai** | devras | devra | devrons | devrez | devront |
-| **venir** | viendr- | **viendrai** | viendras | viendra | viendrons | viendrez | viendront |
-| **tenir** | tiendr- | **tiendrai** | tiendras | tiendra | tiendrons | tiendrez | tiendront |
+**Dès qu'il aura fini, il sortira.**
 
-**Мнемонічне правило:**
-- **être** → **ser-** (серце серце)
-- **avoir** → **aur-** (аура)
-- **aller** → **ir-** (іти)
+Це відрізняється від англійської моделі, де після *when/if* часто вживають present.
 
----
+## Futur simple у конструкціях з si
 
-## 🎯 Вживання
+У реальній/відкритій умові можливе:
 
-### 1. Прості твердження про майбутнє
+**Si tu viens demain, nous partirons ensemble.**
 
-```
-Je voyagerai en France l'année prochaine.
-→ Я поїду до Франції наступного року.
+Не ставте futur simple безпосередньо після умовного **si**:
 
-Il pleuvra demain.
-→ Завтра піде дощ.
-```
+❌ *Si tu viendras demain...*
 
-### 2. Обіцянки та рішення
+✅ **Si tu viens demain, nous partirons.**
 
-```
-Je t'aiderai avec tes devoirs.
-→ Я допоможу тобі з домашнім завданням.
+Це не означає, що після будь-якого **si** заборонений futur: у непрямих питаннях **si** означає «чи», і часовий вибір визначається іншою конструкцією: **Je ne sais pas s'il viendra.**
 
-Nous ferons tout notre possible.
-→ Ми зробимо все можливе.
-```
+## Futur antérieur і точка відліку
 
-### 3. Прогнози та передбачення
+Futur simple може бути результатом, який настане в майбутньому; якщо інша майбутня подія має відбутися **до** нього, використовується futur antérieur:
 
-```
-Le train arrivera à 15h.
-→ Поїзд прибуде о 15:00.
+**Quand tu auras fini, nous partirons.**
 
-Tu réussiras ton examen!
-→ Ти здаси свій іспит!
-```
+→ Спочатку ти закінчиш; потім ми вирушимо.
 
-### 4. Умовні речення (з "si")
+## Futur simple vs futur proche
 
-```
-Si tu étudies, tu réussiras.
-→ Якщо ти вчитимешся, ти здаси.
+**Je partirai demain.** і **Je vais partir demain.** можуть бути обидва природними. Не вчіть, що перше «факт», а друге «намір» у всіх контекстах.
 
-Si j'ai de l'argent, j'achèterai une voiture.
-→ Якщо в мене будуть гроші, я куплю машину.
-```
+У грубому наближенні **futur proche** часто подає майбутню ситуацію як близьку, актуально підготовлену або пов'язану з теперішньою перспективою, тоді як **futur simple** є нейтральним засобом референції до майбутнього й особливо продуктивним у письмовому стилі. Межа не абсолютна.
 
----
+## Futur simple vs conditionnel présent
 
-## ⚖️ Порівняння: Futur simple vs Futur proche
+| Futur simple | Conditionnel présent |
+|---|---|
+| je parlerai | je parlerais |
+| tu viendras | tu viendrais |
+| il fera | il ferait |
 
-| Futur simple | Futur proche |
-|--------------|--------------|
-| **Je partirai** demain | **Je vais partir** demain |
-| (Я поїду завтра) | (Я збираюсь поїхати завтра) |
-| Виражає факт | Виражає намір |
-| Більш офіційний | Більш розмовний |
-| *Il pleuvra* | *Il va pleuvoir* |
+**Je viendrai demain.** — Я прийду завтра.
 
-**Коли використовувати:**
-- **Futur simple:** Для запланованих подій, фактів
-- **Futur proche (aller + infinitif):** Для вираження наміру зробити щось найближчим часом
+**Je viendrais si je pouvais.** — Я прийшов би, якби міг.
 
----
+У **conditionnel** може бути також функція *futur dans le passé*: **Il a dit qu'il viendrait.**
 
-## 🚫 Поширені помилки
+## Українська перспектива
 
-❌ **Помилка:** *Je ~~parlererai~~ demain.*
-✅ **Правильно:** *Je **parlerai** demain.*
-→ Дієслова на -er втрачають -e перед закінченням
+Українське майбутнє може бути складеним (**буду читати**) або синтетичним (**прочитаю**, **читатиму**). Не шукайте прямого морфологічного відповідника французькому futur simple.
 
----
+Особливо важливо не ототожнювати французький futur із доконаним видом: **Je travaillerai demain** може відповідати як «я працюватиму», так і «я попрацюю» залежно від контексту.
 
-❌ **Помилка:** *Il ~~sera avoir~~ une voiture.*
-✅ **Правильно:** *Il **aura** une voiture.*
-→ Неправильні дієслова мають спеціальні основи
+## Типові помилки
 
----
+❌ *Je parlererai.* → **Je parlerai.**
 
-❌ **Помилка:** *Nous ~~allons partirai~~ demain.*
-✅ **Правильно:** *Nous **partirons** demain.* АБО *Nous **allons partir** demain.*
-→ Не змішуйте futur simple з futur proche
+❌ *Si tu viendras, nous partirons.* → **Si tu viens, nous partirons.**
 
----
+❌ *Il sera avoir raison.* → **Il aura raison.**
 
-## 🇺🇦 Для українськомовних
+❌ *Je partirais demain* як нейтральне твердження без модальної причини → за потрібного значення **Je partirai demain.**
 
-**Важливо:**
-- У французькій **немає** майбутнього часу з частинкою "буду/будеш" як в українській
-- У французькій майбутній час утворюється **шляхом зміни закінчення дієслова**, а не додаванням допоміжного дієслова
-- У розмовній французькій часто використовують **futur proche** (aller + infinitif) замість futur simple
+## Міні-тест
 
-**Порівняння:**
-- Українська: Я **буду** говорити → Французька: Je **parlerai**
-- Українська: Ти **будеш** робити → Французька: Tu **feras**
+1. Quand tu ___ (arriver), nous commencerons.
+2. Si j'ai le temps, je ___ (venir).
+3. Je ne sais pas s'il ___ (venir) demain.
+4. Dès qu'elle ___ (finir), elle sortira.
+5. Si tu ___ (venir) demain, appelle-moi.
 
----
+**Відповіді:** 1. **arriveras**; 2. **viendrai**; 3. **viendra**; 4. **aura fini**; 5. **viens**.
 
-## ✅ Вправи
+## Пов'язані теми
 
-### Вправа 1: Доповніть речення
-
-1. Demain, je (manger) ______ au restaurant.
-2. Tu (finir) ______ tes devoirs ce soir?
-3. Ils (voyager) ______ en Espagne l'été prochain.
-4. Nous (être) ______ très heureux de vous voir.
-5. Vous (avoir) ______ beaucoup de travail demain.
-
-**Відповіді:**
-1. mangerai
-2. finiras
-3. voyageront
-4. serons
-5. aurez
-
----
-
-### Вправа 2: Переклад
-
-1. Я купитиму нову машину.
-2. Вона зателефонує тобі завтра.
-3. Ми поїдемо до Парижа на вихідних.
-4. Вони будуть удома о 8 годині.
-5. Ти здаси цей іспит.
-
-**Відповіді:**
-1. J'achèterai une nouvelle voiture.
-2. Elle te téléphonera demain.
-3. Nous irons à Paris ce week-end.
-4. Ils seront à la maison à 8 heures.
-5. Tu réussiras cet examen.
-
----
-
-## 📚 Поширені вирази з futur simple
-
-| Французька | Переклад |
-|------------|----------|
-| **Je te promets que...** | Я обіцяю тобі, що... |
-| **Un jour, je...** | Коли-небудь, я... |
-| **Demain, je...** | Завтра, я... |
-| **L'année prochaine, je...** | Наступного року, я... |
-| **Quand je serai grand...** | Коли я виросту... |
-
----
-
-## 🔍 Корисні посилання
-
-- [Conjugation: Futur simple](https://conjugator.reverso.net/conjugation-french-verb-parler.html) — онлайн кон'югатор
-- [Futur simple vs Futur proche](https://www.lawlessfrench.com/grammar/futur-simple-vs-futur-proche/) — детальне порівняння
-
----
-
-*Документ створено: 2025-09-17*
-*Версія: 1.0*
+- [Passé composé](./passe-compose)
+- [Conditionnel présent](./conditionnel-present)
+- [Plus-que-parfait](./plus-que-parfait)
