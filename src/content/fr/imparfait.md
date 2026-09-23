@@ -36,7 +36,7 @@ tags: [imparfait, минулий час, фон, звичка]
 
 **Il pleuvait quand je suis sorti.**
 
-Дощ є частиною сцени; **suis sorti** подає окрему подію.
+Дощ подано як частину сцени; **suis sorti** — як окрему подію. Саме *pleuvoir* не «вимагає» imparfait: в іншому контексті можливі інші часові форми.
 
 ### Стан або характеристика
 
@@ -104,9 +104,12 @@ tags: [imparfait, минулий час, фон, звичка]
 
 Для звичної повторюваності природніше: **Quand j'étais enfant, je jouais au football tous les jours.**
 
-❌ *Quand je suis arrivé, il a dormi* — якщо сон уже тривав у момент приходу.
+Порівняйте:
 
-✅ **Quand je suis arrivé, il dormait.**
+- **Quand je suis arrivé, il dormait.** — сон подано як ситуацію, що тривала в момент мого приходу.
+- **Quand je suis arrivé, il a dormi pendant deux heures.** — сон подано як окремий епізод, що відбувся після мого приходу.
+
+Отже, вибір часу залежить від часової перспективи й структури подій, а не лише від значення дієслова *dormir*.
 
 ❌ «pendant trois heures завжди → imparfait».
 
