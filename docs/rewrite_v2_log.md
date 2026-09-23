@@ -91,3 +91,27 @@ Academic Writing Toolkit: paragraph logic review — проблем не вия�
 
 Методологічний QA B03:
 - Academic Writing Toolkit — review_paragraph_logic: 2 концептуальні фрагменти, issue_count = 0 в обох випадках.
+
+
+## B04 — Clitic pronoun order + imperative second pass
+
+Перевірено й уточнено:
+- `pronoun-order.md`
+- `imperatif.md`
+
+Фокус:
+- розмежування звичайної препозиції клитиків та окремого порядку в ствердному impératif;
+- схема звичайної позиції: `me/te/se/nous/vous → le/la/les → lui/leur → y → en`;
+- окрема схема ствердного impératif: `le/la/les → moi/toi/lui/nous/vous/leur → y → en`;
+- повернення займенників перед дієсловом у заперечному impératif;
+- `me/te → moi/toi` після дієслова;
+- форми `vas-y`, `parles-en`, `manges-en` та пояснення появи кінцевого `-s`;
+- зв’язок позиції займенника з тим дієсловом, до якого він синтаксично належить;
+- додаткові приклади подвійних займенників та типові помилки.
+
+Методологічний QA B04:
+- Academic Writing Toolkit — review_paragraph_logic: 2 концептуальні фрагменти, issue_count = 0 в обох випадках.
+
+Git commits:
+- pronoun-order.md: `5e73865e409bcfbbea46eab6f19fe7dbff2894f1`
+- imperatif.md: `1b6bf01c5bc8a1413d213e74150eaf6213399406`
