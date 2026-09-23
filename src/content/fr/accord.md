@@ -228,6 +228,31 @@ tags: ["узгодження", "accord", "прикметник", "дієприк
 
 ---
 
+### 5. Прономінальні конструкції з особливим керуванням
+
+Окремі прономінальні дієслова показують, чому функцію `se` треба перевіряти за конкретною моделлю:
+
+- `Ils se sont rendu compte du danger.` — `se` є COI у `se rendre compte de`, тому `rendu`.
+- `Elle s'est rendue coupable.` — інша конструкція: `se` є COD, тому `rendue`.
+
+Такі випадки не слід зводити до одного списку «дієслів із se». Функція займенника визначається керуванням конкретного дієслова.
+
+### 6. `pouvoir / devoir / vouloir + infinitif`
+
+У конструкціях із infinitif потрібно встановлювати, чи попередній займенник є COD participe passé чи COD наступного infinitif.
+
+Порівняйте:
+
+- `La plus grande entreprise que j'ai eu à gérer.` — `que` є COD `gérer`, а не `eu`, тому `eu`.
+- `Les facilités qu'il a eues.` — `que` є COD `eu`, тому `eues`.
+
+Так само:
+
+- `Les efforts que j'ai dû faire.`
+- `Les décisions qu'il a voulu prendre.`
+
+Не можна автоматично узгоджувати participe passé лише тому, що перед ним стоїть `que`.
+
 ### 5. Неозначені займенники
 
 Не можна вчити, що `quelque chose`, `quelqu'un`, `rien`, `personne` «завжди блокують узгодження». Важлива синтаксична структура.
