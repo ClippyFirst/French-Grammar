@@ -115,3 +115,26 @@ Academic Writing Toolkit: paragraph logic review — проблем не вия�
 Git commits:
 - pronoun-order.md: `5e73865e409bcfbbea46eab6f19fe7dbff2894f1`
 - imperatif.md: `1b6bf01c5bc8a1413d213e74150eaf6213399406`
+
+## B05 — Relative pronouns: deep second pass
+
+Переписано `content/fr/relative-pronouns.md`.
+
+Фокус:
+- побудова вибору через синтаксичну функцію антецедента, а не через буквальний український переклад;
+- чітке розмежування `qui` (підмет) та `que` (COD);
+- `dont` як залежність від простого `de` + окреме вживання в конструкціях кількості;
+- `où` для місця та часу;
+- повна парадигма `lequel / laquelle / lesquels / lesquelles`;
+- `auquel / à laquelle / auxquels / auxquelles` та `duquel / de laquelle / desquels / desquelles`;
+- складені прийменники `près de`, `à côté de`, `auprès de`, `à propos de` та їхнє розмежування з `dont`;
+- `ce qui / ce que / ce dont` через синтаксичну функцію;
+- алгоритм вибору та український контраст;
+- типові помилки `que/qui`, `que/dont`, `que/où`, `dont/lequel`;
+- додано міні-тест із відповідями.
+
+Методологічний QA B05:
+- Academic Writing Toolkit — review_paragraph_logic на концептуальному фрагменті: виявлено 1 структурне зауваження `short-paragraph` для ізольованого тестового фрагмента; це зауваження стосувалося довжини абзацу в інструменті, а не граматичної помилки. Основний текст інтегровано в послідовні секції з прикладами, таблицями та алгоритмом.
+
+Git commit:
+- `relative-pronouns.md`: `e704eda00d6f02916e81b90e4c8e3609436f89a2`
