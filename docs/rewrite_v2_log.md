@@ -183,3 +183,54 @@ Git commits:
 - staging-дублікати з `content/fr/` видалено.
 
 Це важливий структурний QA-крок: контентний rewrite має змінювати фактичні файли колекції, а не залишати непідключені копії.
+
+
+## B07 — Temporal system: deep cross-page rewrite
+
+Опрацьовано часову архітектуру навколо futur, минулих часів і conditionnel.
+
+Переписано:
+- `src/content/fr/futur-simple.md`
+- `src/content/fr/imparfait.md`
+- `src/content/fr/plus-que-parfait.md`
+- `src/content/fr/conditionnel-passe.md`
+- `src/content/fr/indirect-speech.md`
+
+Додано:
+- `src/content/fr/futur-anterieur.md`
+
+### Методологічні зміни B07
+
+- Відмовлено від схем «один французький час = один український вид/переклад».
+- Для passé composé / imparfait посилено поняття **перспективи ситуації**: подія/цілісний епізод проти фону, стану, звички або процесу.
+- Для plus-que-parfait сформульовано центральне поняття **передування відносно минулої точки відліку**, а не «дуже давнього минулого».
+- Для futur antérieur введено паралельну вісь: **передування відносно майбутньої точки відліку**.
+- Розмежовано futur simple і futur proche без хибного правила «simple = факт, proche = намір».
+- Уточнено часові підрядні конструкції: після `quand / lorsque / dès que` майбутня подія може мати futur; для передування використовується futur antérieur.
+- Розмежовано умовне `si` та `si` у непрямих питаннях.
+- Conditionnel passé пов'язано не лише з нереалізованою умовою, а й з модальною/журналістською дистанцією та змішаними умовами.
+- У непрямій мові таблиця concordance des temps подається як **типова часово-перспективна модель**, а не механічний алгоритм.
+- Підкреслено функцію **futur dans le passé**: `Il a dit qu'il viendrait` ≠ автоматичне українське «прийшов би».
+
+### Academic Writing Toolkit QA
+
+Повний виклик `review_paragraph_logic` на великому об'єднаному наборі тексту дав численні попередження `short-paragraph`. Це повторює B05/B06 і є методологічним false-positive для grammar reference: приклади, формули, таблиці, тестові пункти й короткі правила не повинні штучно об'єднуватися лише для проходження paragraph-length heuristic.
+
+Для B07 цей інструмент використано як **структурний редакційний сигнал**, а не як граматичний fact-checker. Критичні твердження перевірено через внутрішній cross-page audit: futur simple ↔ futur antérieur ↔ plus-que-parfait ↔ conditionnel ↔ indirect speech.
+
+### Виявлені й виправлені системні ризики
+
+1. Надто жорстке «futur simple = заплановане / futur proche = намір».
+2. Надто жорстке «imparfait = незавершене, passé composé = завершене».
+3. Недостатньо чітке розмежування абсолютного та відносного часу.
+4. Недостатнє розмежування futur antérieur та plus-que-parfait.
+5. Недостатнє пояснення futur dans le passé через conditionnel.
+6. Автоматизація concordance des temps без урахування актуальності та точки відліку.
+
+### Примітка про futur antérieur
+
+У попередній структурі окремої сторінки `futur-anterieur.md` не було. Вона створена саме в `src/content/fr/`, щоб часова система мала симетричний довідковий вузол і щоб посилання з futur simple / conditionnel працювали на реальний content collection path.
+
+### Наступний QA-крок
+
+Після B07 доцільно виконати окремий **cross-page consistency audit** усіх сторінок, які посилаються на часові форми, а потім перейти до temporal conjunctions (`quand, lorsque, dès que, après que, avant que, pendant que, depuis que`) та повної системи aspect/viewpoint.
