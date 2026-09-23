@@ -1,58 +1,127 @@
 ---
-title_uk: "Conditionnel passé — умовний спосіб у минулому"
+title_uk: "Conditionnel passé — гіпотетичне минуле та модальна дистанція"
 title_fr: "Le conditionnel passé"
-description_uk: "Формування conditionnel passé, нереалізовані умови, докори, жаль, припущення та непрямі висловлювання."
+description_uk: "Формування й основні значення conditionnel passé: нереалізована умова, минула можливість, жаль, докір та дистанційоване повідомлення."
 category: moods
-order: 30
+order: 31
 related:
   - conditionnel-present
+  - plus-que-parfait
+  - futur-anterieur
   - passe-compose
-  - subjonctif
-tags: [conditionnel passé, умовний спосіб]
+tags: [conditionnel passé, умовний спосіб, гіпотеза, минуле]
 ---
 
 # Conditionnel passé
 
+## Швидко
+
+**Conditionnel passé** — складена форма conditionnel. Найтиповіше він подає **гіпотетичну або нереалізовану ситуацію в минулому**, але може мати модальні функції без умовної конструкції.
+
 ## Формула
 
-**avoir/être у conditionnel présent + participe passé**
+**avoir або être у conditionnel présent + participe passé**
 
-- j’aurais parlé
+- j'aurais parlé
 - elle aurait compris
 - nous serions partis
 - ils seraient venus
 
-Вибір avoir/être та узгодження успадковуються від відповідної складеної форми.
+Вибір допоміжного дієслова й узгодження відповідають системі складених форм.
 
-## Нереалізована умова в минулому
+## 1. Нереалізована минула умова
 
-Типова модель:
+Типова конструкція:
 
 **si + plus-que-parfait → conditionnel passé**
 
-- **Si j’avais su, je serais venu.**
-- Якби я знав, я б прийшов.
+**Si j'avais su, je serais venu.**
 
-Не використовуйте conditionnel після si у стандартній умовній конструкції:
+**Si nous avions réservé, nous aurions eu une table.**
 
-❌ *Si j’aurais su...*  
-✅ **Si j’avais su...**
+Умова подана як така, що вже належить минулому й не була реалізована; наслідок також стосується минулого.
 
-## Жаль або докір
+Після умовного **si** не ставимо conditionnel:
 
-- **J’aurais dû te prévenir.**
-- Мені слід було тебе попередити.
+❌ *Si j'aurais su...*
 
-- **Tu aurais pu me le dire.**
-- Ти міг би мені це сказати.
+✅ **Si j'avais su...**
 
-Такі конструкції часто виражають оцінку минулої нереалізованої можливості.
+## 2. Змішані умови
 
-## Непідтверджена інформація
+Минула умова може мати теперішній наслідок:
 
-У журналістському/інформаційному стилі conditionnel може сигналізувати, що повідомлення не подається як встановлений факт:
+**Si j'avais accepté ce poste, je travaillerais à Paris aujourd'hui.**
 
-- **Le ministre aurait démissionné.**
-- Міністр, за повідомленнями, нібито подав у відставку.
+Навпаки, теперішня характеристика може пояснювати гіпотетичний минулий результат:
 
-Це окреме модальне значення, а не «умова».
+**Si j'étais plus organisé, j'aurais terminé le projet hier.**
+
+Тому формула «умова минула → наслідок завжди conditionnel passé» недостатня: потрібно дивитися на час наслідку.
+
+## 3. Нереалізована можливість, жаль, докір
+
+**J'aurais dû te prévenir.**
+
+→ Мені слід було тебе попередити.
+
+**Tu aurais pu me le dire.**
+
+→ Ти міг би мені це сказати.
+
+**J'aurais aimé rester plus longtemps.**
+
+→ Я хотів би залишитися довше / Мені хотілося б залишитися довше — залежно від контексту.
+
+Ці форми часто оцінюють минулу можливість як таку, що не реалізувалася.
+
+## 4. Conditionnel passé vs passé composé
+
+**J'ai oublié le rendez-vous.** — повідомлення про подію.
+
+**J'aurais oublié le rendez-vous.** — без додаткового контексту форма може сигналізувати гіпотезу, дистанцію або непідтверджене повідомлення; вона не є просто «більш минулим» passé composé.
+
+## 5. Conditionnel passé vs futur antérieur
+
+**Il aura oublié.**
+
+→ може бути припущенням мовця про минулу подію.
+
+**Il aurait oublié.**
+
+→ може бути умовним/гіпотетичним або дистанційованим повідомленням.
+
+Тут важливий контекст: сам переклад українською не завжди однозначний.
+
+## 6. Дистанційоване повідомлення
+
+У журналістському та інформаційному стилі conditionnel passé може позначати інформацію, яку мовець приписує джерелам і не подає як власне встановлений факт:
+
+**Le ministre aurait démissionné.**
+
+Український переклад на кшталт «за повідомленнями, міністр подав у відставку» краще передає функцію, ніж механічне «міністр подав би».
+
+Це не означає «conditionnel = неправда»: функція залежить від жанру, джерела та контексту.
+
+## Українська перспектива
+
+Українське **би/б** добре відповідає багатьом гіпотетичним уживанням, але не всім модальним значенням conditionnel. Тому спочатку визначайте функцію конструкції, а потім добирайте переклад.
+
+## Типові помилки
+
+❌ *Si j'aurais eu le temps, je serais venu.*
+
+✅ **Si j'avais eu le temps, je serais venu.**
+
+❌ вважати, що кожен conditionnel passé означає нереалізовану умову.
+
+Наприклад, **Le ministre aurait démissionné** може бути журналістським дистанційованим повідомленням.
+
+## Міні-тест
+
+1. Si j'___ (avoir) le temps, je serais venu.
+2. Si j'avais accepté, je ___ (travailler) à Paris aujourd'hui.
+3. J'___ (devoir) te prévenir.
+4. Selon plusieurs sources, il ___ (démissionner).
+
+**Відповіді:** 1. **avais eu**; 2. **travaillerais**; 3. **aurais dû**; 4. **aurait démissionné**.
