@@ -236,8 +236,7 @@ tags: ["узгодження", "accord", "прикметник", "дієприк
 - `La chose que j'ai mangée.` → `que` = COD перед participe passé → `mangée`.
 
 ```
-❌ J'ai mangé quelque chose que j'ai aimée. → ✅ J'ai mangé quelque chose que j'ai aimé.
-❌ J'ai vu quelqu'un que j'ai connu. → ✅ J'ai vu quelqu'un que j'ai connu.
+`quelque chose` не блокує узгодження автоматично: `la chose que j'ai aimée` показує, що попередній COD `que` може спричиняти узгодження. Наприклад: `J'ai vu la personne que j'ai connue.`
 ```
 
 
@@ -273,11 +272,12 @@ tags: ["узгодження", "accord", "прикметник", "дієприк
 
 > 💡 **Спосіб запам'ятання**: "**DR & MR VANDERTRAMP**" — це **рух** (йти, повертатися, падати тощо), тому ці дієслова вживаються з **ÊTRE**.
 
-### 🎯 Типові українські помилки
-1. **Забути узгодження з ÊTRE**: "Elle est parti" (❌) → "Elle est **partie**" (✅)
-2. **Неправильно узгоджувати з AVOIR**: "J'ai mangé la pomme que j'ai vu" (❌) → "J'ai mangé la pomme que j'ai **vue**" (✅)
-3. **Узгоджувати з COD після дієслова**: "J'ai mangée une pomme" (❌) → "J'ai mangé une pomme" (✅)
-4. **Плутати ÊTRE та AVOIR у passé composé**: "Il a allé" (❌) → "Il est allé" (✅)
+### Типові українські помилки
+1. **Забути узгодження з `être`**: `Elle est parti` → `Elle est partie`.
+2. **Не узгодити попередній COD з `avoir`**: `La pomme que j'ai mangé` → `La pomme que j'ai mangée`.
+3. **Узгодити COD після `avoir`**: `J'ai mangée une pomme` → `J'ai mangé une pomme`.
+4. **Узгодити COI**: `Les personnes auxquelles j'ai parlées` → `Les personnes auxquelles j'ai parlé`.
+5. **Плутати `être` та `avoir`**: `Il a allé` → `Il est allé`.
 
 ---
 
