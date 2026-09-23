@@ -359,3 +359,54 @@ Git commits:
 
 ### Наступний крок
 B11: системний аудит складених форм і `accord du participe passé` — `avoir/être`, pronominal verbs, preceding COD, relative clauses та випадки, де синтаксична функція змінює форму participe passé.
+
+
+## B11 — Accord du participe passé: syntax-first rewrite
+
+Проведено системний аудит узгодження participe passé.
+
+### Переписано
+- `src/content/fr/accord.md`
+
+### Додано
+- `docs/participe-passe-agreement-audit.md`
+
+### Основні виправлення
+- замінено поверхневе правило «узгоджувати з найближчим іменником» на синтаксичний алгоритм;
+- уточнено `avoir + COD`: узгодження залежить від COD і його позиції;
+- посилено відмінність COD/COI;
+- узгоджено пояснення `que / qui / dont / où / lequel` із попередніми аудитами relative pronouns;
+- прибрано хибне узагальнення про `quelque chose / quelqu'un / rien / personne`;
+- систематизовано `en`;
+- додано точний аналіз `se` у pronominal verbs;
+- додано `se rendre compte`, `se succéder`, `se parler` як приклади керування;
+- додано `faire + infinitif` та сучасну модель `laisser + infinitif`;
+- додано `entendre / voir + infinitif`;
+- уточнено `coûter / courir / vivre` через значення та синтаксичну модель;
+- додано конструкції `avoir + infinitif`, де попередній COD може належати infinitif, а не participe passé;
+- виправлено вправи з вкладеними relative clauses.
+
+### Джерельна перевірка
+Нормативні твердження звірено з матеріалами Académie française щодо:
+- попереднього COD з `avoir`;
+- `faire + infinitif`;
+- `laisser + infinitif`;
+- pronominal verbs;
+- `se rendre compte`;
+- `se succéder`;
+- `coûter / courir / vivre`;
+- `entendre + infinitif`.
+
+### Academic Writing Toolkit QA
+Три цільові пояснювальні фрагменти:
+- `avoir + COD` → **0 issues**;
+- pronominal verbs → **0 issues**;
+- `entendre + infinitif` → **0 issues**.
+
+Повний grammar-файл не використовується як zero-warning gate: короткі правила, таблиці, приклади та вправи системно дають `short-paragraph` false positives у цьому інструменті.
+
+### Результат
+B11 переводить пояснення accord du participe passé від набору мнемонік до **синтаксичного аналізу**, що краще узгоджується з COD/COI, relative pronouns, pronominal verbs та попереднім аспектуальним аудитом.
+
+### Наступний крок
+Провести cross-page audit усіх згадок `participe passé / accord / COD / COI / pronominal verbs`, щоб перевірити, що різні сторінки не містять старих спрощених правил.
