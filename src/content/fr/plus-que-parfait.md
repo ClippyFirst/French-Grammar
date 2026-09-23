@@ -1,72 +1,95 @@
 ---
-title_uk: "Plus-que-parfait — давноминулий час"
+title_uk: "Plus-que-parfait — передування в минулому"
 title_fr: "Le plus-que-parfait"
-description_uk: "Формування та вживання plus-que-parfait для події, що передує іншій минулій ситуації."
+description_uk: "Формування plus-que-parfait та його функція для позначення ситуації, що передує іншій точці відліку в минулому."
 category: tenses
 order: 40
 related:
   - passe-compose
   - imparfait
-tags: [plus-que-parfait, давноминулий, минулий час]
+  - conditionnel-passe
+tags: [plus-que-parfait, давноминулий, передування]
 ---
 
 # Plus-que-parfait
 
 ## Швидко
 
-Plus-que-parfait показує, що одна ситуація **вже відбулася до іншого моменту або події в минулому**.
+**Plus-que-parfait** локалізує ситуацію **до іншої минулої точки відліку**.
 
-Українською часто відповідає формам «вже зробив», «був зробив», але переклад не визначає граматичну форму.
+**Quand je suis arrivé, Paul était déjà parti.**
+
+На часовій осі: **Paul est parti → je suis arrivé**.
+
+Тому plus-que-parfait — не просто «дуже давній минулий час». Його ключова властивість — **передування відносно минулої точки відліку**.
 
 ## Формула
 
 **avoir або être в imparfait + participe passé**
 
-### Avoir
+- **j'avais parlé**
+- **elle avait compris**
+- **nous étions partis**
+- **elles étaient venues**
 
-- j’avais parlé
-- tu avais fini
-- elle avait compris
-- nous avions vendu
+Вибір допоміжного дієслова й правила узгодження відповідають відповідним складеним формам.
 
-### Être
+## Передування
 
-- j’étais parti(e)
-- elle était arrivée
-- ils étaient venus
+**Elle avait déjà mangé quand nous l'avons appelée.**
 
-Правила вибору avoir/être та узгодження відповідають системі складених часів.
+Спочатку вона поїла; потім ми їй зателефонували.
 
-## Приклади
+Інша минула точка може бути не passé composé, а imparfait:
 
-- **Quand je suis arrivé, Paul était déjà parti.**
-- Коли я прийшов, Поль уже пішов.
+**Il avait déjà quitté la ville lorsqu'elle travaillait encore là-bas.**
 
-- **Elle avait déjà mangé quand nous l’avons appelée.**
-- Вона вже поїла, коли ми їй зателефонували.
+Головне — відносна часова послідовність, а не назва другого часу.
 
-## Часова вісь
+## Plus-que-parfait і «déjà»
 
-**plus-que-parfait → passé composé / imparfait**
+Слово **déjà** не автоматично вимагає plus-que-parfait.
 
-Спочатку: **Il avait fini.**  
-Пізніше: **Il est sorti.**
+**J'ai déjà vu ce film.** — Я вже бачив цей фільм.
 
-## Не ставте plus-que-parfait лише через слово «вже»
+**J'avais déjà vu ce film quand tu me l'as recommandé.** — Я вже бачив цей фільм, коли ти мені його порадив.
 
-- **J’ai déjà vu ce film.** — Я вже бачив цей фільм.
-- **J’avais déjà vu ce film quand tu me l’as recommandé.** — Я вже бачив цей фільм, коли ти мені його порадив.
-
-У другому випадку plus-que-parfait потрібен через відносність до іншої минулої точки.
+У другому реченні plus-que-parfait потрібен для співвіднесення з іншою минулою точкою.
 
 ## Заперечення
 
-- **Je n’avais pas compris.**
-- **Elle n’était pas encore arrivée.**
+Заперечення оточує допоміжне дієслово:
+
+**Je n'avais pas compris.**
+
+**Elle n'était pas encore arrivée.**
+
+## Умовні речення
+
+Plus-que-parfait є типовою формою після умовного **si** для нереалізованої минулої умови:
+
+**Si j'avais su, je serais venu.**
+
+Не:
+
+❌ *Si j'aurais su...*
+
+Це пов'язує plus-que-parfait із conditionnel passé у головній частині.
+
+## Українська перспектива
+
+Українська може передавати передування доконаним формами, конструкціями з **вже**, а інколи іншими засобами. Не шукайте однієї української морфологічної форми, яка механічно відповідає plus-que-parfait.
 
 ## Типова помилка
 
-❌ *Quand je suis arrivé, il a déjà parti.*  
+❌ *Quand je suis arrivé, il a déjà parti.*
+
 ✅ **Quand je suis arrivé, il était déjà parti.**
 
-Partir утворює цю форму з être.
+## Міні-тест
+
+1. Quand nous sommes arrivés, elle ___ déjà ___ (partir).
+2. J'___ déjà ___ (voir) ce film avant le festival.
+3. Si j'___ (savoir), je serais venu.
+
+**Відповіді:** 1. **était déjà partie**; 2. **avais déjà vu**; 3. **avais su**.
