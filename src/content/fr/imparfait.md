@@ -1,139 +1,128 @@
 ---
-title_uk: "Imparfait — минулий недоконаний час"
-title_fr: "L’imparfait"
-description_uk: "Утворення та значення imparfait: фон, стани, звички, процеси й часовий контраст із passé composé."
+title_uk: "Imparfait — минулий час і перспектива ситуації"
+title_fr: "L'imparfait"
+description_uk: "Утворення imparfait та його значення: фон, стан, звичка, процес, повторюваність і гіпотетична умова."
 category: tenses
 order: 30
 related:
-  - present
   - passe-compose
   - passe-compose-vs-imparfait
-tags: [imparfait, минулий час, звичка, фон]
+  - plus-que-parfait
+  - conditionnel-present
+tags: [imparfait, минулий час, фон, звичка]
 ---
 
-# Imparfait — минулий недоконаний час
+# Imparfait
 
 ## Швидко
 
-Imparfait описує ситуацію **зсередини**: стан, фон, звичку, повторювану дію, тривалий процес або обставини в минулому.
+**Imparfait** подає ситуацію з внутрішньої перспективи: як стан, фон, звичку, повторюваність, процес або характеристику в минулому.
 
-Не визначайте його просто як «незавершену дію». Головним є **спосіб представлення ситуації**.
+Його не слід визначати лише як «незавершену дію». Ситуація може бути фактично завершеною, але мовець подає її як фон або стан: **À cette époque, j'habitais à Paris.**
 
 ## Утворення
 
-Основа зазвичай береться від форми **nous** у présent без **-ons** +:
+Зазвичай: форма **nous** у présent без **-ons** + **-ais, -ais, -ait, -ions, -iez, -aient**.
 
-**-ais, -ais, -ait, -ions, -iez, -aient**
+**nous parlons → parl- → je parlais**
 
-### Parler
+**nous finissons → finiss- → je finissais**
 
-nous parlons → parl-
+Основний нерегулярний стрижень: **être → ét-**: **j'étais, nous étions**.
 
-- je parlais
-- tu parlais
-- il parlait
-- nous parlions
-- vous parliez
-- ils parlaient
+## Основні значення
 
-### Finir
+### Фон
 
-nous finissons → finiss-
+**Il pleuvait quand je suis sorti.**
 
-- je finissais
-- nous finissions
-- ils finissaient
+Дощ є частиною сцени; **suis sorti** подає окрему подію.
 
-### Être
+### Стан або характеристика
 
-Єдиний основний нерегулярний стрижень:
+**Elle était fatiguée.**
 
-**être → ét-**
+**Je connaissais déjà cette ville.**
 
-- j’étais
-- tu étais
-- il était
-- nous étions
-- vous étiez
-- ils étaient
+### Звичка та повторюваність
 
-## Вживання
+**Quand j'étais enfant, je lisais beaucoup.**
 
-### 1. Фон
+**Tous les étés, nous allions à la mer.**
 
-- **Il pleuvait et les rues étaient presque vides quand je suis sorti.**
-- Дощило, і вулиці були майже порожні, коли я вийшов.
+### Процес у момент іншої події
 
-Imparfait створює сцену; passé composé подає окрему подію.
+**Je travaillais quand tu m'as appelé.**
 
-### 2. Стан або характеристика
+Не тому, що *travailler* «вимагає» imparfait, а тому, що в цій конструкції роботу представлено як процес, на тлі якого сталася інша подія.
 
-- **À cette époque, j’habitais à Kyiv.**
-- **Elle était très timide.**
+### Одночасні ситуації
 
-### 3. Звичка
+**Je lisais pendant qu'elle préparait le dîner.**
 
-- **Quand j’étais enfant, je lisais beaucoup.**
-- **Tous les étés, nous allions à la mer.**
+Обидві дії можуть бути подані як фонові процеси.
 
-### 4. Процес у певний момент
+## Imparfait і passé composé
 
-- **À huit heures, je travaillais encore.**
-- О восьмій я ще працював.
+Найкорисніша модель — не «незавершене проти завершеного», а **внутрішня перспектива проти події, поданої як цілісний епізод**.
 
-### 5. Дві одночасні фонові дії
+**Je travaillais quand tu m'as appelé.**
 
-- **Je lisais pendant qu’elle préparait le dîner.**
-- Я читав, поки вона готувала вечерю.
+Але:
 
-## Imparfait + passé composé
+**J'ai travaillé pendant trois heures.**
 
-Найкорисніша модель:
-
-**фон / процес / стан → imparfait**  
-**подія → passé composé**
-
-- **Je travaillais quand tu m’as appelé.**
-- Я працював, коли ти мені зателефонував.
-
-Але те саме дієслово може мати інший час у іншому повідомленні:
-
-- **J’ai travaillé pendant trois heures.** — Я пропрацював три години.
-- **Je travaillais quand tu es arrivé.** — Я працював, коли ти прийшов.
+Тривалість сама по собі не визначає imparfait. Період можна подати як завершений епізод.
 
 ## Часові маркери
 
-Часто з imparfait:
+**souvent, d'habitude, toujours, tous les jours, à cette époque, pendant que** часто поєднуються з imparfait, але не є автоматичними тригерами.
 
-**d’habitude, souvent, toujours, tous les jours, à cette époque, quand j’étais..., pendant que**
+Наприклад, **toujours** може з'являтися з passé composé, якщо йдеться про окремий період або події; тому маркер треба інтерпретувати разом із синтаксисом і перспективою.
 
-Але маркер не є автоматичним тригером. Наприклад, **pendant trois heures** може супроводжувати passé composé, якщо період подано як завершений епізод.
+## Imparfait у si-конструкціях
+
+Для гіпотетичної умови, що не стосується безпосередньо минулої нереалізованої події, типовою є модель:
+
+**Si + imparfait → conditionnel présent**
+
+**Si j'avais plus de temps, je voyagerais davantage.**
+
+Тут imparfait не є «минулим часом» у звичайному референційному сенсі; форма бере участь у модальному вираженні дистанційованої/гіпотетичної ситуації.
 
 ## Українська перспектива
 
-Український недоконаний вид часто допомагає відчути imparfait, але відповідність не абсолютна.
+Український недоконаний вид часто добре відповідає контекстам imparfait, але категорії не тотожні.
 
-- **Я читав, коли він прийшов.** → Je lisais quand il est arrivé.
-- **Я прочитав книжку.** → J’ai lu le livre.
+**Я читав, коли він прийшов.** → **Je lisais quand il est arrivé.**
 
-Французька система часу та українська система виду організовані по-різному.
+Водночас український доконаний/недоконаний вид не дає універсального ключа до французького часу.
 
 ## Типові помилки
 
-❌ *Quand j’étais enfant, j’ai joué au football tous les jours.*  
-Для звички природніше:  
-✅ **Quand j’étais enfant, je jouais au football tous les jours.**
+❌ *Quand j'étais enfant, j'ai joué au football tous les jours.*
 
-❌ *Je dormais pendant trois heures hier.*  
-Якщо маємо на увазі завершену тривалість:  
-✅ **J’ai dormi pendant trois heures hier.**
+Для звичної повторюваності природніше: **Quand j'étais enfant, je jouais au football tous les jours.**
 
-❌ *Quand je suis arrivé, il a dormi.*  
-Якщо сон уже тривав у момент приходу:  
+❌ *Quand je suis arrivé, il a dormi* — якщо сон уже тривав у момент приходу.
+
 ✅ **Quand je suis arrivé, il dormait.**
 
-## Пов’язані теми
+❌ «pendant trois heures завжди → imparfait».
+
+Ні: **J'ai dormi pendant trois heures** — цілісний завершений епізод.
+
+## Міні-тест
+
+1. Quand j'étais enfant, je ___ (lire) beaucoup.
+2. Je ___ (travailler) quand tu m'as appelé.
+3. Hier, j'___ (travailler) pendant trois heures.
+4. Si j'___ (avoir) le temps, je voyagerais.
+
+**Відповіді:** 1. **lisais**; 2. **travaillais**; 3. **ai travaillé**; 4. **avais**.
+
+## Пов'язані теми
 
 - [Passé composé](./passe-compose)
-- [Passé composé vs imparfait](./passe-compose-vs-imparfait)
-- [Présent](./present)
+- [Passé composé ou imparfait](./passe-compose-vs-imparfait)
+- [Plus-que-parfait](./plus-que-parfait)
