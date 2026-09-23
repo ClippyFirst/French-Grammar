@@ -234,3 +234,62 @@ Git commits:
 ### Наступний QA-крок
 
 Після B07 доцільно виконати окремий **cross-page consistency audit** усіх сторінок, які посилаються на часові форми, а потім перейти до temporal conjunctions (`quand, lorsque, dès que, après que, avant que, pendant que, depuis que`) та повної системи aspect/viewpoint.
+
+
+## B08 — Temporal cross-page consistency audit
+
+Проведено окремий cross-page audit часової системи після B07.
+
+Перевірено:
+- `futur-simple.md`
+- `futur-anterieur.md`
+- `futur-proche.md`
+- `passe-compose.md`
+- `imparfait.md`
+- `passe-compose-vs-imparfait.md`
+- `plus-que-parfait.md`
+- `conditionnel-present.md`
+- `conditionnel-passe.md`
+- `si-clauses.md`
+- `indirect-speech.md`
+- `prepositions-time.md`
+
+### Виправлено
+
+Переписано `prepositions-time.md`.
+
+Усунено надмірно жорсткі твердження:
+- `pendant` нібито не може вживатися з майбутнім;
+- `en` нібито завжди означає тривалість завершеної дії;
+- `à` нібито вживається лише з годинами;
+- `depuis` нібито завжди означає ситуацію, що триває до моменту мовлення.
+
+Сторінку перебудовано навколо часових функцій і мінімальних контрастів `en/dans`, `en/pendant`, `depuis/pendant`, `dans/depuis`.
+
+### Додано
+
+Створено:
+- `src/content/fr/temporal-conjunctions.md`
+- `docs/temporal-consistency-audit.md`
+
+Нова сторінка систематизує `quand, lorsque, dès que, aussitôt que, pendant que, avant que, après que, depuis que`.
+
+### Джерельна перевірка
+
+Правило `après que + indicatif` звірено з Académie française. Для майбутнього Академія наводить модель на кшталт `après que la nuit sera tombée`; для минулого — `après que nous l'avons tous salué`.
+
+### Academic Writing Toolkit QA B08
+
+Перевірено два нових концептуальних фрагменти:
+- `en / dans / pendant` → `issue_count = 0`;
+- `quand / futur antérieur / avant que / après que` → `issue_count = 0`.
+
+Повні grammar pages не використовуються як кількісний zero-warning gate через системні `short-paragraph` false positives для формул, прикладів, таблиць і вправ.
+
+### Важливий результат B08
+
+Часова система тепер має окремий вузол для **форм часу**, окремий вузол для **часових прийменників** і окремий вузол для **часових сполучників**. Це зменшує ризик, що одне локальне правило буде суперечити поясненням в іншій статті.
+
+### Наступний крок
+
+Провести глибокий audit `passé composé / imparfait / plus-que-parfait` як системи аспектуальної перспективи, а також перевірити `subjonctif` у часових та відносних конструкціях.
