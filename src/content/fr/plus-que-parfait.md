@@ -4,6 +4,9 @@ title_fr: "Le plus-que-parfait"
 description_uk: "Формування plus-que-parfait та його функція для позначення ситуації, що передує іншій минулій точці відліку."
 category: tenses
 order: 40
+canonical_ids:
+  - FR-347
+  - FR-348
 related:
   - passe-compose
   - imparfait
