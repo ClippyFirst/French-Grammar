@@ -1,134 +1,178 @@
 ---
-title_uk: "Кількісні звороти"
-title_fr: "Les quantités"
-description_uk: "Кількісні звороти (beaucoup de, peu de, trop de, etc.) використовують *de* для вираження кількості."
+title_uk: "Кількісні звороти: beaucoup de, peu de, trop de, assez de"
+title_fr: "Les quantificateurs"
+description_uk: "Як кількісні слова й конструкції поєднуються з іменником, як працює de/d’ та коли можлива конструкція de + les."
 category: nouns
 order: 14
+prerequisites:
+  - singular-plural
+  - articles-indefinite
 related:
-  - nouns/articles-with-quantities
-  - nouns/partitive-articles
+  - articles-with-quantities
+  - articles-partitive
+  - articles-after-negation
+contrast:
+  - articles-with-quantities
+next:
+  - articles-with-quantities
+aliases:
   - quantifiers
+  - quantificateurs
+  - beaucoup de
+  - peu de
+  - trop de
+  - assez de
 tags:
-  - quantities
-  - determiners
-  - quantifiers
+  - кількість
+  - quantificateur
+  - beaucoup de
+  - peu de
+  - trop de
+  - assez de
+level: A2
+depth: medium
+register: neutral
+variety:
+  - FR
+contrastive_uk: medium
+status: review
+sources:
+  - "Académie française — La grammaire et l’infini (2024): https://www.academie-francaise.fr/la-grammaire-et-linfini"
+reviewed_at: "2026-09-25"
+formula: true
+toc: true
 ---
 
-## Швидко
+# Кількісні звороти
 
-**Кількісні звороти** (quantificateurs) виражають **скільки** предметів або речей:
+## Швидка відповідь
 
-- **beaucoup de** — багато
-- **peu de** — мало, трохи
-- **trop de** — забагато
-- **assez de** — досить
-- **plus de** — більше
-- **moins de** — менше
+Основні кількісні конструкції перед іменником мають модель:
 
-Усі ці звороти використовують **de** перед іменником.
+**кількісний вираз + de/d’ + іменник**
 
-> 💡 Україномовному учню важливо: українська вживає ці ж слова
-> (*багато, мало, забагато, досить*), але **без** приєднання *de*.
+- **beaucoup de livres** — багато книжок
+- **peu de temps** — мало часу
+- **trop de travail** — забагато роботи
+- **assez d’argent** — достатньо грошей
+- **plus de possibilités** — більше можливостей
+- **moins d’eau** — менше води
+- **autant de personnes** — стільки ж людей
 
-## Формула
+Перед голосним або *h muet* **de → d’**:
 
-<div class="formula">
+> **beaucoup d’amis**, **peu d’eau**
 
-| Зворот | Переклад | Приклад |
-|--------|----------|---------|
-| **beaucoup de** | багато | beaucoup de livres |
-| **peu de** | трохи, мало | peu de fromage |
-| **trop de** | забагато | trop de sucre |
-| **assez de** | досить | assez de temps |
-| **plus de** | більше | plus de vin |
-| **moins de** | менше | moins de pain |
-| **autant de** | так само багато | autant de livres |
+## Основні кількісні слова
 
-</div>
+| Французька конструкція | Значення |
+|---|---|
+| **beaucoup de** | багато |
+| **peu de** | мало / трохи |
+| **trop de** | забагато |
+| **assez de** | достатньо |
+| **plus de** | більше |
+| **moins de** | менше |
+| **autant de** | стільки ж |
 
-## Утворення
+## Кількість без артикля
 
-### Основне правило
+Після цих конструкцій не ставлять **un/une** або партитивний артикль:
 
-Усі кількісні звороти використовують **de** перед іменником (перед приголосним або голосним):
+> **beaucoup de livres**
 
-<div class="example">
-  <p class="fr">beaucoup **de** amis → *багато **друзів***</p>
-  <p class="uk"> **bagatо **druziv*** → *багато друзів*</p>
-</div>
+> **peu de café**
 
-<div class="example">
-  <p class="fr">peu **de** eau → *деяки часу* (деяки води) → **peu d'eau** (через елізіон!)</p>
-  <p class="uk"> **trokhі **vodи*** → **dekі ще** (через елізіон!) — **de** випадає перед *eau*</p>
-</div>
+> **trop de sucre**
 
-> ⚠️ У розмовній мові *de* часто випадає, особливо в кінці речення:
-> *beaucoup de amis* → чутне *beaucoup d'amis* або *beaucoup d'friends*.
+> **assez d’eau**
 
-## Використання
+Не:
 
-### 1. З вираженням кількості
+❌ *beaucoup des livres* — якщо йдеться про книжки загалом.
 
-<div class="example">
-  <p class="fr">J'ai **beaucoup de** livres.</p>
-  <p class="uk">У мене **багато** книг.</p>
-</div>
+Але **des** можливе, коли воно є **de + les**:
 
-<div class="example">
-  <p class="fr">Il y a **peu de** monde.</p>
-  <p class="uk">Тут **мало** людей.</p>
-</div>
+> **beaucoup des livres de cette collection**
 
-### 2. У порівняннях
+= багато **з конкретних книжок** цієї колекції.
 
-<div class="example">
-  <p class="fr">Plus **de** vin, moins **de** pain. → *Більше **вина**, менше **хліба**.*</p>
-  <p class="uk"> **Більше **вина**, менше **хліба***</p>
-</div>
+## Точна кількість
 
-### 3. У запереченні
+Після числівника також немає окремого артикля:
 
-<div class="example">
-  <p class="fr">Je n'ai **pas de** problème.</p>
-  <p class="uk">У мене **немає** проблем.</p>
-</div>
+> **deux livres**
 
-| Слово | Французька | Українська |
-|--------|-----------|------------|
-| багато | beaucoup **de** | багато |
-| трохи | peu **de** | трохи / мало |
-| забагато | trop **de** | забагато |
-| досить | assez **de** | досить |
-| більше | plus **de** | більше |
-| менше | moins **de** | менше |
+> **trois bouteilles d’eau**
 
-> 💡 Українська **не використовує** приєднання *de* після цих слів.
-> Але у французькій воно **обов'язкове**!
+> **cinquante étudiants**
 
-## Винятки
+Якщо число стосується конкретної підмножини, можлива конструкція **nombre + de + les**:
 
-> ⚠️ У розмовній мові *de* часто випадає:
-> *J'en ai **beaucoup**.* (не *beaucoup de*)
+> **deux des étudiants**
 
-> ⚠️ Деякі звороти можуть використовуватися без іменника:
-> *C'est **assez**.* (достатньо) — без *de* + іменник
+= двоє **з конкретних студентів**.
+
+## Кількісна конструкція + назва речовини
+
+> **beaucoup de café** — багато кави
+
+> **un peu de sucre** — трохи цукру
+
+> **deux kilos de farine** — два кілограми борошна
+
+У таких конструкціях не треба дублювати партитив:
+
+❌ *beaucoup du café* — якщо просто йдеться про велику кількість кави.  
+✅ **beaucoup de café**
+
+Але:
+
+> **beaucoup du café que tu as préparé**
+
+можливе, коли **du = de + le** і кава вже конкретизована.
+
+## Без іменника
+
+Кількісний вираз може функціонувати самостійно:
+
+> **J’en veux beaucoup.**  
+> Я хочу багато.
+
+> **Il y en a peu.**  
+> Їх мало / цього мало.
+
+У такій позиції після **beaucoup/peu** немає іменника, тому немає й **de + nom**.
+
+## Для україномовного учня
+
+Українські **багато, мало, достатньо, більше, менше** не потребують аналога французького **de**:
+
+> багато книжок → **beaucoup de livres**
+
+> мало часу → **peu de temps**
+
+Тому **de** краще запам’ятовувати як частину конструкції, а не як слово з одним перекладом.
 
 ## Типові помилки
 
-<div class="mistake">
-  <p class="wrong">❌ *J'ai beaucoup livres* (пропуск *de* після *beaucoup*)</p>
-  <p class="right">✅ *J'ai **beaucoup de** livres.</p>
-  <p class="why">Після *beaucoup* перед іменником **завжди** потрібне *de*.
-    Без нього речення звучить нефр. *</p>
-</div>
+❌ *J’ai beaucoup livres.*  
+✅ **J’ai beaucoup de livres.**
 
-<div class="mistake">
-  <p class="wrong">❌ *trop **des** sucre* (використання *des* замість *de*)</p>
-  <p class="right">✅ *trop **de** sucre.*</p>
-  <p class="why">Після кількісних зворотів (trop, beaucoup, peu, assez)
-    використовується **de**, а не **des**.</p>
-</div>
+❌ *Il y a peu des gens.* — якщо йдеться про людей загалом.  
+✅ **Il y a peu de gens.**
 
-## Пов'язані теми
+❌ *beaucoup de l’eau*  
+✅ **beaucoup d’eau**
 
-(related handled by component)
+Але:
+
+> **beaucoup de l’eau que tu as apportée**
+
+можливе в іншій структурі, хоча в нейтральному значенні «багато води» базова форма — **beaucoup d’eau**.
+
+## Куди далі
+
+- **Артикль і кількісні конструкції** — точний контраст *de* та *de + les*.
+- **Частковий артикль** — *du/de la/de l’*.
+- **Артикль після заперечення** — *de/d’* після заперечення.
