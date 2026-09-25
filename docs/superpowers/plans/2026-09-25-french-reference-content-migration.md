@@ -43,9 +43,9 @@
 - Inspect: `src/content/fr/*.md`
 
 - [x] Enumerate current article slugs and map each to a canonical topic ID for the active migration clusters.
-- [ ] Mark duplicate, partial, broad-system, and missing topics.
-- [ ] Preserve existing strong articles as source material rather than rewriting blindly.
-- [ ] Identify graph references that do not correspond to actual slugs/topic IDs.
+- [x] Mark the first confirmed duplicate/legacy slug pairs: definite-articles vs articles-definite, indefinite-articles vs articles-indefinite, partitive-articles vs articles-partitive, and present-tense vs present; legacy files are retained for now rather than destructively removed.
+- [x] Preserve existing strong articles as source material rather than rewriting blindly.
+- [ ] Complete the corpus-wide graph/reference audit; targeted graph checks are being performed as new canonical nodes are added.
 
 ## Task 2: Nominal and determiner cluster
 
@@ -63,8 +63,8 @@
 - Modify: relevant gender/number articles
 
 - [x] Normalize canonical metadata for the first migration batch.
-- [ ] Separate definiteness, indefiniteness, partitiveness, zero article, quantity, and contraction.
-- [ ] Add minimal contrasts where forms compete.
+- [x] Separate definiteness, indefiniteness, partitiveness, zero article, quantity, and contraction in the principal first-pass articles.
+- [x] Add minimal contrasts where forms compete.
 - [ ] Verify special cases before assigning a simple rule.
 - [ ] Add Ukrainian contrastive explanations without stereotypes.
 - [x] Add graph edges and authoritative-source metadata for the first migration batch.
@@ -81,8 +81,8 @@
 - Modify: `src/content/fr/accord.md`
 - Modify: adjective gender/position/comparison pages found in inventory
 
-- [ ] Separate agreement from adjective position.
-- [ ] Document regular and irregular gender/number patterns.
+- [x] Separate agreement from adjective position.
+- [x] Document the main regular/irregular gender and number patterns in the current noun/adjective cluster; finer morphology remains open.
 - [ ] Treat position-sensitive meaning as a semantic/syntactic contrast.
 - [ ] Avoid presenting BAGS as a complete theory of adjective placement.
 - [ ] Add Ukrainian contrast only where it changes learner decisions.
@@ -120,9 +120,10 @@
 
 - [x] Explain COD/COI through French valency, not Ukrainian question-word shortcuts in the rewritten COD/COI and pronominal cluster.
 - [x] Document clitic position across simple verbs, compound tenses, infinitives, negation, and affirmative/negative imperative.
-- [ ] Separate `y/en` functions from ordinary COD/COI.
+- [x] Separate `y/en` functions from ordinary COD/COI.
 - [x] Preserve and refine strong relative-pronoun material.
 - [ ] Verify all remaining pronoun combinations and examples; first-pass COD/COI/y-en/order/pronominal coverage is now in place.
+- [x] Add canonical references for pronoms toniques/disjoints and pronoms indéfinis, plus interrogative and indefinite déterminants, and connect them into the existing graph.
 
 ## Task 6: Syntax, questions, negation, subordination
 
