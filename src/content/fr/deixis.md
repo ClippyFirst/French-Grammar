@@ -4,7 +4,7 @@ title_fr: "La deixis"
 description_uk: "Як займенники, прислівники та часові вирази прив'язують висловлення до ситуації мовлення."
 category: sentences
 order: 736
-canonical_ids: []
+canonical_ids: ["FR-736"]
 prerequisites:
   - pronouns-personal
   - adverbs
