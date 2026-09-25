@@ -13,8 +13,6 @@ related:
   - prendre
   - voir-croire
   - passe-compose
-contrast:
-  - manger
 next:
   - defective-verbs
 aliases:
