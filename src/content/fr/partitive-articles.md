@@ -1,19 +1,22 @@
 ---
-title_uk: "Партиційний артикл (частковий)"
-title_fr: "Les articles partitifs"
-description_uk: "Партиційний артикл (du, de la, de l', des) використовується з немодічними іменниками у притязальному значенні."
+title_uk: "Частковий артикль — застаріла сторінка"
+title_fr: "Les articles partitifs — page héritée"
+description_uk: "Застаріла сторінка. Актуальний системний довідник див. у articles-partitive."
 category: nouns
-order: 8
+order: 999
 related:
-  - nouns/definite-articles
-  - nouns/indefinite-articles
-  - nouns/contracted-articles
-  - nouns/articles-with-quantities
-tags:
-  - partitive
-  - articles
-  - determiners
+  - articles-partitive
+status: deprecated
+level: A1
+depth: short
+register: neutral
+variety:
+  - FR
+contrastive_uk: low
+sources:
+  - "Legacy content retained only for migration compatibility."
 ---
+
 
 ## Швидко
 
