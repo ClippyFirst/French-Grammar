@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { parseCanonicalIds, auditCanonicalCoverage } from '../scripts/lib/canonical-coverage.mjs';
+import { parseCanonicalIds, parseStatus, auditCanonicalCoverage } from '../scripts/lib/canonical-coverage.mjs';
 
 test('parseCanonicalIds extracts canonical IDs from frontmatter', () => {
   const source = `---
@@ -59,4 +59,11 @@ test('auditCanonicalCoverage reports canonical mappings on deprecated files', ()
   });
 
   assert.deepEqual(result.deprecatedMappings, [{ id: 'FR-001', paths: ['legacy.md'] }]);
+});
+
+
+test('parseStatus normalizes legacy status values', () => {
+  assert.equal(parseStatus('status: REVIEW'), 'review');
+  assert.equal(parseStatus('status: DONE'), 'release-ready');
+  assert.equal(parseStatus('status: deprecated'), 'deprecated');
 });
