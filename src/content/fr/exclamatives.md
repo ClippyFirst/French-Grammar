@@ -4,7 +4,7 @@ title_fr: "Les constructions exclamatives"
 description_uk: "Основні моделі французьких окличних речень: quel, comme, que, інтонація, пунктуація та межа з питаннями."
 category: questions
 order: 439
-canonical_ids: ["FR-439", "FR-440"]
+canonical_ids: ["FR-729"]
 prerequisites:
   - questions
   - determiners-interrogative
