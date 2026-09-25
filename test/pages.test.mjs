@@ -32,3 +32,19 @@ test('relatedFor preserves category/slug references for legacy content', () => {
   const result = relatedFor(all, 'adjectives', ['pronouns/pronouns-cod']);
   assert.deepEqual(result.map((item) => item.href), ['/fr/pronouns/pronouns-cod/']);
 });
+\n\ntest('relatedFor does not silently resolve an ambiguous plain slug', () => {
+  const ambiguous = [
+    ...all,
+    {
+      id: 'other/adjective-position.md',
+      data: {
+        category: 'other',
+        title_uk: 'Дубль',
+        title_fr: 'Duplicate',
+        description_uk: 'Тестова стаття.',
+      },
+    },
+  ];
+  const result = relatedFor(ambiguous, 'adjectives', ['adjective-position']);
+  assert.deepEqual(result, []);
+});
