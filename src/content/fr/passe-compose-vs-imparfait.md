@@ -4,6 +4,10 @@ title_fr: "Passé composé ou imparfait ?"
 description_uk: "Система вибору між passé composé та imparfait: подія, фон, стан, звичка, процес, цілісний епізод і часова перспектива."
 category: tenses
 order: 35
+canonical_ids:
+  - FR-346
+  - FR-354
+  - FR-355
 related:
   - passe-compose
   - imparfait
