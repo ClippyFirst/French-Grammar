@@ -123,7 +123,9 @@
 - [x] Separate `y/en` functions from ordinary COD/COI.
 - [x] Preserve and refine strong relative-pronoun material.
 - [ ] Verify all remaining pronoun combinations and examples; first-pass COD/COI/y-en/order/pronominal coverage is now in place.
+- [ ] Review additional high-value pronoun/determiner topics against the canonical FR-079–FR-197 inventory.
 - [x] Add canonical references for pronoms toniques/disjoints and pronoms indéfinis, plus interrogative and indefinite déterminants, and connect them into the existing graph.
+- [x] Add canonical references for interrogative adverbs and impersonal constructions, and connect them to the question/verb/infinitive/subjonctif graph.
 
 ## Task 6: Syntax, questions, negation, subordination
 
@@ -135,9 +137,9 @@
 - Modify: `src/content/fr/subjonctif.md`
 - Modify: sentence/coordination/subordination/indirect-speech pages found in inventory
 
-- [ ] Distinguish syntactic structure from register variation.
-- [ ] Explain interrogation by construction: intonation, est-ce que, inversion, and embedded questions.
-- [ ] Treat negative words as a system rather than a list.
+- [x] Distinguish syntactic structure from register variation in the new question/adverb and impersonal-construction references.
+- [x] Explain interrogation by construction: intonation, est-ce que, inversion, and embedded questions.
+- [x] Treat negative words as a system rather than a list.
 - [ ] Explain subjonctif by syntactic/semantic environments and contrast with indicative where relevant.
 - [ ] Mark spoken `ne` omission as register/medium variation.
 
