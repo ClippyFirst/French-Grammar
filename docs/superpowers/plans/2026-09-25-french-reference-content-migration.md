@@ -186,3 +186,12 @@
 - Academic Writing Toolkit was run on the new morphology/orthography articles. Its findings are overwhelmingly the expected short-paragraph heuristic for reference-style examples, tables, and compact contrasts; no paragraph-logic defect was identified from that signal alone.
 - External normative spot-checks were performed for *h muet/h aspiré*, plural patterns, and orthographic alternations using current Académie française material.
 - These articles remain `status: review` pending corpus-wide schema/graph/build QA.
+
+
+## Continuation — infinitive/clitic valency pass (2026-09-25)
+
+- Added **pronouns-infinitive** as a dedicated high-depth reference for clitic placement with infinitives and two-verb constructions, including *aller + infinitif*, modal/control verbs, multiple clitics, negation, *faire / laisser + infinitif*, and perception verbs.
+- Expanded **pronoun-order** so its two-verb section distinguishes the position of the clitic block from the internal order of clitics and routes complex *faire / laisser* cases to the dedicated reference.
+- Connected **infinitive** to the new pronoun reference and clarified that a clitic in a two-verb construction may belong to either the finite verb or the infinitive.
+- Academic Writing Toolkit review of the new reference returned only the expected short-paragraph heuristic for examples, paradigms and compact lookup blocks; no paragraph-level logical defect was identified from that signal.
+- The new reference remains `status: review`; corpus-wide schema, graph, linguistic/source and build gates remain open.
