@@ -21,10 +21,8 @@ prerequisites:
   - questions
   - pronoun-order
 related:
-  - c-est
-  - il-est
-  - il-y-a
-  - voici-voila
+  - presentatives
+  - information-structure
   - dislocation
   - relative-clauses
   - adverbs
