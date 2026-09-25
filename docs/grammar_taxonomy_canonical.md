@@ -1017,3 +1017,73 @@ scope
 Після цього старі статті не переписуються «як є». Кожна існуюча сторінка спочатку мапиться на canonical ID, дублікати об'єднуються, а відсутні topics додаються до банку.
 
 **Саме manifest, а не кількість Markdown-файлів, є остаточним контролем повноти довідника.**
+
+
+---
+
+# 11. Доповнення після зовнішнього gap-audit v1.1
+
+Після повторної перевірки каталогу за кількома сучасними академічними та довідковими описами французької встановлено: **структурних прогалин, які вимагали б нового великого домену, немає**, але є кілька важливих конструкцій, які варто зробити явними canonical topics. Вони не змінюють архітектуру каталогу і не вимагають перенумерації FR-001–FR-718.
+
+Причина такого доповнення: деякі сучасні reference grammars подають окремо complex verbal expressions, verbs of perception + infinitive/subordinate clause, verbs of movement, possessive adjectives + definite articles with body parts/clothes, interrogative adverbs, inversion, а також defective verbs.
+
+## Нові canonical IDs
+
+- FR-719 Complex verbal expressions / verbal periphrases
+- FR-720 Verbs of movement + infinitive
+- FR-721 Verbs of perception + infinitive vs subordinate clause
+- FR-722 Faire + infinitive: causative construction
+- FR-723 Laisser + infinitive: permissive construction
+- FR-724 Subject/control relations in infinitival clauses
+- FR-725 Defective verbs and incomplete paradigms
+- FR-726 Possession, definite articles and body parts
+- FR-727 Possession, definite articles and clothes
+- FR-728 Interrogative adverbs: comment / pourquoi / quand / où / combien
+- FR-729 Exclamative constructions
+- FR-730 Inversion outside ordinary yes/no questions
+- FR-731 Concessive construction avoir beau + infinitive
+- FR-732 Inclusive writing and contemporary orthographic usage
+
+### Методичне рішення
+
+Ці IDs **не означають автоматично 14 нових Markdown-файлів**.
+
+- FR-719–FR-724 належать до вже наявного блоку infinitive / verbal constructions і можуть бути реалізовані як окремі статті, якщо конструкція становить самостійний навчальний крок.
+- FR-725 є reference-topic про неповні парадигми, а не обов'язковою темою для A1–B2.
+- FR-726–FR-727 мають особливу цінність для української аудиторії, бо тут важливі не лише артиклі, а й взаємодія означеності, присвійності, рефлексивності та частин тіла / одягу.
+- FR-728–FR-730 належать до interrogative/exclamative/syntactic layer.
+- FR-731 є високочастотною складнішою конструкцією, яку доцільно мати у B2–C1/reference layer.
+- FR-732 є orthographic/usage reference, а не ядром морфологічної граматики.
+
+### Що не треба додавати окремими topic IDs
+
+Повторний аудит **не виправдовує** нескінченне дроблення на окремі IDs для кожної форми, винятку або лексеми. Зокрема:
+
+- окремі статті для кожного нерегулярного дієслова не потрібні, якщо є системна стаття + словникові таблиці;
+- кожен окремий тип liaison не потребує окремого topic ID;
+- кожен окремий сполучник не потребує окремої статті, якщо функціональні групи описані повно;
+- idiomatic uses of common verbs мають входити до відповідних lexical-grammar / construction статей, а не перетворювати каталог на словник;
+- rare literary forms можуть залишатися в REFERENCE-секціях відповідних tense/mood topics;
+- regional French не потребує окремого ID для кожної країни/регіону понад уже визначений comparative variation layer.
+
+### Підсумкове рішення про повноту
+
+Після цього gap-audit каталог **FR-001–FR-732** можна вважати достатнім canonical scope для початку системного переписування банку статей.
+
+Це твердження означає **system-level completeness**, а не твердження, що неможливо знайти ще один рідкісний мікрофеномен французької. Надалі новий topic ID додається лише тоді, коли зовнішній authoritative/reference audit показує, що явище:
+
+1. має самостійну граматичну або конструкційну функцію;
+2. не покривається адекватно існуючим topic ID;
+3. має окрему навчальну або довідкову цінність для користувача;
+4. не є лише прикладом, винятком чи словниковою лексемою.
+
+### Зовнішня перевірка
+
+Повторна перевірка охопила:
+
+- French Grammar and Usage, 5th ed. (2025) — сучасний comprehensive guide до писемної та усної французької; його зміст окремо охоплює nouns, determiners, pronouns, adjectives, adverbs, numbers/measurements/time/quantifiers, verb forms/constructions, agreement, tense, subjunctive/modal verbs/exclamatives/imperatives, infinitive, prepositions, questions, relatives, negation, linking constructions та orthographic conventions.
+- Advanced French Grammar — окремо виділяє framework, pronunciation/spelling/registers/punctuation, усю дієслівну систему, active/passive, impersonal verbs, pronominal verbs, modals, determiners, prepositions та sentence/text layers.
+- A Reference Grammar of French — окремо виділяє impersonal verbs, perception + infinitive/subordinate clause, time clauses, complex verbal expressions, movement verbs, subjunctive, personal/object pronouns, en/y, possessives, body parts/clothes, relatives, interrogatives, inversion, adjectives/adverbs, comparison/superlatives та prepositions.
+- Сучасне дослідження 2026 року додатково підтверджує, що конструкції з perception verbs та infinitival/complement/relative structures є самостійно значущою частиною французького синтаксису й дискурсивної інтерпретації.
+
+**Висновок:** після додавання FR-719–FR-732 каталог готовий бути основою grammar-manifest.mjs. Наступний аудит має бути вже не «яких тем ми забули?», а «чи кожна canonical topic правильно замаплена на існуючий матеріал, рівень, prerequisites, contrastive layer, register та якість статті?»
