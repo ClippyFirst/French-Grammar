@@ -7,6 +7,7 @@ order: 28
 prerequisites:
   - present
 related:
+  - pronouns-infinitive
   - pronominal-verbs
   - faire
   - imperatif
@@ -15,7 +16,9 @@ related:
   - pronoun-order
 contrast:
   - present
+  - pronoun-order
 next:
+  - pronouns-infinitive
   - pronominal-verbs
 aliases:
   - infinitif
@@ -140,7 +143,13 @@ featured: false
 
 > **Nous devons nous lever.**
 
-Це важливо відрізняти від займенника при особовому дієслові.
+Однак у конструкціях із двома дієсловами займенник не обов'язково належить інфінітиву. Порівняйте:
+
+> **Je lui demande de venir.** — *lui* належить *demande*.
+
+> **Je veux lui parler.** — *lui* належить *parler*.
+
+Докладніше див. [Займенники з інфінітивом](./pronouns-infinitive).
 
 ## 8. Aller + infinitif
 
@@ -156,7 +165,7 @@ featured: false
 
 Тут інфінітив входить до каузативної конструкції. Виконавець інфінітивної дії може відрізнятися від підмета **faire**.
 
-Докладніше див. [Faire](./faire).
+Докладніше див. [Faire](./faire) та [Займенники з інфінітивом](./pronouns-infinitive).
 
 ## 10. Інфінітив та українська
 
@@ -196,8 +205,8 @@ featured: false
 2. встановіть, чи керує воно інфінітивом без прийменника;
 3. якщо є **à / de / pour / sans**, перевірте модель керування;
 4. визначте, хто виконує інфінітивну дію;
-5. перевірте позицію clitic-займенників;
-6. якщо це **aller + infinitif** або **faire + infinitif**, аналізуйте всю перифразу.
+5. якщо є клітики, визначте, до якого дієслова вони належать;
+6. якщо це **aller + infinitif**, **faire + infinitif** або **laisser + infinitif**, аналізуйте всю перифразу.
 
 ## Типові помилки
 
@@ -227,6 +236,7 @@ featured: false
 ## Куди далі
 
 - [Faire](./faire)
+- [Займенники з інфінітивом](./pronouns-infinitive)
 - [Порядок займенників](./pronoun-order)
 - [Прийменник à](./prepositions-a)
 - [Прийменник de](./prepositions-de)
