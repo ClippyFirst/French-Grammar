@@ -6,12 +6,12 @@ category: pronouns
 order: 2
 prerequisites:
   - pronouns-cod
-  - prepositions-a
+  - prepositions-a-a
 related:
   - pronoun-order
   - y-en
   - accord
-  - prepositions
+  - prepositions-a
 contrast:
   - pronouns-cod
 next:
