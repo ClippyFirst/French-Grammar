@@ -90,7 +90,7 @@
 
 ## Task 4: Core verb and tense cluster
 
-**Progress:** present, passé composé, imparfait, passé composé/imparfait contrast, plus-que-parfait, and canonical metadata for futur simple/conditionnel pages are now aligned; the remaining tense/mood system is still open.
+**Progress:** present, passé composé, imparfait, passé composé/imparfait contrast, plus-que-parfait, futur proche, futur antérieur, and canonical metadata for futur simple/conditionnel pages are now aligned; the remaining tense/mood system is still open.
 
 **Files:**
 - Modify: `src/content/fr/present.md`
@@ -108,7 +108,7 @@
 
 ## Task 5: Pronoun and valency cluster
 
-**Progress:** COD, COI, y/en, clitic order, demonstrative pronouns, and possessive pronouns now have first-pass reference-standard rewrites; reflexive/pronominal systems and remaining pronoun coverage remain.
+**Progress:** COD, COI, y/en, clitic order, demonstrative pronouns, possessive pronouns, and relative pronouns now have first-pass reference-standard coverage; reflexive/pronominal systems and remaining pronoun coverage remain.
 
 **Files:**
 - Modify: `src/content/fr/pronouns-cod.md`
@@ -121,12 +121,12 @@
 - [ ] Explain COD/COI through French valency, not Ukrainian question-word shortcuts.
 - [x] Document clitic position across simple verbs, compound tenses, infinitives, negation, and affirmative/negative imperative.
 - [ ] Separate `y/en` functions from ordinary COD/COI.
-- [ ] Preserve and refine strong relative-pronoun material.
+- [x] Preserve and refine strong relative-pronoun material.
 - [ ] Verify all remaining pronoun combinations and examples; first-pass COD/COI/y-en/order coverage is now in place.
 
 ## Task 6: Syntax, questions, negation, subordination
 
-**Progress:** questions, negation and subjonctif metadata/content alignment started; deeper syntax rewrite remains.
+**Progress:** questions, negation, subjonctif, indirect speech, passive, si-clauses and temporal conjunctions have now received first-pass alignment; deeper syntax rewrite remains.
 
 **Files:**
 - Modify: `src/content/fr/questions.md`
