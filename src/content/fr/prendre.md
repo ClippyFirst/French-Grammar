@@ -11,7 +11,7 @@ prerequisites:
   - verb-groups
 related:
   - mettre
-  - voir
+  - voir-croire
   - pronouns-cod
   - prepositions-a
   - passe-compose
