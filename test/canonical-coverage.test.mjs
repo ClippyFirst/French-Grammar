@@ -67,3 +67,13 @@ test('parseStatus normalizes legacy status values', () => {
   assert.equal(parseStatus('status: DONE'), 'release-ready');
   assert.equal(parseStatus('status: deprecated'), 'deprecated');
 });
+
+
+test('auditCanonicalCoverage detects a non-contiguous canonical catalog', () => {
+  const result = auditCanonicalCoverage({
+    catalogIds: ['FR-001', 'FR-003'],
+    files: [],
+  });
+
+  assert.deepEqual(result.catalogGaps, ['FR-002']);
+});
