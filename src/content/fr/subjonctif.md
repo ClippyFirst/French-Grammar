@@ -1,15 +1,43 @@
 ---
 title_uk: "Subjonctif — підрядний спосіб"
 title_fr: "Le subjonctif"
-description_uk: "Системний довідник про subjonctif: утворення, синтаксичні середовища, alternance indicatif/subjonctif, passé та типові пастки."
-category: grammar
+description_uk: "Утворення subjonctif, синтаксичні середовища, alternance indicatif/subjonctif, passé та типові межі правила."
+category: moods
 order: 70
-related:
+prerequisites:
   - present
+  - complex-sentences
+related:
   - conditionnel-present
   - negation
   - questions
-tags: [subjonctif, підрядний спосіб, спосіб, que]
+  - conjunctions
+  - indirect-speech
+contrast:
+  - conditionnel-present
+next:
+  - conditionnel-present
+aliases:
+  - subjonctif
+  - subjunctive
+  - підрядний спосіб
+tags:
+  - subjonctif
+  - підрядний спосіб
+  - que
+  - спосіб
+level: B2
+depth: high
+register: neutral
+variety:
+  - FR
+contrastive_uk: high
+status: review
+sources:
+  - "Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue"
+reviewed_at: "2026-09-25"
+formula: true
+toc: true
 ---
 
 # Subjonctif — підрядний спосіб
