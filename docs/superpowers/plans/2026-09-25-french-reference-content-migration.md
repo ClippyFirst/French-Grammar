@@ -174,3 +174,15 @@
 - [ ] Run the repository's available content/audit scripts if present.
 - [ ] Inspect the final diff and verify no unrelated UI/architecture changes slipped into the content branch.
 - [ ] Keep unresolved linguistic questions at `review`; only mark `release-ready` after all relevant gates pass.
+
+
+## Continuation — morphology and orthography pass (2026-09-25)
+
+- Rewrote **gender-patterns** as a cautious morphology reference: suffix patterns are treated as probabilistic/lexical evidence rather than absolute rules.
+- Rewrote **irregular-plurals** to separate productive patterns (-eau/-au, -eu, -al, -ail, -ou) from lexical exceptions and semantic double plurals.
+- Rewrote **h-muet-aspire** after correcting substantive errors in the legacy article; the new reference distinguishes phonological absence of [h] from the boundary function of *h aspiré* and makes dictionary lookup explicit.
+- Added canonical **verb-groups** and **verb-orthographic-alternations** references for the missing verb-morphology layer.
+- Connected **present** to the new verb-morphology nodes.
+- Academic Writing Toolkit was run on the new morphology/orthography articles. Its findings are overwhelmingly the expected short-paragraph heuristic for reference-style examples, tables, and compact contrasts; no paragraph-logic defect was identified from that signal alone.
+- External normative spot-checks were performed for *h muet/h aspiré*, plural patterns, and orthographic alternations using current Académie française material.
+- These articles remain `status: review` pending corpus-wide schema/graph/build QA.
