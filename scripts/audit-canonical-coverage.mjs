@@ -5,6 +5,7 @@ import {
   formatCoverageReport,
   parseCanonicalIds,
   parseCatalogIds,
+  parseStatus,
 } from './lib/canonical-coverage.mjs';
 
 const root = process.cwd();
@@ -23,6 +24,7 @@ const files = fs.readdirSync(contentDir, { withFileTypes: true })
     return {
       path: path.relative(root, filePath).replaceAll(path.sep, '/'),
       canonicalIds: parseCanonicalIds(source),
+      status: parseStatus(source),
     };
   });
 
@@ -31,7 +33,7 @@ process.stdout.write(formatCoverageReport(result));
 
 if (
   strict &&
-  (result.missing.length > 0 || result.invalid.length > 0 || result.duplicates.length > 0)
+  (result.missing.length > 0 || result.invalid.length > 0 || result.duplicates.length > 0 || result.duplicateCatalogIds.length > 0 || result.duplicateFileMappings.length > 0 || result.deprecatedMappings.length > 0)
 ) {
   process.exitCode = 1;
 }
