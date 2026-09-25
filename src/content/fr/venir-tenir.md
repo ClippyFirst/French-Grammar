@@ -16,7 +16,6 @@ related:
   - pouvoir
 contrast:
   - aller
-  - partir
 next:
   - prendre
 aliases:
