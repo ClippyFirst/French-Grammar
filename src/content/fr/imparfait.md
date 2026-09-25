@@ -4,6 +4,9 @@ title_fr: "L’imparfait"
 description_uk: "Утворення imparfait та його значення: фон, стан, звичка, повторюваність, процес і гіпотетичні умови."
 category: tenses
 order: 30
+canonical_ids:
+  - FR-344
+  - FR-345
 prerequisites:
   - present
 related:
