@@ -3,6 +3,7 @@ title_uk: "Прономінальні дієслова"
 title_fr: "Les verbes pronominaux"
 description_uk: "Системний довідник про se-конструкції: рефлексивні, взаємні, пасивні та лексикалізовані вживання, керування й позицію займенника."
 category: verbs
+canonical_ids: [FR-320]
 order: 70
 prerequisites:
   - pronouns-personal
