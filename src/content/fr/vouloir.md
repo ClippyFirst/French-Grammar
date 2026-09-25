@@ -17,7 +17,7 @@ related:
   - questions
 contrast:
   - pouvoir
-  - souhaiter
+  - devoir
 next:
   - savoir
 aliases:
