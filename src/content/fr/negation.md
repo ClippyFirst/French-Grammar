@@ -8,6 +8,7 @@ prerequisites:
   - present
   - pronouns-subject
 related:
+  - ne-expletif
   - questions
   - articles-after-negation
   - articles-indefinite
