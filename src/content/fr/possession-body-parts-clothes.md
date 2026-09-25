@@ -4,7 +4,7 @@ title_fr: "Possession, articles définis et parties du corps / vêtements"
 description_uk: "Коли французька використовує означений артикль замість присвійного визначника з частинами тіла, одягом і звичними діями."
 category: nouns
 order: 81
-canonical_ids: ["FR-726", "FR-727"]
+canonical_ids: ["FR-080", "FR-099"]
 prerequisites:
   - articles-definite
   - pronouns-possessive
