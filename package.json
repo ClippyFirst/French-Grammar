@@ -10,7 +10,8 @@
     "preview": "astro preview",
     "astro": "astro",
     "pagefind": "pagefind",
-    "test": "node --test"
+    "test": "node --test",
+    "audit:canonical": "node scripts/audit-canonical-coverage.mjs"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.2.1",
