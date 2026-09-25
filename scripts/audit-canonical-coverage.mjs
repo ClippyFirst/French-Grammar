@@ -33,7 +33,7 @@ process.stdout.write(formatCoverageReport(result));
 
 if (
   strict &&
-  (result.missing.length > 0 || result.invalid.length > 0 || result.duplicates.length > 0 || result.duplicateCatalogIds.length > 0 || result.duplicateFileMappings.length > 0 || result.deprecatedMappings.length > 0)
+  (result.catalogGaps.length > 0 || result.missing.length > 0 || result.invalid.length > 0 || result.duplicates.length > 0 || result.duplicateCatalogIds.length > 0 || result.duplicateFileMappings.length > 0 || result.deprecatedMappings.length > 0)
 ) {
   process.exitCode = 1;
 }
