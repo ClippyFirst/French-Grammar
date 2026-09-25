@@ -1,18 +1,22 @@
 ---
-title_uk: "Неозначений артикл"
-title_fr: "Les articles indéfinis"
-description_uk: "Неозначений артикл (un, une, des) використовується для одного невизначеного об'єкта або декількох роздлянних."
+title_uk: "Неозначений артикль — застаріла сторінка"
+title_fr: "Les articles indéfinis — page héritée"
+description_uk: "Застаріла сторінка. Актуальний системний довідник див. у articles-indefinite."
 category: nouns
-order: 7
+order: 999
 related:
-  - nouns/definite-articles
-  - nouns/partitive-articles
-  - nouns/articles-with-quantities
-tags:
-  - indefinite-articles
-  - articles
-  - determiners
+  - articles-indefinite
+status: deprecated
+level: A1
+depth: short
+register: neutral
+variety:
+  - FR
+contrastive_uk: low
+sources:
+  - "Legacy content retained only for migration compatibility."
 ---
+
 
 ## Швидко
 
