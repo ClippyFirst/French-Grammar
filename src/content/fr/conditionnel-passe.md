@@ -10,6 +10,14 @@ related:
   - futur-anterieur
   - passe-compose
 tags: [conditionnel passé, умовний спосіб, гіпотеза, минуле]
+level: B2
+depth: high
+register: neutral
+variety: FR
+contrastive_uk: high
+status: review
+sources:
+  - "Académie française, Questions de langue"
 ---
 
 # Conditionnel passé
