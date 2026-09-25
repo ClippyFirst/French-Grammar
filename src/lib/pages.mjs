@@ -60,7 +60,8 @@ export function relatedFor(all, category, refs) {
     .map((ref) => {
       const slash = ref.indexOf('/');
       if (slash === -1) {
-        return all.find((e) => slugFromId(e.id) === ref);
+        const matches = all.filter((e) => slugFromId(e.id) === ref);
+        return matches.length === 1 ? matches[0] : undefined;
       }
 
       const rcat = ref.slice(0, slash);
