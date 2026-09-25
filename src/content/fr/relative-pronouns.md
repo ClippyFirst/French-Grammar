@@ -1,16 +1,38 @@
 ---
-title_uk: "Відносні займенники: qui, que, dont, où, lequel, ce qui / ce que / ce dont"
+title_uk: "Відносні займенники — qui, que, dont, où, lequel та ce-структури"
 title_fr: "Les pronoms relatifs"
-description_uk: "Системне пояснення відносних займенників у французькій: синтаксична функція, прийменникові конструкції, dont, lequel, ce qui/ce que/ce dont та типові помилки україномовних учнів."
+description_uk: "Системний довідник про синтаксичну функцію qui, que, dont, où, lequel і ce qui / ce que / ce dont, а також про прийменникові конструкції."
 category: pronouns
 order: 70
+prerequisites:
+  - pronouns-subject
+  - pronouns-cod
+  - pronouns-coi
 related:
   - pronouns-cod
   - pronouns-coi
   - pronoun-order
+  - pronouns-demonstrative
   - prepositions-a
   - prepositions-de
+  - complex-sentences
+contrast:
+  - pronouns-cod
+  - pronouns-coi
+next:
+  - complex-sentences
+aliases: ["pronoms relatifs", "відносні займенники", "qui que dont où lequel"]
 tags: [відносні займенники, qui, que, dont, où, lequel, ce qui, ce que, ce dont]
+level: B1
+depth: high
+register: neutral
+variety: [FR]
+status: review
+contrastive_uk: high
+sources: ["Académie française — Questions de langue"]
+formula: false
+toc: true
+featured: false
 ---
 
 # Відносні займенники
