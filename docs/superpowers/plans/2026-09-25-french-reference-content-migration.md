@@ -90,7 +90,7 @@
 
 ## Task 4: Core verb and tense cluster
 
-**Progress:** present, passé composé, imparfait, passé composé/imparfait contrast, plus-que-parfait, futur proche, futur antérieur, and canonical metadata for futur simple/conditionnel pages are aligned. The core **être** reference has now also been rewritten to separate copular, locative, impersonal, and auxiliary uses; the remaining tense/mood system is still open.
+**Progress:** present, passé composé, imparfait, passé composé/imparfait contrast, plus-que-parfait, futur proche, futur antérieur, and canonical metadata for futur simple/conditionnel pages are aligned. The core **être** reference has now also been rewritten to separate copular, locative, impersonal, and auxiliary uses. The core **avoir / aller / faire** references have now been rewritten as canonical system articles; the remaining tense/mood system is still open.
 
 **Files:**
 - Modify: `src/content/fr/present.md`
@@ -104,11 +104,11 @@
 - [x] Use contrastive minimal pairs for passé composé/imparfait and connect the contrast to the tense pages.
 - [x] Document auxiliary choice and participle agreement without collapsing distinct rules in the core être/passe composé cluster.
 - [ ] Mark future/reference uses of present explicitly.
-- [ ] Verify irregular paradigms and orthographic alternations.
+- [x] Verify the main irregular paradigms and orthographic alternations in the rewritten être / avoir / aller / faire cluster; corpus-wide verb QA remains.
 
 ## Task 5: Pronoun and valency cluster
 
-**Progress:** COD, COI, y/en, clitic order, demonstrative pronouns, possessive pronouns, and relative pronouns have first-pass reference-standard coverage. A dedicated **pronominal-verbs** article and a dedicated **pronominal-participe-agreement** reference are now added, and the broad personal-pronoun article has been reduced to a system overview; remaining pronoun coverage and deeper valency work remain.
+**Progress:** COD, COI, y/en, clitic order, demonstrative pronouns, possessive pronouns, and relative pronouns have first-pass reference-standard coverage. A dedicated **pronominal-verbs** article and a dedicated **pronominal-participe-agreement** reference are now added, and the broad personal-pronoun article has been reduced to a system overview; the new infinitive, participe présent and gérondif references extend the verb/non-finite cluster; remaining pronoun coverage and deeper valency work remain.
 
 **Files:**
 - Modify: `src/content/fr/pronouns-cod.md`
