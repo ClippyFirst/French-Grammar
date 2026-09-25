@@ -9,6 +9,7 @@ prerequisites:
   - avoir
   - etre
 related:
+  - passe-simple
   - imparfait
   - passe-compose-vs-imparfait
   - plus-que-parfait
