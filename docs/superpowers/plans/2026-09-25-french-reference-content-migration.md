@@ -306,3 +306,30 @@ The articles remain deliberately system-level rather than artificial micro-pages
 Academic Writing Toolkit review of representative excerpts found no substantive paragraph-logic defects. Short-paragraph findings occurred only in compact reference-style prose and were not treated as a reason to inflate the articles.
 
 The next pass should continue from the actual canonical catalog, filling the highest-value unmapped topics while avoiding unsupported taxonomy expansion.
+
+## Continuation — infinitive/construction gap pass (2026-09-25)
+
+Filled the remaining canonical topics in the FR-719–FR-732 extension that were not yet represented by an explicit article:
+
+- `movement-verbs-infinitive.md` → FR-720.
+- `perception-verbs-infinitive.md` → FR-721.
+- `causative-faire-infinitive.md` → FR-722.
+- `laisser-infinitive.md` → FR-723.
+- `infinitive-control.md` → FR-724.
+- `defective-verbs.md` → FR-725 (REFERENCE scope).
+- Existing `possession-body-parts-clothes.md` retained as the canonical combined mapping for FR-726/FR-727; a duplicate newly-created file was removed.
+- Existing `interrogative-adverbs.md` normalized to FR-728.
+- Existing `exclamatives.md` remains FR-729.
+- `inversion-outside-questions.md` → FR-730.
+- Existing `avoir-beau.md` remains FR-731.
+- `inclusive-writing.md` → FR-732 (REFERENCE scope).
+
+The pass keeps FR-726/FR-727 together because the two topics form one coherent reference problem around possession, definiteness, body parts and clothing; this follows the catalog's granularity rule rather than mechanically producing one file per ID.
+
+The reciprocal article ordering was also corrected so FR-679 is ordered before FR-680.
+
+Source grounding for the higher-risk construction claims used current Académie française material and the 5th edition of *French Grammar and Usage* (2025). The inclusive-writing article deliberately distinguishes grammatical description, administrative rules and institutional positions instead of presenting a contested usage policy as a universal linguistic fact.
+
+Academic Writing Toolkit review of the combined new/affected prose produced the expected short-paragraph heuristic for compact reference prose, examples and tables; no substantive paragraph-logic defect was identified by that tool.
+
+All affected content remains `status: review`. Repository-wide build/test execution is still unverified in this environment; the latest commit has no reported GitHub Actions workflow run or status check.
