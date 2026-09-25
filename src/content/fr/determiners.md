@@ -11,6 +11,8 @@ related:
   - articles-definite
   - articles-indefinite
   - articles-partitive
+  - determiners-interrogative
+  - determiners-indefinite
   - pronouns-demonstrative
   - pronouns-possessive
   - quantifiers
