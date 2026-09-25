@@ -6,7 +6,7 @@ category: moods
 order: 70
 prerequisites:
   - present
-  - complex-sentences
+  - present
 related:
   - conditionnel-present
   - negation
