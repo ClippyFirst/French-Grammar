@@ -11,7 +11,6 @@ related:
   - aller
   - passive
   - pronominal-verbs
-  - infinitive
 contrast:
   - avoir
 next:
