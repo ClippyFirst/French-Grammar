@@ -16,7 +16,7 @@ prerequisites:
   - word-order
   - questions
   - pronoun-order
-  - c-est
+  - presentatives
 related:
   - sentence-structure
   - word-order
