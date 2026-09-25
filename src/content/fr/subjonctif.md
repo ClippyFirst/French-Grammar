@@ -11,7 +11,7 @@ related:
   - conditionnel-present
   - negation
   - questions
-  - conjunctions
+  - complex-sentences
   - indirect-speech
 contrast:
   - conditionnel-present
