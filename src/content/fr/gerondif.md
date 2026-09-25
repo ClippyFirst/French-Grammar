@@ -9,6 +9,7 @@ prerequisites:
   - infinitive
 related:
   - passe-compose
+  - participe-present
   - temporal-conjunctions
   - si-clauses
 contrast:
