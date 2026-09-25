@@ -1,14 +1,34 @@
 ---
-title_uk: "Пасивний стан"
+title_uk: "Пасивний стан — voix passive"
 title_fr: "La voix passive"
-description_uk: "Утворення пасиву з être, узгодження participe passé, агент par/de та альтернативи пасивній конструкції."
+description_uk: "Утворення й уживання пасиву з être, узгодження participe passé, вираження агента та французькі альтернативи пасивній конструкції."
 category: passive
 order: 10
-related:
-  - passe-compose
+prerequisites:
+  - present
+  - etre
   - accord
+related:
+  - accord
+  - passe-compose
   - prepositions-de
-tags: [пасив, voix passive, être, par]
+  - pronouns-personal
+contrast:
+  - present
+next:
+  - accord
+aliases: ["voix passive", "пасив", "пасивний стан"]
+tags: [voix passive, пасив, être, participe passé, agent]
+level: B1
+depth: high
+register: neutral
+variety: [FR]
+status: review
+contrastive_uk: medium
+sources: ["Académie française — Questions de langue"]
+formula: true
+toc: true
+featured: false
 ---
 
 # Пасивний стан
