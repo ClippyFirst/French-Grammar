@@ -200,7 +200,7 @@ featured: false
 
 > ❌ **Je demande où habites-tu.**
 
-Академія французької мови прямо застерігає від перенесення інверсії прямого питання в непряме. citeturn0search2turn0search1
+Академія французької мови прямо застерігає від перенесення інверсії прямого питання в непряме.
 
 ## Питальні слова
 
@@ -423,7 +423,7 @@ featured: false
 
 Це передусім наративний та стилістичний засіб, а не базова модель для механічної трансформації речень.
 
-Cambridge окремо розрізняє direct reported speech, indirect reported speech та free indirect reported speech. citeturn0search0
+Cambridge окремо розрізняє direct reported speech, indirect reported speech та free indirect reported speech.
 
 ---
 
