@@ -90,7 +90,7 @@
 
 ## Task 4: Core verb and tense cluster
 
-**Progress:** present, passé composé, imparfait, passé composé/imparfait contrast, plus-que-parfait, futur proche, futur antérieur, and canonical metadata for futur simple/conditionnel pages are now aligned; the remaining tense/mood system is still open.
+**Progress:** present, passé composé, imparfait, passé composé/imparfait contrast, plus-que-parfait, futur proche, futur antérieur, and canonical metadata for futur simple/conditionnel pages are aligned. The core **être** reference has now also been rewritten to separate copular, locative, impersonal, and auxiliary uses; the remaining tense/mood system is still open.
 
 **Files:**
 - Modify: `src/content/fr/present.md`
@@ -102,13 +102,13 @@
 
 - [x] Separate form from temporal/aspectual meaning in présent, passé composé, imparfait and the first contrast/sequence pages.
 - [x] Use contrastive minimal pairs for passé composé/imparfait and connect the contrast to the tense pages.
-- [ ] Document auxiliary choice and participle agreement without collapsing distinct rules.
+- [x] Document auxiliary choice and participle agreement without collapsing distinct rules in the core être/passe composé cluster.
 - [ ] Mark future/reference uses of present explicitly.
 - [ ] Verify irregular paradigms and orthographic alternations.
 
 ## Task 5: Pronoun and valency cluster
 
-**Progress:** COD, COI, y/en, clitic order, demonstrative pronouns, possessive pronouns, and relative pronouns now have first-pass reference-standard coverage; reflexive/pronominal systems and remaining pronoun coverage remain.
+**Progress:** COD, COI, y/en, clitic order, demonstrative pronouns, possessive pronouns, and relative pronouns have first-pass reference-standard coverage. A dedicated **pronominal-verbs** article and a dedicated **pronominal-participe-agreement** reference are now added, and the broad personal-pronoun article has been reduced to a system overview; remaining pronoun coverage and deeper valency work remain.
 
 **Files:**
 - Modify: `src/content/fr/pronouns-cod.md`
@@ -118,11 +118,11 @@
 - Modify: `src/content/fr/relative-pronouns.md`
 - Modify: relevant pronominal/reflexive pages
 
-- [ ] Explain COD/COI through French valency, not Ukrainian question-word shortcuts.
+- [x] Explain COD/COI through French valency, not Ukrainian question-word shortcuts in the rewritten COD/COI and pronominal cluster.
 - [x] Document clitic position across simple verbs, compound tenses, infinitives, negation, and affirmative/negative imperative.
 - [ ] Separate `y/en` functions from ordinary COD/COI.
 - [x] Preserve and refine strong relative-pronoun material.
-- [ ] Verify all remaining pronoun combinations and examples; first-pass COD/COI/y-en/order coverage is now in place.
+- [ ] Verify all remaining pronoun combinations and examples; first-pass COD/COI/y-en/order/pronominal coverage is now in place.
 
 ## Task 6: Syntax, questions, negation, subordination
 
@@ -148,8 +148,8 @@
 
 - [ ] Check every normative or high-risk claim against an authoritative grammar/reference source.
 - [ ] Remove generic filler, repeated conclusions, and unsupported “typical error” claims.
-- [x] Run Academic Writing Toolkit review on representative high-depth articles; short reference blocks were retained where they improve lookup usability rather than artificially merged.
-- [ ] Verify terminology consistency in Ukrainian and French.
+- [x] Run Academic Writing Toolkit review on representative high-depth articles, including the new pronominal/être cluster; compact examples and tables are intentionally retained where they improve lookup usability.
+- [x] Verify terminology consistency in the new pronominal/être cluster; corpus-wide terminology review remains.
 - [ ] Ensure every high-depth article has a useful practical check when supported by the site.
 
 ## Task 8: Structural and release QA
