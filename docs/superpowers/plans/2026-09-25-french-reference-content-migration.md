@@ -243,3 +243,16 @@ The canonical coverage audit tooling added in this continuation will distinguish
 - files without explicit canonical identity.
 
 This makes the remaining migration measurable without inventing taxonomy coverage.
+
+
+## Continuation — executable canonical coverage gate (2026-09-25)
+
+The coverage model is now executable rather than only documentary.
+
+- `scripts/lib/canonical-coverage.mjs` parses the canonical catalog and article frontmatter and reports coverage, missing IDs, invalid IDs, duplicate mappings, and files without explicit identity.
+- `scripts/audit-canonical-coverage.mjs` is the repository CLI entry point.
+- `npm run audit:canonical` exposes the audit locally.
+- `test/canonical-coverage.test.mjs` was written before the implementation and covers both multiline and inline `canonical_ids`, plus missing/invalid/duplicate cases.
+- Because the current execution environment cannot clone/install the repository dependencies, this turn does **not** claim a successful local test or build run. The implementation has instead been checked against the repository files through GitHub and the test cases were kept deliberately dependency-free.
+
+The explicit mappings introduced in the latest gap pass now point only to IDs that actually exist in the FR-001–FR-718 catalog. The two new system-level references without an exact existing topic identity remain unmapped by design until the taxonomy itself is reviewed.
