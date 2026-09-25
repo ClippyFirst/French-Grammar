@@ -4,6 +4,9 @@ title_fr: "Le passé antérieur"
 description_uk: "Довідник про passé antérieur, його утворення з avoir/être та функцію для події, що передує іншій події, вираженій passé simple."
 category: tenses
 order: 351
+canonical_ids:
+  - FR-351
+  - FR-352
 prerequisites:
   - passe-simple
   - passe-compose
