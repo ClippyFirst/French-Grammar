@@ -3,6 +3,7 @@ title_uk: "Безособові конструкції та дієслова: il
 title_fr: "Les constructions impersonnelles"
 description_uk: "Як французька оформлює безособові ситуації за допомогою il, il y a, il faut, погодних дієслів та безособових конструкцій."
 category: verbs
+canonical_ids: [FR-321]
 order: 82
 prerequisites:
   - present
