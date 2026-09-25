@@ -7,6 +7,7 @@ order: 30
 prerequisites:
   - present
 related:
+  - passe-simple
   - passe-compose
   - passe-compose-vs-imparfait
   - plus-que-parfait
