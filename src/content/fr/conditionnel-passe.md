@@ -4,6 +4,9 @@ title_fr: "Le conditionnel passé"
 description_uk: "Формування й основні значення conditionnel passé: нереалізована умова, минула можливість, жаль, докір та дистанційоване повідомлення."
 category: moods
 order: 31
+canonical_ids:
+  - FR-370
+  - FR-371
 related:
   - conditionnel-present
   - plus-que-parfait
