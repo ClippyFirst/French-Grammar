@@ -14,6 +14,14 @@ canonical_ids:
   assert.deepEqual(parseCanonicalIds(source), ['FR-001', 'FR-014']);
 });
 
+test('parseCanonicalIds also extracts inline arrays', () => {
+  const source = `---
+canonical_ids: ["FR-439", "FR-440"]
+---
+`;
+  assert.deepEqual(parseCanonicalIds(source), ['FR-439', 'FR-440']);
+});
+
 test('auditCanonicalCoverage reports missing, invalid and duplicate mappings', () => {
   const result = auditCanonicalCoverage({
     catalogIds: ['FR-001', 'FR-002', 'FR-003'],
