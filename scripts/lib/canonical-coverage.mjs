@@ -28,6 +28,19 @@ export function parseStatus(source) {
 
 export function auditCanonicalCoverage({ catalogIds, files }) {
   const catalog = new Set(catalogIds);
+  const catalogNumbers = catalogIds
+    .map((id) => Number(id.slice(3)))
+    .filter(Number.isInteger)
+    .sort((a, b) => a - b);
+  const catalogGaps = [];
+  if (catalogNumbers.length) {
+    const min = catalogNumbers[0];
+    const max = catalogNumbers[catalogNumbers.length - 1];
+    const presentNumbers = new Set(catalogNumbers);
+    for (let n = min; n <= max; n += 1) {
+      if (!presentNumbers.has('FR-' + String(n).padStart(3, '0'))) catalogGaps.push('FR-' + String(n).padStart(3, '0'));
+    }
+  }
   const catalogCounts = new Map();
   for (const id of catalogIds) catalogCounts.set(id, (catalogCounts.get(id) ?? 0) + 1);
   const duplicateCatalogIds = [...catalogCounts.entries()]
@@ -80,6 +93,7 @@ export function auditCanonicalCoverage({ catalogIds, files }) {
 
   return {
     catalogCount: catalog.size,
+    catalogGaps,
     coveredCount: covered.length,
     duplicateCatalogIds,
     duplicateFileMappings,
