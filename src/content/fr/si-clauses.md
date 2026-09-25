@@ -1,17 +1,39 @@
 ---
-title_uk: "Умовні речення: si + час — реальна, гіпотетична та нереальна умова"
+title_uk: "Умовні речення з si — реальні, гіпотетичні та нереалізовані умови"
 title_fr: "Les phrases avec si"
-description_uk: "Системний довідник про умовні конструкції з si: реальні та гіпотетичні умови, нереальні ситуації в минулому, змішані умовні речення, часову перспективу, futur antérieur та типові помилки україномовних учнів."
-category: syntax
+description_uk: "Системний довідник про si-clauses: відкриті умови, гіпотези, нереалізоване минуле, змішані умови та відмінність si «якщо» від si «чи»."
+category: complex
 order: 115
+prerequisites:
+  - present
+  - imparfait
+  - plus-que-parfait
+  - conditionnel-present
 related:
   - conditionnel-present
   - conditionnel-passe
   - imparfait
   - plus-que-parfait
   - futur-simple
+  - futur-anterieur
   - futur-proche
-tags: [si, умовні речення, conditionnel, imparfait, plus-que-parfait, futur antérieur, умова]
+  - questions
+contrast:
+  - indirect-speech
+next:
+  - conditionnel-present
+aliases: ["si-clauses", "phrases avec si", "умовні речення"]
+tags: [si, умовні речення, conditionnel, imparfait, plus-que-parfait, futur antérieur]
+level: B1
+depth: high
+register: neutral
+variety: [FR]
+status: review
+contrastive_uk: high
+sources: ["Académie française — Questions de langue"]
+formula: false
+toc: true
+featured: false
 ---
 
 # Умовні речення з **si**
