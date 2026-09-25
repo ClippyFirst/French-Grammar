@@ -6,7 +6,7 @@ category: pronouns
 order: 2
 prerequisites:
   - pronouns-cod
-  - prepositions-a-a
+  - prepositions-a
 related:
   - pronoun-order
   - y-en
