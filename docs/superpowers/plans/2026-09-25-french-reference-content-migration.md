@@ -207,3 +207,23 @@
 - Rewrote the previously legacy-quality `liaison`, `elision`, `comparative-superlative`, `compound-nouns`, `enchainement`, `prepositions-basics`, and `prepositions-place` references to the current methodology; repaired affected prerequisite/related edges.
 - Academic Writing Toolkit paragraph-logic checks found no logical defects in the focused rewritten prose; short-paragraph flags were treated as the expected reference-style heuristic rather than a reason to inflate prose.
 - Full repository build is still not claimed because this environment cannot establish a working dependency installation from GitHub; release-ready remains blocked on technical build verification and final whole-branch review.
+
+## Continuation — canonical gap pass and identity metadata (2026-09-25)
+
+This pass moved from individual legacy rewrites toward explicit coverage of the remaining system-level gaps identified in the FR-719–FR-740 extension.
+
+- Added **verbal-periphrases.md** for FR-719/FR-720, with explicit separation of genuine/functional verbal periphrases from the broader class of V + infinitive constructions.
+- Added **avoir-beau.md** for FR-731, treating *avoir beau + infinitif* as a concessive construction rather than a literal use of *avoir* + adjective.
+- Added **possession-body-parts-clothes.md** for FR-726/FR-727, with the definite-article pattern, contrastive possessive use, and interaction with pronominal verbs and participle agreement.
+- Added **exclamatives.md** for FR-439/FR-440/FR-729, including *quel*, *comme*, *que*, inversion, intonation and punctuation.
+- Added **phrase-enonce.md** for FR-733/FR-734, separating *phrase*, *énoncé* and *énonciation* and adding an oral-language boundary layer.
+- Added **deixis.md** for FR-736, covering person, space, time and textual deixis.
+- Added **address-interjections.md** for FR-737/FR-738, separating address terms, interjections and discourse particles from ordinary sentence constituents.
+- Added **prosody.md** for FR-739, treating prosody as a grammatical/discourse resource rather than merely pronunciation.
+- Added optional `canonical_ids` metadata to the content contract. New gap-pass articles explicitly declare the canonical IDs they cover; multi-topic references may map several tightly coupled IDs to one article.
+- Strengthened `relatedFor` so an unnamespaced slug resolves only when unique; ambiguous plain slugs are rejected instead of silently selecting the first match. Added a regression test for this case.
+- Academic Writing Toolkit paragraph-logic review of the new references found no substantive logical defects; the only findings were the known short-paragraph heuristic on compact reference-style prose.
+- External source checks were used for the new high-risk claims, especially exclamatives, possession with body parts, verbal periphrases and the phrase/énoncé/discourse layer.
+- All new material remains `status: review`.
+
+The remaining release gate is still the corpus-wide mapping of all FR-001–FR-740 topics to canonical articles/sections, not further uncontrolled topic expansion.
