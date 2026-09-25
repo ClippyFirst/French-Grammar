@@ -4,6 +4,10 @@ title_fr: "Le conditionnel présent"
 description_uk: "Повний довідник про conditionnel présent: утворення від основи futur simple, значення гіпотези, наслідку, ввічливості, бажання та майбутнього в минулому, а також контраст з futur, imparfait і conditionnel passé."
 category: moods
 order: 110
+canonical_ids:
+  - FR-367
+  - FR-368
+  - FR-369
 related:
   - futur-dans-passe
   - si-clauses
