@@ -1,124 +1,199 @@
 ---
 title_uk: "Заперечення у французькій"
 title_fr: "La négation"
-description_uk: "Ne...pas, ne...jamais, ne...plus, ne...rien, ne...personne, ne...aucun, ne...que та розмовне опускання ne."
+description_uk: "Система заперечення: ne…pas, ne…jamais, ne…plus, ne…rien, ne…personne, ne…aucun, ne…que та розмовне опускання ne."
 category: negation
 order: 10
-related:
+prerequisites:
   - present
+  - pronouns-subject
+related:
   - questions
+  - articles-after-negation
   - articles-indefinite
-tags: [заперечення, ne, pas, jamais, rien, personne]
+  - pronoun-order
+  - indirect-speech
+contrast:
+  - articles-after-negation
+next:
+  - articles-after-negation
+aliases:
+  - négation
+  - French negation
+  - ne pas
+  - ne jamais
+tags:
+  - заперечення
+  - ne
+  - pas
+  - jamais
+  - rien
+  - personne
+level: A1
+depth: high
+register: neutral
+variety:
+  - FR
+contrastive_uk: high
+status: review
+sources:
+  - "Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue"
+reviewed_at: "2026-09-25"
+formula: true
+toc: true
 ---
 
 # Заперечення
 
-## Базова модель
+## Швидка відповідь
 
-У стандартній писемній французькій:
+Базова модель стандартного французького заперечення:
 
 **ne + дієслово + pas**
 
-- **Je ne comprends pas.**
-- **Il n’est pas là.**
+> **Je ne comprends pas.**
 
-У складених часах:
+> **Il n’est pas là.**
 
-- **Je n’ai pas compris.**
-- **Elle n’est pas venue.**
+У складених часах **ne** і **pas** оточують сполучену частину дієслівної групи:
 
-ne і pas оточують сполучену частину дієслівної групи.
+> **Je n’ai pas compris.**
 
-## Ne ... jamais
+> **Elle n’est pas venue.**
 
-**jamais** = ніколи:
+## 1. Ne…jamais
 
-- **Je ne voyage jamais en hiver.**
+**jamais** = «ніколи»:
 
-У сучасній мові ne може опускатися в розмові, але в нейтральному письмі його зберігають.
+> **Je ne voyage jamais en hiver.**
 
-## Ne ... plus
+У простому реченні **jamais** займає позицію, де зазвичай стояв би **pas**.
 
-**plus** = більше не:
+## 2. Ne…plus
 
-- **Je ne travaille plus ici.**
-- Я більше тут не працюю.
+**ne…plus** = «більше не»:
 
-## Ne ... rien
+> **Je ne travaille plus ici.**
 
-**rien** = нічого:
+> Я більше тут не працюю.
 
-- **Je ne vois rien.**
-- Я нічого не бачу.
+Значення — припинення раніше наявної ситуації.
 
-Якщо rien є підметом:
+## 3. Ne…rien
 
-- **Rien ne change.**
+**rien** = «нічого»:
 
-## Ne ... personne
+> **Je ne vois rien.**
 
-**personne** = ніхто:
+> Я нічого не бачу.
 
-- **Je ne connais personne ici.**
-- Я тут нікого не знаю.
+Якщо **rien** є підметом:
+
+> **Rien ne change.**
+
+Не потрібно додавати ще одне **pas**:
+
+❌ *Je ne vois rien pas.*  
+✅ **Je ne vois rien.**
+
+## 4. Ne…personne
+
+**personne** = «нікого / ніхто»:
+
+> **Je ne connais personne ici.**
+
+> Я тут нікого не знаю.
 
 Як підмет:
 
-- **Personne ne vient.**
+> **Personne ne vient.**
 
-## Ne ... aucun
+## 5. Ne…aucun / aucune
 
-**aucun / aucune + nom** = жоден/жодна:
+**aucun / aucune + nom** виражає відсутність жодного представника:
 
-- **Je n’ai aucune idée.**
-- **Il n’a aucun problème.**
+> **Je n’ai aucune idée.**
 
-## Ne ... que
+> **Il n’a aucun problème.**
 
-Це **не повне заперечення**, а обмеження:
+Форма узгоджується з іменником:
 
-- **Je ne bois que de l’eau.**
-- Я п’ю лише воду.
+**aucun problème / aucune idée**.
 
-Тому не перекладайте ne ... que як «не пити».
+## 6. Ne…que
 
-## Заперечення + артиклі
+**ne…que** не є звичайним повним запереченням. Це конструкція обмеження:
 
-З un/une/des/du/de la після звичайного ne ... pas часто:
+> **Je ne bois que de l’eau.**
 
-- **J’ai un livre. → Je n’ai pas de livre.**
-- **J’ai du temps. → Je n’ai pas de temps.**
+= Я п'ю лише воду.
+
+Тому не аналізуйте **ne…que** як «не + que».
+
+## 7. Заперечення та артикль
+
+З **un/une/des** і партитивними формами у звичайному запереченні часто з'являється **de/d’**:
+
+> **J’ai un livre. → Je n’ai pas de livre.**
+
+> **J’ai du temps. → Je n’ai pas de temps.**
 
 Але:
 
-- **C’est un problème. → Ce n’est pas un problème.**
+> **C’est un problème. → Ce n’est pas un problème.**
 
-Тому правило потрібно вчити разом із конструкцією, а не як «pas = de» без винятків.
+Отже, правило **«pas = de»** неповне. Значення та синтаксична конструкція мають значення.
 
-## Заперечення з infinitif
+## 8. Ne + infinitif
 
 Заперечення перед інфінітивом:
 
-- **ne pas partir**
-- **ne pas oublier**
-- **Je préfère ne pas venir.**
+> **ne pas partir**
 
-## Розмовне опускання ne
+> **ne pas oublier**
 
-У розмовній французькій:
+> **Je préfère ne pas venir.**
 
-- **Je sais pas.**
-- **J’ai pas compris.**
+Тут **ne** і **pas** стоять перед інфінітивом, а не навколо нього.
 
-Це важлива риса живої мови, але не нейтральна модель стандартного письма.
+## 9. Розмовне опускання ne
+
+У сучасній розмовній французькій **ne** часто не вимовляється:
+
+> **Je sais pas.**
+
+> **J’ai pas compris.**
+
+Це важливо розуміти на слух, але в нейтральному стандартному письмі базова модель залишається **ne…pas**.
+
+## Для україномовного учня
+
+Українська часто виражає заперечення одним **не**, тоді як французька стандартна модель має два компоненти.
+
+Порівняйте:
+
+> українське **я не розумію**
+
+→ французьке **je ne comprends pas**
+
+Тому **pas** не можна сприймати як окремий переклад українського «не»: воно є частиною французької заперечної конструкції.
 
 ## Типові помилки
 
-❌ *Je ne comprends rien pas.*  
-✅ **Je ne comprends rien.**
+❌ *Je pas comprends.*  
+✅ **Je ne comprends pas.**
 
 ❌ *Je ne pas comprends.*  
 ✅ **Je ne comprends pas.**
 
 ❌ *Je ne veux pas de partir.*  
 ✅ **Je ne veux pas partir.**
+
+❌ *Je ne vois rien pas.*  
+✅ **Je ne vois rien.**
+
+## Куди далі
+
+- **Артиклі після заперечення** — коли *un/une/des/du/de la* переходять у *de/d’*.
+- **Питання** — взаємодія заперечення та питальної структури.
+- **Порядок займенників** — позиція об'єктних займенників у заперечних реченнях.
