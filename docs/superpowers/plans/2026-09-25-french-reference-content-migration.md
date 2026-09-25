@@ -195,3 +195,15 @@
 - Connected **infinitive** to the new pronoun reference and clarified that a clitic in a two-verb construction may belong to either the finite verb or the infinitive.
 - Academic Writing Toolkit review of the new reference returned only the expected short-paragraph heuristic for examples, paradigms and compact lookup blocks; no paragraph-level logical defect was identified from that signal.
 - The new reference remains `status: review`; corpus-wide schema, graph, linguistic/source and build gates remain open.
+
+
+## Continuation — reference-system audit and graph compatibility (2026-09-25)
+
+- Audited the 91 current French content entries for frontmatter presence and graph-target resolvability.
+- Found and repaired stale relation targets such as `pronouns-y-en`, `articles-contracted`, `prepositions`, `conjunctions`, and several obsolete namespaced register links.
+- Added backward-compatible relation resolution in `src/lib/pages.mjs`: canonical plain slugs now resolve, while legacy `category/slug` references remain supported.
+- Added native Node test coverage for both relation-reference forms and verified the red→green cycle locally.
+- Added `npm test` as the repository test command.
+- Rewrote the previously legacy-quality `liaison`, `elision`, `comparative-superlative`, `compound-nouns`, `enchainement`, `prepositions-basics`, and `prepositions-place` references to the current methodology; repaired affected prerequisite/related edges.
+- Academic Writing Toolkit paragraph-logic checks found no logical defects in the focused rewritten prose; short-paragraph flags were treated as the expected reference-style heuristic rather than a reason to inflate prose.
+- Full repository build is still not claimed because this environment cannot establish a working dependency installation from GitHub; release-ready remains blocked on technical build verification and final whole-branch review.
