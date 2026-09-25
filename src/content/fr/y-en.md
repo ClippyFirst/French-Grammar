@@ -1,111 +1,228 @@
 ---
 title_uk: "Займенники y та en"
 title_fr: "Les pronoms y et en"
-description_uk: "Заміна груп із à/de, місця, речей і кількісних груп; позиція y/en та відмінності між ними."
+description_uk: "Функції y та en: місце, à/de + групи, кількість, позиція в простих і складених конструкціях та наказовому способі."
 category: pronouns
 order: 50
-related:
-  - pronoun-order
+prerequisites:
   - pronouns-cod
+  - pronouns-coi
   - prepositions-a
   - prepositions-de
-tags: [y, en, займенники, à, de]
+related:
+  - pronoun-order
+  - articles-partitive
+  - articles-with-quantities
+  - negation
+contrast:
+  - pronouns-coi
+next:
+  - pronoun-order
+aliases:
+  - y
+  - en
+  - pronoms y en
+  - y et en
+tags:
+  - y
+  - en
+  - займенники
+  - à
+  - de
+level: A2
+depth: high
+register: neutral
+variety:
+  - FR
+contrastive_uk: high
+status: review
+sources:
+  - "Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue"
+reviewed_at: "2026-09-25"
+formula: true
+toc: true
 ---
 
 # Займенники y та en
 
-## Y
+## Швидка відповідь
 
-### 1. Місце
+**y** та **en** — клитичні займенники, які можуть замінювати певні прийменникові або кількісні групи.
 
-Y може замінювати групу, що позначає місце:
+Орієнтовно:
 
-- **Je vais à Paris. → J’y vais.**
-- **Nous sommes à la maison. → Nous y sommes.**
+- **y** часто пов'язаний із **à + річ** або місцем;
+- **en** часто пов'язаний із **de + група** або кількістю.
 
-### 2. Річ після à
+Але це не механічні формули «à = y» і «de = en»: треба враховувати тип конструкції.
 
-Y може замінювати неособовий референт після à:
+## 1. y для місця
 
-- **Je pense à ce problème. → J’y pense.**
-- **Je réponds à cette question. → J’y réponds.**
+> **Je vais à Paris. → J’y vais.**
 
-Для людей зазвичай потрібні інші конструкції:
+> **Nous sommes à la maison. → Nous y sommes.**
 
-- **Je pense à Paul. → Je pense à lui.**
+> **Elle habite à Lyon. → Elle y habite.**
 
-Не замінюйте людину y автоматично.
+У таких випадках **y** виконує замісну функцію для просторової групи.
 
-## En
+## 2. y для à + річ
 
-### 1. Група з de
+> **Je pense à ce problème. → J’y pense.**
 
-- **Je parle de ce livre. → J’en parle.**
-- **Nous avons besoin de temps. → Nous en avons besoin.**
+> **Je réponds à cette question. → J’y réponds.**
 
-### 2. Кількість
+> **Nous nous intéressons à cette question. → Nous nous y intéressons.**
 
-En часто замінює іменникову групу після кількісного виразу:
+Для особи автоматична заміна не працює:
 
-- **J’ai trois livres. → J’en ai trois.**
-- **Tu veux du café ? — Oui, j’en veux.**
+> **Je pense à Paul. → Je pense à lui.**
 
-Число або кількість може залишатися після en:
+А:
 
-- **J’en ai deux.**
+> **Je parle à Paul. → Je lui parle.**
 
-## Y vs en
+Отже, вибір залежить від керування дієслова та типу референта.
 
-| Конструкція | Заміна |
-|---|---|
-| à + chose | y |
-| lieu | y |
-| de + chose | en |
-| quantité + nom | en |
+## 3. en для de + група
 
-Це орієнтир, а не правило «à завжди y, de завжди en»: займенникова система залежить від функції та типу конструкції.
+> **Je parle de ce livre. → J’en parle.**
 
-## Позиція
+> **Nous avons besoin de temps. → Nous en avons besoin.**
 
-У звичайному реченні y/en стоять перед сполученим дієсловом:
+> **Elle se souvient de cette histoire. → Elle s’en souvient.**
 
-- **J’y vais.**
-- **J’en parle.**
-- **Je n’en veux pas.**
+Для осіб можливі наголошені форми:
 
-У складених часах:
+> **Je parle de Marie. → Je parle d’elle.**
 
-- **J’y suis allé.**
-- **J’en ai acheté.**
+Тому не перетворюйте будь-яке **de + personne** автоматично на **en**.
+
+## 4. en і кількість
+
+**En** може замінювати іменну групу, а числовий/кількісний компонент залишається:
+
+> **J’ai trois livres. → J’en ai trois.**
+
+> **Tu veux des pommes ? — Oui, j’en veux.**
+
+> **Il a beaucoup de travail. → Il en a beaucoup.**
+
+У **J’en ai trois** займенник замінює *trois livres* як іменну групу, а кількість **trois** зберігається.
+
+## 5. Partitif і en
+
+> **Tu veux du café ?**
+
+> **Oui, j’en veux.**
+
+> **Elle mange de la soupe.**
+
+> **Elle en mange.**
+
+У таких конструкціях **en** замінює групу з partitif/de.
+
+## 6. Позиція
+
+У простому реченні:
+
+> **J’y vais.**
+
+> **J’en parle.**
+
+У запереченні:
+
+> **Je n’y vais pas.**
+
+> **Je n’en veux pas.**
+
+У passé composé:
+
+> **J’y suis allé.**
+
+> **J’en ai acheté.**
 
 З інфінітивом:
 
-- **Je vais y aller.**
-- **Je veux en acheter.**
+> **Je vais y aller.**
 
-## Наказовий спосіб
+> **Je veux en acheter.**
+
+З прономінальним дієсловом:
+
+> **Je m’en souviens.**
+
+## 7. Impératif
 
 У стверджувальному impératif y/en стоять після дієслова:
 
-- **Vas-y !**
-- **Parles-en !**
-- **Donnez-m’en !**
+> **Vas-y !**
 
-У заперечному наказі повертаються перед дієсловом:
+> **Parles-en !**
 
-- **N’y va pas !**
-- **N’en parle pas !**
+> **Donnez-m’en !**
+
+У негативному impératif вони повертаються перед дієсловом:
+
+> **N’y va pas !**
+
+> **N’en parle pas !**
+
+## 8. y/en та COD/COI
+
+Порівняйте:
+
+> **Je vois Marie. → Je la vois.**
+
+> **Je parle à Marie. → Je lui parle.**
+
+> **Je pense à ce problème. → J’y pense.**
+
+> **Je parle de ce problème. → J’en parle.**
+
+Це різні типи заміни. Не слід класифікувати їх лише за українським питанням «кого? чого?».
+
+## Для україномовного учня
+
+Українська не має прямої однословної відповідності для **y** та **en**. Їх часто доводиться перекладати нульовим займенником, відмінковою формою або повторенням змісту.
+
+Тому корисно вчити:
+
+**дієслово + модель керування + замісну форму**
+
+> **penser à quelque chose → y penser**
+
+> **parler de quelque chose → en parler**
+
+а не просто:
+
+> **y = цьому**
+
+> **en = цього**
 
 ## Типові помилки
 
-❌ *Je pense à Paul → J’y pense.*  
-Для людини природніше:  
+❌ *Je pense à Paul → J’y pense.*
+
+У стандартній нейтральній конструкції:
+
 ✅ **Je pense à lui.**
 
-❌ *Je parle de ce livre → Je lui parle.*  
+❌ *Je parle de ce livre → Je lui parle.*
+
 ✅ **J’en parle.**
 
-→ lui замінює COI-людину; en замінює групу з de.
+❌ *J’en ai trois livres.*
 
-❌ *J’en ai trois livres.*  
 ✅ **J’en ai trois.**
+
+❌ *Je y vais.*
+
+✅ **J’y vais.**
+
+## Куди далі
+
+- **Порядок clitiques**
+- **COD / COI**
+- **Артиклі та кількість**
+- **Керування прийменниками**
