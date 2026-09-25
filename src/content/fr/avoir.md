@@ -10,6 +10,7 @@ prerequisites:
 related:
   - passe-compose
   - accord
+  - impersonal-verbs
   - pronouns-cod
   - articles-indefinite
   - articles-partitive
