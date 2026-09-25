@@ -2,7 +2,7 @@
 title_uk: "Conditionnel présent: утворення, значення та вживання"
 title_fr: "Le conditionnel présent"
 description_uk: "Повний довідник про conditionnel présent: утворення від основи futur simple, значення гіпотези, наслідку, ввічливості, бажання та майбутнього в минулому, а також контраст з futur, imparfait і conditionnel passé."
-category: verbs
+category: moods
 order: 110
 related:
   - si-clauses
@@ -11,6 +11,14 @@ related:
   - imparfait
   - plus-que-parfait
 tags: [conditionnel présent, умовний спосіб, гіпотеза, ввічливість, futur dans le passé]
+level: B1
+depth: high
+register: neutral
+variety: FR
+contrastive_uk: high
+status: review
+sources:
+  - "Académie française, Questions de langue"
 ---
 
 # **Conditionnel présent**
