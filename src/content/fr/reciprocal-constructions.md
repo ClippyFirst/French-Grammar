@@ -3,7 +3,7 @@ title_uk: "Взаємні конструкції у французькій"
 title_fr: "Les constructions réciproques"
 description_uk: "Як французька виражає взаємну дію, коли учасники діють один на одного."
 category: pronouns
-order: 680
+order: 679
 canonical_ids: ["FR-679", "FR-681"]
 prerequisites: ["pronouns-personal", "pronouns-cod", "pronouns-coi", "pronominal-verbs"]
 related: ["pronoun-order", "pronominal-participe-agreement", "accord", "word-order"]
