@@ -3,7 +3,7 @@ title_uk: "Gérondif: одночасність, спосіб та умова"
 title_fr: "Le gérondif"
 description_uk: "Системний довідник про gérondif: en + participe présent, спільний виконавець, часові, модальні та умовні значення."
 category: syntax
-canonical_ids: [FR-319]
+canonical_ids: [FR-319, FR-517, FR-518, FR-519, FR-520, FR-523]
 order: 29
 prerequisites:
   - present
