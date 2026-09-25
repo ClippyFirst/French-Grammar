@@ -227,3 +227,19 @@ This pass moved from individual legacy rewrites toward explicit coverage of the 
 - All new material remains `status: review`.
 
 The remaining release gate is still the corpus-wide mapping of all FR-001–FR-740 topics to canonical articles/sections, not further uncontrolled topic expansion.
+
+
+## Correction — canonical taxonomy boundary (2026-09-25)
+
+A QA pass found that the canonical taxonomy currently ends at **FR-718**. The earlier gap-pass notes referred to a provisional **FR-719–FR-740 extension**, but those IDs were not actually present in `docs/grammar_taxonomy_canonical.md`. Treating them as canonical would create false coverage.
+
+The new gap-pass articles have therefore been corrected to use only IDs that currently exist in the canonical catalog where the mapping is exact or defensible. Unsupported provisional IDs were removed rather than being silently accepted. Two genuinely new system-level references — `phrase-enonce.md` and `deixis.md` — currently remain explicitly unmapped; they are now visible gaps for the next taxonomy decision rather than fake coverage.
+
+The canonical coverage audit tooling added in this continuation will distinguish:
+- catalogued and explicitly covered IDs;
+- missing canonical IDs;
+- invalid/provisional IDs;
+- duplicate mappings;
+- files without explicit canonical identity.
+
+This makes the remaining migration measurable without inventing taxonomy coverage.
