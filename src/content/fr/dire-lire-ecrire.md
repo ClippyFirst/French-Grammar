@@ -15,8 +15,6 @@ related:
   - pronouns-cod
   - pronouns-coi
   - passe-compose
-contrast:
-  - parler
 next:
   - boire
 aliases:
