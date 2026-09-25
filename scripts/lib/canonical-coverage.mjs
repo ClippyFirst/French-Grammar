@@ -1,9 +1,12 @@
 const CANONICAL_ID_RE = /FR-\d{3}/g;
 
 export function parseCanonicalIds(source) {
-  const match = source.match(/^canonical_ids:\s*\n((?:\s+-\s+FR-\d{3}\s*\n?)*)/m);
-  if (!match) return [];
-  return [...match[1].matchAll(/FR-\d{3}/g)].map((m) => m[0]);
+  const inline = source.match(/^canonical_ids:\s*\[([^\]]*)\]\s*$/m);
+  if (inline) return [...inline[1].matchAll(/FR-\d{3}/g)].map((m) => m[0]);
+
+  const multiline = source.match(/^canonical_ids:\s*\n((?:\s+-\s+FR-\d{3}\s*\n?)*)/m);
+  if (!multiline) return [];
+  return [...multiline[1].matchAll(/FR-\d{3}/g)].map((m) => m[0]);
 }
 
 export function parseCatalogIds(source) {
