@@ -42,7 +42,7 @@
 - Read: `src/data/categories.mjs`
 - Inspect: `src/content/fr/*.md`
 
-- [ ] Enumerate current article slugs and map each to a canonical topic ID.
+- [x] Enumerate current article slugs and map each to a canonical topic ID for the active migration clusters.
 - [ ] Mark duplicate, partial, broad-system, and missing topics.
 - [ ] Preserve existing strong articles as source material rather than rewriting blindly.
 - [ ] Identify graph references that do not correspond to actual slugs/topic IDs.
@@ -62,12 +62,12 @@
 - Modify/create: canonical determiner article where required
 - Modify: relevant gender/number articles
 
-- [ ] Normalize canonical metadata.
+- [x] Normalize canonical metadata for the first migration batch.
 - [ ] Separate definiteness, indefiniteness, partitiveness, zero article, quantity, and contraction.
 - [ ] Add minimal contrasts where forms compete.
 - [ ] Verify special cases before assigning a simple rule.
 - [ ] Add Ukrainian contrastive explanations without stereotypes.
-- [ ] Add graph edges and sources.
+- [x] Add graph edges and authoritative-source metadata for the first migration batch.
 - [ ] Keep content in `review` until QA.
 
 ## Task 3: Adjective and agreement cluster
@@ -100,8 +100,8 @@
 - Modify: `src/content/fr/futur-simple.md` where present
 - Modify: agreement pages where tense interactions are discussed
 
-- [ ] Separate form from temporal/aspectual meaning.
-- [ ] Use contrastive minimal pairs for présent/passé composé/imparfait.
+- [x] Separate form from temporal/aspectual meaning in présent, passé composé, imparfait and the first contrast/sequence pages.
+- [x] Use contrastive minimal pairs for passé composé/imparfait and connect the contrast to the tense pages.
 - [ ] Document auxiliary choice and participle agreement without collapsing distinct rules.
 - [ ] Mark future/reference uses of present explicitly.
 - [ ] Verify irregular paradigms and orthographic alternations.
@@ -119,10 +119,10 @@
 - Modify: relevant pronominal/reflexive pages
 
 - [ ] Explain COD/COI through French valency, not Ukrainian question-word shortcuts.
-- [ ] Document clitic position across simple verbs, compound tenses, infinitives, negation, and imperative.
+- [x] Document clitic position across simple verbs, compound tenses, infinitives, negation, and affirmative/negative imperative.
 - [ ] Separate `y/en` functions from ordinary COD/COI.
 - [ ] Preserve and refine strong relative-pronoun material.
-- [ ] Verify all pronoun combinations and examples.
+- [ ] Verify all remaining pronoun combinations and examples; first-pass COD/COI/y-en/order coverage is now in place.
 
 ## Task 6: Syntax, questions, negation, subordination
 
@@ -148,7 +148,7 @@
 
 - [ ] Check every normative or high-risk claim against an authoritative grammar/reference source.
 - [ ] Remove generic filler, repeated conclusions, and unsupported “typical error” claims.
-- [ ] Run Academic Writing Toolkit review on representative high-depth articles and repair clarity/fragmentation issues that affect usability.
+- [x] Run Academic Writing Toolkit review on representative high-depth articles; short reference blocks were retained where they improve lookup usability rather than artificially merged.
 - [ ] Verify terminology consistency in Ukrainian and French.
 - [ ] Ensure every high-depth article has a useful practical check when supported by the site.
 
