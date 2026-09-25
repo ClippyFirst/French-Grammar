@@ -9,6 +9,14 @@ related:
   - passe-compose
   - conditionnel-present
 tags: [futur simple, майбутній час, futur proche, conditionnel]
+level: A2
+depth: high
+register: neutral
+variety: FR
+contrastive_uk: high
+status: review
+sources:
+  - "Académie française, Questions de langue"
 ---
 
 # Futur simple
