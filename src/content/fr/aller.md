@@ -12,7 +12,7 @@ related:
   - futur-proche
   - passe-compose
   - prepositions-a
-  - pronouns-y-en
+  - y-en
   - imperatif
 contrast:
   - etre
