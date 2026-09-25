@@ -9,6 +9,7 @@ prerequisites:
   - pronouns-subject
 related:
   - negation
+  - determiners-interrogative
   - pronouns-cod
   - pronouns-coi
   - indirect-speech
