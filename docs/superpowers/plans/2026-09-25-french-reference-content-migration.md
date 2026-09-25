@@ -46,7 +46,8 @@
 - [x] Mark the first confirmed duplicate/legacy slug pairs: definite-articles vs articles-definite, indefinite-articles vs articles-indefinite, partitive-articles vs articles-partitive, and present-tense vs present; legacy files are retained for now rather than destructively removed.
 - [x] Preserve existing strong articles as source material rather than rewriting blindly.
 - [ ] Complete the corpus-wide graph/reference audit; targeted graph checks are being performed as new canonical nodes are added.
-- [x] Extend the canonical syntax/tense/negation inventory with dedicated references for relative-clause structure, futur dans le passé, ne explétif, and passé simple; connect each new node to the existing graph.
+- [x] Extend the canonical syntax/tense/negation inventory with dedicated references for relative-clause structure, futur dans le passé, ne explétif, passé simple, passé antérieur, simple-sentence word order, complex sentences, and the adverb system; connect each new node to the existing graph.
+- [x] Run a targeted relation-integrity pass over the new and immediately affected cluster; no unresolved relation targets remain in that checked set.
 
 ## Task 2: Nominal and determiner cluster
 
@@ -142,6 +143,7 @@
 - [x] Explain interrogation by construction: intonation, est-ce que, inversion, and embedded questions.
 - [x] Treat negative words as a system rather than a list.
 - [ ] Explain subjonctif by syntactic/semantic environments and contrast with indicative where relevant.
+- [x] Add a dedicated complex-sentence overview so coordination, subordination, complement clauses and relative clauses have a shared architectural entry point.
 - [ ] Mark spoken `ne` omission as register/medium variation.
 
 ## Task 7: Source and prose QA
@@ -166,6 +168,7 @@
 
 - [ ] Validate metadata against the Zod contract.
 - [ ] Validate graph references and detect orphan/duplicate topics.
+- [x] Targeted graph validation for the newly added/affected cluster reports zero unresolved relation targets.
 - [ ] Check canonical status values.
 - [ ] Run `npm run build` in an environment with dependencies available.
 - [ ] Run the repository's available content/audit scripts if present.
