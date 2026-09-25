@@ -5,6 +5,7 @@ description_uk: "Повний довідник про conditionnel présent: у�
 category: moods
 order: 110
 related:
+  - futur-dans-passe
   - si-clauses
   - conditionnel-passe
   - futur-simple
