@@ -12,7 +12,6 @@ related:
   - futur-proche
   - passe-compose
   - prepositions-a
-  - prepositions-en
   - pronouns-y-en
   - imperatif
 contrast:
