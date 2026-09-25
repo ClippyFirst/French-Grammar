@@ -3,7 +3,8 @@ title_uk: "Питальні прислівники: où, quand, comment, pourquo
 title_fr: "Les adverbes interrogatifs"
 description_uk: "Системний довідник про питальні прислівники та конструкції для місця, часу, способу, причини, кількості й способу дії."
 category: questions
-order: 105
+order: 728
+canonical_ids: ["FR-728"]
 prerequisites:
   - questions
   - adverbs
