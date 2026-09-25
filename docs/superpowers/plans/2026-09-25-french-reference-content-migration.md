@@ -256,3 +256,27 @@ The coverage model is now executable rather than only documentary.
 - Because the current execution environment cannot clone/install the repository dependencies, this turn does **not** claim a successful local test or build run. The implementation has instead been checked against the repository files through GitHub and the test cases were kept deliberately dependency-free.
 
 The explicit mappings introduced in the latest gap pass now point only to IDs that actually exist in the FR-001–FR-740 catalog. The two new system-level references without an exact existing topic identity remain unmapped by design until the taxonomy itself is reviewed.
+
+
+## Continuation — canonical boundary reconciliation and coverage-gate hardening (2026-09-25)
+
+- Reconciled the taxonomy after a consistency audit: the active canonical scope is **FR-001–FR-740**, with FR-719–FR-740 treated as reviewed canonical extensions rather than provisional IDs.
+- Removed embedded web-citation markup from the taxonomy document so repository documentation remains source-text clean.
+- Corrected explicit canonical mappings for the latest system-level references:
+  - verbal-periphrases → FR-719
+  - avoir-beau → FR-731
+  - possession-body-parts-clothes → FR-726, FR-727
+  - exclamatives → FR-729
+  - phrase-enonce → FR-733
+  - deixis → FR-736
+  - address-interjections → FR-737, FR-738
+  - prosody → FR-739
+- Hardened canonical coverage QA with:
+  - duplicate IDs in the taxonomy;
+  - duplicate canonical IDs inside a single article;
+  - canonical mappings attached to deprecated files;
+  - legacy status normalization.
+- Added regression tests before the implementation changes for the new coverage invariants.
+- Corrected a factual typo in the alphabet article.
+- Academic Writing Toolkit review of the taxonomy addition found only expected short-paragraph heuristics for a structured catalog and no substantive paragraph-logic defect.
+- Build/dependency execution remains unverified in the current environment; no successful build is claimed.
