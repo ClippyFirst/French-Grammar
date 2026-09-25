@@ -9,6 +9,7 @@ prerequisites:
   - pronouns-cod
   - pronouns-coi
 related:
+  - pronouns-toniques
   - pronoun-order
   - pronominal-verbs
   - questions
