@@ -9,6 +9,7 @@ prerequisites:
 related:
   - avoir
   - aller
+  - infinitive
   - passive
   - pronominal-verbs
 contrast:
