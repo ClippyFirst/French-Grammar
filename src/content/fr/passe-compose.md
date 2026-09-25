@@ -4,6 +4,10 @@ title_fr: "Le passé composé"
 description_uk: "Утворення passé composé, вибір avoir/être, participe passé, узгодження та контраст із imparfait."
 category: tenses
 order: 20
+canonical_ids:
+  - FR-341
+  - FR-342
+  - FR-343
 prerequisites:
   - present
   - avoir
