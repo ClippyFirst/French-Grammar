@@ -1,28 +1,59 @@
 ---
-title_uk: "Непряма мова — передавання висловлювань і часові співвідношення"
+title_uk: "Непряма мова — передавання висловлювань, питань і наказів"
 title_fr: "Le discours indirect"
-description_uk: "Твердження, питання, накази та часові співвідношення в непрямій мові французької."
+description_uk: "Непряма мова у французькій: твердження, непрямі питання, накази, часові співвідношення, займенники та часові й просторові вказівники."
 category: indirect
 order: 10
+prerequisites:
+  - present
+  - passe-compose
+  - imparfait
+  - questions
 related:
   - questions
+  - negation
   - present
   - passe-compose
   - imparfait
   - plus-que-parfait
   - conditionnel-present
-tags: [непряма мова, discours indirect, concordance des temps]
+  - conditionnel-passe
+  - subjonctif
+contrast:
+  - questions
+  - si-clauses
+next:
+  - conditionnel-present
+aliases: ["discours indirect", "непряма мова", "concordance des temps"]
+tags: [discours indirect, непряма мова, concordance des temps, непряме питання]
+level: B1
+depth: high
+register: neutral
+variety: [FR]
+status: review
+contrastive_uk: high
+sources: ["Académie française — Questions de langue"]
+formula: false
+toc: true
+featured: false
 ---
 
 # Непряма мова
 
-## Швидко
+## Швидка відповідь
 
-У непрямій мові висловлювання вбудовується в інше речення. Змінюватися можуть займенники, часові та просторові вказівники, а також часові форми.
+Discours indirect вбудовує переданий зміст у граматичну структуру іншого речення.
 
-Але **concordance des temps** не є механічною таблицею, де кожен час завжди перетворюється на один інший. Важливі момент мовлення, момент події та актуальність інформації.
+Під час переходу від прямої мови потрібно перевіряти щонайменше чотири речі:
 
-## 1. Твердження
+1. структуру речення;
+2. займенники;
+3. часову перспективу;
+4. часові та просторові вказівники.
+
+Concordance des temps — це система співвідношень, а не механічна таблиця «один час → один час».
+
+## Твердження
 
 Пряма мова:
 
@@ -32,11 +63,9 @@ tags: [непряма мова, discours indirect, concordance des temps]
 
 **Il dit qu'il est fatigué.**
 
-Якщо головне дієслово в теперішньому, теперішній час часто зберігається.
+Після головного дієслова в présent présent часто зберігається.
 
-## 2. Головне дієслово в минулому
-
-Пряма мова:
+Якщо головне дієслово в минулому:
 
 **Il a dit : « Je suis fatigué. »**
 
@@ -44,34 +73,20 @@ tags: [непряма мова, discours indirect, concordance des temps]
 
 **Il a dit qu'il était fatigué.**
 
-Тут **imparfait** ставить стан у часову рамку, пов'язану з моментом минулого повідомлення.
+Imparfait створює минулу часову рамку для стану.
 
-Але збереження présent може бути можливим, якщо мовець подає стан як актуальний:
+## Часові співвідношення
 
-**Il a dit qu'il est malade.**
+Коли головне дієслово вводить непряму мову з минулої перспективи, часто спостерігаються такі відповідності:
 
-Це не слід оголошувати автоматичною помилкою без контексту.
-
-## 3. Типові часові співвідношення
-
-Для повідомлення в минулому корисна орієнтація:
-
-| Пряма перспектива | Типове непряме співвідношення після минулого дієслова |
+| Пряма перспектива | Типове непряме співвідношення |
 |---|---|
 | présent | imparfait |
 | futur simple | conditionnel présent |
-| passé composé / минула подія | plus-que-parfait або інша форма залежно від часової перспективи |
-| futur antérieur | conditionnel passé у відповідній непрямій перспективі |
+| passé composé | plus-que-parfait |
+| futur antérieur | conditionnel passé |
 
-Це **типові співвідношення**, а не механічна команда для кожного контексту.
-
-### Futur → conditionnel
-
-**Il a dit : « Je viendrai demain. »**
-
-→ **Il a dit qu'il viendrait le lendemain.**
-
-Це той самий принцип, який у довіднику описується як **futur dans le passé**.
+Це **типові**, а не універсальні механічні перетворення. Контекст може зберігати інший час, якщо мовець змінює або зберігає точку відліку.
 
 ### Présent → imparfait
 
@@ -79,45 +94,49 @@ tags: [непряма мова, discours indirect, concordance des temps]
 
 → **Elle a dit qu'elle travaillait à Paris.**
 
-Якщо йдеться про стан, актуальний і зараз, можливе інше рішення залежно від контексту:
+Але можливе:
 
 **Elle a dit qu'elle travaille à Paris.**
 
-## 4. Passé composé та plus-que-parfait
+якщо мовець подає роботу в Парижі як актуальний факт на момент повідомлення.
 
-Пряма мова:
+### Futur simple → conditionnel présent
+
+**Il a dit : « Je viendrai demain. »**
+
+→ **Il a dit qu'il viendrait le lendemain.**
+
+Тут **viendrait** — не гіпотеза, а **майбутнє щодо минулого моменту**.
+
+### Passé composé → plus-que-parfait
 
 **Il a dit : « J'ai déjà vu ce film. »**
 
-Типова непряма перспектива:
+→ **Il a dit qu'il avait déjà vu ce film.**
 
-**Il a dit qu'il avait déjà vu ce film.**
+Подія «побачив» подана як така, що передувала минулому моменту повідомлення.
 
-Тут подія «побачив» передує моменту минулого повідомлення.
+Водночас часовий вибір залежить від того, яку перспективу обирає мовець.
 
-Але часовий вибір залежить від того, як мовець організує часову перспективу; не кожна конструкція повинна механічно перетворюватися за однією таблицею.
+## Непрямі питання так/ні
 
-## 5. Питання так/ні
-
-Пряме:
+Питання так/ні вводиться **si**:
 
 **Il demande : « Tu viens ? »**
 
-Непряме:
+→ **Il demande si tu viens.**
 
-**Il demande si tu viens.**
+У непрямому питанні використовується звичайний порядок слів:
 
-Не зберігайте автоматично інверсію:
+❌ **Il demande si viens-tu.**
 
-❌ *Il demande si viens-tu.*
+✅ **Il demande si tu viens.**
 
-Для непрямого питання використовується звичайний порядок слів:
+**Si** тут означає «чи», а не «якщо».
 
-**Il demande si tu viens.**
+## Непрямі питання з питальним словом
 
-## 6. Питальні слова
-
-Питальне слово зазвичай зберігається:
+Питальне слово зберігається:
 
 **Il demande : « Où habites-tu ? »**
 
@@ -127,9 +146,11 @@ tags: [непряма мова, discours indirect, concordance des temps]
 
 → **Elle demande pourquoi il est parti.**
 
-## 7. Наказ, прохання, заборона
+Інверсія прямого питання не переноситься автоматично в непряме.
 
-Для багатьох конструкцій використовується **de + infinitif**:
+## Накази, прохання та заборони
+
+Частою моделлю є **de + infinitif**:
 
 **Il me dit de venir.**
 
@@ -139,13 +160,26 @@ tags: [непряма мова, discours indirect, concordance des temps]
 
 **Il me dit de ne pas partir.**
 
-Не використовуйте автоматично **que + présent** для передачі наказу.
+Для наказу не треба механічно створювати конструкцію **que + présent**.
 
-## 8. Займенники та часові вказівники
+## Займенники
 
-При переході до непрямої мови потрібно перевіряти не лише час дієслова:
+Під час переходу до непрямої мови змінюється не лише час:
 
-**Je → il/elle**, **mon → son**, **ici → là**, **demain → le lendemain** можуть змінюватися залежно від точки відліку.
+**Il a dit : « Je prendrai mon livre. »**
+
+→ **Il a dit qu'il prendrait son livre.**
+
+**Je → il**, **mon → son** змінюються відповідно до нової точки відліку та референта.
+
+## Часові й просторові вказівники
+
+Такі слова можуть змінюватися, якщо змінюється точка відліку:
+
+- **ici → là**
+- **demain → le lendemain**
+- **hier → la veille**
+- **aujourd'hui → ce jour-là**
 
 Наприклад:
 
@@ -153,61 +187,93 @@ tags: [непряма мова, discours indirect, concordance des temps]
 
 → **Il a dit qu'il viendrait le lendemain.**
 
-Але зміна **demain → le lendemain** потрібна лише тоді, коли часову перспективу справді зміщено.
+Але зміна не є автоматичною: якщо мовна ситуація дозволяє зберегти той самий деїктичний центр, форма може залишитися.
 
-## 9. Futur dans le passé
+## Futur dans le passé
 
-Окремо запам'ятайте:
+Особливо важливий випадок:
 
 **Il dit qu'il viendra demain.**
 
-→ головне дієслово в теперішньому; futur залишається futur.
+→ futur залишається futur, бо головна перспектива — теперішня.
 
 **Il a dit qu'il viendrait le lendemain.**
 
-→ майбутня щодо минулого моменту подія; conditionnel présent виконує функцію **futur dans le passé**.
+→ conditionnel présent виражає майбутню щодо минулого моменту подію.
 
-Conditionnel тут не означає гіпотезу:
+Тому **viendrait** не слід автоматично перекладати як «прийшов би».
 
-**Il a dit qu'il viendrait.**
+## Коли час не треба механічно змінювати
 
-→ Він сказав, що прийде.
+Якщо факт залишається актуальним:
 
-## 10. Типові помилки
+**Galilée a montré que la Terre tourne autour du Soleil.**
 
-❌ *Il demande si viens-tu.*
+Тут **tourne** може залишатися в présent, бо твердження подається як загально чинне.
 
+Так само:
+
+**Il a dit qu'il est malade.**
+
+можливе, якщо мовець свідомо представляє хворобу як актуальний факт.
+
+Отже, таблиця concordance des temps — інструмент орієнтації, а не алгоритм без винятків.
+
+## Український контраст
+
+Українська також використовує непряму мову та часові співвідношення, але не має тотожної французькій системи формального зсуву.
+
+Наприклад:
+
+**Він сказав, що прийде.**  
+→ **Il a dit qu'il viendrait.**
+
+Український **прийде** не має формальної ознаки conditionnel, хоча у французькій **viendrait** є conditionnel présent і водночас виконує функцію futur dans le passé.
+
+Тому переклад слід використовувати для перевірки змісту, а не для механічного копіювання форм.
+
+## Типові помилки
+
+❌ **Il demande si viens-tu.**  
 ✅ **Il demande si tu viens.**
 
-❌ *Il me dit que venir.*
-
-Якщо це наказ/прохання:
-
+❌ **Il me dit que venir.**  
 ✅ **Il me dit de venir.**
 
-❌ вважати **Il a dit qu'elle est malade** автоматично неправильною.
+❌ Перекладати кожен **viendrait** як «прийшов би».  
+→ У **Il a dit qu'il viendrait** це майбутнє щодо минулого.
 
-Контекст може зберегти présent, якщо мовець підкреслює актуальність факту.
+❌ Вважати **Il a dit qu'elle est malade** автоматично неправильним.  
+→ Контекст може підтримувати présent, якщо факт актуальний.
 
-❌ перекладати кожен **viendrait** як «прийшов би».
+## Практична перевірка
 
-У **Il a dit qu'il viendrait** це може бути майбутнє відносно минулого: «сказав, що прийде».
+1. Il a dit : « Je viendrai demain. »  
+→ Il a dit qu'il ___ le lendemain.
 
-## Українська перспектива
+2. Il demande : « Tu viens ? »  
+→ Il demande ___ tu viens.
 
-Українська також може виражати часові співвідношення через форми дієслова й контекст, але її система не тотожна французькій.
+3. Elle a dit : « Je travaille ici. »  
+→ Elle a dit qu'elle ___ là. *(типовий варіант)*
 
-Особливо важливо не переносити український переклад механічно на французький:
+4. Il me dit : « Ne pars pas. »  
+→ Il me dit ___ ne pas partir.
 
-**Він сказав, що прийде.** → **Il a dit qu'il viendrait.**
+5. Il a dit : « J'ai déjà vu ce film. »  
+→ Il a dit qu'il ___ déjà vu ce film.
 
-Тут українське **прийде** не має окремої форми, яка формально виглядала б як французький conditionnel.
+**Відповіді**
 
-## Міні-тест
+1. **viendrait**
+2. **si**
+3. **travaillait**
+4. **de**
+5. **avait**
 
-1. Il a dit : « Je viendrai demain. » → Il a dit qu'il ___ le lendemain.
-2. Il demande : « Tu viens ? » → Il demande ___ tu viens.
-3. Elle a dit : « Je travaille ici. » → Elle a dit qu'elle ___ là.
-4. Il me dit : « Ne pars pas. » → Il me dit ___ ne pas partir.
+## Куди далі
 
-**Відповіді:** 1. **viendrait**; 2. **si**; 3. **travaillait** (типовий варіант; інші контекстні рішення можливі); 4. **de**.
+- [Conditionnel présent](./conditionnel-present)
+- [Plus-que-parfait](./plus-que-parfait)
+- [Питання](./questions)
+- [Заперечення](./negation)
