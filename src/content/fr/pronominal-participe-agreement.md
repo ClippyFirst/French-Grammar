@@ -55,7 +55,7 @@ toc: true
 - **Elles se sont parlé.** → se = COI → **parlé**
 - **Ils se sont succédé.** → se = COI → **succédé**
 
-Це відповідає нормативному опису Académie française. citeturn0search0turn0search1
+Це відповідає нормативному опису Académie française.
 
 ## Алгоритм
 
