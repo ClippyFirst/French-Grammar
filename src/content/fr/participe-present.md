@@ -3,7 +3,7 @@ title_uk: "Participe présent: форма, вживання та відмінн�
 title_fr: "Le participe présent"
 description_uk: "Системний довідник про participe présent: утворення, синтаксичне вживання, зв'язок із gérondif та відмінність від adjectif verbal."
 category: verbs
-canonical_ids: [FR-317]
+canonical_ids: [FR-317, FR-521, FR-522]
 order: 30
 prerequisites:
   - present
