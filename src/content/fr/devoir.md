@@ -17,7 +17,6 @@ related:
   - negation
 contrast:
   - pouvoir
-  - falloir
 next:
   - vouloir
 aliases:
