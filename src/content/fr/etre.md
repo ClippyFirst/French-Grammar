@@ -1,11 +1,44 @@
 ---
-title_uk: "Дієслово ÊTRE у французькій мові: повний довідник для українськомовних"
-title_fr: "Le verbe ÊTRE en français"
-description_uk: "Детальний посібник з дієслова ÊTRE (бути) у французькій мові. Дізнайтеся про всі часи, вживання, вирази та особливості. З порівняннями, прикладами та вправами для українськомовних."
-category: "verbs"
+title_uk: "Дієслово ÊTRE: значення, форми та допоміжна функція"
+title_fr: "Le verbe être"
+description_uk: "Основні значення être, його форми та роль як допоміжного дієслова; без спрощення допоміжного вибору до списку «дієслів руху»."
+category: verbs
 order: 24
-related: ["avoir", "aller", "faire", "passe-compose"]
-tags: ["дієслова", "etre", "бути", "допоміжне-дієслово", "французька-граматика"]
+prerequisites:
+  - present
+related:
+  - avoir
+  - aller
+  - faire
+  - passe-compose
+  - accord
+  - passive
+  - pronominal-verbs
+contrast:
+  - avoir
+next:
+  - passe-compose
+aliases:
+  - être
+  - etre
+  - verbe être
+tags:
+  - дієслова
+  - être
+  - etre
+  - допоміжне-дієслово
+level: A1
+depth: high
+register: neutral
+variety:
+  - FR
+contrastive_uk: high
+status: review
+sources:
+  - "Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue"
+reviewed_at: "2026-09-25"
+formula: true
+toc: true
 ---
 
 # 🎯 Дієслово ÊTRE (бути) у французькій мові
@@ -18,9 +51,9 @@ tags: ["дієслова", "etre", "бути", "допоміжне-дієсло�
 > - **Професії**: Je suis étudiant (Я студент)
 > - **Місцезнаходження**: Il est à Paris (Він у Парижі)
 > - **Часу**: Il est 8 heures (8 година)
-> - **Допоміжного дієслова**: у passé composé з DR & MR VANDERTRAMP
+> - **Допоміжного дієслова**: у passé composé з певними дієсловами та прономінальними конструкціями
 
-> 💡 **Головне**: ÊTRE — це **неправильне дієслово**, його потрібно запам'ятати!
+Форми **être** нерегулярні; їх потрібно засвоїти як окрему парадигму.
 
 ---
 
