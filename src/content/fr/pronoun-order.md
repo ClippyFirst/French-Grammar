@@ -1,23 +1,31 @@
 ---
 title_uk: "Порядок об’єктних займенників"
 title_fr: "L’ordre des pronoms compléments"
-description_uk: "Фіксований порядок me/te/se, le/la/les, lui/leur, y, en; особливості складених часів та impératif."
+description_uk: "Фіксований порядок me/te/se, le/la/les, lui/leur, y, en; особливості складених часів, інфінітива та impératif."
 category: pronouns
 order: 60
-related:
+prerequisites:
   - pronouns-cod
   - pronouns-coi
   - y-en
+related:
+  - pronouns-infinitive
+  - infinitive
   - imperatif
-tags: [порядок займенників, COD, COI, y, en]
+  - pronominal-verbs
+tags: [порядок займенників, COD, COI, y, en, інфінітив]
 level: A2
 depth: high
 register: neutral
-variety: FR
+variety: [FR]
 contrastive_uk: high
 status: review
 sources:
   - "Académie française, Questions de langue"
+reviewed_at: "2026-09-25"
+formula: true
+toc: true
+featured: false
 ---
 
 # Порядок об’єктних займенників
@@ -90,14 +98,20 @@ sources:
 
 - **Je ne le lui ai pas donné.**
 
-## Два дієслова
+## Два дієслова та інфінітив
 
-З конструкцією **verbe + infinitif** клітик часто стоїть безпосередньо перед infinitif:
+Якщо займенник належить інфінітиву, він зазвичай стоїть безпосередньо перед ним:
 
 - **Je vais le lui donner.**
 - **Je veux lui en parler.**
+- **Nous devons nous lever.**
 
-Проте синтаксис деяких конструкцій із дієсловами сприйняття та іншими керувальними структурами треба аналізувати як цілу групу, а не переносити одне правило механічно.
+Але це не означає, що будь-який займенник у конструкції **verbe + infinitif** належить інфінітиву. Порівняйте:
+
+- **Je lui demande de venir.** — *lui* належить *demande*.
+- **Je veux lui parler.** — *lui* належить *parler*.
+
+Для складніших випадків із **faire, laisser** і дієсловами сприйняття див. [Займенники з інфінітивом](./pronouns-infinitive).
 
 ## Impératif affirmatif: окрема схема
 
@@ -155,8 +169,9 @@ sources:
 2. хто є COI?
 3. чи є конструкція місця або **à + chose**, яку замінює **y**?
 4. чи є **de + chose / кількість**, яку замінює **en**?
-5. розташуйте займенники за схемою;
-6. окремо перевірте, чи це impératif affirmatif.
+5. до якого дієслова належить кожен займенник?
+6. розташуйте займенники за схемою;
+7. окремо перевірте, чи це impératif affirmatif.
 
 Це надійніше за буквальний переклад.
 
@@ -176,9 +191,10 @@ sources:
 4. **Donne-le-moi !**
 5. **Vas-y !**
 
-## Пов’язані теми
+## Куди далі
 
 - [COD](./pronouns-cod)
 - [COI](./pronouns-coi)
 - [Y та en](./y-en)
+- [Займенники з інфінітивом](./pronouns-infinitive)
 - [Impératif](./imperatif)
