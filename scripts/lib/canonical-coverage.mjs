@@ -114,6 +114,7 @@ export function formatCoverageReport(result) {
     '# Canonical coverage audit',
     '',
     `- Catalog topics: ${result.catalogCount}`,
+    `- Canonical sequence gaps: ${result.catalogGaps.length}`,
     `- Covered topics: ${result.coveredCount}`,
     `- Coverage: ${pct}%`,
     `- Missing topics: ${result.missing.length}`,
@@ -125,6 +126,9 @@ export function formatCoverageReport(result) {
     `- Files without explicit canonical IDs: ${result.filesWithoutCanonicalIds.length}`,
   ];
 
+  if (result.catalogGaps.length) {
+    lines.push('', '## Canonical sequence gaps', ...result.catalogGaps.map((id) => `- ${id}`));
+  }
   if (result.duplicateCatalogIds.length) {
     lines.push('', '## Duplicate catalog IDs', ...result.duplicateCatalogIds.map((id) => `- ${id}`));
   }
