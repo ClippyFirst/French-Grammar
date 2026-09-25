@@ -1,14 +1,45 @@
 ---
 title_uk: "Питання у французькій"
 title_fr: "La phrase interrogative"
-description_uk: "Інтонація, est-ce que, інверсія, питальні слова, прийменники та непрямі питання."
+description_uk: "Інтонація, est-ce que, інверсія, питальні слова, прийменникові конструкції та непрямі питання."
 category: questions
 order: 10
-related:
+prerequisites:
   - present
   - pronouns-subject
+related:
+  - negation
+  - pronouns-cod
+  - pronouns-coi
   - indirect-speech
-tags: [питання, est-ce que, інверсія, qui, que, quoi]
+contrast:
+  - indirect-speech
+next:
+  - indirect-speech
+aliases:
+  - interrogation
+  - phrase interrogative
+  - questions en français
+  - est-ce que
+tags:
+  - питання
+  - interrogation
+  - est-ce que
+  - інверсія
+  - qui
+  - que
+level: A1
+depth: high
+register: neutral
+variety:
+  - FR
+contrastive_uk: high
+status: review
+sources:
+  - "Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue"
+reviewed_at: "2026-09-25"
+formula: true
+toc: true
 ---
 
 # Питання
