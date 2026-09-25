@@ -8,6 +8,7 @@ prerequisites:
   - present
   - questions
 related:
+  - ne-expletif
   - futur-simple
   - futur-anterieur
   - imparfait
