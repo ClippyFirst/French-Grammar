@@ -4,6 +4,7 @@ title_fr: "Les périphrases verbales et constructions verbales complexes"
 description_uk: "Системний довідник конструкцій із двома дієсловами: aller, venir de, être en train de, modalні та інші перифрази."
 category: verbs
 order: 292
+canonical_ids: ["FR-719", "FR-720"]
 prerequisites:
   - infinitive
   - present
