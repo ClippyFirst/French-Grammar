@@ -4,6 +4,7 @@ title_fr: "La prosodie et l’organisation de l’énoncé"
 description_uk: "Фразова просодія, інтонація та наголос як засоби синтаксичної й дискурсивної інтерпретації."
 category: fundamentals
 order: 739
+canonical_ids: ["FR-739"]
 prerequisites:
   - reading-rules
   - questions
