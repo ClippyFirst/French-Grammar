@@ -4,6 +4,17 @@ title_fr: "Le discours indirect"
 description_uk: "Непряма мова у французькій: твердження, непрямі питання, накази, часові співвідношення, займенники та часові й просторові вказівники."
 category: indirect
 order: 10
+canonical_ids:
+  - "FR-485"
+  - "FR-486"
+  - "FR-487"
+  - "FR-488"
+  - "FR-489"
+  - "FR-490"
+  - "FR-491"
+  - "FR-492"
+  - "FR-493"
+  - "FR-494"
 prerequisites:
   - present
   - passe-compose
