@@ -19,10 +19,10 @@ prerequisites:
 related:
   - sentence-structure
   - word-order
-  - il-est
+  - information-structure
   - phrase-enonce
   - deixis
-  - dislocation
+  - sentence-structure
   - questions
 level: A2
 depth: high
