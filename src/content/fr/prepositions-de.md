@@ -4,7 +4,7 @@ title_fr: "La préposition de"
 description_uk: "Системний довідник про de: походження, належність, матеріал, тему, кількість, заперечення, інфінітивні конструкції та керування."
 category: prepositions
 order: 2
-related: [prepositions-a, articles-contracted, articles-partitive, articles-after-negation, pronouns-coi]
+related: [prepositions-a, contracted-articles, articles-partitive, articles-after-negation, pronouns-coi]
 tags: [прийменники, de, керування, кількість, походження]
 ---
 
