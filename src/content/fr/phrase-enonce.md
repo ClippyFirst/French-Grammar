@@ -4,7 +4,7 @@ title_fr: "Phrase, énoncé et situation d’énonciation"
 description_uk: "Розрізнення речення як граматичної структури, висловлення як акту мовлення та контексту, у якому воно інтерпретується."
 category: sentences
 order: 733
-canonical_ids: []
+canonical_ids: ["FR-733"]
 prerequisites:
   - complex-sentences
   - word-order
