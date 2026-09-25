@@ -46,6 +46,7 @@
 - [x] Mark the first confirmed duplicate/legacy slug pairs: definite-articles vs articles-definite, indefinite-articles vs articles-indefinite, partitive-articles vs articles-partitive, and present-tense vs present; legacy files are retained for now rather than destructively removed.
 - [x] Preserve existing strong articles as source material rather than rewriting blindly.
 - [ ] Complete the corpus-wide graph/reference audit; targeted graph checks are being performed as new canonical nodes are added.
+- [x] Extend the canonical syntax/tense/negation inventory with dedicated references for relative-clause structure, futur dans le passé, ne explétif, and passé simple; connect each new node to the existing graph.
 
 ## Task 2: Nominal and determiner cluster
 
@@ -151,7 +152,7 @@
 
 - [ ] Check every normative or high-risk claim against an authoritative grammar/reference source.
 - [ ] Remove generic filler, repeated conclusions, and unsupported “typical error” claims.
-- [x] Run Academic Writing Toolkit review on representative high-depth articles, including the new pronominal/être cluster; compact examples and tables are intentionally retained where they improve lookup usability.
+- [x] Run Academic Writing Toolkit review on representative high-depth articles, including the new pronominal/être cluster and the four latest canonical references; compact examples, tables and paradigms are intentionally retained where they improve lookup usability.
 - [x] Verify terminology consistency in the new pronominal/être cluster; corpus-wide terminology review remains.
 - [ ] Ensure every high-depth article has a useful practical check when supported by the site.
 
