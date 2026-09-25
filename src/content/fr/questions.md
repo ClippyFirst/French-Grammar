@@ -10,6 +10,7 @@ prerequisites:
 related:
   - negation
   - determiners-interrogative
+  - interrogative-adverbs
   - pronouns-cod
   - pronouns-coi
   - indirect-speech
