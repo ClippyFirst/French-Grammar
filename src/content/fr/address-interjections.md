@@ -4,7 +4,7 @@ title_fr: "Termes d’adresse, interjections et particules discursives"
 description_uk: "Довідковий огляд звертань, інтер'єкцій і дискурсивних часток як окремого шару сучасного французького мовлення."
 category: spoken
 order: 737
-canonical_ids: ["FR-637", "FR-650"]
+canonical_ids: ["FR-737", "FR-738"]
 prerequisites:
   - questions
   - phrase-enonce
