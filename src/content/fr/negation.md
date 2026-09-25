@@ -11,6 +11,7 @@ related:
   - questions
   - articles-after-negation
   - articles-indefinite
+  - pronouns-indefinite
   - pronoun-order
   - indirect-speech
 contrast:
