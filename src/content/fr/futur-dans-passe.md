@@ -4,6 +4,9 @@ title_fr: "Le futur dans le passé"
 description_uk: "Системний довідник про майбутню щодо минулого подію, що виражається формами conditionnel présent, особливо в непрямій мові."
 category: tenses
 order: 362
+canonical_ids:
+  - FR-365
+  - FR-366
 prerequisites:
   - futur-simple
   - conditionnel-present
