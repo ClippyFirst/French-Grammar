@@ -13,6 +13,8 @@ related:
   - passe-compose
   - pronouns-coi
   - relative-pronouns
+  - pronominal-verbs
+  - pronominal-participe-agreement
 contrast:
   - pronouns-coi
 next:
