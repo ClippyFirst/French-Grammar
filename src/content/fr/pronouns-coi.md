@@ -1,30 +1,63 @@
 ---
-title_uk: "Непрямі додатки та займенники COI"
+title_uk: "COI і непрямі об’єктні займенники"
 title_fr: "Le complément d’objet indirect et les pronoms COI"
-description_uk: "Системний довідник про COI та займенники me, te, lui, nous, vous, leur; керування дієслів і відмінність від COD, y та наголошених займенників."
+description_uk: "Як розпізнати COI, вибрати lui/leur та відрізнити їх від COD, y і наголошених займенників через керування французького дієслова."
 category: pronouns
 order: 2
-related:
+prerequisites:
   - pronouns-cod
+  - prepositions-a
+related:
   - pronoun-order
   - y-en
-  - prepositions-a
-tags: [займенники, COI, непрямий додаток, керування]
+  - accord
+  - prepositions
+contrast:
+  - pronouns-cod
+next:
+  - pronoun-order
+aliases:
+  - pronoms COI
+  - complément d’objet indirect
+  - indirect object pronouns
+  - lui leur
+tags:
+  - займенники
+  - COI
+  - непрямий додаток
+  - lui
+  - leur
+level: A2
+depth: high
+register: neutral
+variety:
+  - FR
+contrastive_uk: high
+status: review
+sources:
+  - "Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue"
+reviewed_at: "2026-09-25"
+formula: true
+toc: true
 ---
 
-# Непрямий додаток (COI) і займенники COI
+# COI і непрямі об’єктні займенники
 
-## Коротка відповідь
+## Швидка відповідь
 
-**COI (complément d’objet indirect)** — додаткова синтаксична група, зв’язок якої з дієсловом оформлений прийменником, часто **à**:
+**COI (complément d’objet indirect)** — залежний від дієслова компонент, зв'язок якого оформлений прийменником. Для багатьох дієслів конструкція має **à + особа**:
 
-- *Je parle **à Marie**.*
-- *Il répond **à son professeur**.*
-- *Nous écrivons **à nos parents**.*
+> **Je parle à Marie.**
 
-Для багатьох конструкцій з **à + особа** використовуються клитичні займенники:
+→ **Je lui parle.**
 
-| Особа | COI |
+> **Je parle aux étudiants.**
+
+→ **Je leur parle.**
+
+Основні клитичні форми:
+
+| Особа | Форма |
 |---|---|
 | 1 одн. | **me / m’** |
 | 2 одн. | **te / t’** |
@@ -33,323 +66,221 @@ tags: [займенники, COI, непрямий додаток, керува�
 | 2 мн. | **vous** |
 | 3 мн. | **leur** |
 
-- *Je parle à Marie → Je **lui** parle.*
-- *Je parle à Paul → Je **lui** parle.*
-- *Je parle aux étudiants → Je **leur** parle.*
+## 1. COI не означає «будь-яке à»
 
-**lui** не розрізняє чоловічий і жіночий рід у цій функції.
+Це головна межа правила.
 
----
+> **Je parle à Paul. → Je lui parle.**
 
-## 1. Найважливіше: COI не дорівнює «будь-яке à»
+але:
 
-Не можна користуватися правилом:
+> **Je pense à Paul. → Je pense à lui.**
 
-> «Якщо є à, завжди став lui/leur».
+і:
+
+> **Je vais à Paris. → J’y vais.**
+
+Тому треба визначати не просто прийменник, а **модель керування конкретного дієслова**.
+
+## 2. COD vs COI
 
 Порівняйте:
 
-- *Je parle à Paul.* → *Je **lui** parle.*
-- *Je pense à Paul.* → *Je pense **à lui**.*
-- *Je vais à Paris.* → *J’**y** vais.*
-- *Je pense à ce problème.* → *J’**y** pense.*
+> **Je vois Paul. → Je le vois.**
 
-Вибір залежить від **дієслова, типу референта та конструкції**.
+> **Je parle à Paul. → Je lui parle.**
 
-Особливо корисно розрізняти:
+> **J’écoute Marie. → Je l’écoute.**
 
-**à + особа → часто lui/leur**, якщо дієслово дозволяє клитичний COI;
+> **Je réponds à Marie. → Je lui réponds.**
 
-**à + річ / місце → часто y**, але не в усіх конструкціях;
+Французьке керування треба вчити разом із дієсловом:
 
-**à + наголошений займенник** зберігається в конструкціях типу *penser à lui, tenir à elle*.
-
----
-
-## 2. Форми
-
-### Перед приголосним
-
-- *Il **me** parle.*
-- *Je **te** réponds.*
-- *Elle **lui** écrit.*
-- *Nous **vous** répondons.*
-- *Ils **leur** téléphonent.*
-
-### Елізія
-
-**me → m’**, **te → t’** перед голосним або німим *h*:
-
-- *Il **m’**écrit.*
-- *Je **t’**envoie un message.*
-
-**lui, nous, vous, leur** не елiдуються:
-
-- *Je lui écris.*
-- *Nous leur avons parlé.*
-
----
-
-## 3. Типові дієслова з à + особа
-
-Вивчайте їх як конструкції:
-
+- **voir quelqu’un**
+- **écouter quelqu’un**
 - **parler à quelqu’un**
-- **téléphoner à quelqu’un**
-- **écrire à quelqu’un**
 - **répondre à quelqu’un**
-- **obéir à quelqu’un**
-- **désobéir à quelqu’un**
-- **faire confiance à quelqu’un**
-- **faire plaisir à quelqu’un**
-- **plaire à quelqu’un**
-- **nuire à quelqu’un**
 
-Приклади:
+Український відмінок не є механічним ключем до французької конструкції.
 
-- *Je parle à Paul → Je **lui** parle.*
-- *Elle téléphone à sa mère → Elle **lui** téléphone.*
-- *Nous répondons aux étudiants → Nous **leur** répondons.*
-- *Il fait confiance à Marie → Il **lui** fait confiance.*
+## 3. Частотні моделі з à + особа
 
----
+> **parler à quelqu’un → lui parler**
 
-## 4. Дієслова, де значення треба вивчати разом із керуванням
+> **téléphoner à quelqu’un → lui téléphoner**
 
-Український переклад не завжди передбачає французьке **à**.
+> **écrire à quelqu’un → lui écrire**
 
-Порівняйте:
+> **répondre à quelqu’un → lui répondre**
 
-- *aider quelqu’un* → *Je **l’**aide.*  
-- *parler à quelqu’un* → *Je **lui** parle.*
+> **obéir à quelqu’un → lui obéir**
 
-- *écouter quelqu’un* → *Je **l’**écoute.*
-- *répondre à quelqu’un* → *Je **lui** réponds.*
+> **faire confiance à quelqu’un → lui faire confiance**
 
-- *attendre quelqu’un* → *Je **l’**attends.*
-- *téléphoner à quelqu’un* → *Je **lui** téléphone.*
+> **faire plaisir à quelqu’un → lui faire plaisir**
 
-Саме тому корисно вчити не окремий переклад дієслова, а **керування**.
+> **plaire à quelqu’un → lui plaire**
 
----
+Для множини:
 
-## 5. COI з двома додатками
+> **Je parle aux étudiants. → Je leur parle.**
 
-У конструкції «дати щось комусь»:
+## 4. lui не розрізняє рід
 
-- *Je donne **le livre** **à Marie**.*
-- *Je **le lui** donne.*
+> **Je lui parle.**
 
-Тут:
+може означати:
 
-- **le livre** = COD → **le**
-- **à Marie** = COI → **lui**
+> Я говорю **йому**.
 
-Інші приклади:
+або:
 
-- *Je montre les photos à Paul.* → *Je **les lui** montre.*
-- *Nous envoyons les documents aux étudiants.* → *Nous **les leur** envoyons.*
-
-Порядок кількох займенників див. у [окремому довіднику](./pronoun-order).
-
----
-
-## 6. COI у passé composé
-
-Клитичний COI стоїть перед допоміжним дієсловом:
-
-- *Je **lui** ai parlé.*
-- *Nous **leur** avons écrit.*
-- *Elle **m’**a répondu.*
-
-Наявність COI сама по собі **не викликає узгодження participe passé**:
-
-- *Je lui ai parlé.*
-- *Je leur ai écrit.*
-
-Не переносіть на COI правило попереднього COD у passé composé.
-
----
-
-## 7. COI та infinitif
-
-Не плутайте **COI** з конструкцією **à + infinitif**:
-
-- *Je commence à travailler.*
-- *Il apprend à conduire.*
-- *Nous réussissons à comprendre.*
-
-Тут *à travailler, à conduire, à comprendre* — не COI-займенники.
-
-Так само:
-
-- *J’essaie de comprendre.*
-- *Je décide de partir.*
-
-**de + infinitif** — інша модель керування.
-
----
-
-## 8. COI та наголошені займенники
-
-Клитичний COI:
-
-- *Je **lui** parle.*
-
-Наголошений займенник після прийменника:
-
-- *Je parle **à lui**.*
-- *Je pense **à lui**.*
-- *Je compte **sur lui**.*
-
-Не можна замінювати всі конструкції *à + personne* на **lui/leur**.
-
-Порівняйте:
-
-- *Je parle à Marie.* → *Je **lui** parle.*
-- *Je pense à Marie.* → *Je pense **à elle**.*
-
-Тобто вибір залежить від **керування конкретного дієслова**.
-
----
-
-## 9. COI vs y
-
-Займенник **y** часто замінює групу **à + річ / місце**:
-
-- *Je pense à ce problème.* → *J’**y** pense.*
-- *Je vais à Paris.* → *J’**y** vais.*
-- *Nous répondons à cette question.* → *Nous **y** répondons.*
-
-Для особи в багатьох типових конструкціях:
-
-- *Je parle à Marie.* → *Je **lui** parle.*
-
-Але:
-
-- *Je pense à Marie.* → *Je pense à elle.*
-
-Це одна з причин, чому правило «à = lui» небезпечне.
-
----
-
-## 10. COI vs en
-
-**en** часто замінює **de + групу**:
-
-- *Je parle de Marie.* → *J’**en** parle* — якщо йдеться про зміст / тему, а не про особу як такий референт у конструкції.
-- *J’ai besoin de ce livre.* → *J’**en** ai besoin.*
-
-Але:
-
-- *Je me souviens de Marie.* → *Je me souviens d’**elle**.*
-
-Знову ж таки, треба враховувати тип конструкції.
-
----
-
-## 11. Українська перспектива
-
-Українська має багатшу систему відмінкових форм займенника:
-
-- йому / їй;
-- їм;
-- до нього / до неї;
-- про нього / про неї.
-
-Французьке **lui** може відповідати і «йому», і «їй»:
-
-- *Je **lui** parle.* → Я говорю **йому**.
-- *Je **lui** parle.* → Я говорю **їй**.
+> Я говорю **їй**.
 
 Рід відновлюється з контексту.
 
-Але український відмінок не можна просто перетворити на французький займенник. Спершу визначте французьку конструкцію.
+## 5. Позиція
 
----
+У простому реченні:
 
-## 12. Типові помилки
+> **Je lui parle.**
 
-### ❌ *Je lui vois.*
+> **Elle leur répond.**
 
-Якщо дієслово — *voir*:
+У passé composé:
 
-✅ *Je **le/la** vois.*
+> **Je lui ai parlé.**
 
-### ❌ *Je le parle.*
+> **Nous leur avons écrit.**
 
-Якщо дієслово — *parler à*:
+У запереченні:
 
-✅ *Je **lui** parle.*
+> **Je ne lui parle pas.**
 
-### ❌ *Je lui pense.*
+> **Elle ne leur a pas répondu.**
 
-Для *penser à quelqu’un*:
+## 6. Два займенники
 
-✅ *Je pense **à lui/elle**.*
+> **Je donne le livre à Marie.**
 
-### ❌ *Je y pense.*
+→ **Je le lui donne.**
 
-Правильно:
+> **Nous montrons les photos aux étudiants.**
 
-✅ *J’**y** pense.*
+→ **Nous les leur montrons.**
 
-### ❌ *Je leur regarde.*
+Тут:
 
-Якщо йдеться про *regarder quelqu’un*:
+- **le / les** = COD;
+- **lui / leur** = COI.
 
-✅ *Je **les** regarde.*
+Повний порядок кількох clitiques описується окремо.
 
----
+## 7. COI та узгодження participe passé
 
-## 13. Алгоритм
+COI не є COD і тому не викликає узгодження participe passé за правилом попереднього COD:
 
-1. Визначте дієслово.
-2. Перевірте його керування.
-3. Визначте, чи додаток є COI.
-4. Якщо це клитичний COI, визначте особу й число.
-5. Виберіть **me, te, lui, nous, vous, leur**.
-6. Перевірте, чи конструкція насправді не потребує:
-   - **le/la/les**;
-   - **y**;
-   - **en**;
-   - **à + moi/toi/lui/elle/eux/elles**.
-7. Якщо є кілька займенників, застосуйте фіксований порядок.
+> **La femme à qui j’ai parlé.**
 
----
+> **Les étudiants à qui j’ai répondu.**
 
-## 14. Мінімальні пари
+Форма **parlé / répondu** не узгоджується з *femme* чи *étudiants* через сам факт наявності займенника/прийменникової групи.
 
-- *Je **le** vois.* / *Je **lui** parle.*
-- *Je **les** écoute.* / *Je **leur** réponds.*
-- *J’**y** pense.* / *Je pense **à lui**.*
-- *J’**en** parle.* / *Je parle **d’elle**.*
+Порівняйте:
 
----
+> **La lettre que j’ai écrite.**
 
-## Вправи
+Тут **que** — COD, тому діє правило узгодження COD, розташованого перед participe passé.
 
-### A. Виберіть форму
+## 8. COI та y
 
-1. *Je parle à Marie.* → **Je lui parle.**
-2. *Je vois Marie.* → **Je la vois.**
-3. *Je réponds aux étudiants.* → **Je leur réponds.**
-4. *Je pense à Paul.* → **Je pense à lui.**
-5. *Je pense à ce problème.* → **J’y pense.**
+Для багатьох конструкцій:
 
-### B. Визначте керування
+> **Je pense à ce problème. → J’y pense.**
 
-1. *attendre quelqu’un* → COD
-2. *parler à quelqu’un* → COI
-3. *répondre à quelqu’un* → COI
-4. *penser à quelqu’un* → конструкція з наголошеним займенником
-5. *aller à Paris* → y для заміни місця
+> **Je réponds à cette question. → J’y réponds.**
 
----
+Але з особою вибір залежить від дієслова:
 
-## Пов’язані теми
+> **Je parle à Marie. → Je lui parle.**
 
-- [COD](./pronouns-cod)
-- [Порядок займенників](./pronoun-order)
-- [y та en](./y-en)
-- [Прийменник à](./prepositions-a)
+> **Je pense à Marie. → Je pense à elle.**
+
+Отже, **à + personne ≠ automatiquement lui**.
+
+## 9. COI та наголошений займенник
+
+Після прийменника може стояти наголошена форма:
+
+> **Je pense à lui.**
+
+> **Je compte sur elle.**
+
+Не замінюйте її автоматично на **lui/leur**.
+
+> **Je parle à Paul. → Je lui parle.**
+
+але
+
+> **Je pense à Paul. → Je pense à lui.**
+
+Різницю визначає керування.
+
+## 10. COI та інфінітив
+
+> **Je commence à travailler.**
+
+> **Il apprend à conduire.**
+
+Група **à + infinitif** не є COI-займенником. Це інша конструкція керування.
+
+Порівняйте:
+
+> **Je parle à Marie.**
+
+і
+
+> **Je commence à travailler.**
+
+Формальний прийменник однаковий, але синтаксична структура різна.
+
+## Для україномовного учня
+
+Українська використовує відмінкові форми:
+
+> йому / їй / їм
+
+Французьке **lui** може відповідати і «йому», і «їй»:
+
+> **Je lui parle.**
+
+Тому французький займенник не можна вибирати лише за українським перекладом. Спочатку треба визначити французьке керування.
+
+## Типові помилки
+
+❌ *Je lui vois.*
+
+✅ **Je le/la vois.**
+
+❌ *Je le parle.*
+
+✅ **Je lui parle.**
+
+❌ *Je lui pense.*
+
+✅ **Je pense à lui/elle.**
+
+❌ *Je y pense.*
+
+✅ **J’y pense.**
+
+❌ *Je leur regarde.*
+
+✅ **Je les regarde.**
+
+## Куди далі
+
+- **COD**
+- **Порядок клитичних займенників**
+- **y / en**
+- **Керування дієслів**
