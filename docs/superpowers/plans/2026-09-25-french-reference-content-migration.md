@@ -33,6 +33,8 @@
 
 ## Task 1: Inventory and canonical mapping
 
+**Progress:** completed for the first migration batch; the canonical catalog and existing article corpus were inspected before rewriting.
+
 **Files:**
 - Read: `docs/grammar_taxonomy_canonical.md`
 - Read: `docs/grammar_taxonomy_completeness_audit.md`
@@ -46,6 +48,8 @@
 - [ ] Identify graph references that do not correspond to actual slugs/topic IDs.
 
 ## Task 2: Nominal and determiner cluster
+
+**Progress:** first batch completed for the principal article/determiner cluster; further subtopics remain.
 
 **Files:**
 - Modify: `src/content/fr/articles-definite.md`
@@ -68,6 +72,8 @@
 
 ## Task 3: Adjective and agreement cluster
 
+**Progress:** first batch completed for noun gender, number, adjective position, and agreement; finer adjective morphology remains.
+
 **Files:**
 - Modify: `src/content/fr/noun-gender.md`
 - Modify: `src/content/fr/singular-plural.md`
@@ -83,6 +89,8 @@
 - [ ] Validate examples and graph edges.
 
 ## Task 4: Core verb and tense cluster
+
+**Progress:** present, passé composé and imparfait rewritten; remaining tense/mood system is still open.
 
 **Files:**
 - Modify: `src/content/fr/present.md`
@@ -100,6 +108,8 @@
 
 ## Task 5: Pronoun and valency cluster
 
+**Progress:** COD, COI and y/en first-pass reference rewrites completed; clitic-order and reflexive systems remain.
+
 **Files:**
 - Modify: `src/content/fr/pronouns-cod.md`
 - Modify: `src/content/fr/pronouns-coi.md`
@@ -115,6 +125,8 @@
 - [ ] Verify all pronoun combinations and examples.
 
 ## Task 6: Syntax, questions, negation, subordination
+
+**Progress:** questions, negation and subjonctif metadata/content alignment started; deeper syntax rewrite remains.
 
 **Files:**
 - Modify: `src/content/fr/questions.md`
