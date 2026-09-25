@@ -4,6 +4,10 @@ title_fr: "Le passé simple"
 description_uk: "Довідник про passé simple як простий минулий час, його основні моделі, наративну функцію та сучасний письмовий регістр."
 category: tenses
 order: 349
+canonical_ids:
+  - FR-349
+  - FR-350
+  - FR-353
 prerequisites:
   - present
   - passe-compose
