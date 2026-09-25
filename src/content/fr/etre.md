@@ -10,6 +10,7 @@ related:
   - avoir
   - aller
   - faire
+  - impersonal-verbs
   - passe-compose
   - accord
   - passive
