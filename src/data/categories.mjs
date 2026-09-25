@@ -51,3 +51,32 @@ export const categoryAliases = {
   'Жива французька': 'spoken',
   'Регіональні варіанти': 'regional',
 };
+
+/**
+ * Shared taxonomy layer. The category key remains stable for URLs/content,
+ * while this map keeps grammar domains separate from learning depth,
+ * register and regional variation.
+ */
+export const categoryLayers = {
+  fundamentals: 'foundations',
+  nouns: 'nominal',
+  pronouns: 'pronouns',
+  adjectives: 'nominal',
+  adverbs: 'nominal',
+  prepositions: 'prepositions-government',
+  conjunctions: 'syntax',
+  verbs: 'verbs',
+  tenses: 'tense-aspect-mood',
+  moods: 'tense-aspect-mood',
+  modals: 'tense-aspect-mood',
+  negation: 'negation-questions',
+  questions: 'negation-questions',
+  sentences: 'syntax',
+  complex: 'syntax',
+  agreement: 'syntax',
+  indirect: 'syntax',
+  passive: 'passive-impersonal',
+  orthography: 'orthography',
+  spoken: 'discourse-pragmatics',
+  regional: 'variation',
+};
