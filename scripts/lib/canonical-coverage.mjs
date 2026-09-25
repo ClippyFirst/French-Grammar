@@ -4,7 +4,7 @@ export function parseCanonicalIds(source) {
   const inline = source.match(/^canonical_ids:\\s*\\[([^\\]]*)\\]\\s*$/m);
   if (inline) return [...inline[1].matchAll(CANONICAL_ID_RE)].map((m) => m[0]);
 
-  const multiline = source.match(/^canonical_ids:\\s*\\n((?:\\s+-\\s+FR-\\d{3}\\s*\\n?)*)/m);
+  const multiline = source.match(/^canonical_ids:[ \\t]*\\r?\\n((?:[ \\t]*-[ \\t]*FR-\\d{3}[ \\t]*\\r?\\n?)*)/m);
   if (!multiline) return [];
   return [...multiline[1].matchAll(CANONICAL_ID_RE)].map((m) => m[0]);
 }
