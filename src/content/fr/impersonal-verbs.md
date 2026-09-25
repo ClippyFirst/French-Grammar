@@ -1,38 +1,44 @@
 ---
-title_uk: "Безособові конструкції та дієслова: il faut, il y a, il pleut та інші"
+title_uk: "Безособові конструкції у французькій: il faut, il y a, il est, il semble"
 title_fr: "Les constructions impersonnelles"
-description_uk: "Як французька оформлює безособові ситуації за допомогою il, il y a, il faut, погодних дієслів та безособових конструкцій."
+description_uk: "Система французьких безособових конструкцій: формальне il, il y a, il faut, il est, il semble, погодні дієслова та безособове вживання."
 category: verbs
-canonical_ids: [FR-321]
+canonical_ids:
+  - "FR-500"
+  - "FR-501"
+  - "FR-502"
+  - "FR-503"
+  - "FR-504"
 order: 82
 prerequisites:
   - present
   - etre
   - avoir
 related:
-  - pronominal-verbs
   - passive
   - subjonctif
   - infinitive
   - questions
-  - temporal-conjunctions
+  - pronominal-verbs
+  - sentence-structure
 contrast:
   - pronouns-subject
 next:
-  - subjonctif
+  - accord
 aliases:
   - constructions impersonnelles
   - verbes impersonnels
   - il faut
   - il y a
-  - il pleut
+  - il semble
+  - il est
 tags:
   - безособові конструкції
-  - безособові дієслова
   - il faut
   - il y a
-  - погода
-level: A2
+  - il est
+  - il semble
+  - impersonal il
 depth: high
 register: neutral
 variety:
@@ -41,156 +47,519 @@ contrastive_uk: high
 status: review
 sources:
   - "Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue"
-reviewed_at: "2026-09-25"
+  - "Cambridge University Press — Advanced French Grammar: https://www.cambridge.org/core/books/advanced-french-grammar/43D68AA9110EE9C87998795C352E594C"
+reviewed_at: "2026-09-26"
 formula: true
 toc: true
 ---
 
-# Безособові конструкції та дієслова
+# Безособові конструкції
 
 ## Швидка відповідь
 
-**Безособова конструкція** не має звичайного лексичного підмета, який позначає учасника ситуації. У французькій формальний підмет **il** часто заповнює підметову позицію:
+Французьке **il** може бути не звичайним займенником «він», а **формальним підметом** у безособовій конструкції.
 
-- **Il pleut.** — Іде дощ.
-- **Il faut partir.** — Треба вирушати.
-- **Il y a un problème.** — Є проблема.
-- **Il est important de vérifier.** — Важливо перевірити.
+Порівняйте:
 
-Це **il** не слід автоматично трактувати як звичайний займенник «він».
+> **Il travaille.**  
+> Він працює.
 
-## 1. Погодні конструкції
+> **Il pleut.**  
+> Іде дощ.
+
+У другому реченні **il** не позначає конкретного учасника ситуації.
+
+Основні моделі:
+
+- **il y a** — існування / наявність;
+- **il faut** — необхідність;
+- **il est + adjectif** — оцінка, можливість, необхідність тощо;
+- **il semble** — враження / видимість;
+- погодні конструкції — **il pleut, il neige, il fait froid**;
+- інші безособові предикати з формальним **il**.
+
+---
+
+# FR-500 — Що таке безособова конструкція
+
+## Особовий і безособовий il
+
+У:
+
+> **Il est médecin.**
+
+**il** має референт — конкретну особу.
+
+У:
+
+> **Il est difficile de répondre.**
+
+**il** не позначає окрему особу. Конструкція загалом оцінює дію **répondre**.
+
+Формальне **il** потрібне французькій синтаксичній структурі, хоча український переклад може обходитися без підмета:
+
+> **Il est important de vérifier les données.**
+
+→ **Важливо перевірити дані.**
+
+## Погода
 
 > **Il pleut.**
 
 > **Il neige.**
 
+> **Il gèle.**
+
+> **Il fait chaud.**
+
 > **Il fait froid.**
 
-> **Il fait beau.**
+Формальний підмет не треба перекладати українським «він».
 
-У цих реченнях **il** не позначає конкретну особу чи предмет.
+## Безособовість не означає «дієслово без форми»
 
-Порівняйте:
+Дієслово все одно має граматичний час:
 
-> **Il travaille.** — Він працює.
+> **Il pleuvait.**
 
-> **Il pleut.** — Іде дощ.
+> **Il a plu.**
 
-Форма однакова, але референтна функція різна.
+> **Il pleuvra.**
 
-## 2. Il faut
+Змінюється форма дієслова, але **il** залишається формальним підметом.
 
-**Il faut** виражає необхідність або вимогу:
+---
 
-> **Il faut travailler.** — Треба працювати.
+# FR-501 — Il y a
 
-> **Il faut partir maintenant.** — Треба вирушати зараз.
+## Базове значення
 
-З іменниковою групою або підрядним реченням:
+**Il y a** повідомляє про існування або наявність:
 
-> **Il faut une solution.** — Потрібне рішення.
-
-> **Il faut que tu viennes.** — Треба, щоб ти прийшов.
-
-У конструкції **il faut que + subjonctif** форма після **que** залежить від синтаксичної конструкції; це не просто механічний «переклад слова треба».
-
-## 3. Il y a
-
-**Il y a** вводить існування або наявність:
-
-> **Il y a un livre sur la table.**
+> **Il y a un problème.**
 
 > **Il y a trois étudiants dans la salle.**
 
-> **Il n’y a personne.**
+> **Il y a beaucoup de monde ici.**
 
-Це не слід аналізувати як звичайне **avoir = мати**. Конструкція має власну безособову функцію існування/наявності.
+Не перекладайте **il y a** механічно як звичайне «мати».
 
-## 4. Il est + adjectif
+> **J'ai un problème.**  
+> У мене є проблема.
 
-Формальна конструкція:
+> **Il y a un problème.**  
+> Є проблема / виникла проблема.
+
+## Заперечення
+
+> **Il n'y a pas de problème.**
+
+> **Il n'y a personne.**
+
+> **Il n'y a rien à faire.**
+
+Після заперечення вибір форми залежить від конкретної конструкції:
+
+> **un problème → pas de problème**
+
+але:
+
+> **personne / rien**
+
+мають власну займенникову структуру.
+
+## Питання
+
+> **Y a-t-il un problème ?**
+
+Це формальніше питання.
+
+У нейтральній розмовній мові можливі:
+
+> **Est-ce qu'il y a un problème ?**
+
+> **Il y a un problème ?**
+
+Різниця стосується не лише граматики, а й регістру.
+
+## Часові форми
+
+> **Il y avait un problème.**
+
+> **Il y a eu un problème.**
+
+> **Il y aura un problème.**
+
+> **Il y aurait un problème.**
+
+Не плутайте:
+
+> **il y a trois ans**
+
+= три роки тому
+
+з:
+
+> **il y a un problème**
+
+= є проблема.
+
+---
+
+# FR-502 — Il faut
+
+## Необхідність
+
+**Il faut** виражає необхідність:
+
+> **Il faut travailler.**
+
+> **Il faut partir maintenant.**
+
+> **Il faut une solution.**
+
+Модель залежить від того, що є змістом необхідності.
+
+### Infinitif
+
+> **Il faut vérifier les données.**
+
+= Потрібно перевірити дані.
+
+### Nom
+
+> **Il faut une solution.**
+
+= Потрібне рішення.
+
+### Que + proposition
+
+> **Il faut que tu viennes.**
+
+= Треба, щоб ти прийшов.
+
+Після **il faut que** використовується **subjonctif**:
+
+> **Il faut que tu viennes.**
+
+Не:
+
+> ❌ **Il faut que tu viens.**
+
+## Минулий і майбутній час
+
+> **Il fallait partir.**  
+> Треба було вирушати.
+
+> **Il a fallu agir rapidement.**  
+> Довелося / потрібно було діяти швидко.
+
+> **Il faudra attendre.**  
+> Треба буде зачекати.
+
+Отже, **falloir** — безособове дієслово з власною часовою парадигмою.
+
+## Il faut vs devoir
+
+Порівняйте:
+
+> **Il faut partir.**
+
+= Треба вирушати; необхідність подається загально.
+
+> **Tu dois partir.**
+
+= Ти маєш / повинен вирушити; необхідність прив'язана до конкретного адресата.
+
+Це не абсолютна різниця, але корисний базовий контраст.
+
+---
+
+# FR-503 — Il est та il semble
+
+## Il est + adjectif
+
+Безособова оцінка часто будується так:
 
 > **Il est important de vérifier les données.**
 
 > **Il est difficile de répondre.**
 
-У таких конструкціях **il** не обов’язково посилається на конкретний предмет.
+> **Il est possible de changer le plan.**
 
-Порівняйте:
+Модель:
 
-> **Paul est important pour l’équipe.** — Поль важливий для команди.
+> **il est + adjectif + de + infinitif**
 
-> **Il est important de vérifier les données.** — Важливо перевірити дані.
+Коли підметом змістовно є ціла дія:
 
-## 5. Безособова конструкція + infinitif
+> **Il est important de comprendre.**
 
-Часто після оцінки або необхідності використовується **de + infinitif**:
+**Il** не означає «він».
 
-> **Il est nécessaire de partir.**
-
-> **Il est difficile de comprendre ce texte.**
-
-Узагальнено:
-
-**il est + adjectif + de + infinitif**
-
-Але не всі конструкції мають однакове керування; конкретний прикметник може вимагати іншу структуру.
-
-## 6. Il est + adjectif + que
-
-Можлива конструкція з підрядним реченням:
+## Il est + adjectif + que
 
 > **Il est important que vous veniez.**
 
-> **Il est possible qu’il soit déjà parti.**
+> **Il est possible qu'il soit déjà parti.**
 
-Вибір способу дієслова після **que** залежить від предиката та значення; зокрема оцінка, необхідність або можливість часто створюють середовище для **subjonctif**.
+Тут підрядна частина містить зміст оцінки або можливості.
 
-## 7. Для україномовного учня
+У багатьох таких конструкціях **subjonctif** пов'язаний із семантикою оцінки, необхідності, можливості або невизначеності:
 
-Українська може виражати ті самі значення без формального підмета:
+> **Il est possible qu'il vienne.**
+
+> **Il est nécessaire que vous soyez présents.**
+
+Не робіть із цього правила «після кожного il est потрібен subjonctif»: вибір залежить від конкретного предиката.
+
+## Il semble
+
+**Il semble** виражає враження або видимість:
+
+> **Il semble fatigué.**
+
+Тут **il** може бути особовим і стосуватися конкретної особи.
+
+Але:
+
+> **Il semble que le projet soit terminé.**
+
+може бути безособовою конструкцією зі значенням «здається, що...».
+
+Можлива також конструкція:
+
+> **Il semble que tout va bien.**
+
+Вибір способу в таких структурах залежить від конструкції, значення та стилю; не слід зводити його до одного механічного правила.
+
+## Особове vs безособове
+
+Порівняйте:
+
+> **Paul semble fatigué.**
+
+> **Il semble fatigué.**
+
+У першому реченні **Paul** — названий референт.
+
+> **Il semble que Paul soit fatigué.**
+
+Тут **il** не є «Павлом»: це безособовий формальний підмет.
+
+---
+
+# FR-504 — Безособове il: система та вибір
+
+## Основні моделі
+
+| Конструкція | Основне значення | Приклад |
+|---|---|---|
+| **il y a + nom** | існування / наявність | **Il y a une erreur.** |
+| **il faut + infinitif** | необхідність | **Il faut agir.** |
+| **il faut que + subjonctif** | необхідність щодо суб'єкта | **Il faut qu'il agisse.** |
+| **il est + adjectif + de + infinitif** | оцінка / характеристика дії | **Il est utile de vérifier.** |
+| **il est + adjectif + que** | оцінка пропозиції | **Il est important que tu viennes.** |
+| **il semble que...** | враження / видимість | **Il semble qu'il soit prêt.** |
+| **il pleut / neige...** | погода | **Il pleut.** |
+
+## Як вибрати конструкцію
+
+### Якщо повідомляєте про наявність
+
+> **Il y a...**
+
+### Якщо виражаєте необхідність
+
+> **Il faut...**
+
+### Якщо оцінюєте дію
+
+> **Il est + adjectif + de + infinitif**
+
+### Якщо оцінюєте цілу ситуацію
+
+> **Il est + adjectif + que + proposition**
+
+### Якщо говорите про враження
+
+> **Il semble que...**
+
+### Якщо описуєте погоду
+
+> **Il pleut / il neige / il fait froid...**
+
+---
+
+## Українсько-французький контраст
+
+Українська легко утворює:
 
 > **Треба працювати.**
 
-> **Іде дощ.**
+Французька:
+
+> **Il faut travailler.**
+
+Українська:
 
 > **Є проблема.**
 
-Французька часто потребує формального **il**, тому не можна просто перекладати кожне українське безособове речення без підмета.
+Французька:
 
-Порівнюйте не окреме слово, а конструкцію:
+> **Il y a un problème.**
 
-- **треба + infinitif** → **il faut + infinitif**;
-- **є + іменникова група** → **il y a + іменникова група**;
-- **важливо + infinitif** → **il est important de + infinitif**.
+Українська:
+
+> **Важливо перевірити дані.**
+
+Французька:
+
+> **Il est important de vérifier les données.**
+
+Українська:
+
+> **Здається, він уже пішов.**
+
+Французька:
+
+> **Il semble qu'il soit déjà parti.**
+
+Тому **il** не варто перекладати слово за словом. Спочатку визначте функцію всієї конструкції.
+
+---
+
+## Не плутайте
+
+### Il est médecin
+
+> **Il est médecin.**
+
+= Він лікар.
+
+Тут **il** — особовий займенник.
+
+### Il est important de venir
+
+> **Il est important de venir.**
+
+= Важливо прийти.
+
+Тут **il** — формальний підмет без конкретного референта.
+
+### Il semble fatigué
+
+> **Il semble fatigué.**
+
+Може означати:
+
+> Він / воно здається втомленим.
+
+Тут **il** може бути особовим.
+
+### Il semble que Paul soit fatigué
+
+> **Il semble que Paul soit fatigué.**
+
+= Здається, Поль втомився.
+
+Тут **il** безособове.
+
+---
 
 ## Типові помилки
 
-❌ **Il faut que tu venir.**  
+❌ **Il faut que tu viens.**
+
 ✅ **Il faut que tu viennes.**
 
-❌ **Il y a de problème.**  
-✅ **Il y a un problème.**
+❌ **Il est important vérifier les données.**
 
-❌ **Il pleut** перекладати структурно як «він дощить».  
-✅ Це безособова погодна конструкція: **іде дощ**.
-
-❌ **Il est important vérifier les données.**  
 ✅ **Il est important de vérifier les données.**
 
-## Практична перевірка
+❌ *Il y a de problème.*
 
-1. ___ faut partir maintenant.
-2. ___ y a trois étudiants.
-3. ___ pleut depuis ce matin.
-4. Il est important ___ vérifier les données.
-5. Il faut que tu ___ (venir).
+✅ **Il y a un problème.**
 
-**Відповіді:** 1. **Il**; 2. **Il**; 3. **Il**; 4. **de**; 5. **viennes**.
+❌ перекладати **il pleut** як речення про конкретну особу.
 
-## Куди далі
+✅ **Il pleut = Іде дощ.**
 
-- **Subjonctif** — конструкції з il faut que та іншими предикатами.
-- **Інфінітив** — de + infinitif та інші інфінітивні конструкції.
-- **Être** — copular та безособові конструкції.
+❌ змішувати **Il semble fatigué** та **Il semble que Paul soit fatigué**.
+
+✅ перевірити, чи **il** має конкретний референт.
+
+---
+
+## Алгоритм аналізу
+
+1. Чи **il** має конкретний референт?
+2. Якщо ні, чи це **il y a**, **il faut**, **il est**, **il semble** або погодна конструкція?
+3. Який зміст стоїть після безособового предиката?
+4. Чи потрібен **infinitif**, іменникова група або підрядне речення?
+5. Якщо є **que**, перевірте керування та спосіб дієслова.
+6. Перевірте час: **il faut → il fallait / il a fallu / il faudra**.
+7. Для **il y a** перевірте значення: існування чи часовий вираз **il y a + durée**.
+8. Для **il semble** визначте, чи **il** особове, чи безособове.
+
+---
+
+## Вправи
+
+### Вставте потрібну конструкцію
+
+1. ___ faut vérifier les résultats.
+2. ___ y a une erreur dans le document.
+3. ___ est important de répondre rapidement.
+4. ___ semble que le projet soit terminé.
+5. ___ pleut depuis ce matin.
+
+Відповіді:
+
+1. **Il**
+2. **Il**
+3. **Il**
+4. **Il**
+5. **Il**
+
+### Перекладіть
+
+> Треба почекати.
+
+→ **Il faut attendre.**
+
+> Є кілька варіантів.
+
+→ **Il y a plusieurs possibilités.**
+
+> Важливо зрозуміти різницю.
+
+→ **Il est important de comprendre la différence.**
+
+> Здається, вони вже пішли.
+
+→ **Il semble qu'ils soient déjà partis.**
+
+---
+
+## Головне
+
+- Французьке **il** може бути особовим або формальним безособовим підметом.
+- **Il y a** виражає існування / наявність.
+- **Il faut** виражає необхідність.
+- **Il est + adjectif** часто оцінює дію або ситуацію.
+- **Il semble** виражає враження / видимість.
+- Погодні конструкції використовують безособове **il**.
+- **Il faut que + subjonctif** — важлива модель необхідності.
+- **Il est + adjectif + de + infinitif** і **il est + adjectif + que + proposition** не є взаємозамінними механічно.
+- У **Il semble fatigué** та **Il semble que Paul soit fatigué** роль **il** різна.
+- Українська часто не має формального підмета там, де французька його вимагає.
+
+## Пов'язані теми
+
+- [Пасивний стан](./passive)
+- [Subjonctif](./subjonctif)
+- [Інфінітив](./infinitive)
+- [Питання](./questions)
+- [Займенникові дієслова](./pronominal-verbs)
+- [Структура речення](./sentence-structure)
