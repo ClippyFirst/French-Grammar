@@ -1,294 +1,525 @@
 ---
-title_uk: "Умовний теперішній час — Conditionnel présent: утворення та вживання"
+title_uk: "Conditionnel présent: утворення, значення та вживання"
 title_fr: "Le conditionnel présent"
-description_uk: "Повний посібник з утворення та вживання умовного теперішнього часу у французькій мові для українськомовних. Дізнайтеся про закінчення, неправильні дієслова та коли використовувати цей час."
-category: tenses
-order: 6
+description_uk: "Повний довідник про conditionnel présent: утворення від основи futur simple, значення гіпотези, наслідку, ввічливості, бажання та майбутнього в минулому, а також контраст з futur, imparfait і conditionnel passé."
+category: verbs
+order: 110
 related:
-  - futur-simple
-  - subjonctif-present
-  - polite-expressions
   - si-clauses
-tags: [умовний, час, conditionnel, present, дієслово]
+  - conditionnel-passe
+  - futur-simple
+  - imparfait
+  - plus-que-parfait
+tags: [conditionnel présent, умовний спосіб, гіпотеза, ввічливість, futur dans le passé]
 ---
 
-# Умовний теперішній час — Conditionnel présent
+# **Conditionnel présent**
 
-> **Коротко:** Умовний теперішній час (conditionnel présent) у французькій мові використовується для вираження бажань, прохань, ввічливості, а також умовних дій. Він утворюється шляхом додавання закінчень недоконаного минулого часу (imparfait) до основи майбутнього простого часу (futur simple).
+**Conditionnel présent** — форма, яка може виражати гіпотезу, наслідок умови, ввічливе прохання, бажання, пораду або майбутню подію, розглянуту з минулої точки відліку.
 
----
+Не зводьте його до українського **«би»**. Французький conditionnel має кілька функцій, а значення визначається конструкцією та контекстом.
 
-## 🎯 Швидко
+## Швидкий огляд
 
-**Conditionnel présent** — це час для вираження:
-- Ввічливих прохань: *Je voudrais un café* (Я хотів би каву)
-- Бажань та мрій: *J'aimerais voyager* (Я хотів би подорожувати)
-- Умовних дій: *Si j'avais de l'argent, j'achèterais une maison* (Якби в мене були гроші, я б купив будинок)
-- Порад: *Tu devrais étudier* (Тобі слід вчитись)
+| Значення | Приклад |
+|---|---|
+| наслідок гіпотетичної умови | *Si j'avais le temps, je voyagerais.* |
+| ввічливе прохання | *Je voudrais un café.* |
+| бажання | *J'aimerais visiter Lyon.* |
+| порада / гіпотетична рекомендація | *Vous devriez vérifier les données.* |
+| майбутнє в минулому | *Il a dit qu'il viendrait.* |
+| обережне / дистанційоване повідомлення | *Selon plusieurs sources, il y aurait un problème.* |
 
-**Основне правило:** Основа futur simple + закінчення imparfait
-
----
-
-## 📐 Формула
-
-```
-Основа futur simple + закінчення imparfait
-```
-
-| Особа | Закінчення (imparfait) | Приклад (vouloir → voudr-) | Переклад |
-|--------|----------------------|-----------------------------|----------|
-| je | **-ais** | je **voudr**ais | я хотів би |
-| tu | **-ais** | tu **voudr**ais | ти хотів би |
-| il/elle/on | **-ait** | il **voudr**ait | він/вона хотів би |
-| nous | **-ions** | nous **voudr**ions | ми хотіли б |
-| vous | **-iez** | vous **voudr**iez | ви хотіли б |
-| ils/elles | **-aient** | ils **voudr**aient | вони хотіли б |
+Останній тип особливо залежить від жанру та контексту: у журналістиці conditionnel може маркувати **непідтверджену або приписану інформацію**, але сам по собі не доводить її істинність чи хибність.
 
 ---
 
-## 🏗️ Утворення
+## 1. Як утворюється
 
-### Правильні дієслова
+Основа **conditionnel présent** збігається з основою **futur simple**.
 
-Утворення conditionnel présent для правильних дієслів:
+До неї додаються закінчення **imparfait**:
 
-1. **Знайдіть основу futur simple** (інфінітив для більшості дієслів)
-2. **Додайте закінчення imparfait**
+| Особа | Закінчення |
+|---|---|
+| je | **-ais** |
+| tu | **-ais** |
+| il / elle / on | **-ait** |
+| nous | **-ions** |
+| vous | **-iez** |
+| ils / elles | **-aient** |
 
-#### Приклади з різними групами
+### Parler
 
-**I група (-er):** parler → parler- + ais = **je parlerais**
+- je parlerais
+- tu parlerais
+- il parlerait
+- nous parlerions
+- vous parleriez
+- ils parleraient
 
-| Дієслово | Je | Tu | Il/Elle | Nous | Vous | Ils/Elles |
-|-----------|----|----|---------|------|------|----------|
-| **parler** | parlerais | parlerais | parlerait | parlerions | parleriez | parleraient |
-| **manger** | mangerais | mangerais | mangerait | mangerions | mangeriez | mangeraient |
-| **aimer** | aimerais | aimerais | aimerait | aimerions | aimeriez | aimeraient |
+### Finir
 
-**II група (-ir):** finir → finir- + ais = **je finirais**
+- je finirais
+- tu finirais
+- elle finirait
+- nous finirions
+- vous finiriez
+- ils finiraient
 
-| Дієслово | Je | Tu | Il/Elle | Nous | Vous | Ils/Elles |
-|-----------|----|----|---------|------|------|----------|
-| **finir** | finirais | finirais | finirait | finirions | finiriez | finiraient |
-| **choisir** | choisirais | choisirais | choisirait | choisirions | choisiriez | choisiraient |
+### Prendre
 
-**III група (-re):** vendre → vendr- + ais = **je vendrais**
+- je prendrais
+- tu prendrais
+- il prendrait
+- nous prendrions
+- vous prendriez
+- ils prendraient
 
-| Дієслово | Je | Tu | Il/Elle | Nous | Vous | Ils/Elles |
-|-----------|----|----|---------|------|------|----------|
-| **vendre** | vendrais | vendrais | vendrait | vendrions | vendriez | vendraient |
-| **attendre** | attendrais | attendrais | attendrait | attendrions | attendriez | attendraient |
+Практично:
 
-### Неправильні дієслова
-
-⚠️ **УВАГА:** Ці дієслова мають спеціальні основи (як у futur simple):
-
-| Дієслово | Основа | Je | Tu | Il/Elle | Nous | Vous | Ils/Elles |
-|-----------|--------|----|----|---------|------|------|----------|
-| **être** | ser- | **serais** | serais | serait | serions | seriez | seraient |
-| **avoir** | aur- | **aurais** | aurais | aurait | aurions | auriez | auraient |
-| **aller** | ir- | **irais** | irais | irait | irions | iriez | iraient |
-| **faire** | fer- | **ferais** | ferais | ferait | ferions | feriez | feraient |
-| **pouvoir** | pourr- | **pourrais** | pourrais | pourrait | pourrions | pourriez | pourraient |
-| **vouloir** | voudr- | **voudrais** | voudrais | voudrait | voudrions | voudriez | voudraient |
-| **savoir** | saur- | **saurais** | saurais | saurait | saurions | sauriez | sauraient |
-| **devoir** | devr- | **devrais** | devrais | devrait | devrions | devriez | devraient |
-| **venir** | viendr- | **viendrais** | viendrais | viendrait | viendrions | viendriez | viendraient |
-| **tenir** | tiendr- | **tiendrais** | tiendrais | tiendrait | tiendrions | tiendriez | tiendraient |
+**основа futur simple + закінчення imparfait**
 
 ---
 
-## 🎯 Вживання
+## 2. Нерегулярні основи
 
-### 1. Ввічливі прохання
+Оскільки основа збігається з **futur simple**, нерегулярність також переважно збігається.
 
-У французькій мові conditionnel présent часто використовується для вираження ввічливості:
+| Інфінітив | Основа | Conditionnel |
+|---|---|---|
+| être | **ser-** | je serais |
+| avoir | **aur-** | j'aurais |
+| aller | **ir-** | j'irais |
+| faire | **fer-** | je ferais |
+| venir | **viendr-** | je viendrais |
+| pouvoir | **pourr-** | je pourrais |
+| vouloir | **voudr-** | je voudrais |
+| devoir | **devr-** | je devrais |
+| savoir | **saur-** | je saurais |
+| voir | **verr-** | je verrais |
+| envoyer | **enverr-** | j'enverrais |
+| recevoir | **recevr-** | je recevrais |
 
-```
-Je voudrais un café, s'il vous plaît.
-→ Я хотів би каву, будь ласка.
+### Корисний принцип
 
-Pourrais-tu m'aider?
-→ Чи міг би ти мені допомогти?
+Не створюйте окремий список нерегулярних conditionnel.
 
-J'aimerais réserver une table.
-→ Я хотів би забронювати столик.
-```
+Вивчіть основу **futur simple** — вона працює і для conditionnel:
 
-### 2. Бажання та мрії
-
-```
-J'aimerais voyager autour du monde.
-→ Я хотів би подорожувати світом.
-
-Je voudrais être riche.
-→ Я хотів би бути багатим.
-
-Il aimerait avoir une grande maison.
-→ Він хотів би мати великий будинок.
-```
-
-### 3. Умовні речення (з "si")
-
-У складеному умовному реченні з "si":
-- **Si + imparfait** (умова) + **conditionnel présent** (результат)
-
-```
-Si j'avais de l'argent, j'achèterais une voiture.
-→ Якби в мене були гроші, я б купив машину.
-
-Si tu étudiais plus, tu réussirais.
-→ Якби ти більше вчився, ти б здав.
-
-Si nous partions tôt, nous arriverions à l'heure.
-→ Якби ми виїхали рано, ми б прибули вчасно.
-```
-
-### 4. Поради та рекомендації
-
-```
-Tu devrais étudier plus.
-→ Тобі слід більше вчитися.
-
-Il faudrait partir maintenant.
-→ Слід вирушати зараз.
-
-Vous devriez consulter un médecin.
-→ Вам слід звернутися до лікаря.
-```
-
-### 5. Вираження сумнівів чи непевності
-
-```
-Je ne sais pas s'il viendrait.
-→ Я не знаю, чи він би прийшов.
-
-Il dit qu'il aurait 20 ans.
-→ Він каже, що йому було б 20 років.
-```
+- **je pourrai** → **je pourrais**
+- **je voudrai** → **je voudrais**
+- **je viendrai** → **je viendrais**
+- **je serai** → **je serais**
 
 ---
 
-## ⚖️ Порівняння: Conditionnel présent vs Futur simple
+## 3. Conditionnel після **si**
 
-| Conditionnel présent | Futur simple |
-|----------------------|--------------|
-| *Je **voudrais** un café* | *Je **voudrai** un café* |
-| (Я хотів би каву) | (Я захочу каву) |
-| Виражає бажання | Виражає майбутню дію |
-| *Si j'avais... je **ferais*** | *Quand j'aurai... je **ferai*** |
-| (Якби я мав... я б зробив) | (Коли я матиму... я зроблю) |
+Найтиповіша конструкція:
 
----
+**si + imparfait → conditionnel présent**
 
-## 🚫 Поширені помилки
+- **Si j'avais plus de temps, je voyagerais davantage.**
+- **Si tu travaillais moins, tu serais moins fatigué.**
+- **Si nous habitions à Paris, nous prendrions le métro.**
 
-❌ **Помилка:** *Je ~~vouloirais~~ un café.*
-✅ **Правильно:** *Je **voudrais** un café.*
-→ Неправильна основа дієслова
+Тут conditionnel позначає **наслідок гіпотетичної умови**.
 
----
+Не:
 
-❌ **Помилка:** *Si j'ai de l'argent, j'achèterais une voiture.*
-✅ **Правильно:** *Si j'**ais** de l'argent, j'achèterais une voiture.*
-→ У умовному реченні з "si" використовується imparfait, а не présent
+❌ *Si j'aurais plus de temps...*
 
----
+А:
 
-❌ **Помилка:** *Je ~~serai~~ heureux si je gagnais.*
-✅ **Правильно:** *Je **serais** heureux si je gagnais.*
-→ У головному реченні використовується conditionnel, а не futur
+✅ **Si j'avais plus de temps, je voyagerais davantage.**
+
+### Український контраст
+
+- **Якби я мав більше часу, я більше подорожував би.**
+- **Якби ми жили в Парижі, ми їздили б метро.**
+
+Українська частка **би / б** часто допомагає відчути гіпотетичний наслідок, але не слід перекладати її механічно в кожному реченні з conditionnel.
 
 ---
 
-## 🇺🇦 Для українськомовних
+## 4. Conditionnel без **si**
 
-**Важливо:**
-- У французькій мові **conditionnel présent** часто використовується для вираження **ввічливості**, на відміну від української, де ми використовуємо дієслова у минулому часі (*я хотів би*, *чи міг би ти*)
-- У французькій **немає** спеціального способу для вираження умовного способу як в українській (б, би)
-- **Conditionnel présent** утворюється за допомогою **основи futur simple + закінчень imparfait**
+Conditionnel не потребує обов'язково підрядної з **si**.
 
-**Порівняння:**
-- Українська: Я **хотів би** каву → Французька: Je **voudrais** un café
-- Українська: Чи **міг би** ти допомогти? → Французька: **Pourrais**-tu aider?
-- Українська: Якби я **мав** гроші, я **купив би** машину → Французька: Si j'**avais** de l'argent, j'**achèterais** une voiture
+### Ввічливе прохання
 
----
+- **Je voudrais un café, s'il vous plaît.**
+- **Pourriez-vous m'aider ?**
+- **Voudriez-vous patienter quelques minutes ?**
 
-## ✅ Вправи
+Порівняйте ступінь прямоти:
 
-### Вправа 1: Доповніть речення
-
-1. Je (vouloir) ______ un café, s'il vous plaît.
-2. Tu (pouvoir) ______ m'aider?
-3. Il (devoir) ______ étudier plus.
-4. Nous (aimer) ______ partir en vacances.
-5. Vous (savoir) ______ la réponse?
-
-**Відповіді:**
-1. voudrais
-2. pourrais
-3. devrait
-4. aimerions
-5. sauriez
+- **Donnez-moi un café.** — наказ / дуже пряме прохання залежно від контексту.
+- **Je voudrais un café.** — стандартне ввічливе замовлення.
+- **Pourriez-vous m'aider ?** — ввічливе прохання про можливість допомогти.
 
 ---
 
-### Вправа 2: Умовні речення
+## 5. Бажання
 
-1. Si j'avais de l'argent, je (acheter) ______ une maison.
-2. Si tu étudiais plus, tu (réussir) ______ ton examen.
-3. Si nous partions tôt, nous (arriver) ______ à l'heure.
-4. Si elle savait la vérité, elle (être) ______ surprise.
-5. Si vous aviez une voiture, vous (pouvoir) ______ voyager.
+Conditionnel часто використовується для бажань або бажаних, але не гарантованих ситуацій:
 
-**Відповіді:**
-1. achèterais
-2. réussirais
-3. arriverions
-4. serait
-5. pourriez
+- **J'aimerais visiter le Canada.**
+- **Je voudrais apprendre le portugais.**
+- **Nous aimerions rester plus longtemps.**
 
----
+Конструкція:
 
-### Вправа 3: Переклад
+**aimer / vouloir у conditionnel + infinitif**
 
-1. Я хотів би каву, будь ласка.
-2. Чи міг би ти мені допомогти?
-3. Якби в мене були гроші, я б купив будинок.
-4. Тобі слід більше вчитися.
-5. Ми хотіли б поїхати у відпустку.
+Особливо часто:
 
-**Відповіді:**
-1. Je voudrais un café, s'il vous plaît.
-2. Pourrais-tu m'aider?
-3. Si j'avais de l'argent, j'achèterais une maison.
-4. Tu devrais étudier plus.
-5. Nous aimerions partir en vacances.
+- **j'aimerais...**
+- **je voudrais...**
+- **nous aimerions...**
+
+Ці форми не означають просто минуле. Не плутайте:
+
+- **je voulais** — я хотів / хотіла; imperfect, часто опис бажання в минулому;
+- **je voudrais** — я хотів би / хотіла б; conditionnel, часто ввічливе бажання або прохання.
 
 ---
 
-## 📚 Поширені вирази з conditionnel présent
+## 6. Порада та рекомендація
 
-| Французька | Переклад | Контекст |
-|------------|----------|----------|
-| **Je voudrais...** | Я хотів би... | Ввічливе прохання |
-| **Pourrais-tu...?** | Чи міг би ти...? | Ввічливе питання |
-| **J'aimerais...** | Я хотів би... | Вираження бажання |
-| **Tu devrais...** | Тобі слід... | Порада |
-| **Il faudrait...** | Слід... | Рекомендація |
-| **Je préférerais...** | Я віддаю перевагу... | Вибір |
+Conditionnel може пом'якшувати пораду:
+
+- **Tu devrais dormir davantage.**
+- **Vous devriez vérifier les données.**
+- **On pourrait commencer demain.**
+
+Порівняйте:
+
+**Tu dois vérifier les données.**  
+→ обов'язок.
+
+**Tu devrais vérifier les données.**  
+→ порада / рекомендація.
+
+**On pourrait commencer demain.**  
+→ одна з можливостей, пропозиція.
+
+Тут conditionnel не означає, що дія обов'язково станеться. Він створює **гіпотетичну або менш категоричну рамку**.
 
 ---
 
-## 🔍 Корисні посилання
+## 7. Майбутнє в минулому
 
-- [Conjugation: Conditionnel présent](https://conjugator.reverso.net/conjugation-french-verb-vouloir.html) — онлайн кон'югатор
-- [Conditionnel présent vs Futur simple](https://www.lawlessfrench.com/grammar/conditional-mood/) — детальне пояснення
-- [Si clauses](https://www.lawlessfrench.com/grammar/si-clauses/) — умовні речення
+Conditionnel présent може позначати подію, яка була майбутньою **відносно минулої точки відліку**.
+
+- **Il a dit qu'il viendrait le lendemain.**
+- **Elle savait qu'elle partirait bientôt.**
+- **Nous pensions qu'ils arriveraient à huit heures.**
+
+Порівняйте:
+
+**Il dit qu'il viendra demain.**  
+→ він каже зараз; майбутня подія = *viendra*.
+
+**Il a dit qu'il viendrait le lendemain.**  
+→ він сказав у минулому; майбутня щодо того минулого моменту подія = *viendrait*.
+
+Тому назва **futur dans le passé** описує часову функцію, а не окремий «п'ятий майбутній час».
 
 ---
 
-*Документ створено: 2025-09-17*
-*Версія: 1.0*
+## 8. Не плутайте з futur simple
+
+Форми дуже схожі, але закінчення різні.
+
+| | Futur simple | Conditionnel présent |
+|---|---|---|
+| je | je parler**ai** | je parler**ais** |
+| tu | tu parler**as** | tu parler**ais** |
+| il | il parler**a** | il parler**ait** |
+| nous | nous parler**ons** | nous parler**ions** |
+| vous | vous parler**ez** | vous parler**iez** |
+| ils | ils parler**ont** | ils parler**aient** |
+
+### Мінімальні пари
+
+- **Je viendrai demain.** — Я прийду завтра.
+- **Je viendrais si je pouvais.** — Я прийшов би, якби міг.
+
+- **Nous partirons à huit heures.** — Ми вирушимо о восьмій.
+- **Nous partirions plus tôt si c'était possible.** — Ми вирушили б раніше, якби це було можливо.
+
+Особливо уважно слухайте різницю **-ai / -ais** у письмі та вимові: для учня це одна з типових зон плутанини.
+
+---
+
+## 9. Conditionnel présent vs conditionnel passé
+
+Не змішуйте два часи.
+
+### Conditionnel présent
+
+Гіпотетична або потенційна ситуація:
+
+- **Je viendrais si je pouvais.**
+- **Elle accepterait cette offre.**
+
+### Conditionnel passé
+
+Гіпотетична ситуація, що стосується минулого:
+
+- **Je serais venu si j'avais pu.**
+- **Elle aurait accepté cette offre.**
+
+Порівняйте:
+
+**Si j'avais le temps, je viendrais.**  
+→ теперішня / майбутня гіпотеза.
+
+**Si j'avais eu le temps, je serais venu.**  
+→ нереалізована минула можливість.
+
+---
+
+## 10. Conditionnel présent vs imparfait
+
+Форми мають схожі закінчення, але функції різні.
+
+### Imparfait
+
+Описує минуле, звичну дію, фон або гіпотетичну умову після **si**:
+
+- **Quand j'étais étudiant, je travaillais le soir.**
+- **Si j'avais plus de temps...**
+
+### Conditionnel présent
+
+Може виражати наслідок гіпотези:
+
+- **...je travaillerais moins.**
+
+Порівняйте:
+
+**Si j'avais plus de temps, je travaillais moins.** ❌
+
+**Si j'avais plus de temps, je travaillerais moins.** ✅
+
+Умова → **imparfait**; гіпотетичний наслідок → **conditionnel présent**.
+
+---
+
+## 11. Обережне повідомлення та журналістський conditionnel
+
+У певних жанрах conditionnel може використовуватися для дистанціювання мовця від інформації:
+
+- **Selon plusieurs sources, le ministre serait prêt à démissionner.**
+- **Il y aurait plusieurs erreurs dans le rapport.**
+
+Тут conditionnel може сигналізувати:
+
+> інформація подається як повідомлена / непідтверджена, а не як встановлений факт.
+
+Не робіть із цього універсального правила:
+
+> «conditionnel = неправда».
+
+Це неправильне тлумачення. Значення залежить від жанру, джерела та контексту.
+
+---
+
+## 12. Conditionnel у конструкціях бажання та ввічливості
+
+Корисні високочастотні форми:
+
+- **je voudrais**
+- **j'aimerais**
+- **je pourrais**
+- **je souhaiterais**
+- **pourriez-vous... ?**
+- **voudriez-vous... ?**
+- **devriez-vous...** — залежно від контексту, не просто «ввічливість».
+
+Порівняйте:
+
+**Je veux un renseignement.**  
+→ пряме формулювання.
+
+**Je voudrais un renseignement.**  
+→ ввічливе прохання.
+
+**Pouvez-vous m'aider ?**  
+→ пряме, але нейтральне питання про можливість.
+
+**Pourriez-vous m'aider ?**  
+→ більш дистанційоване / ввічливе прохання.
+
+---
+
+## 13. Важлива особливість: conditionnel не завжди перекладається «би»
+
+Наприклад:
+
+**Il a dit qu'il viendrait.**
+
+Українською природніше:
+
+> Він сказав, що прийде.
+
+Тут conditionnel передає **майбутнє відносно минулого**, а не гіпотезу.
+
+Або:
+
+**Je voudrais un café.**
+
+> Я хотів би каву.
+
+Тут conditionnel справді має модально-ввічливу функцію.
+
+Тому переклад — це перевірка, але не визначення граматичної категорії.
+
+---
+
+## 14. Алгоритм
+
+Коли бачите conditionnel présent:
+
+### 1. Чи є **si**?
+
+Якщо так, перевірте, чи це умовне **si**:
+
+**Si j'avais le temps, je voyagerais.**
+
+→ наслідок гіпотези.
+
+### 2. Чи це непряме питання?
+
+**Je ne sais pas s'il viendrait.**
+
+→ *si* = «чи», не умовна конструкція.
+
+### 3. Чи це ввічливе прохання?
+
+**Pourriez-vous répéter ?**
+
+→ conditionnel пом'якшує прохання.
+
+### 4. Чи це бажання?
+
+**J'aimerais partir.**
+
+→ бажана ситуація.
+
+### 5. Чи є дієслово повідомлення в минулому?
+
+**Il a dit qu'il viendrait.**
+
+→ futur dans le passé.
+
+### 6. Чи джерело інформації дистанційоване?
+
+**Il y aurait un problème.**
+
+→ можливе маркування непідтвердженої / приписаної інформації.
+
+---
+
+## 15. Типові помилки україномовних учнів
+
+### 1. Плутати futur та conditionnel
+
+❌ *Je parlerais demain.* — якщо ви хотіли сказати просто «я поговорю завтра».
+
+✅ **Je parlerai demain.**
+
+Conditionnel потрібен, якщо є відповідна модальна або часова причина:
+
+**Je parlerais demain si j'avais le temps.**
+
+### 2. Ставити conditionnel після si
+
+❌ **Si j'aurais le temps, je voyagerais.**
+
+✅ **Si j'avais le temps, je voyagerais.**
+
+### 3. Вважати conditionnel лише перекладом «би»
+
+❌ автоматично перекладати кожен conditionnel часткою **б**.
+
+Порівняйте:
+
+**Il a dit qu'il viendrait.**
+
+→ **Він сказав, що прийде.**
+
+### 4. Плутати je voudrais та je voulais
+
+**Je voulais vous parler.**  
+→ я хотів поговорити; контекст визначає, чи це минуле бажання або ввічлива прелюдія до прохання.
+
+**Je voudrais vous parler.**  
+→ я хотів би з вами поговорити; conditionnel, типово ввічливе прохання.
+
+### 5. Плутати je pourrai та je pourrais
+
+- **Je pourrai venir demain.** — я зможу прийти завтра.
+- **Je pourrais venir demain.** — я міг би прийти завтра / можливо, зможу, залежно від контексту.
+
+---
+
+## 16. Український контраст
+
+Українська має кілька способів виражати значення, які французька може передавати conditionnel:
+
+- **якби... — ...б** → гіпотеза;
+- **хотів би / хотіла б** → бажання;
+- **міг би / могла б** → потенційна можливість;
+- **варто було б** → рекомендація;
+- **сказав, що прийде** → майбутнє відносно минулого без окремої форми, тотожної французькому conditionnel.
+
+Тому найкраще вчити conditionnel через **функції**, а не через один український переклад.
+
+---
+
+## 17. Самоперевірка
+
+1. **Si j'avais le temps, je ___ (voyager) davantage.**
+2. **Je ___ (vouloir) réserver une table.**
+3. **Il a dit qu'il ___ (venir) le lendemain.**
+4. **Vous ___ (pouvoir) répéter, s'il vous plaît ?**
+5. **Je ___ (venir) si je pouvais.**
+6. **Selon certaines sources, le projet ___ (être) abandonné.**
+7. **Je ___ (pouvoir) venir demain.** — оберіть між *pourrai* та *pourrais* залежно від значення «зможу» / «міг би».
+8. **Si j'avais accepté, je ___ (travailler) à Paris aujourd'hui.**
+
+### Відповіді
+
+1. **voyagerais** — наслідок гіпотези.
+2. **voudrais** — ввічливе бажання / прохання.
+3. **viendrait** — futur dans le passé.
+4. **pourriez** — ввічливе прохання.
+5. **viendrais** — гіпотетичний наслідок.
+6. **serait** — дистанційоване повідомлення.
+7. **pourrai** = «зможу»; **pourrais** = «міг би / можливо, зміг би».
+8. **travaillerais** — минула умова з актуальним результатом.
+
+---
+
+## Короткий підсумок
+
+**Conditionnel présent** не має одного значення.
+
+Основні функції:
+
+1. **гіпотетичний наслідок** — *je viendrais*;
+2. **ввічливість** — *je voudrais*, *pourriez-vous*;
+3. **бажання** — *j'aimerais*;
+4. **порада / потенційна пропозиція** — *tu devrais*, *on pourrait*;
+5. **майбутнє в минулому** — *il a dit qu'il viendrait*;
+6. **дистанційоване повідомлення** — *il y aurait...* у відповідному контексті.
+
+Формально:
+
+**основа futur simple + закінчення imparfait**
+
+Але граматичне значення визначає не форма сама по собі, а **синтаксична конструкція та часово-модальна перспектива**.

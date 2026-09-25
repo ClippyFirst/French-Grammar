@@ -1,232 +1,200 @@
-# Минулий складений час (Le Passé Composé)
-
-## 🇺🇦 Для українськомовних
-
-**Passé Composé** - це минулий час у французькій мові, який вживається для вираження **завершених дій у минулому**. Він утворюється за допомогою **допоміжного дієслова** (avoir або être) у теперішньому часі та **дієприкметника минулого часу** (participe passé).
-
-### 🔹 Утворення Passé Composé
-
-**Формула:**
-```
-Допоміжне дієслово (avoir/être) + Participe Passé
-```
-
-#### 1. З дієслово **AVOIR** (мати)
-
-Більшість дієслів утворюють Passé Composé з **avoir**.
-
-**Правило:**
-```
-avoir (у теперішньому часі) + participe passé
-```
-
-| Особа | Avoir | + Participe Passé | Приклад (parler) |
-|-------|-------|-------------------|------------------|
-| je | ai | parlé | j'ai parlé |
-| tu | as | parlé | tu as parlé |
-| il/elle/on | a | parlé | il a parlé |
-| nous | avons | parlé | nous avons parlé |
-| vous | avez | parlé | vous avez parlé |
-| ils/elles | ont | parlé | ils ont parlé |
-
-**Приклади:**
-- J'**ai mangé** une pomme. → **Я з'їв** яблуко.
-- Tu **as fini** tes devoirs. → **Ти закінчив** свої завдання.
-- Il **a vu** ce film. → **Він бачив** цей фільм.
-- Nous **avons acheté** une voiture. → **Ми купили** машину.
-
-#### 2. З дієслово **ÊTRE** (бути)
-
-Дієслова, які виражають **рух** або **стан**, утворюють Passé Composé з **être**. 
-
-**Правило DR & MR VANDERTRAMP:**
-- **D**escendre (спускатися)
-- **R**etourner (повертатися)
-- **S**ortir (виходити)
-- **M**onter (підніматися)
-- **R**entrer (заходити)
-- **V**enir (приходити)
-- **A**ller (йти)
-- **N**aître (народжуватися)
-- **D**écéder (помирати)
-- **E**ntrer (входити)
-- **R**etourner (повертатися)
-- **T**omber (падати)
-- **R**ester (залишатися)
-- **A**rriver (прибувати)
-- **M**ourir (помирати)
-- **P**artir (виїжджати)
-
-**Узгодження:** При використанні **être**, **participe passé узгоджується з підметом у роді та числі**.
-
-| Особа | Être | + Participe Passé | Приклад (aller) |
-|-------|-------|-------------------|-----------------|
-| je | suis | allé(e) | je suis allé(e) |
-| tu | es | allé(e) | tu es allé(e) |
-| il | est | allé | il est allé |
-| elle | est | allée | elle est allée |
-| on | est | allé(e)(s) | on est allé(e)(s) |
-| nous | sommes | allé(e)s | nous sommes allé(e)s |
-| vous | êtes | allé(e)(s) | vous êtes allé(e)(s) |
-| ils | sont | allés | ils sont allés |
-| elles | sont | allées | elles sont allées |
-
-**Приклади:**
-- Je **suis allé(e)** au cinéma. → **Я ходив/ходила** в кіно.
-- Tu **es parti(e)** tôt. → **Ти пішов/пішла** рано.
-- Il **est venu** hier. → **Він прийшов** учора.
-- Nous **sommes arrivés** en retard. → **Ми приїхали** запізно.
-
-### 🔹 Participe Passé (Дієприкметник минулого часу)
-
-#### Дієслова I групи (-er)
-
-**Правило:** Відкидаємо **-er** і додаємо **-é**
-
-- parler → **parlé**
-- manger → **mangé**
-- aimer → **aimé**
-- danser → **dansé**
-
-#### Дієслова II групи (-ir)
-
-**Правило:** Відкидаємо **-ir** і додаємо **-i**
-
-- finir → **fini**
-- choisir → **choisi**
-- grandir → **grandi**
-
-#### Неправильні дієслова (III група)
-
-| Дієслово | Participe Passé |
-|----------|-----------------|
-| être | **été** |
-| avoir | **eu** |
-| faire | **fait** |
-| prendre | **pris** |
-| mettre | **mis** |
-| voir | **vu** |
-| pouvoir | **pu** |
-| vouloir | **voulu** |
-| savoir | **su** |
-| aller | **allé** |
-| venir | **venu** |
-| tenir | **tenu** |
-| écrire | **écrit** |
-| boire | **bu** |
-| lire | **lu** |
-| dire | **dit** |
-
-### ⚠️ Важливі правила
-
-1. **Узгодження з être:**
-   - Elle **est allée** au marché. (вона пішла)
-   - Ils **sont partis** en vacances. (вони поїхали)
-
-2. **Без узгодження з avoir:**
-   - J'ai mangé une pomme. (я з'їв яблуко) - **не** j'ai mangée
-
-3. **Прямий додаток перед дієсловом з avoir:**
-   - J'ai **vu** Marie. → Je **l'**ai **vue**. (я бачив її)
-   - У цьому випадку **participe passé узгоджується з прямим додатком**, якщо він стоїть перед дієсловом.
-
-4. **Непрямий додаток:**
-   - J'ai parlé **à Marie**. → Je **lui** ai parlé. (я розмовляв з нею) - **без узгодження**
-
-### 🇫🇷 vs 🇺🇦 Порівняння з українською
-
-| Французька | Українська | Примітки |
-|------------|-----------|----------|
-| J'ai mangé | Я з'їв | Дія завершена в минулому |
-| Tu as fini | Ти закінчив | |
-| Il est parti | Він пішов | Рух → être |
-| Nous sommes arrivés | Ми приїхали | Рух → être |
-
-### 💡 Поради для українськомовних
-
-1. **Пам'ятайте про DR & MR VANDERTRAMP** - ці дієслова вживаються з **être**
-2. **Узгоджуйте з être** - рід і число підмета важливі
-3. **Узгоджуйте з avoir + COD** - якщо прямий додаток стоїть перед дієсловом
-4. **Вивчіть неправильні дієприкметники** - їх треба знати напам'ять
-
-### 📚 Вправи для закріплення
-
-1. Утворіть Passé Composé:
-   - Je / parler / à mon ami → J'ai parlé à mon ami.
-   - Tu / finir / tes devoirs → Tu as fini tes devoirs.
-   - Il / aller / au cinéma → Il est allé au cinéma.
-   - Nous / manger / une pizza → Nous avons mangé une pizza.
-
-2. Доповніть речення правильною формою:
-   - Hier, je ___ (aller) au parc. (suis allé(e))
-   - Elle ___ (manger) une pomme. (a mangé)
-   - Nous ___ (partir) tôt. (sommes partis)
-   - Ils ___ (voir) ce film. (ont vu)
-
-3. Узгодьте participe passé:
-   - Elle est ___ (aller) au marché. (allée)
-   - Ils sont ___ (partir) en vacances. (partis)
-   - Je l'ai ___ (voir). (vue)
-   - Nous les avons ___ (manger). (mangés)
-
-4. Перекладіть українською:
-   - J'ai mangé une pomme. → Я з'їв яблуко.
-   - Tu es parti tôt. → Ти пішов рано.
-   - Il a vu Marie. → Він бачив Марію.
-   - Nous sommes arrivés en retard. → Ми приїхали запізно.
-
-### ❌ Типові помилки українськомовних
-
-1. **Плутання avoir/être**
-   - ❌ J'ai allé au cinéma → ✅ Je suis allé(e) au cinéma
-   - ❌ Il est mangé une pomme → ✅ Il a mangé une pomme
-
-2. **Забування про узгодження з être**
-   - ❌ Elle est allé → ✅ Elle est allée
-   - ❌ Ils sont allé → ✅ Ils sont allés
-
-3. **Неправильне узгодження з avoir + COD**
-   - ❌ Je l'ai vu → ✅ Je l'ai vue (якщо l' = la femme)
-   - ❌ Je les ai vu → ✅ Je les ai vus (якщо les = les hommes)
-
-4. **Плутання форм participe passé**
-   - ❌ J'ai mangé → ✅ J'ai mangé (правильно)
-   - ❌ J'ai mangée → ✅ (тільки якщо COD перед дієсловом)
-
-### 🎯 Додаткові приклади
-
-- **З avoir:**
-  - J'ai **parlé** à mon ami. (я розмовляв з другом)
-  - Tu as **fini** tes devoirs. (ти закінчив завдання)
-  - Il a **vu** ce film. (він бачив цей фільм)
-  - Nous avons **acheté** une maison. (ми купили будинок)
-
-- **З être:**
-  - Je suis **allé(e)** à Paris. (я їздив до Парижа)
-  - Tu es **parti(e)** en vacances. (ти поїхав у відпустку)
-  - Il est **venu** me voir. (він прийшов мене побачити)
-  - Nous sommes **arrivés** à l'heure. (ми приїхали вчасно)
-
-- **З узгодженням COD:**
-  - J'ai vu **la femme**. → Je **l'**ai **vue**. (я бачив її)
-  - J'ai mangé **les pommes**. → Je **les** ai **mangées**. (я з'їв їх)
-
-- **Без узгодження (непрямий додаток):**
-  - J'ai parlé **à Marie**. → Je **lui** ai parlé. (я розмовляв з нею)
-
-### 📝 Порівняння з Imparfait
-
-| Passé Composé | Imparfait |
-|----------------|-----------|
-| **Завершена дія** | **Тривала дія** |
-| J'ai mangé une pomme. (я з'їв яблуко) | Je mangeais une pomme. (я їв яблуко) |
-| **Конкретна дія** | **Звичка/стан** |
-| Il est parti à 8h. (він пішов о 8) | Il partait tous les jours. (він йшов що дня) |
-| **Один раз** | **Регулярно** |
-| Nous avons visité Paris. (ми відвідали Париж) | Nous visitions Paris souvent. (ми часто відвідували Париж) |
-
+---
+title_uk: "Passé composé — складений минулий час"
+title_fr: "Le passé composé"
+description_uk: "Утворення й уживання passé composé, вибір avoir/être, узгодження та контраст із imparfait."
+category: tenses
+order: 20
+related:
+  - present
+  - imparfait
+  - passe-compose-vs-imparfait
+  - accord
+tags: [passé composé, минулий час, avoir, être, participe passé]
 ---
 
-*[Повернутися до списку тем](../french_grammar_topics_uk.md)*
-*[Дивитися також: Imparfait](imparfait.md)
-*[Порівняння: Passé Composé vs Imparfait](passe-compose-vs-imparfait.md)
+# Passé composé — складений минулий час
+
+## Швидко
+
+Passé composé — складена форма минулого часу: **avoir або être у présent + participe passé**.
+
+Його типова функція — подати минулу ситуацію як **подію, факт або цілісний епізод**. Не ототожнюйте його механічно з українським доконаним видом.
+
+## Утворення
+
+### З avoir
+
+Більшість дієслів:
+
+**avoir au présent + participe passé**
+
+- j’ai parlé
+- tu as fini
+- elle a vendu
+- nous avons compris
+- ils ont pris
+
+### З être
+
+З être вживаються певні неперехідні дієслова зміни стану/місця та **всі прономінальні дієслова**:
+
+- elle est arrivée
+- ils sont partis
+- nous nous sommes levés
+
+Не вчіть правило «всі дієслова руху». Допоміжне дієслово залежить від конкретної лексичної конструкції та інколи від перехідності:
+
+- **Elle est sortie.** — Вона вийшла.
+- **Elle a sorti le livre.** — Вона дістала книжку.
+
+## Participe passé
+
+| Тип | Модель | Приклад |
+|---|---|---|
+| I група | -er → -é | parler → parlé |
+| II група | -ir → -i | finir → fini |
+| III група | різні моделі | prendre → pris |
+
+Корисні форми:
+
+| Infinitif | Participe passé |
+|---|---|
+| être | été |
+| avoir | eu |
+| faire | fait |
+| prendre | pris |
+| mettre | mis |
+| voir | vu |
+| lire | lu |
+| écrire | écrit |
+| dire | dit |
+| boire | bu |
+| venir | venu |
+| naître | né |
+| mourir | mort |
+| ouvrir | ouvert |
+
+## Часова та аспектуальна перспектива
+
+Passé composé не визначається тим, що ситуація «об’єктивно завершена». У французькій важливо, як мовець подає ситуацію: як окрему подію, факт або цілісний епізод. Та сама ситуація може бути представлена інакше в іншому контексті.
+
+Порівняйте:
+
+- **J'ai travaillé pendant trois heures.** — роботу подано як цілісний епізод.
+- **À huit heures, je travaillais encore.** — роботу подано в межах певної часової точки.
+
+Отже, тривалість, доконаність результату або лексичне значення дієслова не дають механічного правила вибору.
+
+## Часова та аспектуальна перспектива
+
+Passé composé не визначається тим, що ситуація «об’єктивно завершена». Важливо, як мовець подає її: як окрему подію, факт або цілісний епізод. Та сама ситуація може бути представлена інакше в іншому контексті.
+
+Порівняйте:
+
+- **J'ai travaillé pendant trois heures.** — роботу подано як цілісний епізод.
+- **À huit heures, je travaillais encore.** — роботу подано в межах певної часової точки.
+
+Тривалість або лексичне значення дієслова не дають механічного правила вибору часу.
+
+## Основні вживання
+
+### 1. Окрема минула подія
+
+- **J’ai acheté ce livre hier.** — Я купив цю книжку вчора.
+- **Elle est arrivée à huit heures.** — Вона приїхала о восьмій.
+
+### 2. Послідовність подій
+
+- **Je suis rentré, j’ai mangé et je me suis couché.**
+- Я повернувся, поїв і ліг спати.
+
+Passé composé часто використовується для подій, які мовець подає як окремі епізоди або ланки подій; у наративі такі події можуть рухати сюжет уперед.
+
+### 3. Минула подія, пов’язана з теперішньою ситуацією
+
+- **J’ai perdu mes clés.** — Я загубив ключі.
+
+Контекст може робити актуальний наслідок помітним, але **наявність актуального результату не є умовою для passé composé**. Та сама форма регулярно використовується для оповіді про минулі події.
+
+### 4. Завершений часовий епізод
+
+- **J’ai travaillé pendant trois heures.** — Я пропрацював три години.
+
+Тривалість сама по собі не вимагає imparfait: важливо, як мовець структурує подію.
+
+## Узгодження
+
+### З être
+
+Participe passé узгоджується з підметом:
+
+- **Elle est arrivée.**
+- **Ils sont partis.**
+- **Elles sont venues.**
+
+### З avoir
+
+З підметом узгодження немає:
+
+- **Elle a mangé.**
+- **Ils ont acheté une voiture.**
+
+Але якщо COD стоїть **перед** participe passé, він може визначати узгодження:
+
+- **La lettre que j’ai écrite.**
+- **Les chansons que nous avons entendues.**
+
+## Заперечення
+
+ne ... pas оточує допоміжне дієслово:
+
+- **Je n’ai pas compris.**
+- **Elle n’est pas venue.**
+- **Nous ne nous sommes pas trompés.**
+
+❌ *Je n’ai compris pas.*  
+✅ **Je n’ai pas compris.**
+
+## Питання
+
+- **Tu as compris ?**
+- **Est-ce que tu as compris ?**
+- **As-tu compris ?**
+
+## Українська пастка
+
+Одне французьке passé composé може перекладатися українським доконаним або недоконаним видом:
+
+- **J’ai fini.** → Я закінчив.
+- **J’ai travaillé toute la journée.** → Я працював увесь день.
+
+Отже, французький час і український вид — різні граматичні категорії.
+
+## Типові помилки
+
+❌ *J’ai allé à Paris.*  
+✅ **Je suis allé à Paris.**
+
+❌ *Elle a arrivée hier.*  
+✅ **Elle est arrivée hier.**
+
+❌ *Elle a mangée une pomme.*  
+✅ **Elle a mangé une pomme.**
+
+❌ *Les pommes qu’elle a mangé.*  
+✅ **Les pommes qu’elle a mangées.**
+
+## Контраст
+
+**Je dormais quand le téléphone a sonné.**  
+Я спав, коли задзвонив телефон.
+
+dormais — ситуація, подана як фон/процес; a sonné — окрема подія. Це пояснення конкретної конструкції, а не властивість самих дієслів *dormir* і *sonner*.
+
+Для повного алгоритму див. [Passé composé vs imparfait](./passe-compose-vs-imparfait).
+
+## Пов’язані теми
+
+- [Imparfait](./imparfait)
+- [Passé composé vs imparfait](./passe-compose-vs-imparfait)
+- [Узгодження participe passé](./accord)

@@ -1,408 +1,207 @@
 ---
-title_uk: "Прийменник DE — Вживання та значення у французькій для українськомовних"
-title_fr: "La préposition DE"
-description_uk: "Повний довідник з прийменника DE у французькій мові. Звідки, чий, з чого, про що. Особливості для українськомовних, поширені помилки та вправи."
+title_uk: "Прийменник de: походження, належність і керування"
+title_fr: "La préposition de"
+description_uk: "Системний довідник про de: походження, належність, матеріал, тему, кількість, заперечення, інфінітивні конструкції та керування."
 category: prepositions
 order: 2
-related:
-  - prepositions-a
-  - prepositions-en
-  - prepositions-dans
-  - articles-contracted
-  - negation
-tags: [прийменник, de, звідки, чий, з чого, про що, походження]
+related: [prepositions-a, articles-contracted, articles-partitive, articles-after-negation, pronouns-coi]
+tags: [прийменники, de, керування, кількість, походження]
 ---
 
-# Прийменник DE — La préposition DE
+# Прийменник **de**
 
-> **Коротко:** Прийменник **DE** у французькій мові має **декілька основних значень**: походження (звідки?), належність (чий?), матеріал (з чого?), тема (про що). **Зливається з артиклями** (du, de la, des, de l').
+## 1. Головна ідея
 
----
+**de** має багато функцій:
 
-## 🎯 Швидко
+- **venir de Paris** — приїхати з Парижа;
+- **le livre de Marie** — книжка Марії;
+- **parler de politique** — говорити про політику;
+- **une tasse de café** — чашка кави;
+- **beaucoup de travail** — багато роботи;
+- **avoir besoin de travailler** — потребувати працювати.
 
-**DE** використовується для вказівки:
+Не існує одного українського перекладу *de*.
 
-| Значення | Приклад | Переклад |
-|----------|---------|----------|
-| **Звідки?** (походження) | Je viens **de** Paris | Я з Парижа |
-| **Чий?** (належність) | Le livre **de** Marie | Книга Марії |
-| **З чого?** (матеріал) | Une table **de** bois | Дерев'яний стіл |
-| **Про що?** (тема) | Parler **de** la vie | Говорити про життя |
-| **Кількість** | Une bouteille **de** vin | Пляшка вина |
-| **Склад** | Une tasse **de** thé | Чашка чаю |
+## 2. Походження
 
-⚠️ **Українськомовним на замітку:** На відміну від української, де ми кажемо "з Києва", "з України", у французькій **de Paris**, **d'Ukraine**!
+- **Je viens de Kyiv.**
+- **Il revient de France.**
+- **Elle sort de la maison.**
 
----
+З артиклями:
 
-## 📐 Формула
+- **de + le → du**
+- **de + les → des**
+- **de + la → de la**
+- **de + l’ → de l’**
 
-### Злиття з артиклями (Contraction)
+Тому:
 
-**DE** зливається з **визначеними артиклями**:
+- **du cinéma**
+- **des États-Unis**
+- **de la gare**
+- **de l’université**
 
-| Артикль | Злиття | Приклад | Переклад |
-|----------|---------|---------|----------|
-| le | **du** | Le livre **du** professeur | Книга викладача |
-| la | **de la** | La porte **de la** maison | Двері будинку |
-| les | **des** | Les livres **des** élèves | Книги учнів |
-| l' | **de l'** | Le sommet **de l'**everest | Вершина Евересту |
+## 3. Належність і відношення
 
-✅ **Правило:** Злиття **обов'язкове** перед визначеними артиклями!
+**de + іменник** часто виражає відношення між двома іменниками:
 
-**Увага:** Перед **невизначеними артиклями** злиття **не відбувається**:
-- *un livre **de** mon ami* (книга мого друга)
-- *une table **de** bois* (дерев'яний стіл)
+- **le livre de Marie**
+- **la porte de la maison**
+- **le centre de Paris**
 
----
+Це не тотожне українському родовому відмінку в усіх випадках, але часто функціонально близьке до нього.
 
-## 🏗️ Утворення
+## 4. Матеріал: не плутати з *en*
 
-### 1. Походження (Звідки?)
+У французькій:
 
-**DE + місце** = звідки ми
+- **une table en bois** — дерев’яний/із дерева стіл;
+- **une bouteille de verre** — скляна пляшка / пляшка зі скла.
 
-```
-Схема: venir + de + місце
-```
+Вибір залежить від конструкції та значення. Не створюйте правила «матеріал = de».
 
-**Приклади:**
-- *Je viens **de** Paris.* (Я з Парижа.)
-- *Il vient **du** marché.* (Він з ринку.)
-- *Nous venons **de la** bibliothèque.* (Ми з бібліотеки.)
-- *Elle vient **des** toilettes.* (Вона з туалету.)
-- *Tu viens **de l'**université.* (Ти з університету.)
+## 5. Тема
 
-**Міста та країни:**
-- **DE + місто:** *de Paris, de Kyiv, de Londres*
-- **DE + країна (жін. рід):** *d'Ukraine, de France, d'Allemagne*
-- **DU + країна (чол. рід):** *du Portugal, du Brésil, du Japon*
-- **DES + країна (множ.):** *des États-Unis, des Pays-Bas*
+- **parler de politique**
+- **rêver de vacances**
+- **se souvenir de son enfance**
+- **avoir peur de quelque chose**
 
-⚠️ **Українськомовним на замітку:**
-- ✅ *Je viens **de** Paris.* (Я з Парижа.)
-- ❌ ~~Je viens à Paris.~~ (це «куди», а не «звідки»)
-- ✅ *Je viens **d'Ukraine**.* (Я з України.)
-- ✅ *Je viens **du** Brésil.* (Я з Бразилії.)
+Порівняйте:
 
-### 2. Належність (Чий?)
+- **parler à Paul** — говорити з Полем;
+- **parler de Paul** — говорити про Поля.
 
-**DE + власник** = чий предмет
+## 6. Кількість
 
-```
-Схема: артикль + предмет + de + власник
-```
+Після кількісних слів і виразів зазвичай **de/d’**:
 
-**Приклади:**
-- *Le livre **du** professeur.* (Книга викладача.)
-- *La voiture **de la** femme.* (Машина жінки.)
-- *Les clés **des** enfants.* (Ключі дітей.)
-- *L'ordinateur **de l'**étudiant.* (Комп'ютер студента.)
+- **beaucoup de livres**
+- **peu d’eau**
+- **trop de travail**
+- **assez de temps**
+- **un kilo de pommes**
+- **une bouteille d’eau**
 
-**З займенниками:**
-- *Le livre **de moi**.* → *Mon livre.* (Моя книга.)
-- *Le livre **de toi**.* → *Ton livre.* (Твоя книга.)
-- *Le livre **de lui**.* → *Son livre.* (Його книга.)
-- *Le livre **d'elle**.* → *Son livre.* (Її книга.)
+Не:
 
-### 3. Матеріал (З чого?)
+❌ *beaucoup des livres* — якщо йдеться просто про велику кількість книжок.
 
-**DE + матеріал** = з чого зроблений предмет
+Але **beaucoup des livres que j’ai lus** можливе, коли **des = de + les** і група конкретизована.
 
-```
-Схема: артикль + предмет + de + матеріал
-```
+## 7. Заперечення
 
-**Приклади:**
-- *une table **de** bois* (дерев'яний стіл)
-- *une chaise **de** métal* (металевий стілець)
-- *une robe **de** soie* (шовкова сукня)
-- *un collier **d'**or* (золоте намисто)
-- *une statue **de** pierre* (кам'яна статуя)
+Порівняйте:
 
-⚠️ **Українськомовним на замітку:** В українській ми кажемо "дерев'яний", а у французькій **une table de bois** (буквально "стіл з дерева")!
+- **J’ai des amis. → Je n’ai pas d’amis.**
+- **Je bois du café. → Je ne bois pas de café.**
 
-### 4. Тема (Про що?)
+Але визначений артикль зберігається:
 
-**DE + тема** = про що йдеться
+- **J’aime le café. → Je n’aime pas le café.**
 
-```
-Схема: дієслово + de + тема
-```
+Тому *de* після заперечення треба пояснювати через тип іменникової групи, а не як механічну частку заперечення.
 
-**Дієслова, що вимагають de:**
-- **parler de** (говорити про) → *Je parle **de** mon travail.* (Я говорю про свою роботу.)
-- **discuter de** (обговорювати) → *Nous discutons **de** politique.* (Ми обговорюємо політику.)
-- **rêver de** (мріяти про) → *Je rêve **de** voyager.* (Я мрію про подорожі.)
-- **avoir besoin de** (потребувати) → *J'ai besoin **de** repos.* (Мені потрібен відпочинок.)
-- **avoir peur de** (боятися) → *J'ai peur **des** araignées.* (Я боюся павуків.)
-- **se souvenir de** (пам'ятати) → *Je me souviens **de** toi.* (Я пам'ятаю тебе.)
-- **oublié de** (забути) → *J'ai oublié **de** fermer la porte.* (Я забув закрити двері.)
+## 8. **de + infinitif**
 
-### 5. Кількість (Скільки?)
+Багато дієслів і конструкцій керують **de + infinitif**:
 
-**DE + незлічуваний іменник** = кількість
+- **essayer de comprendre**
+- **décider de partir**
+- **oublier de fermer**
+- **avoir besoin de travailler**
+- **être heureux de venir**
 
-```
-Схема: кількість + de + незлічуваний іменник
-```
+Але інші слова вимагають **à** або нульової конструкції:
 
-**Приклади:**
-- *une bouteille **de** vin* (пляшка вина)
-- *un verre **de** jus* (склянка соку)
-- *une tasse **de** thé* (чашка чаю)
-- *un kilo **de** pommes* (кілограм яблук)
-- *un morceau **de** pain* (шматок хліба)
-- *beaucoup **de** gens* (багато людей)
-- *un peu **de** sucre* (трохи цукру)
+- **réussir à comprendre**
+- **commencer à travailler**
+- **vouloir partir**
 
-⚠️ **Українськомовним на замітку:** З **незлічуваними іменниками** (vin, jus, thé, pain) **обов'язково** використовується **de**!
+Це потрібно вивчати як **керування**.
 
-### 6. Склад (З чого складається?)
+## 9. Після прикметників
 
-**DE + інгредієнт** = з чого складається
+Деякі прикметники мають конструкцію **de + infinitif/іменник**:
 
-```
-Схема: артикль + страва + de + інгредієнт
-```
+- **heureux de venir**
+- **capable de travailler**
+- **fier de son travail**
+- **difficile à comprendre**
 
-**Приклади:**
-- *une soupe **de** légumes* (овocheвий суп)
-- *une tarte **aux** pommes* (яблучний пиріг) ⚠️ aux = de + les
-- *un gâteau **au** chocolat* (шоколадний торт) ⚠️ au = de + le
-- *une salade **de** tomates* (томатний салат)
-- *un jus **d'**orange* (апельсиновий сік)
+Порівняння **de** та **à** тут особливо важливе, бо воно часто не перекладається буквально українською.
 
----
+## 10. Кількість без артикля
 
-## 📚 Вживання
+Після **de** в кількісній конструкції не додавайте автоматично *le/la/des*:
 
-### Коли використовувати DE?
+- **beaucoup de travail**
+- **un peu de sucre**
+- **trois litres d’eau**
 
-✅ **Походження:**
-- *Je viens **de** Paris.* (Я з Парижа.)
-- *Il revient **du** travail.* (Він повертається з роботи.)
+Але конкретизована група може мати визначений артикль:
 
-✅ **Належність:**
-- *Le chat **de** Marie.* (Кіт Марії.)
-- *La maison **du** médecin.* (Будинок лікаря.)
+- **beaucoup des étudiants de cette classe**
 
-✅ **Матеріал:**
-- *une table **de** bois* (дерев'яний стіл)
-- *un collier **d'**or* (золоте намисто)
+Тут **des = de + les**.
 
-✅ **Тема:**
-- *parler **de** la vie* (говорити про життя)
-- *rêver **de** l'avenir* (мріяти про майбутнє)
+## 11. Елізія
 
-✅ **Кількість:**
-- *une bouteille **de** vin* (пляшка вина)
-- *beaucoup **de** gens* (багато людей)
+Перед голосним або *h muet*:
 
-✅ **Склад:**
-- *une soupe **de** légumes* (овocheвий суп)
+**de + voyelle → d’**
 
-### Коли НЕ використовувати DE?
+- **d’eau**
+- **d’amis**
+- **d’habitude**
 
-❌ **Для вказівки місця перебування (де?):**
-- ❌ ~~Le livre est de la table.~~
-- ✅ *Le livre est **sur** la table.* (Книга на столі.)
+Це фонетико-графічна елізія, не окремий прийменник.
 
-❌ **З лічуваними іменниками у значенні кількості:**
-- ❌ ~~J'ai de trois livres.~~
-- ✅ *J'ai **trois** livres.* (У мене три книги.)
+## 12. **de** чи **à**?
 
-❌ **Перед іменниками, що означають професії:**
-- ❌ ~~Il est de médecin.~~
-- ✅ *Il est **médecin**.* (Він лікар.)
+Мінімальні пари:
 
----
+- **venir de Paris / aller à Paris**
+- **parler de Paul / parler à Paul**
+- **se souvenir de Marie / téléphoner à Marie**
+- **avoir besoin de quelque chose / penser à quelque chose**
 
-## ⚖️ Порівняння
+Ці пари показують, чому прийменник треба вчити разом із керованим словом.
 
-### DE vs À
+## 13. Українська перспектива
 
-| Критерій | DE | À |
-|----------|----|---|
-| **Напрямок** | ❌ | ✅ Je vais **à** Paris |
-| **Походження** | ✅ Je viens **de** Paris | ❌ |
-| **Належність** | ✅ Le livre **de** Marie | ❌ |
-| **Непрямий додаток** | ❌ | ✅ donner **à** quelqu'un |
-| **Матеріал** | ✅ une table **de** bois | ❌ |
-| **Тема** | ✅ parler **de** la vie | ❌ |
+Українська може виражати те саме відношення відмінком:
 
-**Приклади:**
-- *Je vais **à** l'école.* (Я йду до школи.) → **À** (напрямок)
-- *Je viens **de** l'école.* (Я йду зі школи.) → **DE** (походження)
-- *Le livre **de** Marie.* (Книга Марії.) → **DE** (належність)
-- *Je donne un livre **à** Marie.* (Я даю книгу Марії.) → **À** (непрямий додаток)
+- **книжка Марії**
+- **говорити про Марію**
+- **приїхати з Києва**
+- **склянка води**
 
-### DE vs EN
+Французька часто використовує **de**, але відповідність не механічна.
 
-| Критерій | DE | EN |
-|----------|----|----|
-| **Матеріал** | ✅ une table **de** bois | ❌ |
-| **Спосіб** | ❌ | ✅ **en** voiture |
-| **Країни (жін. рід)** | ✅ Je viens **d'**Ukraine | ❌ |
-| **Напрямок до країни (жін. рід)** | ❌ | ✅ Je vais **en** Ukraine |
+## 14. Алгоритм
 
-**Приклади:**
-- *une table **de** bois* (дерев'яний стіл) → **DE**
-- *Je vais **en** voiture.* (Я їду на машині.) → **EN**
-- *Je viens **d'**Ukraine.* (Я з України.) → **DE**
-- *Je vais **en** Ukraine.* (Я їду в Україну.) → **EN**
+1. Знайдіть слово, яке керує групою.
+2. Перевірте його модель: **de + nom**, **de + infinitif**, **à + nom**, **à + infinitif** тощо.
+3. Якщо це походження — перевірте **de**.
+4. Якщо це кількість — перевірте конструкцію **de + nom**.
+5. Якщо це **de + le/les**, застосуйте **du/des**.
+6. Якщо це заперечення, перевірте, чи група невизначена, чи визначена.
 
-### DE vs DANS
+### Типові помилки
 
-| Критерій | DE | DANS |
-|----------|----|------|
-| **Походження (звідки?)** | ✅ Je viens **de** Paris | ❌ |
-| **Місце перебування (де?)** | ❌ | ✅ Le livre est **dans** la table |
-| **Напрямок (куди?)** | ❌ | ✅ Je vais **dans** la maison |
+❌ *beaucoup des livres* у значенні «багато книжок взагалі».  
+✅ **beaucoup de livres**
 
-**Приклади:**
-- *Je viens **de** Paris.* (Я з Парижа.) → **DE**
-- *Le livre est **dans** le sac.* (Книга в сумці.) → **DANS**
-- *Je vais **dans** la maison.* (Я йду в будинок.) → **DANS**
+❌ *Je viens à Paris* у значенні походження.  
+✅ **Je viens de Paris.**
 
----
+❌ *Je décide à partir.*  
+✅ **Je décide de partir.**
 
-## 🚨 Поширені помилки
+❌ *Je réussis de comprendre.*  
+✅ **Je réussis à comprendre.**
 
-### ❌ Помилка 1: Забули злиття з артиклем
-- ❌ *Le livre de le professeur.*
-- ✅ *Le livre **du** professeur.*
-
-**Пояснення:** **DE + le = du** (обов'язкове злиття!)
-
-### ❌ Помилка 2: Використання à замість de для походження
-- ❌ *Je viens à Paris.*
-- ✅ *Je viens **de** Paris.*
-
-**Пояснення:** Для вказівки походження **обов'язково** de, а не à!
-
-### ❌ Помилка 3: Забули de перед незлічуваними іменниками
-- ❌ *Je veux une tasse thé.*
-- ✅ *Je veux une tasse **de** thé.*
-
-**Пояснення:** З незлічуваними іменниками (thé, vin, jus) **обов'язково** de!
-
-### ❌ Помилка 4: Використання de замість à для непрямого додатка
-- ❌ *Je donne un livre de mon ami.*
-- ✅ *Je donne un livre **à** mon ami.*
-
-**Пояснення:** Для непрямого додатка використовується **à**, а не de!
-
-### ❌ Помилка 5: Забули de після дієслів типу parler de, rêver de
-- ❌ *Je parle la vie.*
-- ✅ *Je parle **de** la vie.*
-
-**Пояснення:** Дієслова типу parler, rêver, discuter **вимагають de**!
-
----
-
-## 🇺🇦 Для українськомовних
-
-### Відмінності від української
-
-| Аспект | Українська | Французька |
-|--------|-----------|------------|
-| **Походження** | з Києва | **de** Kyiv |
-| **Належність** | мамин | **de** ma mère |
-| **Матеріал** | дерев'яний | **de** bois |
-| **Тема** | про життя | **de** la vie |
-| **Кількість (незліч.)** | пляшка вина | une bouteille **de** vin |
-| **Походження (країна)** | з України | **d'**Ukraine |
-| **Напрямок до країни** | в Україну | **en** Ukraine |
-
-### Типові помилки українськомовних
-
-1. **Прямий переклад "з":**
-   - ❌ ~~Я з дому.~~ → *Je viens **de** la maison.*
-
-2. **Плутання de та à:**
-   - ❌ ~~Je vais de Paris.~~ (Я їду з Парижа.)
-   - ✅ *Je viens **de** Paris.*
-   - ✅ *Je vais **à** Paris.* (Я їду до Парижа.)
-
-3. **Забування de перед незлічуваними:**
-   - ❌ ~~une tasse thé~~
-   - ✅ *une tasse **de** thé*
-
-4. **Забування de після дієслів:**
-   - ❌ ~~Je parle la vie.~~
-   - ✅ *Je parle **de** la vie.*
-
-5. **Неправильне злиття:**
-   - ❌ ~~Le livre de le professeur.~~
-   - ✅ *Le livre **du** professeur.*
-
-### Як уникнути помилок?
-
-✅ **Пам'ятайте про злиття** de + le/la/les = du/de la/des
-✅ **Для походження використовуйте de**, для напрямку — à
-✅ **З незлічуваними іменниками завжди de**
-✅ **Після дієслів типу parler, rêver, discuter — de**
-✅ **Тренуйтеся** з прийменниками місця, походження та належності
-
----
-
-## 📝 Вправи
-
-### Вправа 1: Доповніть речення правильним прийменником
-
-1. Je viens ___ Paris. → *de*
-2. Je vais ___ Paris. → *à*
-3. Le livre ___ Marie. → *de*
-4. Je donne un livre ___ Marie. → *à*
-5. Une table ___ bois. → *de*
-
-### Вправа 2: Злиття з артиклями
-
-1. Le livre de + le professeur → *du professeur*
-2. La porte de + la maison → *de la maison*
-3. Les livres de + les élèves → *des élèves*
-4. Le sommet de + l'Everest → *de l'Everest*
-
-### Вправа 3: Походження
-
-1. Je viens ___ Kyiv. → *de*
-2. Il vient ___ France. → *de*
-3. Nous venons ___ Brésil. → *du*
-4. Elle vient ___ États-Unis. → *des*
-
-### Вправа 4: Належність
-
-1. Le chat ___ Marie. → *de*
-2. La voiture ___ mon père. → *de*
-3. Les clés ___ les enfants. → *des*
-
-### Вправа 5: Виправте помилки
-
-1. ❌ Je viens à Paris. → ✅ *Je viens **de** Paris.*
-2. ❌ Le livre de le professeur. → ✅ *Le livre **du** professeur.*
-3. ❌ Je veux une tasse thé. → ✅ *Je veux une tasse **de** thé.*
-4. ❌ Je donne un livre de mon ami. → ✅ *Je donne un livre **à** mon ami.*
-5. ❌ Je parle la vie. → ✅ *Je parle **de** la vie.*
-
----
-
-## 📚 Корисні ресурси
-
-- **Граматичні довідники:** Le Robert, Larousse, Bescherelle
-- **Онлайн-вправи:** [Français Facile](https://www.francaisfacile.com/), [Lawless French](https://www.lawlessfrench.com/)
-- **Додатки:** Duolingo, Babbel
-- **Відео:** YouTube канали (Français avec Pierre, InnerFrench)
-
----
-
-## ✅ Підсумок
-
-- **DE** використовується для вказівки **походження (звідки?)**, **належності (чий?)**, **матеріалу (з чого?)**, **теми (про що?)**, **кількості (з незлічуваними)**, **складу**
-- **Зливається з артиклями**: de + le = du, de + la = de la, de + les = des, de + l' = de l'
-- **Походження**: de + місто/країна (Je viens **de** Paris, **d'**Ukraine, **du** Brésil)
-- **Напрямок**: à + місто/країна (Je vais **à** Paris, **en** Ukraine, **au** Brésil)
-- **Українськомовним** потрібно пам'ятати про відмінності у вживанні прийменників
-
-**Головне правило:** Для походження (звідки?) **завжди** використовуйте **de**!
+Головний принцип: **de — це не «родовий прийменник», а велика система конструкцій і керування.**

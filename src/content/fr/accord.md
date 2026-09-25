@@ -13,7 +13,7 @@ tags: ["узгодження", "accord", "прикметник", "дієприк
 ## 📌 Швидко
 > ⏳ **Узгодження** (l'accord) — це **зміна форми слова** залежно від **роду** (чол./жін.) та **числа** (одн./множ.) іменника, до якого воно відноситься. У французькій мові узгоджуватися можуть: **прикметники**, **дієприкметники**, **дієслова** (у минулому часі з être).
 
-> 💡 **Головне правило**: **Узгодження відбувається з іменником**, до якого відноситься слово.
+**Головний принцип для participe passé:** не шукайте просто «слово поруч». Визначте синтаксичну функцію: COD, COI, підмет або інший компонент конструкції.
 
 ---
 
@@ -22,9 +22,9 @@ tags: ["узгодження", "accord", "прикметник", "дієприк
 | Категорія | Правило | Приклад |
 |-----------|---------|---------|
 | **Прикметник** | + **-e** (жін. рід), + **-s** (множ.), + **-es** (жін. множ.) | grand → grande → grands → grandes |
-| **Дієприкметник (COD перед дієсловом)** | Узгоджується з COD | J'ai mangé **la pomme** → La pomme que j'ai **mangée** |
+| **Participe passé з avoir (COD перед participe passé)** | Узгоджується з COD | J'ai mangé **la pomme** → La pomme que j'ai **mangée** |
 | **Дієприкметник (з être)** | Узгоджується з підметом | Il est **parti** → Elle est **partie** |
-| **Дієприкметник (без COD)** | Не узгоджується | J'ai **mangé** (без об'єкта) |
+| **Participe passé з avoir (COD після)** | Не узгоджується | J'ai **mangé** une pomme |
 
 ---
 
@@ -132,12 +132,12 @@ tags: ["узгодження", "accord", "прикметник", "дієприк
 - Ils sont **venus**. → Elles sont **venues**.
 - Il est **né** en 1990. → Elle est **née** en 1990.
 
-> 💡 **DR & MR VANDERTRAMP**: Ці дієслова вживаються з **être** у passé composé, тому дієприкметник узгоджується з підметом.
+> **DR & MR VANDERTRAMP** — лише мнемоніка для частини дієслів, що можуть утворювати passé composé з `être`. Вона не замінює аналіз конкретної конструкції: `sortir`, наприклад, має `être` без COD і `avoir` з COD.
 
 ---
 
 ### 2. З допоміжним дієсловом **AVOIR**
-**Дієприкметник узгоджується з прямим додатком (COD), якщо він стоїть ПЕРЕД дієсловом**
+**Participe passé узгоджується з COD, якщо COD стоїть перед participe passé**
 
 | Ситуація | Узгодження | Приклад |
 |----------|------------|---------|
@@ -147,15 +147,15 @@ tags: ["узгодження", "accord", "прикметник", "дієприк
 | **COD = неозначений займенник** | ❌ Ні | J'ai mangé **quelque chose**. |
 
 **Приклади:**
-- J'ai vu **le film**. → Le film que j'ai **vu**. (COD після → немає узгодження)
+- J'ai vu **le film**. → Le film que j'ai **vu**. (у першому реченні COD після; у другому `que` = COD, але `film` чоловічого роду, тому форма `vu` збігається без видимої зміни)
 - J'ai vu **la fille**. → La fille que j'ai **vue**. (COD перед → є узгодження)
 - J'ai mangé **les pommes**. → Les pommes que j'ai **mangées**. (COD перед → є узгодження)
 - J'ai mangé **une tarte**. → La tarte que j'ai **mangée**. (COD перед → є узгодження)
 
 ---
 
-### 3. З дієсловами, які керують **À** (COI)
-**Дієприкметник НЕ узгоджується** (окрім винятків)
+### 3. COD і COI: не плутайте функції
+**COI не спричиняє узгодження participe passé з попереднім елементом.**
 
 | Дієслово | Приклад | Узгодження |
 |-----------|---------|------------|
@@ -164,18 +164,16 @@ tags: ["узгодження", "accord", "прикметник", "дієприк
 | **répondre à** | La question à laquelle j'ai **répondu** | ❌ Ні |
 | **plaire à** | La fille qui m'a **plu** | ❌ Ні |
 
-> ⚠️ **Виняток**: Якщо COI стає **прямим додатком** через заміну конструкції, узгодження відбувається.
-> Приклад: **Les fleurs que j'ai cueillies** (COD) vs **Les fleurs auxquelles je pense** (COI, немає узгодження)
+> **Не плутайте керування дієслова:** `parler à`, `téléphoner à`, `répondre à` мають COI; `cueillir quelque chose` має COD. Узгодження визначається цією функцією, а не самим займенником.
 
 ---
 
-### 4. З дієсловами **COÛTER, VALOIR, VIVRE, SURVIVRE, etc.**
-**Дієприкметник узгоджується з підметом**, якщо він виражає **стан**.
+### 4. Деякі дієслова потребують аналізу значення та конструкції
 
 | Дієслово | Приклад | Узгодження |
 |-----------|---------|------------|
 | **coûter** | Les 100€ que ce livre m'a **coûté**/**coûtés** | ✅ Так (залежно від сенсу) |
-| **valoir** | Les efforts que cela m'a **valu** | ❌ Ні (звичайно) |
+
 | **vivre** | La vie qu'il a **vécue** | ✅ Так |
 
 ---
@@ -230,12 +228,42 @@ tags: ["узгодження", "accord", "прикметник", "дієприк
 
 ---
 
-### 5. Узгодження з неозначеними займенниками
+### 5. Прономінальні конструкції з особливим керуванням
+
+Окремі прономінальні дієслова показують, чому функцію `se` треба перевіряти за конкретною моделлю:
+
+- `Ils se sont rendu compte du danger.` — `se` є COI у `se rendre compte de`, тому `rendu`.
+- `Elle s'est rendue coupable.` — інша конструкція: `se` є COD, тому `rendue`.
+
+Такі випадки не слід зводити до одного списку «дієслів із se». Функція займенника визначається керуванням конкретного дієслова.
+
+### 6. `pouvoir / devoir / vouloir + infinitif`
+
+У конструкціях із infinitif потрібно встановлювати, чи попередній займенник є COD participe passé чи COD наступного infinitif.
+
+Порівняйте:
+
+- `La plus grande entreprise que j'ai eu à gérer.` — `que` є COD `gérer`, а не `eu`, тому `eu`.
+- `Les facilités qu'il a eues.` — `que` є COD `eu`, тому `eues`.
+
+Так само:
+
+- `Les efforts que j'ai dû faire.`
+- `Les décisions qu'il a voulu prendre.`
+
+Не можна автоматично узгоджувати participe passé лише тому, що перед ним стоїть `que`.
+
+### 5. Неозначені займенники
+
+Не можна вчити, що `quelque chose`, `quelqu'un`, `rien`, `personne` «завжди блокують узгодження». Важлива синтаксична структура.
+
+- `J'ai mangé quelque chose.` → COD після participe passé → `mangé`.
+- `La chose que j'ai mangée.` → `que` = COD перед participe passé → `mangée`.
+
 ```
-❌ J'ai mangé quelque chose que j'ai aimée. → ✅ J'ai mangé quelque chose que j'ai aimé.
-❌ J'ai vu quelqu'un que j'ai connu. → ✅ J'ai vu quelqu'un que j'ai connu.
+`quelque chose` не блокує узгодження автоматично: `la chose que j'ai aimée` показує, що попередній COD `que` може спричиняти узгодження. Наприклад: `J'ai vu la personne que j'ai connue.`
 ```
-> 🔹 **Правило**: З **quelque chose, quelqu'un, rien, personne** узгодження **не відбувається**.
+
 
 ---
 
@@ -269,11 +297,12 @@ tags: ["узгодження", "accord", "прикметник", "дієприк
 
 > 💡 **Спосіб запам'ятання**: "**DR & MR VANDERTRAMP**" — це **рух** (йти, повертатися, падати тощо), тому ці дієслова вживаються з **ÊTRE**.
 
-### 🎯 Типові українські помилки
-1. **Забути узгодження з ÊTRE**: "Elle est parti" (❌) → "Elle est **partie**" (✅)
-2. **Неправильно узгоджувати з AVOIR**: "J'ai mangé la pomme que j'ai vu" (❌) → "J'ai mangé la pomme que j'ai **vue**" (✅)
-3. **Узгоджувати з COD після дієслова**: "J'ai mangée une pomme" (❌) → "J'ai mangé une pomme" (✅)
-4. **Плутати ÊTRE та AVOIR у passé composé**: "Il a allé" (❌) → "Il est allé" (✅)
+### Типові українські помилки
+1. **Забути узгодження з `être`**: `Elle est parti` → `Elle est partie`.
+2. **Не узгодити попередній COD з `avoir`**: `La pomme que j'ai mangé` → `La pomme que j'ai mangée`.
+3. **Узгодити COD після `avoir`**: `J'ai mangée une pomme` → `J'ai mangé une pomme`.
+4. **Узгодити COI**: `Les personnes auxquelles j'ai parlées` → `Les personnes auxquelles j'ai parlé`.
+5. **Плутати `être` та `avoir`**: `Il a allé` → `Il est allé`.
 
 ---
 

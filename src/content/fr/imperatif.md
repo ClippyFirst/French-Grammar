@@ -1,0 +1,89 @@
+---
+title_uk: "Impératif — наказовий спосіб"
+title_fr: "L’impératif"
+description_uk: "Утворення та вживання наказового способу, заперечення, займенники та особливі форми."
+category: moods
+order: 40
+related:
+  - pronoun-order
+  - negation
+  - present
+tags: [impératif, наказовий спосіб, займенники]
+---
+
+# Impératif
+
+## Форми
+
+У сучасній французькій наказовий спосіб має форми **tu, nous, vous** без явного займенника-підмета:
+
+- **Parle !**
+- **Parlons !**
+- **Parlez !**
+
+Для багатьох дієслів на -er у формі tu закінчення -s відсутнє:
+
+- **Parle !**
+- **Regarde !**
+
+Але воно повертається перед y та en у відповідних випадках:
+
+- **Vas-y !**
+- **Manges-en !**
+
+## Нерегулярні форми
+
+- être → **sois, soyons, soyez**
+- avoir → **aie, ayons, ayez**
+- savoir → **sache, sachons, sachez**
+- vouloir → **veuille, veuillons, veuillez**
+
+**Veuillez** — дуже поширена формула ввічливого письмового прохання:
+
+- **Veuillez patienter.** — Будь ласка, зачекайте.
+
+## Заперечення
+
+**ne + verbe + pas**
+
+- **Ne parle pas !**
+- **Ne partez pas !**
+- **Ne nous trompons pas !**
+
+У запереченні порядок займенників повертається до звичайного:
+
+- **Ne me le donne pas.**
+
+## Займенники в ствердному impératif
+
+У ствердному impératif клитики стоять **після дієслова** й відділяються дефісами. Їхній порядок відрізняється від звичайної позиції перед дієсловом. Для типових об’єктних комбінацій використовується схема:
+
+**le / la / les → moi / toi / lui / nous / vous / leur → y → en**
+
+- **Donne-le-moi !**
+- **Donnez-le-lui !**
+- **Montrez-les-nous !**
+- **Parlez-lui-en !**
+- **Mets-y le livre !**
+- **Donne-m’en !**
+
+Форми **me → moi** і **te → toi** в цій позиції:
+
+- **Donne-moi le livre !**
+- **Lève-toi !**
+
+Перед **y** та **en** у відповідних формах *tu* для дієслів на **-er** і для *aller* з’являється кінцеве **-s**:
+
+- **Parle ! → Parles-en !**
+- **Va ! → Vas-y !**
+
+## Типові помилки
+
+❌ *Ne donne-moi pas ça.*  
+✅ **Ne me donne pas ça.**
+
+❌ *Donne-moi-le.*  
+✅ **Donne-le-moi.**
+
+❌ *Parles !*  
+✅ **Parle !**
