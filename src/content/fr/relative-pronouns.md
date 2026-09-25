@@ -9,6 +9,7 @@ prerequisites:
   - pronouns-cod
   - pronouns-coi
 related:
+  - relative-clauses
   - pronouns-cod
   - pronouns-coi
   - pronoun-order
