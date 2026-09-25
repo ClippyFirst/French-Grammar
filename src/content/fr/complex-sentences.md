@@ -8,6 +8,7 @@ prerequisites:
   - word-order
   - questions
   - temporal-conjunctions
+  - subordination
 related:
   - relative-clauses
   - indirect-speech
