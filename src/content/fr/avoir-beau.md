@@ -4,6 +4,7 @@ title_fr: "Avoir beau + infinitif"
 description_uk: "Концесивна конструкція avoir beau + infinitif: значення, структура, часи та відмінність від звичайного avoir."
 category: complex
 order: 733
+canonical_ids: ["FR-731"]
 prerequisites:
   - infinitive
   - complex-sentences
