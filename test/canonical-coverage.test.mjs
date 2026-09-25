@@ -36,3 +36,27 @@ test('auditCanonicalCoverage reports missing, invalid and duplicate mappings', (
   assert.deepEqual(result.duplicates, [{ id: 'FR-001', paths: ['a.md', 'b.md'] }]);
   assert.equal(result.coveredCount, 1);
 });
+
+
+test('auditCanonicalCoverage detects duplicate catalog IDs and duplicate IDs inside one file', () => {
+  const result = auditCanonicalCoverage({
+    catalogIds: ['FR-001', 'FR-001', 'FR-002'],
+    files: [
+      { path: 'a.md', canonicalIds: ['FR-001', 'FR-001'], status: 'review' },
+    ],
+  });
+
+  assert.deepEqual(result.duplicateCatalogIds, ['FR-001']);
+  assert.deepEqual(result.duplicateFileMappings, [{ path: 'a.md', ids: ['FR-001'] }]);
+});
+
+test('auditCanonicalCoverage reports canonical mappings on deprecated files', () => {
+  const result = auditCanonicalCoverage({
+    catalogIds: ['FR-001'],
+    files: [
+      { path: 'legacy.md', canonicalIds: ['FR-001'], status: 'deprecated' },
+    ],
+  });
+
+  assert.deepEqual(result.deprecatedMappings, [{ id: 'FR-001', paths: ['legacy.md'] }]);
+});
