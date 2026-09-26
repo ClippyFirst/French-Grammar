@@ -195,4 +195,3 @@ toc: true
 - [Кількісні числівники](./cardinal-numerals)
 - [Vingt і cent](./vingt-cent)
 - [Дати](./dates)
-- [Нумерація та формати запису](./number-formats)
