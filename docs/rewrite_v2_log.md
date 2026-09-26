@@ -1583,3 +1583,59 @@ B29 створено на гілці content/canonical-gaps-b29, від акту
 ### Наступний крок
 
 Продовжити за наступним фактичним блоком зі snapshot Missing: FR-035, FR-037–FR-047, з тією самою перевіркою актуального дерева перед створенням файлів, щоб не дублювати вже наявні canonical mappings.
+
+
+## B29.1 — FR-035 + FR-037–FR-045: орфографія та графемно-фонемні відповідності
+
+Не зупиняючись після першого блоку B29, продовжено snapshot Missing. Наступним фактичним кластером стали FR-035 та FR-037–FR-045; перевірка актуального дерева показала відсутність окремих актуальних canonical articles для цих десяти ID.
+
+### Додано
+
+- FR-035 — grammatical-homophones.md
+- FR-037 — verb-endings-pronunciation.md
+- FR-038 — grammatical-endings-plural-pronunciation.md
+- FR-039 — loanword-pronunciation.md
+- FR-040 — dictionary-pronunciation.md
+- FR-041 — apostrophe.md
+- FR-042 — hyphen.md
+- FR-043 — compound-word-spelling.md
+- FR-044 — joined-separated-writing.md
+- FR-045 — consonant-doubling.md
+
+### Змістове рішення
+
+FR-035 побудовано навколо граматичної функції омонімних форм, а не мнемонічного списку. FR-037–FR-040 розводять письмову морфологію, фонетичну реалізацію, запозичення, варіантність та словникову перевірку. FR-041–FR-045 систематизують апостроф, дефіс, складні слова, суцільний/роздільний запис і подвоєння приголосних. Окремо підкреслено, що графічний маркер не обов'язково має прямий фонетичний відповідник.
+
+### Academic Writing Toolkit QA
+
+review_paragraph_logic виконано для всіх 10 нових статей:
+
+- FR-035 — 13 findings
+- FR-037 — 17 findings
+- FR-038 — 19 findings
+- FR-039 — 12 findings
+- FR-040 — 15 findings
+- FR-041 — 18 findings
+- FR-042 — 16 findings
+- FR-043 — 15 findings
+- FR-044 — 15 findings
+- FR-045 — 16 findings
+
+Усі findings — лише short-paragraph heuristic; інших типів логічних/структурних проблем Toolkit не виявив.
+
+### Лічильник B29 cumulative
+
+- Markdown-файлів перед B29: 380
+- нових у першому блоці: 10
+- нових у B29.1: 10
+- загалом нових у B29: 20
+- Markdown-файлів після B29.1: **400**
+- canonical scope: **740 topic IDs**
+
+### Git / verification
+
+B29.1 продовжено на content/canonical-gaps-b29. Local npm run qa / Astro build не запускався. Перевірка нових текстів виконана через GitHub content state та Academic Writing Toolkit.
+
+### Наступний крок
+
+Продовжити зі snapshot Missing у FR-046–FR-057, з тією самою перевіркою фактичного дерева перед створенням кожного нового canonical article.
