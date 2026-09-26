@@ -1,122 +1,248 @@
 ---
 title_uk: "Infinitif passé: попередня дія та вибір avoir / être"
-title_fr: "L'infinitif passé"
-description_uk: "Системний довідник про infinitif passé: avoir/être + participe passé, часову попередність, керування та узгодження."
+title_fr: "L’infinitif passé"
+description_uk: "Як утворюється infinitif passé, як він виражає попередність і як вибір avoir / être пов’язаний із моделлю дієслова."
 category: verbs
-order: 84
 canonical_ids: ["FR-316"]
-prerequisites: [infinitive, passe-compose]
-related: [participe-passe, auxiliary-verbs, temporal-conjunctions]
-contrast: [infinitive-present]
-next: [participe-present]
-aliases: [infinitif passé]
-tags: [infinitif passé, infinitif, participe passé]
+prerequisites: ["infinitive", "passe-compose"]
+related: ["participe-passe", "auxiliary-verbs", "temporal-conjunctions", "infinitive-after-preposition"]
+contrast: ["infinitive"]
+next: ["participe-present"]
+aliases: ["infinitif passé"]
+tags: ["infinitif passé", "infinitif", "participe passé"]
 level: B1
 depth: high
 register: neutral
-variety: [FR]
+variety: ["FR"]
 contrastive_uk: high
 status: review
 sources:
-  - "Académie française — Dictionnaire de l'Académie française, 9e éd."
-reviewed_at: "2026-09-25"
+  - "Académie française — Dictionnaire de l’Académie française, 9e éd."
+  - "Grande Grammaire du français"
+  - "French Grammar and Usage, 5th ed. (2025)"
+reviewed_at: "2026-09-26"
 formula: true
 toc: true
+featured: false
 ---
-
-# Infinitif passé
 
 ## Швидка відповідь
 
-**Infinitif passé** утворюється за моделлю:
+**Infinitif passé** — складена неособова форма:
 
-**avoir / être à l'infinitif + participe passé**
+**avoir / être à l’infinitif + participe passé**
 
-> **avoir parlé**
+> *avoir parlé*
 
-> **être parti**
+> *être parti*
 
-Його основна функція — показати, що інфінітивна дія відбулася **раніше** за дію, з якою вона співвідноситься.
+Його головна функція — виражати **попередність** інфінітивної дії щодо іншої часової точки, коли така інтерпретація доступна конкретній конструкції.
 
-## 1. Попередність
+> *Après avoir mangé, ils sont partis.*
 
-> **Après avoir terminé son travail, elle est partie.**
+→ Спочатку вони поїли, потім пішли.
 
-Спочатку вона завершила роботу, потім пішла.
+> *Je regrette d’avoir oublié.*
 
-Порівняйте:
+→ Я шкодую, що забув.
 
-> **Après avoir mangé, ils sont sortis.**
+Infinitif passé не означає «дуже давню» дію. Він виражає відносну часову позицію.
 
-Тут **avoir mangé** не є «минулим часом» у тому самому сенсі, що *ils ont mangé*. Це неособова форма, часові відношення якої визначає контекст.
+## 1. Формула
 
-## 2. Avoir чи être
+Для дієслів із *avoir*:
 
-Вибір допоміжного дієслова пов'язаний із парадигмою конкретного дієслова:
+> **avoir + participe passé**
 
-> **avoir travaillé**
+- *avoir parlé*;
+- *avoir fini*;
+- *avoir pris*;
+- *avoir compris*.
 
-> **être arrivé**
+Для дієслів із *être*:
 
-Для зворотних дієслів:
+> **être + participe passé**
 
-> **s'être levé**
+- *être parti*;
+- *être arrivé*;
+- *être venu*;
+- *être né*.
 
-Вибір не можна зводити до простого правила «рух = être»: він залежить від лексико-синтаксичної поведінки дієслова та конкретної конструкції.
+У конструкціях із *être* participe passé може узгоджуватися:
 
-## 3. Заперечення
+> *Après être partie, Marie a appelé.*
 
-Заперечення розміщується перед інфінітивною групою:
+> *Après être partis, Paul et Marie ont appelé.*
 
-> **après ne pas avoir répondu**
+Отже, infinitif не скасовує правила узгодження participe passé.
 
-> **sans ne jamais...** — така послідовність потребує окремого синтаксичного аналізу; не переносіть механічно модель **ne pas** у будь-яку конструкцію.
+## 2. Попередність після après
 
-Часто простіше спочатку визначити всю інфінітивну групу, а потім її заперечення.
+Найвідоміша модель:
 
-## 4. Займенники
+> *Après avoir terminé le travail, elle est partie.*
 
-Клитики можуть належати інфінітиву:
+Послідовність:
 
-> **Après l'avoir vu, je suis parti.**
+1. вона завершила роботу;
+2. вона пішла.
 
-> **Après lui avoir parlé, elle est rentrée.**
+Точка відліку — подія *elle est partie*.
 
-**l'** та **lui** стоять перед інфінітивом, хоча граматично залежать від **voir / parler**.
+Попередність не дорівнює давності: обидві події могли відбутися майже одна за одною.
 
-## 5. Український контраст
+## 3. Pourquoi avoir / être?
 
-Українська часто виражає попередність дієприслівником, підрядним реченням або минулим часом:
+Вибір допоміжного дієслова пов’язаний із моделлю конкретного дієслова.
 
-> **Après avoir fini, il est parti.**
+Порівняй:
 
-→ **Закінчивши, він пішов.**
+> *Après avoir travaillé, il est rentré.*
 
-Але переклад не визначає французьку структуру. Важливо бачити **avoir/être + participe passé** як єдину інфінітивну конструкцію.
+> *Après être arrivé, il a téléphoné.*
 
-## Типові помилки
+Не можна вибирати *avoir* або *être* лише за українським перекладом.
 
-❌ *Après avoir partir.*
+## 4. Infinitif passé в інших конструкціях
 
-✅ **Après être parti.**
+Infinitif passé не обмежується *après*:
 
-❌ *Après être mangé* у звичайній активній конструкції.
+> *Je regrette d’avoir parlé.*
 
-✅ **Après avoir mangé.**
+→ Я шкодую, що сказав це.
 
-❌ вважати **avoir** тут особовою формою.
+> *Il affirme avoir compris.*
+
+→ Він стверджує, що зрозумів.
+
+> *Nous sommes heureux d’avoir réussi.*
+
+→ Ми раді, що нам вдалося.
+
+У таких прикладах складена форма представляє подію як попередню щодо стану, мовленнєвого акту або іншої точки відліку.
+
+## 5. Не плутай із infinitif présent
+
+Порівняй:
+
+> *Je regrette de partir.*
+
+→ Я шкодую, що йду / збираюся піти.
+
+> *Je regrette d’être parti.*
+
+→ Я шкодую, що пішов.
+
+Складена форма дозволяє представити подію як таку, що вже відбулася щодо відповідної точки відліку.
+
+## 6. Infinitif passé після дієслова
+
+Прийменник перед формою визначається головним словом:
+
+> *Elle regrette d’avoir oublié le rendez-vous.*
+
+> *Il prétend avoir vu la scène.*
+
+У першому *de* є частиною моделі *regretter de + infinitif*. У другому *prétendre* може безпосередньо керувати інфінітивом.
+
+Отже, infinitif passé не створює нового універсального правила керування.
+
+## 7. Infinitif passé та особова підрядна конструкція
+
+Порівняй:
+
+> *Je regrette d’avoir oublié.*
+
+> *Je regrette que j’aie oublié.*
+
+В обох випадках зміст близький, але структура різна.
+
+У першій конструкції немає особового дієслова в інфінітивній частині. У другій *aie oublié* виражає особу та число.
+
+Це ще один приклад того, що інфінітив і підрядне речення не слід розглядати як механічні синоніми.
+
+## 8. Узгодження з être
+
+У:
+
+> *Après être arrivée, Marie est partie.*
+
+*arrivée* узгоджується з *Marie*.
+
+У:
+
+> *Après être arrivés, Paul et Marie sont partis.*
+
+форма має множину.
+
+Водночас:
+
+> *Après avoir mangé, Marie est partie.*
+
+*mangé* не узгоджується просто з наступним підметом *Marie*. Правило залежить від синтаксичної структури та допоміжного дієслова.
+
+## 9. Український контраст
+
+Українська може передавати infinitif passé різними засобами:
+
+- «після того як…»;
+- «що … зробив»;
+- «зробивши …»;
+- іншою підрядною конструкцією.
+
+Наприклад:
+
+> *Après avoir terminé, il est parti.*
+
+→ Після того як він закінчив, він пішов.
+
+> *Je regrette d’avoir parlé.*
+
+→ Я шкодую, що сказав це.
+
+Тому одного перекладного шаблону недостатньо.
+
+## 10. Типові помилки
+
+❌ *Après avoir parti.*
+
+✅ *Après être parti.*
+
+❌ *Après être mangé*, якщо йдеться про людину, яка поїла.
+
+✅ *Après avoir mangé.*
+
+❌ *Après avoir mangée, Marie est partie.*
+
+✅ *Après avoir mangé, Marie est partie.*
+
+Останній приклад особливо важливий: наступний підмет не створює автоматичного узгодження participe passé з *avoir*.
+
+## 11. Практичний алгоритм
+
+1. Знайди *avoir* або *être* в інфінітиві.
+2. Визнач participe passé.
+3. Знайди головний компонент конструкції.
+4. Визнач часову точку відліку.
+5. Перевір, чи виражається попередність.
+6. Встанови вибір *avoir / être*.
+7. Якщо використано *être*, перевір узгодження.
+8. Порівняй із *que + особова форма*, якщо потрібно пояснити структуру.
 
 ## Практична перевірка
 
-1. après ___ mangé
-2. après ___ parti
-3. après ___ vu Marie
-4. Чи виражає infinitif passé попередність?
+1. Après ___ (manger), ils sont partis.
+2. Après ___ (arriver), Marie a téléphoné.
+3. Il regrette ___ (oublier) le document.
+4. Elle affirme ___ (comprendre) le problème.
+5. Après ___ (finir) son travail, Paul est sorti.
 
-**Відповіді:** 1 **avoir**; 2 **être**; 3 **avoir**; 4 **так, типово**.
+**Відповіді:** 1 — *avoir mangé*, 2 — *être arrivée*, 3 — *d’avoir oublié*, 4 — *avoir compris*, 5 — *avoir fini*.
 
 ## Куди далі
 
+- [Інфінітив](./infinitive)
+- [Інфінітив після прийменника](./infinitive-after-preposition)
 - [Participe passé](./participe-passe)
-- [Допоміжні дієслова](./auxiliary-verbs)
-- [Інфінітив présent](./infinitive-present)
+- [Узгодження participe passé](./accord)
+- [Часові сполучники](./temporal-conjunctions)
