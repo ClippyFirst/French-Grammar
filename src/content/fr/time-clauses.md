@@ -6,7 +6,7 @@ title_uk: "Часові підрядні речення"
 title_fr: "Les propositions subordonnées temporelles"
 description_uk: "Довідкова стаття про часові підрядні речення у сучасній французькій."
 canonical_ids:
-  - FR-165
+  - FR-482
 prerequisites:
   - phrase-enonce
   - sentence-structure
