@@ -3,7 +3,7 @@ title_uk: "Il y a: безособова конструкція існуванн�
 title_fr: "Il y a"
 description_uk: "Системний довідник про il y a: існування, наявність, часові конструкції, заперечення та відмінність від être."
 category: syntax
-canonical_ids: ["FR-536"]
+canonical_ids: ["FR-536", "FR-454"]
 prerequisites: ["impersonal-il", "present"]
 related: ["il-faut", "impersonal-verbs", "there-is"]
 level: B1
