@@ -770,3 +770,16 @@ Canonical scope: **740 topic IDs**.
 `agreement through intervening phrases → attachment → grammatical ambiguity → structural ambiguity → negation scope → quantifier scope → general scope/interpretation`.
 
 Наступний pass має продовжити системну перевірку coverage/granularity/graph integrity, а не створення нових topic IDs.
+
+
+## B16 — 2026-09-26 — contrastive layer FR-696–FR-718
+
+- **Scope:** системно поглиблено українсько-французький контрастивний шар FR-696–FR-718.
+- **Принцип:** ці 23 canonical IDs не розмножувалися штучно в 23 окремі нові сторінки; використано наявні тематичні вузли як основні контрастивні reference articles.
+- **Оновлено:** 23 existing articles; **нових Markdown-файлів: 0**.
+- **Canonical mapping:** FR-696 gender; FR-697 article/zero article; FR-699 null subject; FR-700 word order; FR-701 COD/COI; FR-702 clitics; FR-703 y/en; FR-704 prepositions/cases; FR-705 tense/aspect; FR-706 passé composé/imparfait; FR-707 conditionnel; FR-708 subjonctif; FR-709 impératif; FR-710 relatives; FR-711 negation; FR-712 interrogatives; FR-713 participe passé agreement; FR-714 valency; FR-715 impersonal constructions; FR-716 passive; FR-717 information structure; FR-718 oral syntax.
+- **Quality direction:** кожну статтю розширено від короткої примітки до структурованого довідника: швидка відповідь, контраст форм/функцій, приклади FR→UK, типові помилки, алгоритм, мінітест і навігація.
+- **Academic Writing Toolkit:** виконано paragraph-logic QA на вибірковій першій шістці B16. Усі знайдені евристичні findings мають єдиний тип `short-paragraph`; це очікувано для прикладів, таблиць, формул і коротких тестових пунктів. Інших типів логічних проблем у повернутому QA не виявлено.
+- **Progress:** на старті B16 — **371 Markdown article files**; після B16 — **371**. Це **23 canonical topics deepened**, не +23 files.
+- **Canonical scope:** **740 topic IDs**. `740 - 371` не використовується як «залишок тем», оскільки каталог прямо допускає mapping кількох topic IDs в одну статтю або секцію.
+- **Git commits:** 23 file-level commits, including FR-706 commit `70c851544bcb5096ef1911113e5b6fe4b9ca9751`.
