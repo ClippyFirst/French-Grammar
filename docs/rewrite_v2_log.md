@@ -1522,3 +1522,64 @@ B27 виконано на content/reference-articles-2026-09-25. Вісім ко
 - Academic Writing Toolkit paragraph-logic review was run on all 10 new files. Findings were exclusively `short-paragraph` heuristic warnings; no substantive paragraph-logic issue type was reported.
 - The batch intentionally did **not** create duplicates for FR-609–FR-643 or FR-728, because those IDs already have current files in the repository despite appearing in the older snapshot.
 - Local `npm run qa` was not executed by the assistant; build status after this batch still requires a fresh local run.
+
+
+## B29 — FR-020–FR-029: фонологія та просодія
+
+Після B28 продовжено роботу строго за Missing-списком qa-output.txt. Наступним суцільним блоком є FR-020–FR-029. Перед створенням перевірено актуальне дерево репозиторію: ці десять canonical IDs не мали окремих актуальних Markdown-статей, тому тут створено десять нових сторінок.
+
+### Додано
+
+- FR-020 — open-closed-vowels.md
+- FR-021 — nasal-vowels.md
+- FR-022 — semivowels.md
+- FR-023 — french-r.md
+- FR-024 — syllable-structure.md
+- FR-025 — stress-prosody.md
+- FR-026 — intonation-contours.md
+- FR-027 — schwa.md
+- FR-028 — silent-final-vowels.md
+- FR-029 — silent-final-consonants.md
+
+### Змістове рішення
+
+Блок побудовано як взаємопов'язану фонологічну систему, а не як десять списків правил читання. FR-020 розрізняє /e/–/ɛ/ та /o/–/ɔ/ і пояснює, чому «відкрита/закрита буква» є хибним спрощенням. FR-021 описує типи носових голосних, умови носовості та контраст із реально вимовною n/m. FR-022 систематизує /j/, /w/ та /ɥ/ через складове ядро. FR-023 пояснює сучасний французький /ʁ/ та його увулярну артикуляцію без твердження про єдину фізичну реалізацію. FR-024 вводить attack / noyau / coda та пов'язує складову структуру з schwa, liaison, enchaînement і напівголосними. FR-025 розводить французьку акцентуацію та український лексичний наголос і переносить увагу на ритмічні/просодичні групи. FR-026 показує інтонацію як взаємодію з типом висловлення, завершеністю та фокусом, без абсолютного правила «питання = підйом». FR-027 описує schwa / e caduc як контекстно нестабільний елемент. FR-028 розмежовує німі кінцеві голосні, морфологічну інформацію та зв'язну вимову. FR-029 розмежовує німі кінцеві приголосні, морфологічну графіку та liaison; мнемоніки не подаються як абсолютні правила.
+
+У всіх десяти статтях збережено українсько-французький контраст, практичний алгоритм і мінітест. Варіантність вимови подається як частина системи, а не як «помилка», якщо йдеться про засвідчений фонетичний або регістровий варіант.
+
+### Academic Writing Toolkit QA
+
+review_paragraph_logic виконано для всіх 10 нових статей:
+
+- FR-020 — 16 findings
+- FR-021 — 20 findings
+- FR-022 — 19 findings
+- FR-023 — 16 findings
+- FR-024 — 17 findings
+- FR-025 — 17 findings
+- FR-026 — 19 findings
+- FR-027 — 16 findings
+- FR-028 — 18 findings
+- FR-029 — 16 findings
+
+Усі findings мають єдиний тип short-paragraph. Інших логічних/структурних finding-типів Toolkit не повернув. Це очікувана евристика для довідникових формул, коротких прикладів і мінітестів; граматичної помилки з цього результату не виводилося.
+
+### Лічильник
+
+- Markdown-файлів перед B29: 380
+- нових Markdown-файлів: 10
+- поглиблено: 0
+- Markdown-файлів після B29: 390
+- canonical scope: 740 topic IDs
+
+Як і раніше, 740 - кількість Markdown-файлів не є точним remaining count, оскільки canonical topics можуть бути об'єднані або реалізовані як секції.
+
+### Git / verification
+
+B29 створено на гілці content/canonical-gaps-b29, від актуального master. Кожен із десяти нових файлів створено окремим Git commit.
+
+Локальний npm run qa / Astro build у цьому середовищі не запускався. Academic Writing Toolkit перевірив усі десять нових текстів; результати наведені вище.
+
+### Наступний крок
+
+Продовжити за наступним фактичним блоком зі snapshot Missing: FR-035, FR-037–FR-047, з тією самою перевіркою актуального дерева перед створенням файлів, щоб не дублювати вже наявні canonical mappings.
