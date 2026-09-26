@@ -6,6 +6,7 @@ category: prepositions
 order: 21
 related: [prepositions-a, prepositions-de, prepositions-dans, prepositions-time, prepositions-place]
 tags: [прийменники, en, транспорт, країни, час, матеріал]
+canonical_ids: ["FR-241"]
 ---
 
 # Прийменник **en**
