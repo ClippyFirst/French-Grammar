@@ -1639,3 +1639,48 @@ B29.1 продовжено на content/canonical-gaps-b29. Local npm run qa / A
 ### Наступний крок
 
 Продовжити зі snapshot Missing у FR-046–FR-057, з тією самою перевіркою фактичного дерева перед створенням кожного нового canonical article.
+
+
+## B29.2 — FR-046–FR-057: завершення орфографічного кластера
+
+Продовжено роботу за snapshot Missing. Під час перевірки фактичного дерева встановлено, що FR-049 уже представлений актуальним punctuation.md, а FR-048 має актуальне покриття через capitalization.md, тому ці два ID не дублювалися.
+
+### Додано
+
+- FR-046 — gender-markers-orthography.md
+- FR-047 — number-markers-orthography.md
+- FR-050 — french-quotes-spaces.md
+- FR-051 — dash-hyphen-typography.md
+- FR-052 — orthographic-reform-1990.md
+- FR-053 — traditional-reformed-spelling.md
+- FR-054 — orthographic-variation.md
+- FR-055 — orthographic-homonymy.md
+- FR-056 — complex-sentence-punctuation.md
+- FR-057 — direct-indirect-speech-punctuation.md
+
+Разом у B29.2 створено 10 нових Markdown-файлів; FR-049 та FR-048 навмисно не дубльовано.
+
+### Academic Writing Toolkit QA
+
+review_paragraph_logic виконано для всіх 10 нових сторінок. Усі findings мають лише тип short-paragraph; інших логічних/структурних типів Toolkit не повернув.
+
+FR-046 — 15; FR-047 — 16; FR-050 — 11; FR-051 — 12; FR-052 — 11; FR-053 — 10; FR-054 — 10; FR-055 — 12; FR-056 — 14; FR-057 — 14 findings.
+
+### Лічильник
+
+- Markdown-файлів перед B29: 380
+- нових у B29.0: 10
+- нових у B29.1: 10
+- нових у B29.2: 10
+- Markdown-файлів після B29.2: **410**
+- canonical scope: **740 topic IDs**
+
+Зверху важливо не трактувати 410 як 410 покритих canonical IDs: mapping не є 1:1.
+
+### Verification
+
+Compare з master підтверджує, що гілка містить лише контентні додавання та журнал B29; local npm run qa / Astro build не запускався в цьому середовищі. Academic Writing Toolkit перевірив усі нові тексти.
+
+### Наступний крок
+
+Продовжити зі snapshot Missing у наступному кластері **FR-058–FR-078**, спочатку відсіявши вже наявні статті та об'єднані canonical mappings.
