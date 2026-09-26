@@ -6,7 +6,7 @@ title_uk: "Причина: exprimer la cause"
 title_fr: "Exprimer la cause"
 description_uk: "Довідкова стаття про причина: exprimer la cause у сучасній французькій."
 canonical_ids:
-  - FR-159
+  - FR-478
 prerequisites:
   - phrase-enonce
   - sentence-structure
