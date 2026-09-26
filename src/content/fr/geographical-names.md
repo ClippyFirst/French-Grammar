@@ -12,6 +12,7 @@ tags:
   - geography
   - articles
   - proper-nouns
+canonical_ids: ["FR-066", "FR-077"]
 ---
 
 ## Швидко
