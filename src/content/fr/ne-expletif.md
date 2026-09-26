@@ -32,6 +32,7 @@ sources:
 formula: false
 toc: true
 featured: false
+canonical_ids: ["FR-421"]
 ---
 
 # Ne explétif
