@@ -1,14 +1,14 @@
 ---
 title_uk: "Далекі синтаксичні залежності"
 title_fr: "Les dépendances syntaxiques à longue distance"
-description_uk: "Як синтаксичний елемент може бути пов'язаний із позицією, віддаленою кількома словами або підрядними конструкціями."
+description_uk: "Як синтаксичні залежності проходять через вставлені та вкладені структури у французькому реченні."
 category: sentences
 order: 688
 canonical_ids: ["FR-688"]
-prerequisites: ["relative-clauses", "multiple-embedding", "word-order"]
-related: ["relative-pronouns", "pronoun-order", "accord", "nested-relative-clauses"]
+prerequisites: ["relative-clauses", "multiple-embedding", "nested-relative-clauses"]
+related: ["accord", "relative-pronouns", "long-distance-dependencies", "grammatical-ambiguity"]
 contrast: ["relative-clauses", "word-order"]
-next: ["grammatical-ambiguity"]
+next: ["agreement-intervening-phrases", "grammatical-ambiguity"]
 level: C1
 depth: high
 register: neutral
@@ -17,6 +17,7 @@ status: review
 contrastive_uk: medium
 sources:
   - "Grande Grammaire du français"
+  - "French Grammar and Usage, 5th ed. (2025)"
 formula: false
 toc: true
 featured: false
@@ -24,56 +25,99 @@ featured: false
 
 ## Швидка відповідь
 
-Синтаксична залежність може проходити через вставлені слова, словосполучення або підрядні речення:
-
-> *Les décisions que le comité que nous avons consulté a prises seront publiées.*
-
-*les décisions* пов'язані з *que* та *prises*, хоча між ними міститься інша relative.
-
-Такі залежності важливі для правильного читання узгодження, відносних займенників і керування.
-
-## 1. Відносні конструкції
-
-У:
+**Далека залежність** виникає, коли компонент і його синтаксичний партнер розділені словами, словосполученнями або цілими підрядними частинами.
 
 > *Le livre que Marie pense que Paul a acheté est intéressant.*
 
-*que* пов'язаний із *le livre*, але його синтаксична роль реалізується всередині глибшої конструкції.
+*que* пов'язаний із *le livre*, хоча між ними стоїть *Marie pense que*.
 
-Такі речення показують, чому не можна визначати функцію відносного займенника лише за найближчим дієсловом.
+Для студента це важливо насамперед у relative clauses, узгодженні та вкладених конструкціях.
 
-## 2. Узгодження через вставлену структуру
+## 1. Відстань не скасовує залежність
 
-> *Les informations que la journaliste qui travaille à Lyon a publiées sont fiables.*
+Порівняйте:
 
-*publiées* узгоджується з *les informations*. Вставлена relative про журналістку не змінює цього зв'язку.
+> *Les informations que les chercheurs ont publiées sont fiables.*
 
-## 3. Діагностичний метод
+і:
 
-1. знайдіть залежний елемент;
-2. визначте його функцію;
-3. відновіть базову конструкцію без вставлених частин;
-4. перевірте узгодження;
-5. поверніть вкладені компоненти.
+> *Les informations que les chercheurs qui travaillent à Lyon ont publiées sont fiables.*
 
-Наприклад:
+У другому реченні між *informations* та *publiées* вставлено relative про дослідників. Але контролер узгодження не змінюється.
 
-> *Les informations [que ... a publiées] sont fiables.*
-
-Базовий зв'язок видно навіть до розгортання внутрішньої структури.
-
-## Український контраст
-
-Українські відмінки часто явно маркують синтаксичні ролі, але довгі залежності також існують. У французькій особливо важливо враховувати порядок слів і службові елементи.
-
-## Практична перевірка
+## 2. Relative extraction
 
 У:
 
-> *Les décisions que les experts que nous avons invités ont proposées ont été acceptées.*
+> *Le livre que Paul a acheté est intéressant.*
 
-визначте, що *proposées* узгоджується з *les décisions*, а не з *les experts*.
+*que* виконує функцію COD усередині relative, а antecedent — *le livre* — знаходиться поза нею.
+
+У довшій структурі:
+
+> *Le livre que Marie pense que Paul a acheté est intéressant.*
+
+залежність проходить через додаткову частину *Marie pense que...*.
+
+Необхідно розрізняти поверхневу позицію *que* і його функцію у внутрішньому предикаті.
+
+## 3. Далека залежність і узгодження
+
+> *Les décisions que la commission que nous avons consultée a prises seront publiées.*
+
+Є два різні зв'язки:
+
+- *consultée* → *la commission*;
+- *prises* → *les décisions*.
+
+Лінійно найближчим іменником до *prises* є *commission*, але саме вона не є контролером цієї форми.
+
+## 4. Як відновлювати базову структуру
+
+Корисний метод — тимчасово прибрати вставлені частини:
+
+> *Les décisions [que ... a prises] seront publiées.*
+
+Потім відновити внутрішню структуру:
+
+> *Les décisions [que la commission [que nous avons consultée] a prises] seront publiées.*
+
+Так стає видно, який елемент із яким пов'язаний.
+
+## 5. Далекі залежності та займенники
+
+Вкладеність може також віддаляти antecedent або керуючий предикат від займенника. Тому порядок слів не можна читати як просту послідовність «слово → найближчий зв'язок».
+
+Для *qui, que, dont, lequel* завжди потрібно встановлювати:
+
+1. antecedent;
+2. внутрішню функцію;
+3. керування предиката.
+
+## Український контраст
+
+Українська відмінкова система часто робить синтаксичну роль явнішою, але далекі залежності існують і в українській.
+
+У французькій порядок слів та relative pronouns несуть значну частину структурної інформації, тому корисно мислити залежностями, а не лінійним перекладом.
+
+## Типові помилки
+
+- вибирати найближчий іменник як antecedent;
+- вважати *que* автоматично COD головного дієслова;
+- узгоджувати participe passé з найближчим іменником;
+- плутати syntactic dependency з лінійною близькістю.
+
+## Практична перевірка
+
+> *Les articles que le chercheur dont nous avons lu le livre a publiés sont récents.*
+
+Відновіть:
+
+> *Les articles [que ... a publiés]*  
+> *le chercheur [dont nous avons lu le livre]*
+
+Отже, *publiés* узгоджується з *articles*, а *dont* залежить від *avons lu* через модель *lire le livre de quelqu'un*.
 
 ## Куди далі
 
-Дивіться **multiple embedding**, **nested relative clauses**, **accord** та **grammatical ambiguity**.
+Дивіться **agreement across intervening phrases**, **nested relative clauses**, **multiple embedding** та **grammatical ambiguity**.
