@@ -2,11 +2,15 @@
 // Keeps .astro templates declarative and logic in plain JS modules.
 
 /**
- * Strip file extension from a content collection entry id.
- * In Astro 5, entry IDs may include the .md extension; we normalize to slug.
+ * Normalize a content collection entry id to its final slug.
+ * Astro entry IDs may be plain filenames or category/filename paths.
  */
 function slugFromId(id) {
-  return id.replace(/\.(md|mdx)$/, '');
+  return id
+    .replace(/\\/g, '/')
+    .split('/')
+    .pop()
+    .replace(/\.(md|mdx)$/, '');
 }
 
 export function sectionsFor(all, categories) {
@@ -52,8 +56,8 @@ export function tocFromHeadings(headings) {
 
 /**
  * Resolve both current canonical slug references and legacy category/slug references.
- * Plain slugs are matched uniquely by entry id; namespaced refs retain their
- * explicit category constraint for backward compatibility.
+ * Plain slugs are matched uniquely across all entry IDs; namespaced refs retain
+ * their explicit category constraint for backward compatibility.
  */
 export function relatedFor(all, category, refs) {
   return refs
