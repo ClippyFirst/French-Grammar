@@ -2,8 +2,7 @@
 title_uk: "Еліпсис у французькій"
 title_fr: "L'ellipse"
 description_uk: "Системний довідник про еліпсис у діалозі, координації та інших конструкціях, із відмежуванням еліпсису від помилки."
-canonical_ids:
-  - "FR-634"
+canonical_ids: ["FR-634", "FR-458"]
 level: B2
 category: discourse
 register: neutral
