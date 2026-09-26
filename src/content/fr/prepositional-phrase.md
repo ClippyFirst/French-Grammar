@@ -20,7 +20,7 @@ related:
 contrast:
   - verb-phrase
 next:
-  - subject-predicate-object
+  - sentence-structure
 aliases:
   - prepositional phrase
   - groupe prépositionnel
