@@ -2,7 +2,7 @@
 title_uk: "Узгодження з колективними іменниками"
 title_fr: "L’accord avec les noms collectifs"
 description_uk: "Як узгоджувати дієслово з un groupe de, une majorité de, la plupart de та іншими колективними групами."
-category: agreement
+category: "Узгодження"
 canonical_ids: ["FR-547"]
 prerequisites: ["subject-verb-agreement"]
 related: ["subject-verb-agreement", "agreement"]
@@ -19,6 +19,7 @@ reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+---
 
 ## Швидка відповідь
 
