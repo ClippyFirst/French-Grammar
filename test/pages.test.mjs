@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { canonicalCategory } from '../src/data/categories.mjs';
+import { categories, canonicalCategory, categoryLayers } from '../src/data/categories.mjs';
 import { relatedFor, slugFromId, sectionsFor, catCountsFor } from '../src/lib/pages.mjs';
 
 const all = [
@@ -88,4 +88,10 @@ test('navigation helpers group legacy categories under canonical sections', () =
   assert.deepEqual(sections.map((section) => section.id), ['h-quantification', 'h-orthography']);
   assert.equal(catCountsFor(legacyEntries).quantification, 1);
   assert.equal(catCountsFor(legacyEntries).orthography, 1);
+});
+
+
+test('category catalog and layers stay in sync', () => {
+  assert.equal(new Set(categories.map((category) => category.key)).size, categories.length);
+  assert.deepEqual(Object.keys(categoryLayers).sort(), categories.map((category) => category.key).sort());
 });
