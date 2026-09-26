@@ -1,7 +1,7 @@
 ---
-title_uk: "de nombreux / de nombreuses"
-title_fr: "de nombreux / de nombreuses"
-description_uk: "**De nombreux / de nombreuses** означає «численні, багато» і вживається перед іменником у множині. Детермінатив узгоджується з родом іменника: *de nombreux étudiants*, *de nombreuses questions*."
+title_uk: "de nombreux / de nombreuses: численна множина"
+title_fr: "de nombreux / de nombreuses : exprimer une pluralité importante"
+description_uk: "Довідка про de nombreux/de nombreuses, узгодження, конструкцію з de та відмінність від beaucoup de."
 canonical_ids: ["FR-570"]
 level: B1
 category: quantification
@@ -20,50 +20,138 @@ reviewed_at: "2026-09-26"
 
 ## Швидка відповідь
 
-**De nombreux / de nombreuses** означає «численні, багато» і вживається перед іменником у множині. Детермінатив узгоджується з родом іменника: *de nombreux étudiants*, *de nombreuses questions*.
+**De nombreux / de nombreuses + nom pluriel** означає «численні», часто близько до *beaucoup de*, але має іншу внутрішню структуру.
 
-### Будова
+> *De nombreux étudiants apprennent le français.*
 
-Формула: **de + nombreux/nombreuses + nom pluriel**.
+> *De nombreuses questions restent ouvertes.*
 
-*De nombreux étudiants apprennent le français.* — Багато студентів вивчають французьку.
+**De** не змінюється. **Nombreux/nombreuses** узгоджується з іменником за родом і числом.
 
-*De nombreuses solutions sont possibles.* — Можливі численні рішення.
+## 1. Будова
 
-### Чому de, а не des?
+Формула:
 
-У стандартній конструкції з прикметником *nombreux* після початкового **de** не ставиться *des*: *de nombreux livres*, не ❌ *des nombreux livres*. Це не звичайне поєднання артикля *des* із прикметником, а усталена кількісно-описова модель.
+> **de + nombreux/nombreuses + nom pluriel**
 
-### Порівняння
+> *de nombreux problèmes*
 
-*beaucoup de livres* — багато книжок;
+> *de nombreuses solutions*
 
-*de nombreux livres* — численні книжки / багато книжок, часто з відтінком підкреслення множинності.
+> *de nombreux exemples*
 
-*des livres nombreux* можливе лише в іншій, стилістично маркованій структурі, де *nombreux* є постпозитивним прикметником.
+Іменник завжди множинний у цій базовій конструкції.
 
-### Узгодження
+## 2. Чому de, а не des
 
-*de nombreux problèmes* / *de nombreuses difficultés*.
+У стандартній конструкції:
 
-Зверни увагу: **de** не змінюється, а *nombreux/nombreuses* узгоджується.
+> *de nombreux livres*
 
-### Типова помилка
+а не:
 
-❌ *des nombreux étudiants* у цій кількісній моделі.
+> **des nombreux livres*
 
-✅ *de nombreux étudiants*.
+Це не звичайне поєднання невизначеного артикля *des* з постпозитивним прикметником. **De nombreux** функціонує як кількісно-описова конструкція.
 
-Практичне правило: якщо хочеш сказати «численні / багато + іменник», використовуй **de nombreux/de nombreuses + множина**.
+Це не означає, що **des nombreux** неможливе в кожному контексті: порядок слів та інша синтаксична структура можуть створити окрему конструкцію. Навчальне правило стосується саме моделі **de nombreux + nom**.
+
+## 3. Узгодження
+
+> *de nombreux étudiants*
+
+> *de nombreuses étudiantes*
+
+> *de nombreux problèmes*
+
+> *de nombreuses difficultés*
+
+На відміну від **beaucoup de**, тут є морфологічна форма прикметника:
+
+> *beaucoup de difficultés*
+
+> *de nombreuses difficultés*
+
+У першому випадку *beaucoup* не узгоджується; у другому *nombreuses* узгоджується.
+
+## 4. De nombreux та beaucoup de
+
+Обидві конструкції можуть передавати велику кількість:
+
+> *beaucoup de personnes*
+
+> *de nombreuses personnes*
+
+Але вони не тотожні за стилістичною організацією. **Beaucoup de** є типовим кількісним виразом; **de nombreux** часто підкреслює наявність численних окремих випадків і добре функціонує в письмовому нейтральному викладі.
+
+Не потрібно шукати одну українську відповідність для кожного контексту: можливі «багато», «численні», «чимало» залежно від речення.
+
+## 5. Узгодження присудка
+
+Підмет:
+
+> *De nombreux étudiants sont arrivés.*
+
+Множина іменника визначає форму присудка. Не можна трактувати **nombreux** як самостійний підмет.
+
+> *De nombreuses solutions existent.*
+
+## 6. Позиція прикметника
+
+У моделі кількості **nombreux** стоїть перед іменником:
+
+> *de nombreux projets*
+
+Порівняння з постпозиційним:
+
+> *des projets nombreux*
+
+може мати іншу синтаксичну та стилістичну організацію і не є простою перестановкою слів.
+
+## 7. Український контраст
+
+Українське «численні» узгоджується з іменником, а «багато» — ні:
+
+> численні питання;
+
+> багато питань.
+
+Французька відтворює цю різницю:
+
+> *de nombreuses questions*;
+
+> *beaucoup de questions*.
+
+Це корисний контраст для запам'ятовування.
+
+## Типові помилки
+
+❌ **des nombreux problèmes* у базовій кількісній моделі.
+
+✅ *de nombreux problèmes*
+
+❌ **de nombreux problème*
+
+✅ *de nombreux problèmes*
+
+❌ **de nombreuses problème*
+
+✅ *de nombreux problèmes* / *de nombreuses questions* залежно від роду.
 
 ## Практичний алгоритм
 
-1. Визнач, чи виражається точна, приблизна або невизначена кількість.
-2. Визнач граматичну категорію наступного слова.
-3. Перевір, чи керує кількісний елемент іменником через **de**.
-4. Перевір рід і число самого іменника та прикметників.
-5. Для *de/des* перевір, чи перед тобою кількісний оператор, чи звичайний детермінатив.
+1. Визнач, чи потрібен вираз «численні + множина».
+2. Постав **de**.
+3. Вибери *nombreux* або *nombreuses* за родом.
+4. Постав іменник у множині.
+5. Якщо це підмет, узгодь присудок із множинним іменником.
+6. Для стилістичного вибору порівняй із *beaucoup de*.
 
-## Підсумок
+## Мінітест
 
-Кількісні конструкції французької не можна надійно перекладати буквально. Правильний вибір визначається синтаксичною моделлю всієї іменникової групи.
+1. *De ___ questions restent ouvertes.*  
+2. *De ___ étudiants sont arrivés.*  
+3. *Beaucoup ___ problèmes subsistent.*  
+4. *De nombreuses ___ existent.*
+
+Відповіді: **1 nombreuses, 2 nombreux, 3 de, 4 solutions**.
