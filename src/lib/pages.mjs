@@ -1,6 +1,6 @@
 import { canonicalCategory } from '../data/categories.mjs';
 
-function slugFromId(id) {
+export function slugFromId(id) {
   return id.replace(/\\/g, '/').split('/').pop().replace(/\.(md|mdx)$/, '');
 }
 
