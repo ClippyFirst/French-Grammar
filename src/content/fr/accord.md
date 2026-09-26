@@ -13,7 +13,8 @@ canonical_ids:
   - "FR-551"
   - "FR-552"
   - "FR-553"
-  - "FR-554"order: 23
+  - "FR-554"
+order: 23
 prerequisites:
   - noun-gender
   - singular-plural
