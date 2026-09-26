@@ -1,0 +1,2091 @@
+﻿=== FRENCH-GRAMMAR SITE CATEGORY QA ===
+Date: 2026-09-26 21:46:01
+Branch: master
+Commit: 7fb594d0e9f83696360f50adb128a89e827aa6d9
+
+
+FullName                                                                                    
+--------                                                                                    
+F:\GitHub\Grammars\French Grammar\src\content\fr\a-condition-que.md                         
+F:\GitHub\Grammars\French Grammar\src\content\fr\a-moins-que.md                             
+F:\GitHub\Grammars\French Grammar\src\content\fr\a-vs-de.md                                 
+F:\GitHub\Grammars\French Grammar\src\content\fr\abstract-concrete-nouns.md                 
+F:\GitHub\Grammars\French Grammar\src\content\fr\accents.md                                 
+F:\GitHub\Grammars\French Grammar\src\content\fr\accord.md                                  
+F:\GitHub\Grammars\French Grammar\src\content\fr\address-interjections.md                   
+F:\GitHub\Grammars\French Grammar\src\content\fr\addresses.md                               
+F:\GitHub\Grammars\French Grammar\src\content\fr\adjectival-suffixation.md                  
+F:\GitHub\Grammars\French Grammar\src\content\fr\adjective-agreement.md                     
+F:\GitHub\Grammars\French Grammar\src\content\fr\adjective-feminine-formation.md            
+F:\GitHub\Grammars\French Grammar\src\content\fr\adjective-functions.md                     
+F:\GitHub\Grammars\French Grammar\src\content\fr\adjective-government.md                    
+F:\GitHub\Grammars\French Grammar\src\content\fr\adjective-irregular-feminine.md            
+F:\GitHub\Grammars\French Grammar\src\content\fr\adjective-irregular-plural.md              
+F:\GitHub\Grammars\French Grammar\src\content\fr\adjective-position.md                      
+F:\GitHub\Grammars\French Grammar\src\content\fr\adjectivisation.md                         
+F:\GitHub\Grammars\French Grammar\src\content\fr\adverb-position.md                         
+F:\GitHub\Grammars\French Grammar\src\content\fr\adverbs.md                                 
+F:\GitHub\Grammars\French Grammar\src\content\fr\african-french.md                          
+F:\GitHub\Grammars\French Grammar\src\content\fr\age.md                                     
+F:\GitHub\Grammars\French Grammar\src\content\fr\agreement-government.md                    
+F:\GitHub\Grammars\French Grammar\src\content\fr\agreement-intervening-phrases.md           
+F:\GitHub\Grammars\French Grammar\src\content\fr\aller.md                                   
+F:\GitHub\Grammars\French Grammar\src\content\fr\alors-que-tandis-que.md                    
+F:\GitHub\Grammars\French Grammar\src\content\fr\alphabet.md                                
+F:\GitHub\Grammars\French Grammar\src\content\fr\ambiguous-attachment.md                    
+F:\GitHub\Grammars\French Grammar\src\content\fr\anaphoric-reference.md                     
+F:\GitHub\Grammars\French Grammar\src\content\fr\anteriority.md                             
+F:\GitHub\Grammars\French Grammar\src\content\fr\apostrophe.md                              
+F:\GitHub\Grammars\French Grammar\src\content\fr\approximate-quantity-agreement.md          
+F:\GitHub\Grammars\French Grammar\src\content\fr\approximate-quantity.md                    
+F:\GitHub\Grammars\French Grammar\src\content\fr\article-abstract-concepts.md               
+F:\GitHub\Grammars\French Grammar\src\content\fr\article-omission.md                        
+F:\GitHub\Grammars\French Grammar\src\content\fr\article-vs-zero-ukrainian.md               
+F:\GitHub\Grammars\French Grammar\src\content\fr\articles-after-negation.md                 
+F:\GitHub\Grammars\French Grammar\src\content\fr\articles-definite.md                       
+F:\GitHub\Grammars\French Grammar\src\content\fr\articles-indefinite.md                     
+F:\GitHub\Grammars\French Grammar\src\content\fr\articles-partitive.md                      
+F:\GitHub\Grammars\French Grammar\src\content\fr\articles-with-quantities.md                
+F:\GitHub\Grammars\French Grammar\src\content\fr\au-point-que-tellement-que.md              
+F:\GitHub\Grammars\French Grammar\src\content\fr\aucun-aucune-pronoun.md                    
+F:\GitHub\Grammars\French Grammar\src\content\fr\auquel-auquels.md                          
+F:\GitHub\Grammars\French Grammar\src\content\fr\autant-beaucoup-peu-de.md                  
+F:\GitHub\Grammars\French Grammar\src\content\fr\autant-davantage.md                        
+F:\GitHub\Grammars\French Grammar\src\content\fr\auxiliary-verbs.md                         
+F:\GitHub\Grammars\French Grammar\src\content\fr\avant-que-jusqua-ce-que.md                 
+F:\GitHub\Grammars\French Grammar\src\content\fr\avec-sans.md                               
+F:\GitHub\Grammars\French Grammar\src\content\fr\avoir-beau.md                              
+F:\GitHub\Grammars\French Grammar\src\content\fr\avoir.md                                   
+F:\GitHub\Grammars\French Grammar\src\content\fr\basic-word-order.md                        
+F:\GitHub\Grammars\French Grammar\src\content\fr\because-since-car.md                       
+F:\GitHub\Grammars\French Grammar\src\content\fr\beginning-end.md                           
+F:\GitHub\Grammars\French Grammar\src\content\fr\belgian-french.md                          
+F:\GitHub\Grammars\French Grammar\src\content\fr\bien-que-quoique.md                        
+F:\GitHub\Grammars\French Grammar\src\content\fr\body-parts-definite-contrast.md            
+F:\GitHub\Grammars\French Grammar\src\content\fr\boire.md                                   
+F:\GitHub\Grammars\French Grammar\src\content\fr\capital-letters.md                         
+F:\GitHub\Grammars\French Grammar\src\content\fr\capitalization.md                          
+F:\GitHub\Grammars\French Grammar\src\content\fr\cardinal-numerals.md                       
+F:\GitHub\Grammars\French Grammar\src\content\fr\cataphoric-reference.md                    
+F:\GitHub\Grammars\French Grammar\src\content\fr\causative-faire-infinitive.md              
+F:\GitHub\Grammars\French Grammar\src\content\fr\cause.md                                   
+F:\GitHub\Grammars\French Grammar\src\content\fr\ce-a-quoi-sur-quoi.md                      
+F:\GitHub\Grammars\French Grammar\src\content\fr\ce-ceci-cela-ca.md                         
+F:\GitHub\Grammars\French Grammar\src\content\fr\ce-dont.md                                 
+F:\GitHub\Grammars\French Grammar\src\content\fr\ce-qui-ce-que-ce-dont-ce-a-quoi.md         
+F:\GitHub\Grammars\French Grammar\src\content\fr\ce-qui-ce-que-ce-dont.md                   
+F:\GitHub\Grammars\French Grammar\src\content\fr\ce-qui-ce-que-relative.md                  
+F:\GitHub\Grammars\French Grammar\src\content\fr\ce-qui-cest.md                             
+F:\GitHub\Grammars\French Grammar\src\content\fr\ce-quoi-prepositions.md                    
+F:\GitHub\Grammars\French Grammar\src\content\fr\ceci-cela-ca-pronouns.md                   
+F:\GitHub\Grammars\French Grammar\src\content\fr\celui-celle-ceux-celles.md                 
+F:\GitHub\Grammars\French Grammar\src\content\fr\celui-ci-celui-la.md                       
+F:\GitHub\Grammars\French Grammar\src\content\fr\cest-qui-que.md                            
+F:\GitHub\Grammars\French Grammar\src\content\fr\chacun-chacune.md                          
+F:\GitHub\Grammars\French Grammar\src\content\fr\chez.md                                    
+F:\GitHub\Grammars\French Grammar\src\content\fr\circumstantial-position.md                 
+F:\GitHub\Grammars\French Grammar\src\content\fr\cleft-constructions.md                     
+F:\GitHub\Grammars\French Grammar\src\content\fr\clitic-case-contrast.md                    
+F:\GitHub\Grammars\French Grammar\src\content\fr\clock-time.md                              
+F:\GitHub\Grammars\French Grammar\src\content\fr\clothes-definite-contrast.md               
+F:\GitHub\Grammars\French Grammar\src\content\fr\cod-before-avoir.md                        
+F:\GitHub\Grammars\French Grammar\src\content\fr\cod-coi-case.md                            
+F:\GitHub\Grammars\French Grammar\src\content\fr\cod-coi-cc-position.md                     
+F:\GitHub\Grammars\French Grammar\src\content\fr\cod-coi-complements.md                     
+F:\GitHub\Grammars\French Grammar\src\content\fr\cod-coi-valence.md                         
+F:\GitHub\Grammars\French Grammar\src\content\fr\collective-nouns-agreement.md              
+F:\GitHub\Grammars\French Grammar\src\content\fr\collective-nouns.md                        
+F:\GitHub\Grammars\French Grammar\src\content\fr\colloquial-pronoun-order.md                
+F:\GitHub\Grammars\French Grammar\src\content\fr\colloquial-questions.md                    
+F:\GitHub\Grammars\French Grammar\src\content\fr\colour-adjectives.md                       
+F:\GitHub\Grammars\French Grammar\src\content\fr\combien.md                                 
+F:\GitHub\Grammars\French Grammar\src\content\fr\comme-conjunction.md                       
+F:\GitHub\Grammars\French Grammar\src\content\fr\comment.md                                 
+F:\GitHub\Grammars\French Grammar\src\content\fr\common-proper-nouns.md                     
+F:\GitHub\Grammars\French Grammar\src\content\fr\comparative-que.md                         
+F:\GitHub\Grammars\French Grammar\src\content\fr\comparative-superlative.md                 
+F:\GitHub\Grammars\French Grammar\src\content\fr\comparatives-plus-moins-aussi.md           
+F:\GitHub\Grammars\French Grammar\src\content\fr\comparison-clauses.md                      
+F:\GitHub\Grammars\French Grammar\src\content\fr\completion.md                              
+F:\GitHub\Grammars\French Grammar\src\content\fr\complex-agreement.md                       
+F:\GitHub\Grammars\French Grammar\src\content\fr\complex-sentence-punctuation.md            
+F:\GitHub\Grammars\French Grammar\src\content\fr\complex-sentences.md                       
+F:\GitHub\Grammars\French Grammar\src\content\fr\complex-verbal-expressions.md              
+F:\GitHub\Grammars\French Grammar\src\content\fr\compound-adjectives-agreement.md           
+F:\GitHub\Grammars\French Grammar\src\content\fr\compound-nouns.md                          
+F:\GitHub\Grammars\French Grammar\src\content\fr\compound-subject-agreement.md              
+F:\GitHub\Grammars\French Grammar\src\content\fr\compound-word-spelling.md                  
+F:\GitHub\Grammars\French Grammar\src\content\fr\compound-words.md                          
+F:\GitHub\Grammars\French Grammar\src\content\fr\concession.md                              
+F:\GitHub\Grammars\French Grammar\src\content\fr\concessive-avoir-beau.md                   
+F:\GitHub\Grammars\French Grammar\src\content\fr\condition.md                               
+F:\GitHub\Grammars\French Grammar\src\content\fr\conditionnel-contrast.md                   
+F:\GitHub\Grammars\French Grammar\src\content\fr\conditionnel-evidential.md                 
+F:\GitHub\Grammars\French Grammar\src\content\fr\conditionnel-passe.md                      
+F:\GitHub\Grammars\French Grammar\src\content\fr\conditionnel-present.md                    
+F:\GitHub\Grammars\French Grammar\src\content\fr\conditionnel-reported.md                   
+F:\GitHub\Grammars\French Grammar\src\content\fr\conjunction-phrases.md                     
+F:\GitHub\Grammars\French Grammar\src\content\fr\connaitre.md                               
+F:\GitHub\Grammars\French Grammar\src\content\fr\connectors-written.md                      
+F:\GitHub\Grammars\French Grammar\src\content\fr\consequence.md                             
+F:\GitHub\Grammars\French Grammar\src\content\fr\consonant-doubling.md                      
+F:\GitHub\Grammars\French Grammar\src\content\fr\contracted-articles.md                     
+F:\GitHub\Grammars\French Grammar\src\content\fr\contrastive-focus.md                       
+F:\GitHub\Grammars\French Grammar\src\content\fr\control-infinitive.md                      
+F:\GitHub\Grammars\French Grammar\src\content\fr\conversion-substantivation.md              
+F:\GitHub\Grammars\French Grammar\src\content\fr\coordinating-conjunctions.md               
+F:\GitHub\Grammars\French Grammar\src\content\fr\coordination-basic.md                      
+F:\GitHub\Grammars\French Grammar\src\content\fr\coordination-unlike-categories.md          
+F:\GitHub\Grammars\French Grammar\src\content\fr\coordination.md                            
+F:\GitHub\Grammars\French Grammar\src\content\fr\countability-mass.md                       
+F:\GitHub\Grammars\French Grammar\src\content\fr\dash-hyphen-typography.md                  
+F:\GitHub\Grammars\French Grammar\src\content\fr\dates.md                                   
+F:\GitHub\Grammars\French Grammar\src\content\fr\de-a-compound-constructions.md             
+F:\GitHub\Grammars\French Grammar\src\content\fr\de-nombreux-de-nombreuses.md               
+F:\GitHub\Grammars\French Grammar\src\content\fr\de-sorte-que.md                            
+F:\GitHub\Grammars\French Grammar\src\content\fr\defective-verbs.md                         
+F:\GitHub\Grammars\French Grammar\src\content\fr\defining-explanatory-relatives.md          
+F:\GitHub\Grammars\French Grammar\src\content\fr\defining-relatives.md                      
+F:\GitHub\Grammars\French Grammar\src\content\fr\definite-articles.md                       
+F:\GitHub\Grammars\French Grammar\src\content\fr\definiteness-context-ukrainian.md          
+F:\GitHub\Grammars\French Grammar\src\content\fr\definiteness-indefiniteness.md             
+F:\GitHub\Grammars\French Grammar\src\content\fr\deixis.md                                  
+F:\GitHub\Grammars\French Grammar\src\content\fr\demonstrative-determiners.md               
+F:\GitHub\Grammars\French Grammar\src\content\fr\demonstrative-pronouns.md                  
+F:\GitHub\Grammars\French Grammar\src\content\fr\derivational-productivity.md               
+F:\GitHub\Grammars\French Grammar\src\content\fr\determiner-agreement.md                    
+F:\GitHub\Grammars\French Grammar\src\content\fr\determiners-indefinite.md                  
+F:\GitHub\Grammars\French Grammar\src\content\fr\determiners-interrogative.md               
+F:\GitHub\Grammars\French Grammar\src\content\fr\determiners.md                             
+F:\GitHub\Grammars\French Grammar\src\content\fr\devant-derriere.md                         
+F:\GitHub\Grammars\French Grammar\src\content\fr\devoir.md                                  
+F:\GitHub\Grammars\French Grammar\src\content\fr\dictionary-pronunciation.md                
+F:\GitHub\Grammars\French Grammar\src\content\fr\dire-lire-ecrire.md                        
+F:\GitHub\Grammars\French Grammar\src\content\fr\direct-indirect-speech-punctuation.md      
+F:\GitHub\Grammars\French Grammar\src\content\fr\direct-speech.md                           
+F:\GitHub\Grammars\French Grammar\src\content\fr\discourse-connectors.md                    
+F:\GitHub\Grammars\French Grammar\src\content\fr\discourse-particles.md                     
+F:\GitHub\Grammars\French Grammar\src\content\fr\dislocation.md                             
+F:\GitHub\Grammars\French Grammar\src\content\fr\dont.md                                    
+F:\GitHub\Grammars\French Grammar\src\content\fr\double-negation.md                         
+F:\GitHub\Grammars\French Grammar\src\content\fr\duquel-desquels.md                         
+F:\GitHub\Grammars\French Grammar\src\content\fr\duration-of-action.md                      
+F:\GitHub\Grammars\French Grammar\src\content\fr\duration.md                                
+F:\GitHub\Grammars\French Grammar\src\content\fr\elision.md                                 
+F:\GitHub\Grammars\French Grammar\src\content\fr\ellipsis.md                                
+F:\GitHub\Grammars\French Grammar\src\content\fr\elliptical-utterances.md                   
+F:\GitHub\Grammars\French Grammar\src\content\fr\en-de-chose.md                             
+F:\GitHub\Grammars\French Grammar\src\content\fr\en-functions.md                            
+F:\GitHub\Grammars\French Grammar\src\content\fr\en-partitive.md                            
+F:\GitHub\Grammars\French Grammar\src\content\fr\en-quantity.md                             
+F:\GitHub\Grammars\French Grammar\src\content\fr\en-vs-dans.md                              
+F:\GitHub\Grammars\French Grammar\src\content\fr\enchainement.md                            
+F:\GitHub\Grammars\French Grammar\src\content\fr\entre-parmi.md                             
+F:\GitHub\Grammars\French Grammar\src\content\fr\est-ce-que.md                              
+F:\GitHub\Grammars\French Grammar\src\content\fr\etre.md                                    
+F:\GitHub\Grammars\French Grammar\src\content\fr\exclamatives.md                            
+F:\GitHub\Grammars\French Grammar\src\content\fr\extraction-constructions.md                
+F:\GitHub\Grammars\French Grammar\src\content\fr\extraction-long-distance.md                
+F:\GitHub\Grammars\French Grammar\src\content\fr\extraction.md                              
+F:\GitHub\Grammars\French Grammar\src\content\fr\faire-infinitive.md                        
+F:\GitHub\Grammars\French Grammar\src\content\fr\faire.md                                   
+F:\GitHub\Grammars\French Grammar\src\content\fr\feminine-person-nouns.md                   
+F:\GitHub\Grammars\French Grammar\src\content\fr\fillers.md                                 
+F:\GitHub\Grammars\French Grammar\src\content\fr\final-silent-consonants.md                 
+F:\GitHub\Grammars\French Grammar\src\content\fr\final-silent-vowels.md                     
+F:\GitHub\Grammars\French Grammar\src\content\fr\first-group-er.md                          
+F:\GitHub\Grammars\French Grammar\src\content\fr\focus.md                                   
+F:\GitHub\Grammars\French Grammar\src\content\fr\form-function-meaning.md                   
+F:\GitHub\Grammars\French Grammar\src\content\fr\formal-register.md                         
+F:\GitHub\Grammars\French Grammar\src\content\fr\fr-gender-vs-ukrainian-gender.md           
+F:\GitHub\Grammars\French Grammar\src\content\fr\fractions.md                               
+F:\GitHub\Grammars\French Grammar\src\content\fr\french-quotes-spaces.md                    
+F:\GitHub\Grammars\French Grammar\src\content\fr\french-r.md                                
+F:\GitHub\Grammars\French Grammar\src\content\fr\futur-anterieur.md                         
+F:\GitHub\Grammars\French Grammar\src\content\fr\futur-dans-passe.md                        
+F:\GitHub\Grammars\French Grammar\src\content\fr\futur-proche.md                            
+F:\GitHub\Grammars\French Grammar\src\content\fr\futur-simple.md                            
+F:\GitHub\Grammars\French Grammar\src\content\fr\gender-markers-orthography.md              
+F:\GitHub\Grammars\French Grammar\src\content\fr\gender-patterns.md                         
+F:\GitHub\Grammars\French Grammar\src\content\fr\geographical-names.md                      
+F:\GitHub\Grammars\French Grammar\src\content\fr\gerondif.md                                
+F:\GitHub\Grammars\French Grammar\src\content\fr\grammatical-ambiguity.md                   
+F:\GitHub\Grammars\French Grammar\src\content\fr\grammatical-endings-plural-pronunciation.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\grammatical-functions-cod-coi-complement.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\grammatical-gender-number.md               
+F:\GitHub\Grammars\French Grammar\src\content\fr\grammatical-homophones.md                  
+F:\GitHub\Grammars\French Grammar\src\content\fr\grammatical-variation.md                   
+F:\GitHub\Grammars\French Grammar\src\content\fr\grapheme-phoneme.md                        
+F:\GitHub\Grammars\French Grammar\src\content\fr\h-muet-aspire.md                           
+F:\GitHub\Grammars\French Grammar\src\content\fr\habituality.md                             
+F:\GitHub\Grammars\French Grammar\src\content\fr\hesitation-self-correction.md              
+F:\GitHub\Grammars\French Grammar\src\content\fr\hyphen.md                                  
+F:\GitHub\Grammars\French Grammar\src\content\fr\il-est-adjectif.md                         
+F:\GitHub\Grammars\French Grammar\src\content\fr\il-faut.md                                 
+F:\GitHub\Grammars\French Grammar\src\content\fr\il-parait.md                               
+F:\GitHub\Grammars\French Grammar\src\content\fr\il-semble.md                               
+F:\GitHub\Grammars\French Grammar\src\content\fr\il-y-a.md                                  
+F:\GitHub\Grammars\French Grammar\src\content\fr\imparfait.md                               
+F:\GitHub\Grammars\French Grammar\src\content\fr\imperatif-contrast.md                      
+F:\GitHub\Grammars\French Grammar\src\content\fr\imperatif.md                               
+F:\GitHub\Grammars\French Grammar\src\content\fr\impersonal-accord.md                       
+F:\GitHub\Grammars\French Grammar\src\content\fr\impersonal-alternatives.md                 
+F:\GitHub\Grammars\French Grammar\src\content\fr\impersonal-il.md                           
+F:\GitHub\Grammars\French Grammar\src\content\fr\impersonal-se.md                           
+F:\GitHub\Grammars\French Grammar\src\content\fr\impersonal-verbs.md                        
+F:\GitHub\Grammars\French Grammar\src\content\fr\inclusive-writing.md                       
+F:\GitHub\Grammars\French Grammar\src\content\fr\indefinite-articles.md                     
+F:\GitHub\Grammars\French Grammar\src\content\fr\indefinite-pronouns.md                     
+F:\GitHub\Grammars\French Grammar\src\content\fr\indefinite-quantity.md                     
+F:\GitHub\Grammars\French Grammar\src\content\fr\indirect-command-request.md                
+F:\GitHub\Grammars\French Grammar\src\content\fr\indirect-question.md                       
+F:\GitHub\Grammars\French Grammar\src\content\fr\indirect-questions.md                      
+F:\GitHub\Grammars\French Grammar\src\content\fr\indirect-speech.md                         
+F:\GitHub\Grammars\French Grammar\src\content\fr\infinitive-after-adjective.md              
+F:\GitHub\Grammars\French Grammar\src\content\fr\infinitive-after-preposition.md            
+F:\GitHub\Grammars\French Grammar\src\content\fr\infinitive-after-verb.md                   
+F:\GitHub\Grammars\French Grammar\src\content\fr\infinitive-complement.md                   
+F:\GitHub\Grammars\French Grammar\src\content\fr\infinitive-control.md                      
+F:\GitHub\Grammars\French Grammar\src\content\fr\infinitive-different-subjects.md           
+F:\GitHub\Grammars\French Grammar\src\content\fr\infinitive-past.md                         
+F:\GitHub\Grammars\French Grammar\src\content\fr\infinitive-shared-subject.md               
+F:\GitHub\Grammars\French Grammar\src\content\fr\infinitive-subordination.md                
+F:\GitHub\Grammars\French Grammar\src\content\fr\infinitive.md                              
+F:\GitHub\Grammars\French Grammar\src\content\fr\informal-register.md                       
+F:\GitHub\Grammars\French Grammar\src\content\fr\information-structure.md                   
+F:\GitHub\Grammars\French Grammar\src\content\fr\interrogative-adverbs.md                   
+F:\GitHub\Grammars\French Grammar\src\content\fr\intonation-contours.md                     
+F:\GitHub\Grammars\French Grammar\src\content\fr\intransitive-verbs.md                      
+F:\GitHub\Grammars\French Grammar\src\content\fr\inversion-information.md                   
+F:\GitHub\Grammars\French Grammar\src\content\fr\inversion-outside-questions.md             
+F:\GitHub\Grammars\French Grammar\src\content\fr\inversion-questions.md                     
+F:\GitHub\Grammars\French Grammar\src\content\fr\inversion.md                               
+F:\GitHub\Grammars\French Grammar\src\content\fr\irregular-gender.md                        
+F:\GitHub\Grammars\French Grammar\src\content\fr\irregular-plurals.md                       
+F:\GitHub\Grammars\French Grammar\src\content\fr\irregular-verbs.md                         
+F:\GitHub\Grammars\French Grammar\src\content\fr\joined-separated-writing.md                
+F:\GitHub\Grammars\French Grammar\src\content\fr\laisser-infinitive.md                      
+F:\GitHub\Grammars\French Grammar\src\content\fr\lequel-agreement.md                        
+F:\GitHub\Grammars\French Grammar\src\content\fr\lequel-laquelle-lesquels-lesquelles.md     
+F:\GitHub\Grammars\French Grammar\src\content\fr\lequel-prepositions.md                     
+F:\GitHub\Grammars\French Grammar\src\content\fr\lexicalized-se.md                          
+F:\GitHub\Grammars\French Grammar\src\content\fr\lexicalized-verb-constructions.md          
+F:\GitHub\Grammars\French Grammar\src\content\fr\liaison.md                                 
+F:\GitHub\Grammars\French Grammar\src\content\fr\literary-register.md                       
+F:\GitHub\Grammars\French Grammar\src\content\fr\loanword-gender.md                         
+F:\GitHub\Grammars\French Grammar\src\content\fr\loanword-pronunciation.md                  
+F:\GitHub\Grammars\French Grammar\src\content\fr\loanwords-grammatical-adaptation.md        
+F:\GitHub\Grammars\French Grammar\src\content\fr\long-distance-dependencies.md              
+F:\GitHub\Grammars\French Grammar\src\content\fr\manner-clauses.md                          
+F:\GitHub\Grammars\French Grammar\src\content\fr\mass-count-nouns.md                        
+F:\GitHub\Grammars\French Grammar\src\content\fr\measure-intensity.md                       
+F:\GitHub\Grammars\French Grammar\src\content\fr\measurement-units.md                       
+F:\GitHub\Grammars\French Grammar\src\content\fr\meilleur-mieux.md                          
+F:\GitHub\Grammars\French Grammar\src\content\fr\mettre.md                                  
+F:\GitHub\Grammars\French Grammar\src\content\fr\mille-million-milliard.md                  
+F:\GitHub\Grammars\French Grammar\src\content\fr\modality-assumption.md                     
+F:\GitHub\Grammars\French Grammar\src\content\fr\modality-desire.md                         
+F:\GitHub\Grammars\French Grammar\src\content\fr\modality-necessity.md                      
+F:\GitHub\Grammars\French Grammar\src\content\fr\modality-obligation.md                     
+F:\GitHub\Grammars\French Grammar\src\content\fr\modality-permission.md                     
+F:\GitHub\Grammars\French Grammar\src\content\fr\modality-possibility.md                    
+F:\GitHub\Grammars\French Grammar\src\content\fr\modality-reported.md                       
+F:\GitHub\Grammars\French Grammar\src\content\fr\money-amounts.md                           
+F:\GitHub\Grammars\French Grammar\src\content\fr\mood-selection-subordinate.md              
+F:\GitHub\Grammars\French Grammar\src\content\fr\morpheme-stem-ending.md                    
+F:\GitHub\Grammars\French Grammar\src\content\fr\movement-infinitive.md                     
+F:\GitHub\Grammars\French Grammar\src\content\fr\movement-verbs-infinitive.md               
+F:\GitHub\Grammars\French Grammar\src\content\fr\multiple-antecedents-relative.md           
+F:\GitHub\Grammars\French Grammar\src\content\fr\multiple-embedding.md                      
+F:\GitHub\Grammars\French Grammar\src\content\fr\multiple-negation.md                       
+F:\GitHub\Grammars\French Grammar\src\content\fr\multiple-questions.md                      
+F:\GitHub\Grammars\French Grammar\src\content\fr\narrative-temporal-perspective.md          
+F:\GitHub\Grammars\French Grammar\src\content\fr\nasal-vowels.md                            
+F:\GitHub\Grammars\French Grammar\src\content\fr\ne-deletion.md                             
+F:\GitHub\Grammars\French Grammar\src\content\fr\ne-dropping.md                             
+F:\GitHub\Grammars\French Grammar\src\content\fr\ne-expletif.md                             
+F:\GitHub\Grammars\French Grammar\src\content\fr\ne-que.md                                  
+F:\GitHub\Grammars\French Grammar\src\content\fr\ne-without-pas.md                          
+F:\GitHub\Grammars\French Grammar\src\content\fr\negation-clitics.md                        
+F:\GitHub\Grammars\French Grammar\src\content\fr\negation-compound-tenses.md                
+F:\GitHub\Grammars\French Grammar\src\content\fr\negation-imperative.md                     
+F:\GitHub\Grammars\French Grammar\src\content\fr\negation-infinitive.md                     
+F:\GitHub\Grammars\French Grammar\src\content\fr\negation-ne-aucun.md                       
+F:\GitHub\Grammars\French Grammar\src\content\fr\negation-ne-jamais.md                      
+F:\GitHub\Grammars\French Grammar\src\content\fr\negation-ne-nul.md                         
+F:\GitHub\Grammars\French Grammar\src\content\fr\negation-ne-pas.md                         
+F:\GitHub\Grammars\French Grammar\src\content\fr\negation-ne-personne.md                    
+F:\GitHub\Grammars\French Grammar\src\content\fr\negation-ne-plus.md                        
+F:\GitHub\Grammars\French Grammar\src\content\fr\negation-ne-rien.md                        
+F:\GitHub\Grammars\French Grammar\src\content\fr\negation-scope.md                          
+F:\GitHub\Grammars\French Grammar\src\content\fr\negation.md                                
+F:\GitHub\Grammars\French Grammar\src\content\fr\negative-determiners.md                    
+F:\GitHub\Grammars\French Grammar\src\content\fr\negative-pronouns.md                       
+F:\GitHub\Grammars\French Grammar\src\content\fr\neologism-variation.md                     
+F:\GitHub\Grammars\French Grammar\src\content\fr\nested-complement-clauses.md               
+F:\GitHub\Grammars\French Grammar\src\content\fr\nested-relative-clauses.md                 
+F:\GitHub\Grammars\French Grammar\src\content\fr\neutral-register.md                        
+F:\GitHub\Grammars\French Grammar\src\content\fr\ni-ni.md                                   
+F:\GitHub\Grammars\French Grammar\src\content\fr\nominal-predicate.md                       
+F:\GitHub\Grammars\French Grammar\src\content\fr\nominal-suffixation.md                     
+F:\GitHub\Grammars\French Grammar\src\content\fr\nominal-utterances.md                      
+F:\GitHub\Grammars\French Grammar\src\content\fr\nominalisation.md                          
+F:\GitHub\Grammars\French Grammar\src\content\fr\nonrestrictive-relatives.md                
+F:\GitHub\Grammars\French Grammar\src\content\fr\norm-vs-variation.md                       
+F:\GitHub\Grammars\French Grammar\src\content\fr\noun-gender.md                             
+F:\GitHub\Grammars\French Grammar\src\content\fr\noun-government.md                         
+F:\GitHub\Grammars\French Grammar\src\content\fr\noun-group-expansion.md                    
+F:\GitHub\Grammars\French Grammar\src\content\fr\noun-number.md                             
+F:\GitHub\Grammars\French Grammar\src\content\fr\noun-phrase.md                             
+F:\GitHub\Grammars\French Grammar\src\content\fr\null-subject-contrast.md                   
+F:\GitHub\Grammars\French Grammar\src\content\fr\number-formats.md                          
+F:\GitHub\Grammars\French Grammar\src\content\fr\number-markers-orthography.md              
+F:\GitHub\Grammars\French Grammar\src\content\fr\number-quantifier-agreement.md             
+F:\GitHub\Grammars\French Grammar\src\content\fr\object-pronoun-position.md                 
+F:\GitHub\Grammars\French Grammar\src\content\fr\on-indefinite-subject.md                   
+F:\GitHub\Grammars\French Grammar\src\content\fr\on-spoken.md                               
+F:\GitHub\Grammars\French Grammar\src\content\fr\open-closed-vowels.md                      
+F:\GitHub\Grammars\French Grammar\src\content\fr\opposition.md                              
+F:\GitHub\Grammars\French Grammar\src\content\fr\oral-reductions.md                         
+F:\GitHub\Grammars\French Grammar\src\content\fr\oral-syntax.md                             
+F:\GitHub\Grammars\French Grammar\src\content\fr\ordinal-numerals.md                        
+F:\GitHub\Grammars\French Grammar\src\content\fr\orthographic-homonymy.md                   
+F:\GitHub\Grammars\French Grammar\src\content\fr\orthographic-reform-1990.md                
+F:\GitHub\Grammars\French Grammar\src\content\fr\orthographic-variation.md                  
+F:\GitHub\Grammars\French Grammar\src\content\fr\ou-interrogative.md                        
+F:\GitHub\Grammars\French Grammar\src\content\fr\ou-relatif.md                              
+F:\GitHub\Grammars\French Grammar\src\content\fr\par.md                                     
+F:\GitHub\Grammars\French Grammar\src\content\fr\participe-passe.md                         
+F:\GitHub\Grammars\French Grammar\src\content\fr\participe-present.md                       
+F:\GitHub\Grammars\French Grammar\src\content\fr\participle-infinitive-agreement.md         
+F:\GitHub\Grammars\French Grammar\src\content\fr\partitive-articles.md                      
+F:\GitHub\Grammars\French Grammar\src\content\fr\parts-of-speech.md                         
+F:\GitHub\Grammars\French Grammar\src\content\fr\passe-anterieur.md                         
+F:\GitHub\Grammars\French Grammar\src\content\fr\passe-compose-vs-aspect.md                 
+F:\GitHub\Grammars\French Grammar\src\content\fr\passe-compose-vs-imparfait.md              
+F:\GitHub\Grammars\French Grammar\src\content\fr\passe-compose.md                           
+F:\GitHub\Grammars\French Grammar\src\content\fr\passe-simple.md                            
+F:\GitHub\Grammars\French Grammar\src\content\fr\passive.md                                 
+F:\GitHub\Grammars\French Grammar\src\content\fr\past-participle-avoir-agreement.md         
+F:\GitHub\Grammars\French Grammar\src\content\fr\past-participle-etre-agreement.md          
+F:\GitHub\Grammars\French Grammar\src\content\fr\past-tense-aspectual-values.md             
+F:\GitHub\Grammars\French Grammar\src\content\fr\percentage-agreement.md                    
+F:\GitHub\Grammars\French Grammar\src\content\fr\percentages.md                             
+F:\GitHub\Grammars\French Grammar\src\content\fr\perception-infinitive-complement.md        
+F:\GitHub\Grammars\French Grammar\src\content\fr\perception-infinitive.md                   
+F:\GitHub\Grammars\French Grammar\src\content\fr\perception-verbs-infinitive.md             
+F:\GitHub\Grammars\French Grammar\src\content\fr\person-gender.md                           
+F:\GitHub\Grammars\French Grammar\src\content\fr\personne-rien.md                           
+F:\GitHub\Grammars\French Grammar\src\content\fr\phone-numbers.md                           
+F:\GitHub\Grammars\French Grammar\src\content\fr\phrase-enonce.md                           
+F:\GitHub\Grammars\French Grammar\src\content\fr\pire-plus-mauvais.md                       
+F:\GitHub\Grammars\French Grammar\src\content\fr\plus-que-parfait.md                        
+F:\GitHub\Grammars\French Grammar\src\content\fr\plusieurs-certains-autres.md               
+F:\GitHub\Grammars\French Grammar\src\content\fr\possession-body-clothes.md                 
+F:\GitHub\Grammars\French Grammar\src\content\fr\possession-body-parts-clothes.md           
+F:\GitHub\Grammars\French Grammar\src\content\fr\possessive-determiners.md                  
+F:\GitHub\Grammars\French Grammar\src\content\fr\posteriority.md                            
+F:\GitHub\Grammars\French Grammar\src\content\fr\pour-que-afin-que.md                       
+F:\GitHub\Grammars\French Grammar\src\content\fr\pour-vs-par.md                             
+F:\GitHub\Grammars\French Grammar\src\content\fr\pour.md                                    
+F:\GitHub\Grammars\French Grammar\src\content\fr\pourquoi.md                                
+F:\GitHub\Grammars\French Grammar\src\content\fr\pourvu-que.md                              
+F:\GitHub\Grammars\French Grammar\src\content\fr\pouvoir.md                                 
+F:\GitHub\Grammars\French Grammar\src\content\fr\prefixation.md                             
+F:\GitHub\Grammars\French Grammar\src\content\fr\prendre.md                                 
+F:\GitHub\Grammars\French Grammar\src\content\fr\preposition-infinitive.md                  
+F:\GitHub\Grammars\French Grammar\src\content\fr\prepositional-phrase.md                    
+F:\GitHub\Grammars\French Grammar\src\content\fr\prepositional-que-clauses.md               
+F:\GitHub\Grammars\French Grammar\src\content\fr\prepositions-a.md                          
+F:\GitHub\Grammars\French Grammar\src\content\fr\prepositions-after-adjectives.md           
+F:\GitHub\Grammars\French Grammar\src\content\fr\prepositions-after-nouns.md                
+F:\GitHub\Grammars\French Grammar\src\content\fr\prepositions-after-verbs.md                
+F:\GitHub\Grammars\French Grammar\src\content\fr\prepositions-basics.md                     
+F:\GitHub\Grammars\French Grammar\src\content\fr\prepositions-cities.md                     
+F:\GitHub\Grammars\French Grammar\src\content\fr\prepositions-countries.md                  
+F:\GitHub\Grammars\French Grammar\src\content\fr\prepositions-dans.md                       
+F:\GitHub\Grammars\French Grammar\src\content\fr\prepositions-de.md                         
+F:\GitHub\Grammars\French Grammar\src\content\fr\prepositions-en.md                         
+F:\GitHub\Grammars\French Grammar\src\content\fr\prepositions-place.md                      
+F:\GitHub\Grammars\French Grammar\src\content\fr\prepositions-time.md                       
+F:\GitHub\Grammars\French Grammar\src\content\fr\prepositions-vs-cases.md                   
+F:\GitHub\Grammars\French Grammar\src\content\fr\present-tense.md                           
+F:\GitHub\Grammars\French Grammar\src\content\fr\present.md                                 
+F:\GitHub\Grammars\French Grammar\src\content\fr\presentational-structures.md               
+F:\GitHub\Grammars\French Grammar\src\content\fr\presentatives.md                           
+F:\GitHub\Grammars\French Grammar\src\content\fr\previous-cod.md                            
+F:\GitHub\Grammars\French Grammar\src\content\fr\profession-gender.md                       
+F:\GitHub\Grammars\French Grammar\src\content\fr\pronominal-agreement.md                    
+F:\GitHub\Grammars\French Grammar\src\content\fr\pronominal-participe-agreement.md          
+F:\GitHub\Grammars\French Grammar\src\content\fr\pronominal-participle-agreement.md         
+F:\GitHub\Grammars\French Grammar\src\content\fr\pronominal-verbs-types.md                  
+F:\GitHub\Grammars\French Grammar\src\content\fr\pronominal-verbs.md                        
+F:\GitHub\Grammars\French Grammar\src\content\fr\pronoun-order.md                           
+F:\GitHub\Grammars\French Grammar\src\content\fr\pronoun-reference.md                       
+F:\GitHub\Grammars\French Grammar\src\content\fr\pronoun-shift-reported.md                  
+F:\GitHub\Grammars\French Grammar\src\content\fr\pronoun-vs-determiner-indefinite.md        
+F:\GitHub\Grammars\French Grammar\src\content\fr\pronouns-cod.md                            
+F:\GitHub\Grammars\French Grammar\src\content\fr\pronouns-coi.md                            
+F:\GitHub\Grammars\French Grammar\src\content\fr\pronouns-demonstrative.md                  
+F:\GitHub\Grammars\French Grammar\src\content\fr\pronouns-indefinite.md                     
+F:\GitHub\Grammars\French Grammar\src\content\fr\pronouns-infinitive.md                     
+F:\GitHub\Grammars\French Grammar\src\content\fr\pronouns-personal.md                       
+F:\GitHub\Grammars\French Grammar\src\content\fr\pronouns-possessive.md                     
+F:\GitHub\Grammars\French Grammar\src\content\fr\pronouns-subject.md                        
+F:\GitHub\Grammars\French Grammar\src\content\fr\pronouns-toniques.md                       
+F:\GitHub\Grammars\French Grammar\src\content\fr\proper-person-names.md                     
+F:\GitHub\Grammars\French Grammar\src\content\fr\prosody.md                                 
+F:\GitHub\Grammars\French Grammar\src\content\fr\punctuation.md                             
+F:\GitHub\Grammars\French Grammar\src\content\fr\purpose.md                                 
+F:\GitHub\Grammars\French Grammar\src\content\fr\quand.md                                   
+F:\GitHub\Grammars\French Grammar\src\content\fr\quantifier-article.md                      
+F:\GitHub\Grammars\French Grammar\src\content\fr\quantifier-scope.md                        
+F:\GitHub\Grammars\French Grammar\src\content\fr\quantifiers.md                             
+F:\GitHub\Grammars\French Grammar\src\content\fr\quantity-agreement.md                      
+F:\GitHub\Grammars\French Grammar\src\content\fr\quantity-clauses.md                        
+F:\GitHub\Grammars\French Grammar\src\content\fr\que-conjunction.md                         
+F:\GitHub\Grammars\French Grammar\src\content\fr\que-interrogatif.md                        
+F:\GitHub\Grammars\French Grammar\src\content\fr\quebec-french.md                           
+F:\GitHub\Grammars\French Grammar\src\content\fr\quel-lequel.md                             
+F:\GitHub\Grammars\French Grammar\src\content\fr\quelquun-quelque-chose.md                  
+F:\GitHub\Grammars\French Grammar\src\content\fr\questions-intonation.md                    
+F:\GitHub\Grammars\French Grammar\src\content\fr\questions-prepositions.md                  
+F:\GitHub\Grammars\French Grammar\src\content\fr\questions.md                               
+F:\GitHub\Grammars\French Grammar\src\content\fr\qui-interrogatif.md                        
+F:\GitHub\Grammars\French Grammar\src\content\fr\qui-que-quoi-questions.md                  
+F:\GitHub\Grammars\French Grammar\src\content\fr\qui-que-subject-object.md                  
+F:\GitHub\Grammars\French Grammar\src\content\fr\quoi-interrogatif.md                       
+F:\GitHub\Grammars\French Grammar\src\content\fr\quotation-punctuation.md                   
+F:\GitHub\Grammars\French Grammar\src\content\fr\quotation.md                               
+F:\GitHub\Grammars\French Grammar\src\content\fr\quoting.md                                 
+F:\GitHub\Grammars\French Grammar\src\content\fr\radical-termination.md                     
+F:\GitHub\Grammars\French Grammar\src\content\fr\reading-rules.md                           
+F:\GitHub\Grammars\French Grammar\src\content\fr\reciprocal-constructions.md                
+F:\GitHub\Grammars\French Grammar\src\content\fr\reciprocal-se.md                           
+F:\GitHub\Grammars\French Grammar\src\content\fr\reflexive-causatives.md                    
+F:\GitHub\Grammars\French Grammar\src\content\fr\reflexive-pronouns.md                      
+F:\GitHub\Grammars\French Grammar\src\content\fr\regional-numerals.md                       
+F:\GitHub\Grammars\French Grammar\src\content\fr\regional-oral-forms.md                     
+F:\GitHub\Grammars\French Grammar\src\content\fr\regional-prepositions.md                   
+F:\GitHub\Grammars\French Grammar\src\content\fr\regional-pronouns.md                       
+F:\GitHub\Grammars\French Grammar\src\content\fr\regional-syntax.md                         
+F:\GitHub\Grammars\French Grammar\src\content\fr\register-variation-parameters.md           
+F:\GitHub\Grammars\French Grammar\src\content\fr\register-variation.md                      
+F:\GitHub\Grammars\French Grammar\src\content\fr\regular-plural.md                          
+F:\GitHub\Grammars\French Grammar\src\content\fr\relative-after-compound-prepositions.md    
+F:\GitHub\Grammars\French Grammar\src\content\fr\relative-antecedent.md                     
+F:\GitHub\Grammars\French Grammar\src\content\fr\relative-clause-structure.md               
+F:\GitHub\Grammars\French Grammar\src\content\fr\relative-clauses.md                        
+F:\GitHub\Grammars\French Grammar\src\content\fr\relative-dont.md                           
+F:\GitHub\Grammars\French Grammar\src\content\fr\relative-lequel.md                         
+F:\GitHub\Grammars\French Grammar\src\content\fr\relative-ou.md                             
+F:\GitHub\Grammars\French Grammar\src\content\fr\relative-prepositional-government.md       
+F:\GitHub\Grammars\French Grammar\src\content\fr\relative-pronouns.md                       
+F:\GitHub\Grammars\French Grammar\src\content\fr\relative-que.md                            
+F:\GitHub\Grammars\French Grammar\src\content\fr\relative-qui.md                            
+F:\GitHub\Grammars\French Grammar\src\content\fr\relative-referent.md                       
+F:\GitHub\Grammars\French Grammar\src\content\fr\relative-subjunctive.md                    
+F:\GitHub\Grammars\French Grammar\src\content\fr\repetition-reformulation.md                
+F:\GitHub\Grammars\French Grammar\src\content\fr\repetition.md                              
+F:\GitHub\Grammars\French Grammar\src\content\fr\reported-narrative.md                      
+F:\GitHub\Grammars\French Grammar\src\content\fr\reported-sequence.md                       
+F:\GitHub\Grammars\French Grammar\src\content\fr\reported-speech-conditionnel.md            
+F:\GitHub\Grammars\French Grammar\src\content\fr\reported-speech-modality.md                
+F:\GitHub\Grammars\French Grammar\src\content\fr\reported-speech-place-markers.md           
+F:\GitHub\Grammars\French Grammar\src\content\fr\reported-speech-pronoun-shift.md           
+F:\GitHub\Grammars\French Grammar\src\content\fr\reported-speech-sequence-of-tenses.md      
+F:\GitHub\Grammars\French Grammar\src\content\fr\reported-speech-time-markers.md            
+F:\GitHub\Grammars\French Grammar\src\content\fr\restriction-clauses.md                     
+F:\GitHub\Grammars\French Grammar\src\content\fr\resultativity.md                           
+F:\GitHub\Grammars\French Grammar\src\content\fr\rhetorical-questions.md                    
+F:\GitHub\Grammars\French Grammar\src\content\fr\rien-personne-subject.md                   
+F:\GitHub\Grammars\French Grammar\src\content\fr\sans-que.md                                
+F:\GitHub\Grammars\French Grammar\src\content\fr\savoir.md                                  
+F:\GitHub\Grammars\French Grammar\src\content\fr\schwa-e-caduc.md                           
+F:\GitHub\Grammars\French Grammar\src\content\fr\schwa.md                                   
+F:\GitHub\Grammars\French Grammar\src\content\fr\scope-interpretation.md                    
+F:\GitHub\Grammars\French Grammar\src\content\fr\second-group-ir.md                         
+F:\GitHub\Grammars\French Grammar\src\content\fr\semantic-gender.md                         
+F:\GitHub\Grammars\French Grammar\src\content\fr\semivowels.md                              
+F:\GitHub\Grammars\French Grammar\src\content\fr\sentence-structure.md                      
+F:\GitHub\Grammars\French Grammar\src\content\fr\sequence-of-tenses.md                      
+F:\GitHub\Grammars\French Grammar\src\content\fr\si-clauses.md                              
+F:\GitHub\Grammars\French Grammar\src\content\fr\si-conjunction.md                          
+F:\GitHub\Grammars\French Grammar\src\content\fr\silent-final-consonants.md                 
+F:\GitHub\Grammars\French Grammar\src\content\fr\silent-final-vowels.md                     
+F:\GitHub\Grammars\French Grammar\src\content\fr\simultaneity.md                            
+F:\GitHub\Grammars\French Grammar\src\content\fr\singular-plural.md                         
+F:\GitHub\Grammars\French Grammar\src\content\fr\spatial-markers-reported.md                
+F:\GitHub\Grammars\French Grammar\src\content\fr\spoken-disfluency.md                       
+F:\GitHub\Grammars\French Grammar\src\content\fr\spoken-ne-dropping.md                      
+F:\GitHub\Grammars\French Grammar\src\content\fr\spoken-questions.md                        
+F:\GitHub\Grammars\French Grammar\src\content\fr\standard-french-france.md                  
+F:\GitHub\Grammars\French Grammar\src\content\fr\standard-regional-nonstandard.md           
+F:\GitHub\Grammars\French Grammar\src\content\fr\standard-spoken-french.md                  
+F:\GitHub\Grammars\French Grammar\src\content\fr\standard-written-french.md                 
+F:\GitHub\Grammars\French Grammar\src\content\fr\stress-prosody.md                          
+F:\GitHub\Grammars\French Grammar\src\content\fr\structural-ambiguity.md                    
+F:\GitHub\Grammars\French Grammar\src\content\fr\subject-dislocation.md                     
+F:\GitHub\Grammars\French Grammar\src\content\fr\subject-predicate-object.md                
+F:\GitHub\Grammars\French Grammar\src\content\fr\subject-predicate.md                       
+F:\GitHub\Grammars\French Grammar\src\content\fr\subject-verb-agreement.md                  
+F:\GitHub\Grammars\French Grammar\src\content\fr\subjonctif-contrast.md                     
+F:\GitHub\Grammars\French Grammar\src\content\fr\subjonctif.md                              
+F:\GitHub\Grammars\French Grammar\src\content\fr\subordinate-after-adjective.md             
+F:\GitHub\Grammars\French Grammar\src\content\fr\subordinate-after-noun.md                  
+F:\GitHub\Grammars\French Grammar\src\content\fr\subordinate-after-verb.md                  
+F:\GitHub\Grammars\French Grammar\src\content\fr\subordinating-conjunctions.md              
+F:\GitHub\Grammars\French Grammar\src\content\fr\subordination.md                           
+F:\GitHub\Grammars\French Grammar\src\content\fr\substantivation-noun.md                    
+F:\GitHub\Grammars\French Grammar\src\content\fr\substantivized-adjectives.md               
+F:\GitHub\Grammars\French Grammar\src\content\fr\suffisamment-de.md                         
+F:\GitHub\Grammars\French Grammar\src\content\fr\superlative-le-plus-moins.md               
+F:\GitHub\Grammars\French Grammar\src\content\fr\sur-sous.md                                
+F:\GitHub\Grammars\French Grammar\src\content\fr\svo-word-order.md                          
+F:\GitHub\Grammars\French Grammar\src\content\fr\swiss-french.md                            
+F:\GitHub\Grammars\French Grammar\src\content\fr\syllable-structure.md                      
+F:\GitHub\Grammars\French Grammar\src\content\fr\t-euphonique.md                            
+F:\GitHub\Grammars\French Grammar\src\content\fr\tellement-tant-de.md                       
+F:\GitHub\Grammars\French Grammar\src\content\fr\temporal-agreement-subordinate.md          
+F:\GitHub\Grammars\French Grammar\src\content\fr\temporal-concordance.md                    
+F:\GitHub\Grammars\French Grammar\src\content\fr\temporal-conjunctions.md                   
+F:\GitHub\Grammars\French Grammar\src\content\fr\temporal-markers-reported.md               
+F:\GitHub\Grammars\French Grammar\src\content\fr\tense-aspect-mood-modality.md              
+F:\GitHub\Grammars\French Grammar\src\content\fr\tense-selection-subordinate.md             
+F:\GitHub\Grammars\French Grammar\src\content\fr\tense-vs-aspect-ukrainian.md               
+F:\GitHub\Grammars\French Grammar\src\content\fr\tense-vs-aspect.md                         
+F:\GitHub\Grammars\French Grammar\src\content\fr\theme-rheme.md                             
+F:\GitHub\Grammars\French Grammar\src\content\fr\third-group.md                             
+F:\GitHub\Grammars\French Grammar\src\content\fr\time-clauses.md                            
+F:\GitHub\Grammars\French Grammar\src\content\fr\topicalization.md                          
+F:\GitHub\Grammars\French Grammar\src\content\fr\tout-tous-toutes-pronouns.md               
+F:\GitHub\Grammars\French Grammar\src\content\fr\traditional-reformed-spelling.md           
+F:\GitHub\Grammars\French Grammar\src\content\fr\transitivity.md                            
+F:\GitHub\Grammars\French Grammar\src\content\fr\trop-assez-de.md                           
+F:\GitHub\Grammars\French Grammar\src\content\fr\two-auxiliaries.md                         
+F:\GitHub\Grammars\French Grammar\src\content\fr\up-other-prepositions.md                   
+F:\GitHub\Grammars\French Grammar\src\content\fr\variation-vs-error.md                      
+F:\GitHub\Grammars\French Grammar\src\content\fr\venir-tenir.md                             
+F:\GitHub\Grammars\French Grammar\src\content\fr\verb-endings-pronunciation.md              
+F:\GitHub\Grammars\French Grammar\src\content\fr\verb-government.md                         
+F:\GitHub\Grammars\French Grammar\src\content\fr\verb-group-expansion.md                    
+F:\GitHub\Grammars\French Grammar\src\content\fr\verb-groups.md                             
+F:\GitHub\Grammars\French Grammar\src\content\fr\verb-morphophonology.md                    
+F:\GitHub\Grammars\French Grammar\src\content\fr\verb-orthographic-alternations.md          
+F:\GitHub\Grammars\French Grammar\src\content\fr\verb-patterns-ir-oir-re.md                 
+F:\GitHub\Grammars\French Grammar\src\content\fr\verb-phrase.md                             
+F:\GitHub\Grammars\French Grammar\src\content\fr\verb-types.md                              
+F:\GitHub\Grammars\French Grammar\src\content\fr\verb-valency.md                            
+F:\GitHub\Grammars\French Grammar\src\content\fr\verbal-periphrases.md                      
+F:\GitHub\Grammars\French Grammar\src\content\fr\verbalisation.md                           
+F:\GitHub\Grammars\French Grammar\src\content\fr\verbless-nominal-utterances.md             
+F:\GitHub\Grammars\French Grammar\src\content\fr\verbs-prepositions.md                      
+F:\GitHub\Grammars\French Grammar\src\content\fr\verbs-two-objects.md                       
+F:\GitHub\Grammars\French Grammar\src\content\fr\vers-envers.md                             
+F:\GitHub\Grammars\French Grammar\src\content\fr\vingt-cent.md                              
+F:\GitHub\Grammars\French Grammar\src\content\fr\voir-croire.md                             
+F:\GitHub\Grammars\French Grammar\src\content\fr\vouloir.md                                 
+F:\GitHub\Grammars\French Grammar\src\content\fr\vowels-consonants.md                       
+F:\GitHub\Grammars\French Grammar\src\content\fr\word-lemma.md                              
+F:\GitHub\Grammars\French Grammar\src\content\fr\word-order-contrast.md                     
+F:\GitHub\Grammars\French Grammar\src\content\fr\word-order.md                              
+F:\GitHub\Grammars\French Grammar\src\content\fr\written-spoken-contrast.md                 
+F:\GitHub\Grammars\French Grammar\src\content\fr\y-a-chose.md                               
+F:\GitHub\Grammars\French Grammar\src\content\fr\y-en-cod-coi.md                            
+F:\GitHub\Grammars\French Grammar\src\content\fr\y-en-combination.md                        
+F:\GitHub\Grammars\French Grammar\src\content\fr\y-en-contrast.md                           
+F:\GitHub\Grammars\French Grammar\src\content\fr\y-en-infinitive.md                         
+F:\GitHub\Grammars\French Grammar\src\content\fr\y-en-spoken.md                             
+F:\GitHub\Grammars\French Grammar\src\content\fr\y-en.md                                    
+F:\GitHub\Grammars\French Grammar\src\content\fr\y-functions.md                             
+F:\GitHub\Grammars\French Grammar\src\content\fr\y-location.md                              
+
+
+
+src\content\fr\prepositions-dans.md:5:category: "prepositions"
+src\content\fr\en-partitive.md:5:category: "y, en та інші замісні форми"
+src\content\fr\en-quantity.md:5:category: "y, en та інші замісні форми"
+src\content\fr\y-location.md:5:category: "y, en та інші замісні форми"
+src\content\fr\en-functions.md:5:category: "y, en та інші замісні форми"
+src\content\fr\ce-ceci-cela-ca.md:5:category: "y, en та інші замісні форми"
+src\content\fr\ce-qui-ce-que-ce-dont-ce-a-quoi.md:5:category: "y, en та інші замісні форми"
+src\content\fr\en-de-chose.md:5:category: "y, en та інші замісні форми"
+src\content\fr\y-en-infinitive.md:5:category: "y, en та інші замісні форми"
+src\content\fr\y-en-cod-coi.md:5:category: "y, en та інші замісні форми"
+src\content\fr\y-a-chose.md:5:category: "y, en та інші замісні форми"
+src\content\fr\y-en-spoken.md:5:category: "y, en та інші замісні форми"
+src\content\fr\y-en-combination.md:5:category: "y, en та інші замісні форми"
+src\content\fr\y-functions.md:5:category: "y, en та інші замісні форми"
+src\content\fr\possessive-determiners.md:5:category: "Артиклі та детермінативи"
+src\content\fr\article-abstract-concepts.md:5:category: "Артиклі та детермінативи"
+src\content\fr\demonstrative-determiners.md:5:category: "Артиклі та детермінативи"
+src\content\fr\grapheme-phoneme.md:5:category: "Базові поняття"
+src\content\fr\definiteness-indefiniteness.md:5:category: "Базові поняття"
+src\content\fr\vowels-consonants.md:5:category: "Базові поняття"
+src\content\fr\countability-mass.md:5:category: "Базові поняття"
+src\content\fr\agreement-government.md:5:category: "Базові поняття"
+src\content\fr\tense-aspect-mood-modality.md:5:category: "Базові поняття"
+src\content\fr\register-variation-parameters.md:5:category: "Базові поняття"
+src\content\fr\grammatical-gender-number.md:5:category: "Базові поняття"
+src\content\fr\norm-vs-variation.md:7:category: "Варіантність і регістр"
+src\content\fr\belgian-french.md:7:category: "Варіантність і регістр"
+src\content\fr\regional-prepositions.md:7:category: "Варіантність і регістр"
+src\content\fr\regional-oral-forms.md:7:category: "Варіантність і регістр"
+src\content\fr\african-french.md:7:category: "Варіантність і регістр"
+src\content\fr\regional-pronouns.md:7:category: "Варіантність і регістр"
+src\content\fr\standard-regional-nonstandard.md:7:category: "Варіантність і регістр"
+src\content\fr\standard-french-france.md:7:category: "Варіантність і регістр"
+src\content\fr\regional-syntax.md:7:category: "Варіантність і регістр"
+src\content\fr\swiss-french.md:7:category: "Варіантність і регістр"
+src\content\fr\variation-vs-error.md:7:category: "Варіантність і регістр"
+src\content\fr\quebec-french.md:7:category: "Варіантність і регістр"
+src\content\fr\regional-numerals.md:7:category: "Варіантність і регістр"
+src\content\fr\ceci-cela-ca-pronouns.md:5:category: "Вказівні, вказівні та неозначені займенники"
+src\content\fr\celui-ci-celui-la.md:5:category: "Вказівні, присвійні та неозначені займенники"
+src\content\fr\celui-celle-ceux-celles.md:5:category: "Вказівні, присвійні та неозначені займенники"
+src\content\fr\tout-tous-toutes-pronouns.md:5:category: "Вказівні, присвійні та неозначені займенники"
+src\content\fr\on-indefinite-subject.md:5:category: "Вказівні, присвійні та неозначені займенники"
+src\content\fr\chacun-chacune.md:5:category: "Вказівні, присвійні та неозначені займенники"
+src\content\fr\indefinite-pronouns.md:5:category: "Вказівні, присвійні та неозначені займенники"
+src\content\fr\personne-rien.md:5:category: "Вказівні, присвійні та неозначені займенники"
+src\content\fr\quelquun-quelque-chose.md:5:category: "Вказівні, присвійні та неозначені займенники"
+src\content\fr\aucun-aucune-pronoun.md:5:category: "Вказівні, присвійні та неозначені займенники"
+src\content\fr\demonstrative-pronouns.md:5:category: "Вказівні, присвійні та неозначені займенники"
+src\content\fr\ne-deletion.md:5:category: "Дискурс і регістр"
+src\content\fr\verb-morphophonology.md:5:category: "Дієслово"
+src\content\fr\second-group-ir.md:5:category: "Дієслово"
+src\content\fr\verb-types.md:5:category: "Дієслово"
+src\content\fr\cod-coi-valence.md:5:category: "Дієслово"
+src\content\fr\third-group.md:5:category: "Дієслово"
+src\content\fr\first-group-er.md:5:category: "Дієслово"
+src\content\fr\radical-termination.md:5:category: "Дієслово"
+src\content\fr\past-tense-aspectual-values.md:5:category: "Дієслово"
+src\content\fr\narrative-temporal-perspective.md:5:category: "Дієслово"
+src\content\fr\plusieurs-certains-autres.md:5:category: "Займенники"
+src\content\fr\pronoun-vs-determiner-indefinite.md:5:category: "Займенники"
+src\content\fr\negation-ne-aucun.md:5:category: "Заперечення"
+src\content\fr\negation-ne-personne.md:5:category: "Заперечення"
+src\content\fr\negation-ne-pas.md:5:category: "Заперечення"
+src\content\fr\negation-ne-jamais.md:5:category: "Заперечення"
+src\content\fr\negation-ne-nul.md:5:category: "Заперечення"
+src\content\fr\double-negation.md:5:category: "Заперечення"
+src\content\fr\ni-ni.md:5:category: "Заперечення"
+src\content\fr\rien-personne-subject.md:5:category: "Заперечення"
+src\content\fr\spoken-ne-dropping.md:5:category: "Заперечення"
+src\content\fr\negation-ne-rien.md:5:category: "Заперечення"
+src\content\fr\negation-ne-plus.md:5:category: "Заперечення"
+src\content\fr\negative-pronouns.md:5:category: "Заперечення"
+src\content\fr\negative-determiners.md:5:category: "Заперечення"
+src\content\fr\negation-infinitive.md:5:category: "Заперечення"
+src\content\fr\negation-clitics.md:5:category: "Заперечення"
+src\content\fr\negation-compound-tenses.md:5:category: "Заперечення"
+src\content\fr\ne-que.md:5:category: "Заперечення"
+src\content\fr\negation-imperative.md:5:category: "Заперечення"
+src\content\fr\ne-without-pas.md:5:category: "Заперечення"
+src\content\fr\proper-person-names.md:5:category: "Іменник"
+src\content\fr\collective-nouns.md:5:category: "Іменник"
+src\content\fr\substantivation-noun.md:5:category: "Іменник"
+src\content\fr\profession-gender.md:5:category: "Іменник"
+src\content\fr\abstract-concrete-nouns.md:5:category: "Іменник"
+src\content\fr\regular-plural.md:5:category: "Іменник"
+src\content\fr\noun-number.md:5:category: "Іменник"
+src\content\fr\common-proper-nouns.md:5:category: "Іменник"
+src\content\fr\mass-count-nouns.md:5:category: "Іменник"
+src\content\fr\person-gender.md:5:category: "Іменник"
+src\content\fr\loanword-gender.md:5:category: "Іменник"
+src\content\fr\semantic-gender.md:5:category: "Іменник"
+src\content\fr\irregular-gender.md:5:category: "Іменник"
+src\content\fr\fr-gender-vs-ukrainian-gender.md:7:category: "Контрастивна граматика"
+src\content\fr\concessive-avoir-beau.md:7:category: "Контрастивна граматика"
+src\content\fr\passe-compose-vs-aspect.md:7:category: "Контрастивна граматика"
+src\content\fr\subjonctif-contrast.md:7:category: "Контрастивна граматика"
+src\content\fr\past-participle-avoir-agreement.md:7:category: "Контрастивна граматика"
+src\content\fr\extraction-long-distance.md:7:category: "Контрастивна граматика"
+src\content\fr\passive.md:7:category: "Контрастивна граматика"
+src\content\fr\prepositions-vs-cases.md:7:category: "Контрастивна граматика"
+src\content\fr\body-parts-definite-contrast.md:7:category: "Контрастивна граматика"
+src\content\fr\control-infinitive.md:7:category: "Контрастивна граматика"
+src\content\fr\conditionnel-contrast.md:7:category: "Контрастивна граматика"
+src\content\fr\passe-compose-vs-imparfait.md:9:category: "Контрастивна граматика"
+src\content\fr\perception-infinitive-complement.md:7:category: "Контрастивна граматика"
+src\content\fr\tense-vs-aspect-ukrainian.md:7:category: "Контрастивна граматика"
+src\content\fr\clothes-definite-contrast.md:7:category: "Контрастивна граматика"
+src\content\fr\cod-coi-case.md:7:category: "Контрастивна граматика"
+src\content\fr\negation.md:7:category: "Контрастивна граматика"
+src\content\fr\verbless-nominal-utterances.md:7:category: "Контрастивна граматика"
+src\content\fr\verb-valency.md:7:category: "Контрастивна граматика"
+src\content\fr\information-structure.md:7:category: "Контрастивна граматика"
+src\content\fr\relative-pronouns.md:7:category: "Контрастивна граматика"
+src\content\fr\interrogative-adverbs.md:7:category: "Контрастивна граматика"
+src\content\fr\clitic-case-contrast.md:7:category: "Контрастивна граматика"
+src\content\fr\imperatif-contrast.md:7:category: "Контрастивна граматика"
+src\content\fr\definiteness-context-ukrainian.md:7:category: "Контрастивна граматика"
+src\content\fr\article-vs-zero-ukrainian.md:7:category: "Контрастивна граматика"
+src\content\fr\complex-verbal-expressions.md:7:category: "Контрастивна граматика"
+src\content\fr\oral-syntax.md:7:category: "Контрастивна граматика"
+src\content\fr\impersonal-alternatives.md:7:category: "Контрастивна граматика"
+src\content\fr\word-order-contrast.md:7:category: "Контрастивна граматика"
+src\content\fr\y-en-contrast.md:7:category: "Контрастивна граматика"
+src\content\fr\null-subject-contrast.md:7:category: "Контрастивна граматика"
+src\content\fr\grammatical-functions-cod-coi-complement.md:5:category: "Метамова і базові поняття"
+src\content\fr\register-variation.md:5:category: "Метамова і базові поняття"
+src\content\fr\accents.md:7:category: "Орфографія та вимова"
+src\content\fr\direct-indirect-speech-punctuation.md:5:category: "Орфографія та ортотипографія"
+src\content\fr\dash-hyphen-typography.md:5:category: "Орфографія та ортотипографія"
+src\content\fr\complex-sentence-punctuation.md:5:category: "Орфографія та ортотипографія"
+src\content\fr\number-markers-orthography.md:5:category: "Орфографія та ортотипографія"
+src\content\fr\orthographic-reform-1990.md:5:category: "Орфографія та ортотипографія"
+src\content\fr\orthographic-homonymy.md:5:category: "Орфографія та ортотипографія"
+src\content\fr\capital-letters.md:5:category: "Орфографія та ортотипографія"
+src\content\fr\joined-separated-writing.md:5:category: "Орфографія та ортотипографія"
+src\content\fr\traditional-reformed-spelling.md:5:category: "Орфографія та ортотипографія"
+src\content\fr\apostrophe.md:5:category: "Орфографія та ортотипографія"
+src\content\fr\compound-word-spelling.md:5:category: "Орфографія та ортотипографія"
+src\content\fr\grammatical-homophones.md:5:category: "Орфографія та ортотипографія"
+src\content\fr\french-quotes-spaces.md:5:category: "Орфографія та ортотипографія"
+src\content\fr\consonant-doubling.md:5:category: "Орфографія та ортотипографія"
+src\content\fr\gender-markers-orthography.md:5:category: "Орфографія та ортотипографія"
+src\content\fr\hyphen.md:5:category: "Орфографія та ортотипографія"
+src\content\fr\orthographic-variation.md:5:category: "Орфографія та ортотипографія"
+src\content\fr\reflexive-pronouns.md:5:category: "Особові та тонічні займенники"
+src\content\fr\reciprocal-se.md:5:category: "Особові та тонічні займенники"
+src\content\fr\pronominal-verbs-types.md:5:category: "Особові та тонічні займенники"
+src\content\fr\pronominal-agreement.md:5:category: "Особові та тонічні займенники"
+src\content\fr\lexicalized-se.md:5:category: "Особові та тонічні займенники"
+src\content\fr\que-interrogatif.md:5:category: "Питальні та відносні займенники"
+src\content\fr\auquel-auquels.md:5:category: "Питальні та відносні займенники"
+src\content\fr\qui-interrogatif.md:5:category: "Питальні та відносні займенники"
+src\content\fr\relative-referent.md:5:category: "Питальні та відносні займенники"
+src\content\fr\duquel-desquels.md:5:category: "Питальні та відносні займенники"
+src\content\fr\lequel-agreement.md:5:category: "Питальні та відносні займенники"
+src\content\fr\ce-qui-ce-que-relative.md:5:category: "Питальні та відносні займенники"
+src\content\fr\defining-explanatory-relatives.md:5:category: "Питальні та відносні займенники"
+src\content\fr\ce-dont.md:5:category: "Питальні та відносні займенники"
+src\content\fr\ce-a-quoi-sur-quoi.md:5:category: "Питальні та відносні займенники"
+src\content\fr\quoi-interrogatif.md:5:category: "Питальні та відносні займенники"
+src\content\fr\ou-relatif.md:5:category: "Питальні та відносні займенники"
+src\content\fr\relative-after-compound-prepositions.md:5:category: "Питальні та відносні займенники"
+src\content\fr\dont.md:5:category: "Питальні та відносні займенники"
+src\content\fr\qui-que-subject-object.md:5:category: "Питальні та відносні займенники"
+src\content\fr\lequel-laquelle-lesquels-lesquelles.md:5:category: "Питальні та відносні займенники"
+src\content\fr\inversion-questions.md:5:category: "Питання"
+src\content\fr\comment.md:5:category: "Питання"
+src\content\fr\est-ce-que.md:5:category: "Питання"
+src\content\fr\rhetorical-questions.md:5:category: "Питання"
+src\content\fr\pourquoi.md:5:category: "Питання"
+src\content\fr\ou-interrogative.md:5:category: "Питання"
+src\content\fr\t-euphonique.md:5:category: "Питання"
+src\content\fr\quel-lequel.md:5:category: "Питання"
+src\content\fr\combien.md:5:category: "Питання"
+src\content\fr\questions-intonation.md:5:category: "Питання"
+src\content\fr\questions-prepositions.md:5:category: "Питання"
+src\content\fr\indirect-questions.md:5:category: "Питання"
+src\content\fr\spoken-questions.md:5:category: "Питання"
+src\content\fr\quand.md:5:category: "Питання"
+src\content\fr\qui-que-quoi-questions.md:5:category: "Питання"
+src\content\fr\subordinate-after-adjective.md:5:category: "Підрядність"
+src\content\fr\subordinate-after-noun.md:5:category: "Підрядність"
+src\content\fr\subordinate-after-verb.md:5:category: "Підрядність"
+src\content\fr\par.md:5:category: "Прийменники"
+src\content\fr\pour.md:5:category: "Прийменники"
+src\content\fr\adjective-government.md:5:category: "Прийменники"
+src\content\fr\avec-sans.md:5:category: "Прийменники"
+src\content\fr\vers-envers.md:5:category: "Прийменники"
+src\content\fr\pour-vs-par.md:5:category: "Прийменники"
+src\content\fr\a-vs-de.md:5:category: "Прийменники"
+src\content\fr\preposition-infinitive.md:5:category: "Прийменники"
+src\content\fr\noun-government.md:5:category: "Прийменники"
+src\content\fr\entre-parmi.md:5:category: "Прийменники"
+src\content\fr\de-a-compound-constructions.md:5:category: "Прийменники"
+src\content\fr\verb-government.md:5:category: "Прийменники"
+src\content\fr\up-other-prepositions.md:5:category: "Прийменники"
+src\content\fr\devant-derriere.md:5:category: "Прийменники"
+src\content\fr\chez.md:5:category: "Прийменники"
+src\content\fr\en-vs-dans.md:5:category: "Прийменники"
+src\content\fr\sur-sous.md:5:category: "Прийменники"
+src\content\fr\prepositions-after-verbs.md:5:category: "Прийменники"
+src\content\fr\prepositional-que-clauses.md:5:category: "Прийменники"
+src\content\fr\prepositions-after-adjectives.md:5:category: "Прийменники"
+src\content\fr\prepositions-after-nouns.md:5:category: "Прийменники"
+src\content\fr\prepositions-countries.md:5:category: "Прийменники"
+src\content\fr\prepositions-cities.md:5:category: "Прийменники"
+src\content\fr\substantivized-adjectives.md:5:category: "Прикметник"
+src\content\fr\adjective-functions.md:5:category: "Прикметник"
+src\content\fr\compound-adjectives-agreement.md:5:category: "Прикметник"
+src\content\fr\colour-adjectives.md:5:category: "Прикметник"
+src\content\fr\adjective-irregular-plural.md:5:category: "Прикметник"
+src\content\fr\adjective-feminine-formation.md:5:category: "Прикметник"
+src\content\fr\adjective-irregular-feminine.md:5:category: "Прикметник"
+src\content\fr\reported-speech-pronoun-shift.md:5:category: "Синтаксис"
+src\content\fr\reported-speech-modality.md:5:category: "Синтаксис"
+src\content\fr\reported-speech-place-markers.md:5:category: "Синтаксис"
+src\content\fr\cod-coi-complements.md:5:category: "Синтаксис"
+src\content\fr\quoting.md:5:category: "Синтаксис"
+src\content\fr\reported-speech-conditionnel.md:5:category: "Синтаксис"
+src\content\fr\reported-speech-time-markers.md:5:category: "Синтаксис"
+src\content\fr\reported-speech-sequence-of-tenses.md:5:category: "Синтаксис"
+src\content\fr\verbalisation.md:7:category: "Словотвір і лексика"
+src\content\fr\neologism-variation.md:7:category: "Словотвір і лексика"
+src\content\fr\adjectival-suffixation.md:7:category: "Словотвір і лексика"
+src\content\fr\derivational-productivity.md:7:category: "Словотвір і лексика"
+src\content\fr\compound-words.md:7:category: "Словотвір і лексика"
+src\content\fr\conversion-substantivation.md:7:category: "Словотвір і лексика"
+src\content\fr\nominal-suffixation.md:7:category: "Словотвір і лексика"
+src\content\fr\loanwords-grammatical-adaptation.md:7:category: "Словотвір і лексика"
+src\content\fr\feminine-person-nouns.md:7:category: "Словотвір і лексика"
+src\content\fr\adjectivisation.md:7:category: "Словотвір і лексика"
+src\content\fr\nominalisation.md:7:category: "Словотвір і лексика"
+src\content\fr\prefixation.md:7:category: "Словотвір і лексика"
+src\content\fr\a-moins-que.md:5:category: "Сполучники"
+src\content\fr\a-condition-que.md:5:category: "Сполучники"
+src\content\fr\avant-que-jusqua-ce-que.md:5:category: "Сполучники"
+src\content\fr\bien-que-quoique.md:5:category: "Сполучники"
+src\content\fr\because-since-car.md:5:category: "Сполучники"
+src\content\fr\sans-que.md:5:category: "Сполучники"
+src\content\fr\conjunction-phrases.md:5:category: "Сполучники"
+src\content\fr\si-conjunction.md:5:category: "Сполучники"
+src\content\fr\coordinating-conjunctions.md:5:category: "Сполучники"
+src\content\fr\pourvu-que.md:5:category: "Сполучники"
+src\content\fr\pour-que-afin-que.md:5:category: "Сполучники"
+src\content\fr\coordination-basic.md:5:category: "Сполучники"
+src\content\fr\alors-que-tandis-que.md:5:category: "Сполучники"
+src\content\fr\que-conjunction.md:5:category: "Сполучники"
+src\content\fr\comme-conjunction.md:5:category: "Сполучники"
+src\content\fr\connectors-written.md:5:category: "Сполучники"
+src\content\fr\au-point-que-tellement-que.md:5:category: "Сполучники"
+src\content\fr\subordinating-conjunctions.md:5:category: "Сполучники"
+src\content\fr\de-sorte-que.md:5:category: "Сполучники"
+src\content\fr\basic-word-order.md:5:category: "Структура речення"
+src\content\fr\adverb-position.md:5:category: "Структура речення"
+src\content\fr\verb-group-expansion.md:5:category: "Структура речення"
+src\content\fr\noun-group-expansion.md:5:category: "Структура речення"
+src\content\fr\nominal-predicate.md:5:category: "Структура речення"
+src\content\fr\svo-word-order.md:5:category: "Структура речення"
+src\content\fr\subject-predicate.md:5:category: "Структура речення"
+src\content\fr\object-pronoun-position.md:5:category: "Структура речення"
+src\content\fr\circumstantial-position.md:5:category: "Структура речення"
+src\content\fr\cod-coi-cc-position.md:5:category: "Структура речення"
+src\content\fr\collective-nouns-agreement.md:5:category: "Узгодження"
+src\content\fr\cod-before-avoir.md:5:category: "Узгодження"
+src\content\fr\number-quantifier-agreement.md:5:category: "Узгодження"
+src\content\fr\approximate-quantity-agreement.md:5:category: "Узгодження"
+src\content\fr\dictionary-pronunciation.md:5:category: "Фонологія, графіка і вимова"
+src\content\fr\nasal-vowels.md:5:category: "Фонологія, графіка і вимова"
+src\content\fr\syllable-structure.md:5:category: "Фонологія, графіка і вимова"
+src\content\fr\final-silent-consonants.md:5:category: "Фонологія, графіка і вимова"
+src\content\fr\grammatical-endings-plural-pronunciation.md:5:category: "Фонологія, графіка і вимова"
+src\content\fr\verb-endings-pronunciation.md:5:category: "Фонологія, графіка і вимова"
+src\content\fr\open-closed-vowels.md:5:category: "Фонологія, графіка і вимова"
+src\content\fr\final-silent-vowels.md:5:category: "Фонологія, графіка і вимова"
+src\content\fr\french-r.md:5:category: "Фонологія, графіка і вимова"
+src\content\fr\intonation-contours.md:5:category: "Фонологія, графіка і вимова"
+src\content\fr\loanword-pronunciation.md:5:category: "Фонологія, графіка і вимова"
+src\content\fr\schwa-e-caduc.md:5:category: "Фонологія, графіка і вимова"
+src\content\fr\semivowels.md:5:category: "Фонологія, графіка і вимова"
+src\content\fr\schwa.md:5:category: "Фонологія, графіка і вимова"
+src\content\fr\silent-final-consonants.md:5:category: "Фонологія, графіка і вимова"
+src\content\fr\stress-prosody.md:5:category: "Фонологія, графіка і вимова"
+src\content\fr\silent-final-vowels.md:5:category: "Фонологія, графіка і вимова"
+src\content\fr\adjective-position.md:5:category: adjectives
+src\content\fr\comparative-superlative.md:5:category: adjectives
+src\content\fr\infinitive-after-adjective.md:5:category: adjectives
+src\content\fr\adverbs.md:5:category: adverbs
+src\content\fr\pronominal-participe-agreement.md:5:category: agreement
+src\content\fr\subject-verb-agreement.md:5:category: agreement
+src\content\fr\percentage-agreement.md:5:category: agreement
+src\content\fr\compound-subject-agreement.md:5:category: agreement
+src\content\fr\determiner-agreement.md:5:category: agreement
+src\content\fr\agreement-intervening-phrases.md:5:category: agreement
+src\content\fr\accord.md:5:category: agreement
+src\content\fr\quantity-agreement.md:5:category: agreement
+src\content\fr\past-participle-etre-agreement.md:5:category: agreement
+src\content\fr\adjective-agreement.md:5:category: agreement
+src\content\fr\comparatives-plus-moins-aussi.md:7:category: comparison
+src\content\fr\pire-plus-mauvais.md:7:category: comparison
+src\content\fr\autant-davantage.md:7:category: comparison
+src\content\fr\trop-assez-de.md:7:category: comparison
+src\content\fr\superlative-le-plus-moins.md:7:category: comparison
+src\content\fr\meilleur-mieux.md:7:category: comparison
+src\content\fr\comparative-que.md:7:category: comparison
+src\content\fr\suffisamment-de.md:7:category: comparison
+src\content\fr\tellement-tant-de.md:7:category: comparison
+src\content\fr\complex-sentences.md:5:category: complex
+src\content\fr\avoir-beau.md:5:category: complex
+src\content\fr\faire-infinitive.md:5:category: complex
+src\content\fr\extraction-constructions.md:5:category: complex
+src\content\fr\perception-infinitive.md:5:category: complex
+src\content\fr\si-clauses.md:5:category: complex
+src\content\fr\relative-clauses.md:5:category: complex
+src\content\fr\subordination.md:5:category: complex
+src\content\fr\quantity-clauses.md:3:category: complex-sentences
+src\content\fr\condition.md:3:category: complex-sentences
+src\content\fr\purpose.md:3:category: complex-sentences
+src\content\fr\manner-clauses.md:3:category: complex-sentences
+src\content\fr\subject-predicate-object.md:3:category: complex-sentences
+src\content\fr\concession.md:3:category: complex-sentences
+src\content\fr\restriction-clauses.md:3:category: complex-sentences
+src\content\fr\mood-selection-subordinate.md:3:category: complex-sentences
+src\content\fr\tense-selection-subordinate.md:3:category: complex-sentences
+src\content\fr\comparison-clauses.md:3:category: complex-sentences
+src\content\fr\cause.md:3:category: complex-sentences
+src\content\fr\consequence.md:3:category: complex-sentences
+src\content\fr\opposition.md:3:category: complex-sentences
+src\content\fr\time-clauses.md:3:category: complex-sentences
+src\content\fr\temporal-agreement-subordinate.md:3:category: complex-sentences
+src\content\fr\temporal-conjunctions.md:5:category: conjunctions
+src\content\fr\possession-body-clothes.md:5:category: determiners
+src\content\fr\spoken-disfluency.md:5:category: discourse
+src\content\fr\discourse-particles.md:8:category: discourse
+src\content\fr\pronoun-reference.md:8:category: discourse
+src\content\fr\contrastive-focus.md:8:category: discourse
+src\content\fr\cataphoric-reference.md:8:category: discourse
+src\content\fr\discourse-connectors.md:8:category: discourse
+src\content\fr\ce-qui-cest.md:8:category: discourse
+src\content\fr\presentational-structures.md:8:category: discourse
+src\content\fr\inversion-information.md:8:category: discourse
+src\content\fr\cest-qui-que.md:8:category: discourse
+src\content\fr\ellipsis.md:7:category: discourse
+src\content\fr\nominal-utterances.md:5:category: discourse
+src\content\fr\fillers.md:8:category: discourse
+src\content\fr\repetition-reformulation.md:8:category: discourse
+src\content\fr\topicalization.md:8:category: discourse
+src\content\fr\cleft-constructions.md:8:category: discourse
+src\content\fr\focus.md:7:category: discourse
+src\content\fr\dislocation.md:7:category: discourse
+src\content\fr\theme-rheme.md:7:category: discourse
+src\content\fr\anaphoric-reference.md:8:category: discourse
+src\content\fr\word-lemma.md:5:category: fundamentals
+src\content\fr\alphabet.md:5:category: fundamentals
+src\content\fr\morpheme-stem-ending.md:5:category: fundamentals
+src\content\fr\form-function-meaning.md:5:category: fundamentals
+src\content\fr\reading-rules.md:5:category: fundamentals
+src\content\fr\parts-of-speech.md:5:category: fundamentals
+src\content\fr\capitalization.md:5:category: fundamentals
+src\content\fr\h-muet-aspire.md:5:category: fundamentals
+src\content\fr\prosody.md:5:category: fundamentals
+src\content\fr\punctuation.md:5:category: fundamentals
+src\content\fr\spatial-markers-reported.md:8:category: indirect
+src\content\fr\reported-narrative.md:8:category: indirect
+src\content\fr\indirect-command-request.md:8:category: indirect
+src\content\fr\temporal-markers-reported.md:8:category: indirect
+src\content\fr\pronoun-shift-reported.md:8:category: indirect
+src\content\fr\direct-speech.md:8:category: indirect
+src\content\fr\quotation.md:8:category: indirect
+src\content\fr\indirect-speech.md:5:category: indirect
+src\content\fr\reported-sequence.md:8:category: modality
+src\content\fr\modality-permission.md:8:category: modality
+src\content\fr\conditionnel-evidential.md:8:category: modality
+src\content\fr\modality-reported.md:8:category: modality
+src\content\fr\temporal-concordance.md:8:category: modality
+src\content\fr\modality-obligation.md:8:category: modality
+src\content\fr\sequence-of-tenses.md:8:category: modality
+src\content\fr\modality-desire.md:8:category: modality
+src\content\fr\modality-assumption.md:8:category: modality
+src\content\fr\modality-necessity.md:8:category: modality
+src\content\fr\modality-possibility.md:8:category: modality
+src\content\fr\subjonctif.md:5:category: moods
+src\content\fr\imperatif.md:5:category: moods
+src\content\fr\conditionnel-passe.md:5:category: moods
+src\content\fr\conditionnel-reported.md:8:category: moods
+src\content\fr\conditionnel-present.md:5:category: moods
+src\content\fr\ne-dropping.md:8:category: negation
+src\content\fr\multiple-negation.md:5:category: negation
+src\content\fr\ne-expletif.md:5:category: negation
+src\content\fr\irregular-plurals.md:5:category: nouns
+src\content\fr\determiners.md:5:category: nouns
+src\content\fr\articles-after-negation.md:5:category: nouns
+src\content\fr\determiners-interrogative.md:5:category: nouns
+src\content\fr\articles-definite.md:5:category: nouns
+src\content\fr\determiners-indefinite.md:5:category: nouns
+src\content\fr\quantifiers.md:5:category: nouns
+src\content\fr\articles-indefinite.md:5:category: nouns
+src\content\fr\gender-patterns.md:5:category: nouns
+src\content\fr\noun-gender.md:5:category: nouns
+src\content\fr\partitive-articles.md:5:category: nouns
+src\content\fr\possession-body-parts-clothes.md:5:category: nouns
+src\content\fr\contracted-articles.md:5:category: nouns
+src\content\fr\article-omission.md:5:category: nouns
+src\content\fr\geographical-names.md:5:category: nouns
+src\content\fr\articles-with-quantities.md:5:category: nouns
+src\content\fr\articles-partitive.md:5:category: nouns
+src\content\fr\definite-articles.md:5:category: nouns
+src\content\fr\singular-plural.md:5:category: nouns
+src\content\fr\indefinite-articles.md:5:category: nouns
+src\content\fr\compound-nouns.md:5:category: nouns
+src\content\fr\ordinal-numerals.md:5:category: numbers
+src\content\fr\percentages.md:5:category: numbers
+src\content\fr\measurement-units.md:5:category: numbers
+src\content\fr\mille-million-milliard.md:5:category: numbers
+src\content\fr\cardinal-numerals.md:5:category: numbers
+src\content\fr\addresses.md:5:category: numbers
+src\content\fr\vingt-cent.md:5:category: numbers
+src\content\fr\money-amounts.md:5:category: numbers
+src\content\fr\fractions.md:5:category: numbers
+src\content\fr\clock-time.md:5:category: numbers
+src\content\fr\number-formats.md:5:category: numbers
+src\content\fr\duration.md:5:category: numbers
+src\content\fr\phone-numbers.md:5:category: numbers
+src\content\fr\dates.md:5:category: numbers
+src\content\fr\age.md:5:category: numbers
+src\content\fr\inclusive-writing.md:5:category: orthography
+src\content\fr\elision.md:5:category: orthography
+src\content\fr\enchainement.md:5:category: phonology
+src\content\fr\liaison.md:5:category: phonology
+src\content\fr\prepositions-de.md:5:category: prepositions
+src\content\fr\prepositions-basics.md:5:category: prepositions
+src\content\fr\prepositions-time.md:5:category: prepositions
+src\content\fr\prepositions-en.md:5:category: prepositions
+src\content\fr\prepositions-a.md:5:category: prepositions
+src\content\fr\infinitive-after-preposition.md:5:category: prepositions
+src\content\fr\prepositions-place.md:5:category: prepositions
+src\content\fr\reciprocal-constructions.md:5:category: pronouns
+src\content\fr\colloquial-pronoun-order.md:8:category: pronouns
+src\content\fr\y-en.md:5:category: pronouns
+src\content\fr\pronoun-order.md:5:category: pronouns
+src\content\fr\on-spoken.md:8:category: pronouns
+src\content\fr\pronouns-possessive.md:5:category: pronouns
+src\content\fr\pronouns-personal.md:5:category: pronouns
+src\content\fr\pronouns-coi.md:5:category: pronouns
+src\content\fr\pronouns-cod.md:5:category: pronouns
+src\content\fr\pronouns-indefinite.md:5:category: pronouns
+src\content\fr\pronouns-demonstrative.md:5:category: pronouns
+src\content\fr\pronouns-infinitive.md:5:category: pronouns
+src\content\fr\impersonal-il.md:5:category: pronouns
+src\content\fr\pronouns-subject.md:5:category: pronouns
+src\content\fr\pronouns-toniques.md:5:category: pronouns
+src\content\fr\quotation-punctuation.md:8:category: punctuation
+src\content\fr\measure-intensity.md:7:category: quantification
+src\content\fr\autant-beaucoup-peu-de.md:7:category: quantification
+src\content\fr\approximate-quantity.md:7:category: quantification
+src\content\fr\indefinite-quantity.md:7:category: quantification
+src\content\fr\quantifier-article.md:7:category: quantification
+src\content\fr\de-nombreux-de-nombreuses.md:7:category: quantification
+src\content\fr\questions.md:5:category: questions
+src\content\fr\indirect-question.md:8:category: questions
+src\content\fr\exclamatives.md:5:category: questions
+src\content\fr\multiple-questions.md:5:category: questions
+src\content\fr\standard-spoken-french.md:8:category: register
+src\content\fr\formal-register.md:8:category: register
+src\content\fr\informal-register.md:8:category: register
+src\content\fr\written-spoken-contrast.md:8:category: register
+src\content\fr\standard-written-french.md:8:category: register
+src\content\fr\neutral-register.md:8:category: register
+src\content\fr\literary-register.md:8:category: register
+src\content\fr\nested-relative-clauses.md:5:category: relative
+src\content\fr\defining-relatives.md:3:category: relative-clauses
+src\content\fr\multiple-antecedents-relative.md:3:category: relative-clauses
+src\content\fr\ce-qui-ce-que-ce-dont.md:3:category: relative-clauses
+src\content\fr\ce-quoi-prepositions.md:3:category: relative-clauses
+src\content\fr\lequel-prepositions.md:3:category: relative-clauses
+src\content\fr\relative-lequel.md:3:category: relative-clauses
+src\content\fr\relative-ou.md:3:category: relative-clauses
+src\content\fr\relative-dont.md:3:category: relative-clauses
+src\content\fr\relative-antecedent.md:3:category: relative-clauses
+src\content\fr\relative-clause-structure.md:3:category: relative-clauses
+src\content\fr\nonrestrictive-relatives.md:3:category: relative-clauses
+src\content\fr\relative-subjunctive.md:3:category: relative-clauses
+src\content\fr\relative-que.md:3:category: relative-clauses
+src\content\fr\relative-qui.md:3:category: relative-clauses
+src\content\fr\relative-prepositional-government.md:3:category: relative-clauses
+src\content\fr\scope-interpretation.md:5:category: semantics
+src\content\fr\negation-scope.md:5:category: semantics
+src\content\fr\quantifier-scope.md:5:category: semantics
+src\content\fr\deixis.md:5:category: sentences
+src\content\fr\nested-complement-clauses.md:5:category: sentences
+src\content\fr\inversion-outside-questions.md:5:category: sentences
+src\content\fr\infinitive-shared-subject.md:5:category: sentences
+src\content\fr\structural-ambiguity.md:5:category: sentences
+src\content\fr\elliptical-utterances.md:5:category: sentences
+src\content\fr\long-distance-dependencies.md:5:category: sentences
+src\content\fr\ambiguous-attachment.md:5:category: sentences
+src\content\fr\infinitive-subordination.md:5:category: sentences
+src\content\fr\infinitive-different-subjects.md:5:category: sentences
+src\content\fr\word-order.md:5:category: sentences
+src\content\fr\grammatical-ambiguity.md:5:category: sentences
+src\content\fr\coordination-unlike-categories.md:5:category: sentences
+src\content\fr\multiple-embedding.md:5:category: sentences
+src\content\fr\infinitive-control.md:5:category: sentences
+src\content\fr\oral-reductions.md:8:category: spoken
+src\content\fr\address-interjections.md:5:category: spoken
+src\content\fr\hesitation-self-correction.md:5:category: spoken
+src\content\fr\presentatives.md:5:category: syntax
+src\content\fr\impersonal-se.md:5:category: syntax
+src\content\fr\prepositional-phrase.md:5:category: syntax
+src\content\fr\subject-dislocation.md:8:category: syntax
+src\content\fr\noun-phrase.md:5:category: syntax
+src\content\fr\verb-phrase.md:5:category: syntax
+src\content\fr\phrase-enonce.md:5:category: syntax
+src\content\fr\coordination.md:5:category: syntax
+src\content\fr\inversion.md:5:category: syntax
+src\content\fr\gerondif.md:5:category: syntax
+src\content\fr\sentence-structure.md:5:category: syntax
+src\content\fr\il-est-adjectif.md:5:category: syntax
+src\content\fr\il-y-a.md:5:category: syntax
+src\content\fr\extraction.md:5:category: syntax
+src\content\fr\colloquial-questions.md:8:category: syntax
+src\content\fr\il-faut.md:5:category: syntax
+src\content\fr\il-parait.md:5:category: syntax
+src\content\fr\il-semble.md:5:category: syntax
+src\content\fr\tense-vs-aspect.md:5:category: tense-aspect
+src\content\fr\repetition.md:5:category: tense-aspect
+src\content\fr\habituality.md:5:category: tense-aspect
+src\content\fr\duration-of-action.md:5:category: tense-aspect
+src\content\fr\beginning-end.md:5:category: tense-aspect
+src\content\fr\posteriority.md:5:category: tense-aspect
+src\content\fr\completion.md:5:category: tense-aspect
+src\content\fr\anteriority.md:5:category: tense-aspect
+src\content\fr\simultaneity.md:5:category: tense-aspect
+src\content\fr\resultativity.md:5:category: tense-aspect
+src\content\fr\futur-proche.md:5:category: tenses
+src\content\fr\futur-anterieur.md:5:category: tenses
+src\content\fr\futur-dans-passe.md:5:category: tenses
+src\content\fr\futur-simple.md:5:category: tenses
+src\content\fr\passe-anterieur.md:5:category: tenses
+src\content\fr\imparfait.md:5:category: tenses
+src\content\fr\passe-compose.md:5:category: tenses
+src\content\fr\plus-que-parfait.md:5:category: tenses
+src\content\fr\passe-simple.md:5:category: tenses
+src\content\fr\present.md:5:category: tenses
+src\content\fr\present-tense.md:5:category: tenses
+src\content\fr\grammatical-variation.md:8:category: variation
+src\content\fr\infinitive-after-verb.md:5:category: verbs
+src\content\fr\vouloir.md:5:category: verbs
+src\content\fr\infinitive-complement.md:5:category: verbs
+src\content\fr\causative-faire-infinitive.md:5:category: verbs
+src\content\fr\savoir.md:5:category: verbs
+src\content\fr\verbs-two-objects.md:5:category: verbs
+src\content\fr\verbs-prepositions.md:5:category: verbs
+src\content\fr\impersonal-verbs.md:5:category: verbs
+src\content\fr\voir-croire.md:5:category: verbs
+src\content\fr\connaitre.md:5:category: verbs
+src\content\fr\infinitive-past.md:5:category: verbs
+src\content\fr\boire.md:5:category: verbs
+src\content\fr\irregular-verbs.md:5:category: verbs
+src\content\fr\laisser-infinitive.md:5:category: verbs
+src\content\fr\lexicalized-verb-constructions.md:5:category: verbs
+src\content\fr\avoir.md:5:category: verbs
+src\content\fr\intransitive-verbs.md:5:category: verbs
+src\content\fr\infinitive.md:5:category: verbs
+src\content\fr\movement-verbs-infinitive.md:5:category: verbs
+src\content\fr\mettre.md:5:category: verbs
+src\content\fr\movement-infinitive.md:5:category: verbs
+src\content\fr\two-auxiliaries.md:5:category: verbs
+src\content\fr\etre.md:5:category: verbs
+src\content\fr\aller.md:5:category: verbs
+src\content\fr\venir-tenir.md:5:category: verbs
+src\content\fr\perception-verbs-infinitive.md:5:category: verbs
+src\content\fr\pouvoir.md:5:category: verbs
+src\content\fr\prendre.md:5:category: verbs
+src\content\fr\faire.md:5:category: verbs
+src\content\fr\transitivity.md:5:category: verbs
+src\content\fr\pronominal-verbs.md:5:category: verbs
+src\content\fr\dire-lire-ecrire.md:5:category: verbs
+src\content\fr\participe-present.md:5:category: verbs
+src\content\fr\devoir.md:5:category: verbs
+src\content\fr\participe-passe.md:5:category: verbs
+src\content\fr\defective-verbs.md:5:category: verbs
+src\content\fr\verbal-periphrases.md:5:category: verbs
+src\content\fr\verb-groups.md:5:category: verbs
+src\content\fr\reflexive-causatives.md:5:category: verbs
+src\content\fr\auxiliary-verbs.md:5:category: verbs
+src\content\fr\verb-patterns-ir-oir-re.md:5:category: verbs
+src\content\fr\verb-orthographic-alternations.md:5:category: verbs
+
+
+=== UNIQUE CONTENT CATEGORIES ===
+adjectives
+adverbs
+agreement
+comparison
+complex
+complex-sentences
+conjunctions
+determiners
+discourse
+fundamentals
+indirect
+modality
+moods
+negation
+nouns
+numbers
+orthography
+phonology
+prepositions
+pronouns
+punctuation
+quantification
+questions
+register
+relative
+relative-clauses
+semantics
+sentences
+spoken
+syntax
+tense-aspect
+tenses
+variation
+verbs
+y, en та інші замісні форми
+Артиклі та детермінативи
+Базові поняття
+Варіантність і регістр
+Вказівні, вказівні та неозначені займенники
+Вказівні, присвійні та неозначені займенники
+Дискурс і регістр
+Дієслово
+Займенники
+Заперечення
+Іменник
+Контрастивна граматика
+Метамова і базові поняття
+Орфографія та вимова
+Орфографія та ортотипографія
+Особові та тонічні займенники
+Питальні та відносні займенники
+Питання
+Підрядність
+Прийменники
+Прикметник
+Синтаксис
+Словотвір і лексика
+Сполучники
+Структура речення
+Узгодження
+Фонологія, графіка і вимова
+=== ARTICLE COUNT BY CATEGORY ===
+
+Name                                         Count
+----                                         -----
+adjectives                                       3
+adverbs                                          1
+agreement                                       10
+comparison                                       9
+complex                                          8
+complex-sentences                               15
+conjunctions                                     1
+determiners                                      1
+discourse                                       20
+fundamentals                                    10
+indirect                                         8
+modality                                        11
+moods                                            5
+negation                                         3
+nouns                                           21
+numbers                                         15
+orthography                                      2
+phonology                                        2
+prepositions                                     8
+pronouns                                        15
+punctuation                                      1
+quantification                                   6
+questions                                        4
+register                                         7
+relative                                         1
+relative-clauses                                15
+semantics                                        3
+sentences                                       15
+spoken                                           3
+syntax                                          18
+tense-aspect                                    10
+tenses                                          11
+variation                                        1
+verbs                                           42
+y, en та інші замісні форми                     13
+Артиклі та детермінативи                         3
+Базові поняття                                   8
+Варіантність і регістр                          13
+Вказівні, вказівні та неозначені займенники      1
+Вказівні, присвійні та неозначені займенники    10
+Дискурс і регістр                                1
+Дієслово                                         9
+Займенники                                       2
+Заперечення                                     19
+Іменник                                         13
+Контрастивна граматика                          32
+Метамова і базові поняття                        2
+Орфографія та вимова                             1
+Орфографія та ортотипографія                    17
+Особові та тонічні займенники                    5
+Питальні та відносні займенники                 16
+Питання                                         15
+Підрядність                                      3
+Прийменники                                     23
+Прикметник                                       7
+Синтаксис                                        8
+Словотвір і лексика                             12
+Сполучники                                      19
+Структура речення                               10
+Узгодження                                       4
+Фонологія, графіка і вимова                     17
+
+
+
+=== FILES WITHOUT CATEGORY ===
+F:\GitHub\Grammars\French Grammar\src\content\fr\complex-agreement.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\impersonal-accord.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\participle-infinitive-agreement.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\previous-cod.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\pronominal-participle-agreement.md
+=== EMPTY CATEGORY VALUES ===
+=== ALL ARTICLE IDS ===
+F:\GitHub\Grammars\French Grammar\src\content\fr\abstract-concrete-nouns.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\accents.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\accord.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\a-condition-que.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\addresses.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\address-interjections.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\adjectival-suffixation.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\adjective-agreement.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\adjective-feminine-formation.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\adjective-functions.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\adjective-government.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\adjective-irregular-feminine.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\adjective-irregular-plural.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\adjective-position.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\adjectivisation.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\adverb-position.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\adverbs.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\african-french.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\age.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\agreement-government.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\agreement-intervening-phrases.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\aller.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\alors-que-tandis-que.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\alphabet.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\ambiguous-attachment.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\a-moins-que.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\anaphoric-reference.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\anteriority.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\apostrophe.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\approximate-quantity.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\approximate-quantity-agreement.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\article-abstract-concepts.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\article-omission.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\articles-after-negation.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\articles-definite.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\articles-indefinite.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\articles-partitive.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\articles-with-quantities.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\article-vs-zero-ukrainian.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\aucun-aucune-pronoun.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\au-point-que-tellement-que.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\auquel-auquels.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\autant-beaucoup-peu-de.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\autant-davantage.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\auxiliary-verbs.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\avant-que-jusqua-ce-que.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\avec-sans.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\avoir.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\avoir-beau.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\a-vs-de.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\basic-word-order.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\because-since-car.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\beginning-end.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\belgian-french.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\bien-que-quoique.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\body-parts-definite-contrast.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\boire.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\capitalization.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\capital-letters.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\cardinal-numerals.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\cataphoric-reference.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\causative-faire-infinitive.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\cause.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\ce-a-quoi-sur-quoi.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\ce-ceci-cela-ca.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\ceci-cela-ca-pronouns.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\ce-dont.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\celui-celle-ceux-celles.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\celui-ci-celui-la.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\ce-qui-ce-que-ce-dont.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\ce-qui-ce-que-ce-dont-ce-a-quoi.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\ce-qui-ce-que-relative.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\ce-qui-cest.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\ce-quoi-prepositions.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\cest-qui-que.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\chacun-chacune.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\chez.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\circumstantial-position.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\cleft-constructions.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\clitic-case-contrast.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\clock-time.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\clothes-definite-contrast.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\cod-before-avoir.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\cod-coi-case.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\cod-coi-cc-position.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\cod-coi-complements.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\cod-coi-valence.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\collective-nouns.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\collective-nouns-agreement.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\colloquial-pronoun-order.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\colloquial-questions.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\colour-adjectives.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\combien.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\comme-conjunction.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\comment.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\common-proper-nouns.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\comparative-que.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\comparatives-plus-moins-aussi.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\comparative-superlative.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\comparison-clauses.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\completion.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\complex-agreement.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\complex-sentence-punctuation.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\complex-sentences.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\complex-verbal-expressions.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\compound-adjectives-agreement.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\compound-nouns.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\compound-subject-agreement.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\compound-words.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\compound-word-spelling.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\concession.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\concessive-avoir-beau.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\condition.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\conditionnel-contrast.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\conditionnel-evidential.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\conditionnel-passe.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\conditionnel-present.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\conditionnel-reported.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\conjunction-phrases.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\connaitre.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\connectors-written.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\consequence.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\consonant-doubling.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\contracted-articles.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\contrastive-focus.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\control-infinitive.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\conversion-substantivation.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\coordinating-conjunctions.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\coordination.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\coordination-basic.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\coordination-unlike-categories.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\countability-mass.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\dash-hyphen-typography.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\dates.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\de-a-compound-constructions.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\defective-verbs.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\defining-explanatory-relatives.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\defining-relatives.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\definite-articles.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\definiteness-context-ukrainian.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\definiteness-indefiniteness.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\deixis.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\demonstrative-determiners.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\demonstrative-pronouns.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\de-nombreux-de-nombreuses.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\derivational-productivity.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\de-sorte-que.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\determiner-agreement.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\determiners.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\determiners-indefinite.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\determiners-interrogative.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\devant-derriere.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\devoir.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\dictionary-pronunciation.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\direct-indirect-speech-punctuation.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\direct-speech.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\dire-lire-ecrire.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\discourse-connectors.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\discourse-particles.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\dislocation.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\dont.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\double-negation.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\duquel-desquels.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\duration.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\duration-of-action.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\elision.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\ellipsis.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\elliptical-utterances.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\enchainement.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\en-de-chose.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\en-functions.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\en-partitive.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\en-quantity.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\entre-parmi.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\en-vs-dans.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\est-ce-que.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\etre.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\exclamatives.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\extraction.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\extraction-constructions.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\extraction-long-distance.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\faire.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\faire-infinitive.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\feminine-person-nouns.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\fillers.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\final-silent-consonants.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\final-silent-vowels.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\first-group-er.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\focus.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\formal-register.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\form-function-meaning.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\fractions.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\french-quotes-spaces.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\french-r.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\fr-gender-vs-ukrainian-gender.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\futur-anterieur.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\futur-dans-passe.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\futur-proche.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\futur-simple.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\gender-markers-orthography.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\gender-patterns.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\geographical-names.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\gerondif.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\grammatical-ambiguity.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\grammatical-endings-plural-pronunciation.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\grammatical-functions-cod-coi-complement.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\grammatical-gender-number.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\grammatical-homophones.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\grammatical-variation.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\grapheme-phoneme.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\habituality.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\hesitation-self-correction.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\h-muet-aspire.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\hyphen.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\il-est-adjectif.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\il-faut.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\il-parait.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\il-semble.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\il-y-a.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\imparfait.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\imperatif.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\imperatif-contrast.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\impersonal-accord.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\impersonal-alternatives.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\impersonal-il.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\impersonal-se.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\impersonal-verbs.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\inclusive-writing.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\indefinite-articles.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\indefinite-pronouns.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\indefinite-quantity.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\indirect-command-request.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\indirect-question.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\indirect-questions.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\indirect-speech.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\infinitive.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\infinitive-after-adjective.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\infinitive-after-preposition.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\infinitive-after-verb.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\infinitive-complement.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\infinitive-control.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\infinitive-different-subjects.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\infinitive-past.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\infinitive-shared-subject.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\infinitive-subordination.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\informal-register.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\information-structure.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\interrogative-adverbs.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\intonation-contours.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\intransitive-verbs.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\inversion.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\inversion-information.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\inversion-outside-questions.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\inversion-questions.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\irregular-gender.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\irregular-plurals.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\irregular-verbs.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\joined-separated-writing.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\laisser-infinitive.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\lequel-agreement.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\lequel-laquelle-lesquels-lesquelles.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\lequel-prepositions.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\lexicalized-se.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\lexicalized-verb-constructions.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\liaison.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\literary-register.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\loanword-gender.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\loanword-pronunciation.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\loanwords-grammatical-adaptation.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\long-distance-dependencies.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\manner-clauses.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\mass-count-nouns.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\measure-intensity.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\measurement-units.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\meilleur-mieux.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\mettre.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\mille-million-milliard.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\modality-assumption.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\modality-desire.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\modality-necessity.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\modality-obligation.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\modality-permission.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\modality-possibility.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\modality-reported.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\money-amounts.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\mood-selection-subordinate.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\morpheme-stem-ending.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\movement-infinitive.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\movement-verbs-infinitive.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\multiple-antecedents-relative.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\multiple-embedding.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\multiple-negation.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\multiple-questions.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\narrative-temporal-perspective.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\nasal-vowels.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\ne-deletion.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\ne-dropping.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\ne-expletif.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\negation.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\negation-clitics.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\negation-compound-tenses.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\negation-imperative.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\negation-infinitive.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\negation-ne-aucun.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\negation-ne-jamais.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\negation-ne-nul.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\negation-ne-pas.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\negation-ne-personne.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\negation-ne-plus.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\negation-ne-rien.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\negation-scope.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\negative-determiners.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\negative-pronouns.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\neologism-variation.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\ne-que.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\nested-complement-clauses.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\nested-relative-clauses.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\neutral-register.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\ne-without-pas.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\ni-ni.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\nominalisation.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\nominal-predicate.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\nominal-suffixation.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\nominal-utterances.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\nonrestrictive-relatives.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\norm-vs-variation.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\noun-gender.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\noun-government.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\noun-group-expansion.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\noun-number.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\noun-phrase.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\null-subject-contrast.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\number-formats.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\number-markers-orthography.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\number-quantifier-agreement.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\object-pronoun-position.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\on-indefinite-subject.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\on-spoken.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\open-closed-vowels.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\opposition.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\oral-reductions.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\oral-syntax.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\ordinal-numerals.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\orthographic-homonymy.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\orthographic-reform-1990.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\orthographic-variation.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\ou-interrogative.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\ou-relatif.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\par.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\participe-passe.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\participe-present.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\participle-infinitive-agreement.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\partitive-articles.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\parts-of-speech.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\passe-anterieur.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\passe-compose.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\passe-compose-vs-aspect.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\passe-compose-vs-imparfait.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\passe-simple.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\passive.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\past-participle-avoir-agreement.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\past-participle-etre-agreement.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\past-tense-aspectual-values.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\percentage-agreement.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\percentages.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\perception-infinitive.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\perception-infinitive-complement.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\perception-verbs-infinitive.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\person-gender.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\personne-rien.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\phone-numbers.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\phrase-enonce.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\pire-plus-mauvais.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\plusieurs-certains-autres.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\plus-que-parfait.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\possession-body-clothes.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\possession-body-parts-clothes.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\possessive-determiners.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\posteriority.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\pour.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\pour-que-afin-que.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\pourquoi.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\pour-vs-par.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\pourvu-que.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\pouvoir.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\prefixation.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\prendre.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\prepositional-phrase.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\prepositional-que-clauses.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\preposition-infinitive.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\prepositions-a.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\prepositions-after-adjectives.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\prepositions-after-nouns.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\prepositions-after-verbs.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\prepositions-basics.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\prepositions-cities.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\prepositions-countries.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\prepositions-dans.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\prepositions-de.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\prepositions-en.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\prepositions-place.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\prepositions-time.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\prepositions-vs-cases.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\present.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\presentational-structures.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\presentatives.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\present-tense.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\previous-cod.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\profession-gender.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\pronominal-agreement.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\pronominal-participe-agreement.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\pronominal-participle-agreement.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\pronominal-verbs.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\pronominal-verbs-types.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\pronoun-order.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\pronoun-reference.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\pronouns-cod.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\pronouns-coi.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\pronouns-demonstrative.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\pronoun-shift-reported.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\pronouns-indefinite.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\pronouns-infinitive.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\pronouns-personal.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\pronouns-possessive.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\pronouns-subject.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\pronouns-toniques.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\pronoun-vs-determiner-indefinite.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\proper-person-names.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\prosody.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\punctuation.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\purpose.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\quand.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\quantifier-article.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\quantifiers.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\quantifier-scope.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\quantity-agreement.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\quantity-clauses.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\quebec-french.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\que-conjunction.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\que-interrogatif.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\quel-lequel.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\quelquun-quelque-chose.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\questions.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\questions-intonation.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\questions-prepositions.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\qui-interrogatif.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\qui-que-quoi-questions.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\qui-que-subject-object.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\quoi-interrogatif.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\quotation.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\quotation-punctuation.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\quoting.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\radical-termination.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\reading-rules.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\reciprocal-constructions.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\reciprocal-se.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\reflexive-causatives.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\reflexive-pronouns.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\regional-numerals.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\regional-oral-forms.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\regional-prepositions.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\regional-pronouns.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\regional-syntax.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\register-variation.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\register-variation-parameters.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\regular-plural.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\relative-after-compound-prepositions.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\relative-antecedent.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\relative-clauses.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\relative-clause-structure.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\relative-dont.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\relative-lequel.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\relative-ou.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\relative-prepositional-government.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\relative-pronouns.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\relative-que.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\relative-qui.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\relative-referent.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\relative-subjunctive.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\repetition.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\repetition-reformulation.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\reported-narrative.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\reported-sequence.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\reported-speech-conditionnel.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\reported-speech-modality.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\reported-speech-place-markers.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\reported-speech-pronoun-shift.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\reported-speech-sequence-of-tenses.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\reported-speech-time-markers.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\restriction-clauses.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\resultativity.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\rhetorical-questions.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\rien-personne-subject.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\sans-que.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\savoir.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\schwa.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\schwa-e-caduc.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\scope-interpretation.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\second-group-ir.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\semantic-gender.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\semivowels.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\sentence-structure.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\sequence-of-tenses.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\si-clauses.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\si-conjunction.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\silent-final-consonants.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\silent-final-vowels.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\simultaneity.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\singular-plural.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\spatial-markers-reported.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\spoken-disfluency.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\spoken-ne-dropping.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\spoken-questions.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\standard-french-france.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\standard-regional-nonstandard.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\standard-spoken-french.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\standard-written-french.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\stress-prosody.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\structural-ambiguity.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\subject-dislocation.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\subject-predicate.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\subject-predicate-object.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\subject-verb-agreement.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\subjonctif.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\subjonctif-contrast.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\subordinate-after-adjective.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\subordinate-after-noun.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\subordinate-after-verb.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\subordinating-conjunctions.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\subordination.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\substantivation-noun.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\substantivized-adjectives.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\suffisamment-de.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\superlative-le-plus-moins.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\sur-sous.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\svo-word-order.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\swiss-french.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\syllable-structure.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\tellement-tant-de.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\temporal-agreement-subordinate.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\temporal-concordance.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\temporal-conjunctions.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\temporal-markers-reported.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\tense-aspect-mood-modality.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\tense-selection-subordinate.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\tense-vs-aspect.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\tense-vs-aspect-ukrainian.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\t-euphonique.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\theme-rheme.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\third-group.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\time-clauses.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\topicalization.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\tout-tous-toutes-pronouns.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\traditional-reformed-spelling.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\transitivity.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\trop-assez-de.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\two-auxiliaries.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\up-other-prepositions.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\variation-vs-error.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\venir-tenir.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\verbalisation.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\verbal-periphrases.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\verb-endings-pronunciation.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\verb-government.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\verb-group-expansion.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\verb-groups.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\verbless-nominal-utterances.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\verb-morphophonology.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\verb-orthographic-alternations.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\verb-patterns-ir-oir-re.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\verb-phrase.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\verbs-prepositions.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\verbs-two-objects.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\verb-types.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\verb-valency.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\vers-envers.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\vingt-cent.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\voir-croire.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\vouloir.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\vowels-consonants.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\word-lemma.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\word-order.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\word-order-contrast.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\written-spoken-contrast.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\y-a-chose.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\y-en.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\y-en-cod-coi.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\y-en-combination.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\y-en-contrast.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\y-en-infinitive.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\y-en-spoken.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\y-functions.md
+F:\GitHub\Grammars\French Grammar\src\content\fr\y-location.md
+=== POSSIBLE DUPLICATE BASENAMES ===
+
+
+FullName                                                               
+--------                                                               
+F:\GitHub\Grammars\French Grammar\src\pages\fr\index.astro             
+F:\GitHub\Grammars\French Grammar\src\pages\fr\[category]\index.astro  
+F:\GitHub\Grammars\French Grammar\src\pages\fr\[category]\[topic].astro
+
+
+=== CATEGORY REFERENCES IN SITE ===
+F:\GitHub\Grammars\French Grammar\src\data\categories.mjs:3: export const categories = [
+F:\GitHub\Grammars\French Grammar\src\data\categories.mjs:27: export function getCategory(key) {
+F:\GitHub\Grammars\French Grammar\src\data\categories.mjs:28: return categories.find((c) => c.key === key);
+F:\GitHub\Grammars\French Grammar\src\data\categories.mjs:31: export const categoryAliases = {
+F:\GitHub\Grammars\French Grammar\src\data\categories.mjs:55: * Shared taxonomy layer. The category key remains stable for URLs/content,
+F:\GitHub\Grammars\French Grammar\src\data\categories.mjs:59: export const categoryLayers = {
+F:\GitHub\Grammars\French Grammar\src\layouts\MarkdownPage.astro:2: import { getCategory } from '../data/categories.mjs';
+F:\GitHub\Grammars\French Grammar\src\layouts\MarkdownPage.astro:13: const cat = getCategory(data.category);
+F:\GitHub\Grammars\French Grammar\src\layouts\MarkdownPage.astro:18: ...(cat ? [{ label: cat.uk, href: '/fr/' + data.category + '/' }] : []),
+F:\GitHub\Grammars\French Grammar\src\lib\pages.mjs:6: * Astro entry IDs may be plain filenames or category/filename paths.
+F:\GitHub\Grammars\French Grammar\src\lib\pages.mjs:16: export function sectionsFor(all, categories) {
+F:\GitHub\Grammars\French Grammar\src\lib\pages.mjs:17: return categories
+F:\GitHub\Grammars\French Grammar\src\lib\pages.mjs:22: .filter((e) => e.data.category === c.key)
+F:\GitHub\Grammars\French Grammar\src\lib\pages.mjs:24: href: '/fr/' + e.data.category + '/' + slugFromId(e.id) + '/',
+F:\GitHub\Grammars\French Grammar\src\lib\pages.mjs:35: counts[e.data.category] = (counts[e.data.category] || 0) + 1;
+F:\GitHub\Grammars\French Grammar\src\lib\pages.mjs:40: export function topicsFor(all, category) {
+F:\GitHub\Grammars\French Grammar\src\lib\pages.mjs:42: .filter((e) => e.data.category === category)
+F:\GitHub\Grammars\French Grammar\src\lib\pages.mjs:47: href: '/fr/' + category + '/' + slugFromId(e.id) + '/',
+F:\GitHub\Grammars\French Grammar\src\lib\pages.mjs:58: * Resolve both current canonical slug references and legacy category/slug references.
+F:\GitHub\Grammars\French Grammar\src\lib\pages.mjs:60: * their explicit category constraint for backward compatibility.
+F:\GitHub\Grammars\French Grammar\src\lib\pages.mjs:62: export function relatedFor(all, category, refs) {
+F:\GitHub\Grammars\French Grammar\src\lib\pages.mjs:73: return all.find((e) => slugFromId(e.id) === rslug && e.data.category === rcat);
+F:\GitHub\Grammars\French Grammar\src\lib\pages.mjs:80: href: '/fr/' + e.data.category + '/' + slugFromId(e.id) + '/',
+F:\GitHub\Grammars\French Grammar\src\pages\fr\[category]\index.astro:2: import { getCollection } from 'astro:content';
+F:\GitHub\Grammars\French Grammar\src\pages\fr\[category]\index.astro:3: import { categories, getCategory } from '../../../data/categories.mjs';
+F:\GitHub\Grammars\French Grammar\src\pages\fr\[category]\index.astro:12: const all = await getCollection('fr');
+F:\GitHub\Grammars\French Grammar\src\pages\fr\[category]\index.astro:13: const used = [...new Set(all.map((e) => e.data.category))];
+F:\GitHub\Grammars\French Grammar\src\pages\fr\[category]\index.astro:14: return used.map((categoryKey) => ({
+F:\GitHub\Grammars\French Grammar\src\pages\fr\[category]\index.astro:15: params: { category: categoryKey },
+F:\GitHub\Grammars\French Grammar\src\pages\fr\[category]\index.astro:16: props: { categoryKey },
+F:\GitHub\Grammars\French Grammar\src\pages\fr\[category]\index.astro:20: const { categoryKey } = Astro.props;
+F:\GitHub\Grammars\French Grammar\src\pages\fr\[category]\index.astro:21: const all = await getCollection('fr');
+F:\GitHub\Grammars\French Grammar\src\pages\fr\[category]\index.astro:22: const cat = getCategory(categoryKey);
+F:\GitHub\Grammars\French Grammar\src\pages\fr\[category]\index.astro:23: const sections = sectionsFor(all, categories);
+F:\GitHub\Grammars\French Grammar\src\pages\fr\[category]\index.astro:24: const section = sections.find((s) => s.id === 'h-' + categoryKey);
+F:\GitHub\Grammars\French Grammar\src\pages\fr\[category]\index.astro:39: <title>{cat ? cat.uk : categoryKey} — Французька граматика</title>
+F:\GitHub\Grammars\French Grammar\src\pages\fr\[category]\[topic].astro:2: import { getCollection, render } from 'astro:content';
+F:\GitHub\Grammars\French Grammar\src\pages\fr\[category]\[topic].astro:7: const all = await getCollection('fr');
+F:\GitHub\Grammars\French Grammar\src\pages\fr\[category]\[topic].astro:10: category: entry.data.category,
+F:\GitHub\Grammars\French Grammar\src\pages\fr\[category]\[topic].astro:19: const relatedEntries = relatedFor(allEntries, entry.data.category, entry.data.related || []);
+F:\GitHub\Grammars\French Grammar\src\pages\fr\index.astro:2: import { getCollection } from 'astro:content';
+F:\GitHub\Grammars\French Grammar\src\pages\fr\index.astro:3: import { categories } from '../../data/categories.mjs';
+F:\GitHub\Grammars\French Grammar\src\pages\fr\index.astro:10: const all = await getCollection('fr');
+F:\GitHub\Grammars\French Grammar\src\pages\fr\index.astro:11: const sections = sectionsFor(all, categories);
+F:\GitHub\Grammars\French Grammar\src\pages\fr\index.astro:36: const cat = categories.find((c) => c.key === s.id.replace('h-', ''));
+F:\GitHub\Grammars\French Grammar\src\pages\fr\index.astro:38: <section key={s.id} class="category-section">
+F:\GitHub\Grammars\French Grammar\src\pages\index.astro:2: import { getCollection } from 'astro:content';
+F:\GitHub\Grammars\French Grammar\src\pages\index.astro:6: import { categories } from '../data/categories.mjs';
+F:\GitHub\Grammars\French Grammar\src\pages\index.astro:8: const all = await getCollection('fr');
+F:\GitHub\Grammars\French Grammar\src\pages\index.astro:11: catCounts[e.data.category] = (catCounts[e.data.category] || 0) + 1;
+F:\GitHub\Grammars\French Grammar\src\pages\index.astro:39: <div class="category-grid">
+F:\GitHub\Grammars\French Grammar\src\pages\index.astro:40: {categories.map((cat) => {
+F:\GitHub\Grammars\French Grammar\src\pages\index.astro:43: <div class="category-card">
+F:\GitHub\Grammars\French Grammar\src\pages\index.astro:45: <span class="category-name">{cat.uk}</span>
+F:\GitHub\Grammars\French Grammar\src\pages\index.astro:46: <span class="category-desc">{cat.description}</span>
+F:\GitHub\Grammars\French Grammar\src\pages\index.astro:47: <span class="category-count">{count} тем</span>
+F:\GitHub\Grammars\French Grammar\src\content.config.ts:30: category: z.string(),
+=== BUILD RESULT ===
+ 
+ >   f r e n c h - g r a m m a r - r e f e r e n c e @ 0 . 1 . 0   b u i l d  
+ >   a s t r o   b u i l d   & &   p a g e f i n d   - - s i t e   d i s t  
+  
+  [ 2 m 2 1 : 4 8 : 0 6  [ 2 2 m    [ 3 4 m [ c o n t e n t ]  [ 3 9 m   S y n c i n g   c o n t e n t  
+ n o d e . e x e   :    [ 3 1 m [ I n v a l i d C o n t e n t E n t r y D a t a E r r o r ]  [ 3 9 m    [ 1 m f r   B"  c o m p l e x - a g r e e m e n t  [ 2 2 m   d a t a   d o e s   n o t   m a t c h   c o l l e c t i o n   s c h e m a .  
+ A t   l i n e : 1   c h a r : 1  
+ +   &   " C : \ P r o g r a m   F i l e s \ n o d e j s / n o d e . e x e "   " C : \ P r o g r a m   F i l e s \ n o d e j s / n o d e _ m o   . . .  
+ +   ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~  
+         +   C a t e g o r y I n f o                     :   N o t S p e c i f i e d :   (  [ 3 1 m [ I n v a l i d C o . . . l e c t i o n   s c h e m a . : S t r i n g )   [ ] ,   R e m o t e E x c e p t i o n  
+         +   F u l l y Q u a l i f i e d E r r o r I d   :   N a t i v e C o m m a n d E r r o r  
+    
+  
+      [ 1 m t i t l e _ u k * * :   * * t i t l e _ u k  [ 2 2 m :   R e q u i r e d  
+      [ 1 m t i t l e _ f r * * :   * * t i t l e _ f r  [ 2 2 m :   R e q u i r e d  
+      [ 1 m d e s c r i p t i o n _ u k * * :   * * d e s c r i p t i o n _ u k  [ 2 2 m :   R e q u i r e d  
+      [ 1 m c a t e g o r y * * :   * * c a t e g o r y  [ 2 2 m :   R e q u i r e d  
+  
+      [ 1 m H i n t :  [ 2 2 m  
+  [ 3 3 m         S e e    [ 4 m h t t p s : / / d o c s . a s t r o . b u i l d / e n / g u i d e s / c o n t e n t - c o l l e c t i o n s /  [ 2 4 m   f o r   m o r e   i n f o r m a t i o n   o n   c o n t e n t   s c h e m a s .  [ 3 9 m  
+      [ 1 m E r r o r   r e f e r e n c e :  [ 2 2 m  
+          [ 3 6 m  [ 4 m h t t p s : / / d o c s . a s t r o . b u i l d / e n / r e f e r e n c e / e r r o r s / i n v a l i d - c o n t e n t - e n t r y - d a t a - e r r o r /  [ 2 4 m  [ 3 9 m  
+      [ 1 m L o c a t i o n :  [ 2 2 m  
+          [ 4 m F : \ G i t H u b \ G r a m m a r s \ F r e n c h   G r a m m a r \ s r c \ c o n t e n t \ f r \ c o m p l e x - a g r e e m e n t . m d : 0 : 0  [ 2 4 m  
+      [ 1 m S t a c k   t r a c e :  [ 2 2 m  
+  [ 2 m         a t   g e t E n t r y D a t a A n d I m a g e s   ( f i l e : / / / F : / G i t H u b / G r a m m a r s / F r e n c h % 2 0 G r a m m a r / n o d e _ m o d u l e s / a s t r o / d i s t / c o n t e n t / u t i l s . j s : 1 6 8 : 2 6 )  
+         a t   a s y n c   s y n c D a t a   ( f i l e : / / / F : / G i t H u b / G r a m m a r s / F r e n c h % 2 0 G r a m m a r / n o d e _ m o d u l e s / a s t r o / d i s t / c o n t e n t / l o a d e r s / g l o b . j s : 9 4 : 2 8 )  [ 2 2 m  
+ A s s e r t i o n   f a i l e d :   ! ( h a n d l e - > f l a g s   &   U V _ H A N D L E _ C L O S I N G ) ,   f i l e   s r c \ w i n \ a s y n c . c ,   l i n e   9 4  
+ 
+=== FINAL GIT STATUS ===
+?? site-category-qa-20260926-214542.txt
+
+=== FINAL COMMIT ===
+7fb594d0e9f83696360f50adb128a89e827aa6d9
+
+=== FINAL CATEGORY LIST ===
+adjectives
+adverbs
+agreement
+comparison
+complex
+complex-sentences
+conjunctions
+determiners
+discourse
+fundamentals
+indirect
+modality
+moods
+negation
+nouns
+numbers
+orthography
+phonology
+prepositions
+pronouns
+punctuation
+quantification
+questions
+register
+relative
+relative-clauses
+semantics
+sentences
+spoken
+syntax
+tense-aspect
+tenses
+variation
+verbs
+y, en та інші замісні форми
+Артиклі та детермінативи
+Базові поняття
+Варіантність і регістр
+Вказівні, вказівні та неозначені займенники
+Вказівні, присвійні та неозначені займенники
+Дискурс і регістр
+Дієслово
+Займенники
+Заперечення
+Іменник
+Контрастивна граматика
+Метамова і базові поняття
+Орфографія та вимова
+Орфографія та ортотипографія
+Особові та тонічні займенники
+Питальні та відносні займенники
+Питання
+Підрядність
+Прийменники
+Прикметник
+Синтаксис
+Словотвір і лексика
+Сполучники
+Структура речення
+Узгодження
+Фонологія, графіка і вимова
