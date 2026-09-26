@@ -567,3 +567,88 @@ Canonical scope: **740 topic IDs**.
 Номінальна арифметична різниця `740 - 371 = 369` не є точним remaining count, оскільки repository допускає багато-to-one і one-to-many mapping між topic IDs та статтями. Для справжнього remaining count потрібен повний machine-readable manifest coverage, а не порівняння кількості файлів.
 
 **Окремий milestone:** останній canonical block **FR-719–FR-740 закрито coverage-рішеннями**.
+
+
+## B14 — Advanced syntax coverage deepening: FR-679–FR-688
+
+Після закриття FR-719–FR-740 проведено наступний coverage pass по блоку розширених конструкцій **FR-679–FR-695**. Ціль — не штучно збільшити кількість файлів, а зробити вже наявне покриття достатньо глибоким для універсального довідника.
+
+### Переписано / поглиблено
+
+- `src/content/fr/reciprocal-constructions.md` — **FR-679, FR-681**
+  - розведено reciprocal ↔ reflexive;
+  - додано аналіз COD/COI через валентність дієслова;
+  - показано взаємність без `se`;
+  - пов'язано з accord du participe passé.
+
+- `src/content/fr/reflexive-causatives.md` — **FR-680**
+  - розведено каузативний та внутрішній предикати;
+  - пояснено роль `se` у внутрішній конструкції;
+  - додано contrast causative ↔ passive;
+  - уточнено clitic analysis.
+
+- `src/content/fr/coordination-unlike-categories.md` — **FR-682**
+  - перенесено фокус із «однакова частина мови» на constituent/function;
+  - розведено coordination ↔ ellipsis ↔ simple adjacency;
+  - додано зв'язок із valency.
+
+- `src/content/fr/multiple-negation.md` — **FR-683**
+  - систематизовано кілька негативних операторів;
+  - уточнено scope;
+  - розведено `ne ... que` та звичайне заперечення;
+  - уточнено взаємодію з clitics.
+
+- `src/content/fr/multiple-embedding.md` — **FR-685**
+  - показано кілька рівнів complétive/relative;
+  - розведено синтаксичну вкладеність і часову/модальну інтерпретацію;
+  - додано алгоритм структурного читання довгих речень.
+
+- `src/content/fr/nested-relative-clauses.md` — **FR-686**
+  - систематизовано antecedent + function для кожного relative marker;
+  - додано nested relative у complétive;
+  - посилено accord через вкладені структури;
+  - окремо враховано читабельність глибокої вкладеності.
+
+- `src/content/fr/nested-complement-clauses.md` — **FR-687**
+  - розведено рівні залежності `que`;
+  - уточнено tense/mood у вкладених complétives;
+  - додано reported speech і дейктичні центри.
+
+- `src/content/fr/long-distance-dependencies.md` — **FR-688**
+  - показано далекі relative dependencies;
+  - додано відновлення базової структури;
+  - пов'язано dependency ↔ agreement ↔ antecedent.
+
+### Academic Writing Toolkit QA
+
+Усі 8 переписаних сторінок перевірено через `review_paragraph_logic`.
+
+**Результат: 0 issues** за результатом інструмента для кожної з 8 сторінок.
+
+Це кращий результат, ніж у попередніх великих grammar batches: структура сторінок була свідомо перебудована так, щоб пояснювальні абзаци не перетворювалися на послідовність надто коротких фрагментів.
+
+### Методичний результат
+
+Блок FR-679–FR-688 тепер утворює пов'язану систему:
+
+`reciprocal/reflexive → causative → coordination → negation → embedding → nested relatives/complements → long-distance dependencies`.
+
+Це важливо для canonical coverage: ці теми не є ізольованими довідковими картками, а формують один граф складного синтаксичного аналізу.
+
+### Лічильник
+
+На початку B14: **371 Markdown-стаття**.
+
+Створено нових файлів: **0**.
+
+Переписано / поглиблено: **8 статей**.
+
+Поточна кількість Markdown-файлів: **371**.
+
+Canonical scope: **740 topic IDs**.
+
+Як і раніше, `740 - 371 = 369` **не є точним remaining count**, оскільки canonical topic і Markdown-файл мають не один-до-одного відповідність. Для справжнього лічильника «скільки canonical topics залишилось» потрібен machine-readable coverage manifest.
+
+### Наступний крок
+
+Продовжити coverage audit у попередніх блоках canonical taxonomy, але спочатку перевіряти існуюче покриття й якість сторінки. Нову статтю створювати лише тоді, коли topic справді не має достатнього вузла; інакше canonical ID слід закріплювати за наявною статтею або секцією.
