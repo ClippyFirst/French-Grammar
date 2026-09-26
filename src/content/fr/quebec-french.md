@@ -6,7 +6,7 @@ canonical_ids: ["FR-655"]
 level: B2
 category: "Варіантність і регістр"
 register: neutral
-variety: [FR-CA]
+variety: [QC]
 status: review
 contrastive_uk: high
 formula: false
