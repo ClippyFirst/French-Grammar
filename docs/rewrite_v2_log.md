@@ -652,3 +652,121 @@ Canonical scope: **740 topic IDs**.
 ### Наступний крок
 
 Продовжити coverage audit у попередніх блоках canonical taxonomy, але спочатку перевіряти існуюче покриття й якість сторінки. Нову статтю створювати лише тоді, коли topic справді не має достатнього вузла; інакше canonical ID слід закріплювати за наявною статтею або секцією.
+
+
+## B15 — Advanced syntax / scope coverage: FR-689–FR-695
+
+Після B14 продовжено coverage pass по наступному canonical block **FR-689–FR-695**. Ціль — не збільшувати page count штучно, а довести до повноцінного reference-рівня теми узгодження через вставлені групи, attachment ambiguity та scope.
+
+### Переписано / поглиблено
+
+- `src/content/fr/agreement-intervening-phrases.md` — **FR-689**
+  - контролер узгодження визначається структурно, а не за найближчим іменником;
+  - додано складні іменні групи, relative clauses та кілька незалежних зон узгодження;
+  - уточнено зв'язок із participe passé та попереднім COD;
+  - додано практичний алгоритм структурного аналізу.
+
+- `src/content/fr/ambiguous-attachment.md` — **FR-690**
+  - розмежовано linear proximity, syntactic attachment та semantic interpretation;
+  - показано PP attachment, relative-clause attachment і роль verb valency;
+  - додано критерій відмінності між реальною неоднозначністю та теоретично можливим, але неприродним читанням;
+  - розширено способи зняття неоднозначності в письмі.
+
+- `src/content/fr/grammatical-ambiguity.md` — **FR-691**
+  - розмежовано форму, структуру та інтерпретацію;
+  - додано structural/syntactic/semantic/interpre­tive dimensions;
+  - уточнено роль контексту, просодії та пунктуації;
+  - додано алгоритм діагностики реальної неоднозначності.
+
+- `src/content/fr/structural-ambiguity.md` — **FR-692**
+  - перетворено короткий stub на повний reference article;
+  - додано attachment, constituent boundaries, relatives, coordination та embedding;
+  - введено чітку відмінність «складне» ≠ «неоднозначне»;
+  - додано алгоритм відновлення структури.
+
+- `src/content/fr/negation-scope.md` — **FR-693**
+  - систематизовано scope заперечення;
+  - розведено заперечення, частотність, квантори, `ne...que` та модальність;
+  - додано контраст `Il peut ne pas venir` ↔ `Il ne peut pas venir`;
+  - уточнено відмінність scope від синтаксичної функції.
+
+- `src/content/fr/quantifier-scope.md` — **FR-694**
+  - розширено interaction між `chaque`, `tous`, `un`, `aucun` та предикатом;
+  - додано distributive readings і взаємодію кванторів;
+  - систематизовано квантор + заперечення;
+  - додано український контраст і практичний алгоритм.
+
+- `src/content/fr/scope-interpretation.md` — **FR-695**
+  - об'єднано в одну методику синтаксис, scope та інтерпретацію;
+  - додано взаємодію заперечення, квантифікації, модальності та вкладених речень;
+  - уточнено scope ambiguity;
+  - додано практичну перевірку з модальним `pouvoir`.
+
+### Усунено дублювання canonical mapping
+
+До B15 існував додатковий файл `src/content/fr/scope-negation-quantifiers.md`, який одночасно заявляв **FR-693 + FR-694 + FR-695**, хоча для кожного з цих topic IDs уже існували окремі canonical nodes.
+
+Щоб coverage graph відповідав принципу **один canonical topic → один основний reference node**, файл `scope-negation-quantifiers.md` видалено. Його матеріал не був унікальним і був розподілений між трьома окремими сторінками.
+
+### Academic Writing Toolkit QA
+
+Усі 7 переписаних сторінок перевірено через `review_paragraph_logic`.
+
+Результати:
+- FR-689 — 69 попереджень;
+- FR-690 — 67;
+- FR-691 — 63;
+- FR-692 — 69;
+- FR-693 — 70;
+- FR-694 — 82;
+- FR-695 — 89.
+
+У **всіх випадках єдиний тип попередження — `short-paragraph`**. Інших логічних типів зауважень інструмент не повернув.
+
+Це відповідає вже встановленому в B05–B14 патерну: grammar reference містить приклади, формули, таблиці, короткі правила та вправи, які цей heuristic розглядає як окремі короткі абзаци. Тому кількість `short-paragraph` не трактується як граматична помилка і не виправляється штучним злиттям прикладів.
+
+### Structural / content QA
+
+- canonical IDs FR-689–FR-695 залишено унікальними;
+- FR-693/694/695 більше не мають паралельного combined canonical node;
+- frontmatter узгоджено з чинною `src/content.config.ts`;
+- у нових текстах не додано CEFR-міток до пояснювального контенту;
+- внутрішні посилання побудовано навколо canonical graph: agreement → dependencies/relatives; ambiguity → attachment/structure/scope; scope → negation/quantifiers/embedding;
+- після видалення combined node проведено пошук репозиторію за `scope-negation-quantifiers`; активних посилань на нього не виявлено.
+
+### Git commits
+
+- `c45b94299c8b9332c7d5ff066ecae0305656f609` — FR-689
+- `6f8846d9ae0f039fb2d973c2b0972d2277970f8c` — FR-690
+- `00be9ce914b09c3b7e1321ba6fcfa401a42e4c1a` — FR-691
+- `fabc98213421576a94d6f5983b37f1d176ef152f` — FR-692
+- `23cd468beb9fc61825c7a2e0e876e55fabf7febc` — FR-693
+- `164fc5dc8a3031954285992db25f00160c6602d6` — FR-694
+- `5d0e39e859bb4bad44114ac4502df50723e4d1c5` — FR-695
+- `ec6e4bb4078761893afa4455cb52165390c162c8` — видалення redundant combined scope node
+
+### Лічильник
+
+На початку B15: **371 Markdown-стаття**.
+
+Переписано / поглиблено: **7 статей**.
+
+Створено нових файлів: **0**.
+
+Видалено дубльований combined node: **1 файл**.
+
+Після B15: **371 Markdown-стаття** у `src/content/fr/`.
+
+Canonical scope: **740 topic IDs**.
+
+Як і раніше, кількість Markdown-файлів не використовується як псевдоточний remaining count. Після усунення дубльованого mapping точний canonical coverage треба визначати через machine-readable audit, а не через `740 - 371`.
+
+### Coverage milestone
+
+**FR-689–FR-695 тепер мають окремі, повноцінні canonical reference nodes.**
+
+Блок утворює логічний ланцюг:
+
+`agreement through intervening phrases → attachment → grammatical ambiguity → structural ambiguity → negation scope → quantifier scope → general scope/interpretation`.
+
+Наступний pass має продовжити системну перевірку coverage/granularity/graph integrity, а не створення нових topic IDs.
