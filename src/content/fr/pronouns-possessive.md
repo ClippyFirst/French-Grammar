@@ -17,6 +17,7 @@ contrastive_uk: high
 status: review
 sources:
   - "Académie française, Questions de langue"
+canonical_ids: ["FR-186", "FR-187"]
 ---
 
 # Присвійні займенники
