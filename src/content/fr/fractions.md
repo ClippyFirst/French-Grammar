@@ -166,4 +166,3 @@ toc: true
 - [Кількісні числівники](./cardinal-numerals)
 - [Відсотки](./percentages)
 - [Тривалість](./duration)
-- [Одиниці вимірювання](./measurements)
