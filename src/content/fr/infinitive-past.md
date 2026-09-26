@@ -4,7 +4,7 @@ title_fr: "L'infinitif passé"
 description_uk: "Системний довідник про infinitif passé: avoir/être + participe passé, часову попередність, керування та узгодження."
 category: verbs
 order: 84
-canonical_ids: [FR-316]
+canonical_ids: ["FR-316"]
 prerequisites: [infinitive, passe-compose]
 related: [participe-passe, auxiliary-verbs, temporal-conjunctions]
 contrast: [infinitive-present]
