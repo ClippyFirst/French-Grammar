@@ -68,7 +68,6 @@ test('parseStatus normalizes legacy status values', () => {
   assert.equal(parseStatus('status: deprecated'), 'deprecated');
 });
 
-
 test('auditCanonicalCoverage detects a non-contiguous canonical catalog', () => {
   const result = auditCanonicalCoverage({
     catalogIds: ['FR-001', 'FR-003'],
@@ -89,6 +88,6 @@ test('parseCatalogIds ignores historical audit bullet lists outside the live cat
     '# 2. Audit history',
     '',
     '- FR-999 Historical note',
-  ].join('\\n');
+  ].join('\n');
   assert.deepEqual(parseCatalogIds(source), ['FR-001', 'FR-002']);
 });
