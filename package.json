@@ -11,7 +11,8 @@
     "astro": "astro",
     "pagefind": "pagefind",
     "test": "node --test",
-    "audit:canonical": "node scripts/audit-canonical-coverage.mjs"
+    "audit:canonical": "node scripts/audit-canonical-coverage.mjs",
+    "audit:canonical:matrix": "node scripts/generate-canonical-matrix.mjs"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.2.1",
