@@ -33,6 +33,7 @@ reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+canonical_ids: ["FR-215", "FR-216", "FR-217", "FR-218", "FR-219", "FR-220", "FR-221", "FR-222", "FR-223", "FR-224", "FR-225", "FR-226", "FR-227", "FR-228", "FR-229", "FR-230", "FR-231", "FR-232", "FR-233", "FR-234", "FR-235", "FR-236"]
 ---
 
 # Прислівники
