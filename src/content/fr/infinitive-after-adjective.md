@@ -1,11 +1,11 @@
 ---
 title_uk: "Інфінітив після прикметника"
 title_fr: "L’infinitif après un adjectif"
-description_uk: "Коли французький прикметник керує інфінітивом, як працюють à та de і як розрізняти особову та безособову конструкції."
+description_uk: "Коли прикметник керує інфінітивом, як працюють à та de і як відрізняються особова, безособова та об’єктна конструкції."
 category: adjectives
 canonical_ids: ["FR-509"]
 prerequisites: ["infinitive", "adjective-position"]
-related: ["verbs-prepositions", "infinitive-complement", "impersonal-verbs"]
+related: ["infinitive-complement", "verbs-prepositions", "impersonal-verbs", "adjective-agreement"]
 contrast: ["subordination"]
 next: ["infinitive-after-preposition"]
 aliases: ["adjectif + infinitif", "infinitif après adjectif"]
@@ -23,126 +23,228 @@ sources:
 formula: true
 toc: true
 featured: false
-
 ---
 
 ## Швидка відповідь
 
-Прикметник може керувати інфінітивом, найчастіше через **de** або **à**:
+Прикметник може керувати інфінітивною конструкцією. Найчастіше зустрічаються моделі **adjectif + de + infinitif** та **adjectif + à + infinitif**, але вони не взаємозамінні.
 
-- *Je suis heureux de venir.* — Я радий прийти.
+- *Je suis heureux de vous voir.* — Я радий вас бачити.
 - *Elle est prête à partir.* — Вона готова піти.
 - *Il est difficile de comprendre.* — Важко зрозуміти.
 - *Ce texte est facile à lire.* — Цей текст легко читати.
 
-Прийменник не вибирається довільно: він є частиною конструкції.
+Вибір залежить від конкретної конструкції та її синтаксичного значення.
 
-## 1. Прикметник + de + infinitif
+## 1. Adjectif + de + infinitif
 
-Часті моделі:
+Частими є моделі:
 
-*heureux de*, *triste de*, *fier de*, *content de*, *capable de*, *certain de*, *désolé de*, *ravi de*.
+- *heureux de faire*;
+- *content de faire*;
+- *fier de faire*;
+- *désolé de faire*;
+- *surpris de faire*;
+- *capable de faire*.
 
-Приклади:
+> *Elle est heureuse de venir.*
 
-- *Je suis heureux de vous rencontrer.*
-- *Elle est fière d’avoir réussi.*
-- *Nous sommes capables de résoudre le problème.*
-- *Il est désolé d’être arrivé en retard.*
+→ Вона рада прийти.
 
-## 2. Прикметник + à + infinitif
+> *Il est capable de résoudre le problème.*
 
-Особливо характерні:
+→ Він здатний розв’язати проблему.
 
-*prêt à*, *apte à*, *disposé à*, *difficile à*, *facile à*, *agréable à*.
+Прийменник *de* тут є частиною моделі прикметника.
 
-Приклади:
+## 2. Adjectif + à + infinitif
 
-- *Ils sont prêts à commencer.*
-- *Ce problème est difficile à résoudre.*
-- *La machine est facile à utiliser.*
+Інші прикметники вживаються з *à*:
 
-У конструкції *Ce livre est facile à lire* підмет *ce livre* семантично пов’язаний з об’єктною роллю *lire*: «книгу легко читати».
+- *prêt à faire*;
+- *apte à faire*;
+- *habile à faire*;
+- *facile à comprendre*;
+- *difficile à expliquer*.
 
-## 3. Безособова модель
+> *Elle est prête à partir.*
 
-Дуже поширена конструкція:
+→ Вона готова піти.
 
-```text
-Il est + adjectif + de + infinitif
-```
+> *Ce texte est facile à comprendre.*
 
-Наприклад:
+→ Цей текст легко зрозуміти.
 
-- *Il est important de comprendre cette différence.*
-- *Il est nécessaire de vérifier les données.*
-- *Il est impossible de tout prévoir.*
-- *Il est difficile de répondre immédiatement.*
+Не слід трактувати *à* як звичайний прийменник напрямку.
 
-Тут *il* є формальним підметом безособової конструкції, а інфінітивна група передає зміст оцінки.
-
-## 4. Особова та безособова конструкції
+## 3. Чому de та à не можна вільно міняти
 
 Порівняй:
 
-*Il est difficile de comprendre ce texte.*  
-→ Важко зрозуміти цей текст.
+> *Je suis heureux de partir.*
 
-*Paul est heureux de comprendre ce texte.*  
-→ Поль радий, що розуміє цей текст.
+> *Je suis prêt à partir.*
 
-У першому випадку прикметник оцінює ситуацію загалом; у другому — стан конкретного учасника.
+Український переклад обох може містити інфінітив, але французьке керування різне.
 
-## 5. Семантичний суб’єкт
+Так само:
 
-У *Je suis heureux de venir* суб’єкт *je* є також виконавцем *venir*.
+> *Il est capable de le faire.*
 
-У *Je suis heureux de te voir* суб’єкт головного речення — *je*, але суб’єкт інфінітива *voir* також відновлюється як *je*, тоді як *te* — його об’єкт.
+> *Il est apte à le faire.*
 
-Це показує, чому не слід визначати суб’єкта інфінітива лише за наявністю займенника поруч.
+Тому корисно запам’ятовувати блоки **heureux de + infinitif**, **prêt à + infinitif**, **capable de + infinitif**.
 
-## 6. Прикметник і пасивна інтерпретація
+## 4. Хто виконує інфінітивну дію?
 
-*Le texte est difficile à comprendre* не означає, що текст сам «розуміє». Прикметник оцінює дію щодо цього об’єкта:
+У:
 
-«текст важко зрозуміти».
+> *Marie est heureuse de partir.*
 
-Порівняй:
+найприродніше *Marie* є і носієм емоції, і виконавицею *partir*.
 
-*Paul est difficile à comprendre.*  
-→ Поля важко зрозуміти / важко збагнути Поля.
+Але в:
 
-Така конструкція допускає різні семантичні ролі залежно від прикметника та контексту.
+> *Ce livre est difficile à lire.*
 
-## 7. Після прикметника не завжди infinitif
+книга не читає сама себе. Інфінітив стосується особи, яка читає книгу.
 
-Прикметник може керувати особовою підрядною конструкцією:
+Це принципово важливо: не можна автоматично приписувати інфінітиву того самого суб’єкта, що й прикметнику.
 
-*Je suis heureux que tu sois là.*  
-→ Я радий, що ти тут.
+## 5. Особова та об’єктна конструкції
 
 Порівняй:
 
-*Je suis heureux de te voir.*  
-*Je suis heureux que tu sois là.*
+> *Paul est heureux de venir.*
 
-Перше речення має інфінітив, друге — *que* + особову форму.
+→ Поль радий прийти.
 
-## 8. Типові помилки
+> *Ce livre est difficile à lire.*
 
-Не змішуй:
+→ Цю книгу важко читати.
 
-- *être prêt à partir*;
-- *être heureux de partir*;
-- *être capable de partir*.
+У першому реченні підмет є носієм стану та типовим виконавцем інфінітива. У другому підмет є об’єктом оцінки, а виконавець читання не виражений.
 
-Не став *que* перед інфінітивом:
+Тому конструкції з *à* особливо важливо аналізувати за семантичними ролями.
 
-*Il est important de comprendre.*  
-не *Il est important que comprendre.*
+## 6. Особливий контраст facile / difficile
 
-Але *Il est important que tu comprennes* — правильна особова конструкція з іншим суб’єктом.
+Порівняй:
 
-## Висновок
+> *Ce livre est facile à lire.*
 
-Для прикметникових конструкцій корисно запам’ятовувати **прикметник + його модель керування**. Окремо треба розрізняти особові конструкції (*que + subjonctif/indicatif*) та інфінітивні (*de/à + infinitif*).
+> *Il est facile de lire ce livre.*
+
+Обидві конструкції говорять про легкість читання, але синтаксична організація різна.
+
+У першій *ce livre* є тим, що оцінюється щодо читання.
+
+У другій безособове *il* не позначає конкретну особу, а інфінітивна конструкція називає ситуацію, яку оцінюють як легку.
+
+## 7. Безособове il
+
+Дуже поширені:
+
+> *Il est important de vérifier les données.*
+
+> *Il est nécessaire de répondre rapidement.*
+
+> *Il est difficile de comprendre cette règle.*
+
+Тут *il* не означає «він». Це безособовий підмет.
+
+Структурно можна уявити:
+
+**Il est important [de vérifier les données].**
+
+Саме дія перевірки є змістом оцінки *important*.
+
+## 8. Infinitif vs que + особова форма
+
+Порівняй:
+
+> *Il est important de vérifier les données.*
+
+> *Il est important que Marie vérifie les données.*
+
+У другому варіанті окремо виражено виконавця *Marie* і використано особову форму *vérifie*.
+
+Отже, *de + infinitif* особливо зручний, коли окремого виконавця не потрібно виражати або його можна відновити з контексту.
+
+## 9. Український контраст
+
+Українська також має:
+
+- радий прийти;
+- готовий піти;
+- здатний зробити;
+- легко прочитати;
+- важко зрозуміти.
+
+Але французьке керування треба вчити окремо:
+
+| Українська модель | Французька модель |
+|---|---|
+| радий зробити | *heureux de faire* |
+| готовий зробити | *prêt à faire* |
+| здатний зробити | *capable de faire* |
+| легко зробити | *facile à faire* / безособова модель залежно від конструкції |
+
+Переклад дає значення, але не визначає прийменник.
+
+## 10. Не плутай із прийменниковим інфінітивом
+
+У:
+
+> *Il est capable de répondre.*
+
+*de répondre* залежить від прикметника *capable*.
+
+У:
+
+> *Il travaille pour apprendre.*
+
+*pour apprendre* виражає мету.
+
+В обох є інфінітив, але функціональний зв’язок різний.
+
+## 11. Практичний алгоритм
+
+1. Знайди прикметник.
+2. Встанови, чи допускає він інфінітив.
+3. Визнач модель: *de + infinitif*, *à + infinitif* або іншу.
+4. Визнач, хто є виконавцем інфінітивної дії.
+5. Перевір, чи підмет є носієм стану, чи об’єктом оцінки.
+6. Якщо є безособове *il*, не перекладай його як особовий займенник.
+7. За потреби порівняй із *que + особова форма*.
+
+## Типові помилки
+
+❌ *Je suis prêt de partir.*
+
+✅ *Je suis prêt à partir.*
+
+❌ *Je suis heureux à venir.*
+
+✅ *Je suis heureux de venir.*
+
+❌ *Ce livre est facile de lire* як автоматична заміна нейтральній конструкції *Ce livre est facile à lire*.
+
+✅ *Ce livre est facile à lire.*
+
+## Практична перевірка
+
+1. Je suis heureux ___ vous voir.
+2. Elle est prête ___ partir.
+3. Ce texte est facile ___ comprendre.
+4. Il est important ___ vérifier les chiffres.
+5. Il est capable ___ résoudre le problème.
+
+**Відповіді:** 1 — *de*, 2 — *à*, 3 — *à*, 4 — *de*, 5 — *de*.
+
+## Куди далі
+
+- [Інфінітив після дієслова](./infinitive-after-verb)
+- [Інфінітив після прийменника](./infinitive-after-preposition)
+- [Інфінітив зі спільним суб’єктом](./infinitive-shared-subject)
+- [Інфінітив як доповнення](./infinitive-complement)
