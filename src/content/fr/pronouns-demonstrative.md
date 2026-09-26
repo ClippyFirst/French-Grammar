@@ -1,14 +1,22 @@
 ---
-title_uk: "Вказівні займенники та вказівні форми"
+title_uk: "Вказівні займенники та визначники"
 title_fr: "Les pronoms et déterminants démonstratifs"
-description_uk: "Як розрізняти ce, cet, cette, ces та celui, celle, ceux, celles; роль -ci/-là і відмінність визначника від займенника."
+description_uk: "Як розрізняти ce, cet, cette, ces та celui, celle, ceux, celles; роль -ci/-là, ce qui/ce que та нейтральних вказівних форм."
 category: pronouns
 order: 12
 related:
   - pronouns-possessive
   - pronouns-cod
-  - adjective-position
-tags: [займенники, вказівні, ce, celui, celle, ceux, celles]
+  - relative-pronouns
+tags: [займенники, визначники, вказівні, ce, celui, celle, ceux, celles]
+level: A2
+depth: high
+register: neutral
+variety: FR
+contrastive_uk: high
+status: review
+sources:
+  - "Académie française, Questions de langue"
 ---
 
 # Вказівні форми: ce, cet, cette, ces та celui, celle, ceux, celles
@@ -19,19 +27,17 @@ tags: [займенники, вказівні, ce, celui, celle, ceux, celles]
 
 ### Перед іменником
 
-- **ce** livre — ця / ця конкретна книга
-- **cet** homme — цей чоловік
-- **cette** femme — ця жінка
-- **ces** livres — ці книги
+- **ce** livre
+- **cet** homme
+- **cette** femme
+- **ces** livres
 
 ### Замість іменника
 
-- **celui** — цей / той, чоловічий однина
-- **celle** — ця / та, жіночий однина
-- **ceux** — ці / ті, чоловічий або змішаний множинний
-- **celles** — ці / ті, жіночий множинний
-
----
+- **celui** — чол. однина
+- **celle** — жін. однина
+- **ceux** — чол. / змішана множина
+- **celles** — жін. множина
 
 ## 1. Вказівні визначники
 
@@ -42,41 +48,32 @@ tags: [займенники, вказівні, ce, celui, celle, ceux, celles]
 | жін. одн. | **cette** | *cette maison* |
 | множина | **ces** | *ces livres, ces maisons* |
 
-### ce чи cet?
+**Cet** — форма чоловічого однини перед голосним або німим *h*, а не окрема категорія роду.
 
-**cet** — не окрема категорія роду. Це форма чоловічого однини перед голосним або німим *h*:
+Порівняйте:
 
-- *ce livre*
-- *cet appartement*
 - *cet homme*
 - *cet hôtel*
-
-Порівняйте з жіночим:
-
 - *cette amie*
 - *cette histoire*
-
----
 
 ## 2. Визначник не є займенником
 
 Порівняйте:
 
-- *Je prends **ce livre**.* — Я беру цю книгу.
-- *Je prends **celui-ci**.* — Я беру цей.
+- *Je prends **ce livre**.*
+- *Je prends **celui-ci**.*
 
-У першому реченні **ce** супроводжує іменник.
-
-У другому **celui** сам є займенником.
+У першому реченні **ce** супроводжує іменник. У другому **celui** сам є займенником.
 
 Тому не будуйте:
 
-❌ *ce est intéressant*  
-як заміну іменниковій групі.
+❌ *ce est intéressant*
 
-У таких конструкціях використовуються інші форми, зокрема **c’est** як форма *ce + être*.
+У конструкції перед *être* вживається **c'est**:
 
----
+- **C'est intéressant.**
+- **Ce sont mes amis.**
 
 ## 3. Вказівні займенники
 
@@ -92,48 +89,42 @@ tags: [займенники, вказівні, ce, celui, celle, ceux, celles]
 - *Ceux de mon frère sont anciens.*
 - *Celles de ma sœur sont rouges.*
 
-Займенник узгоджується не з власником, а з **референтом, який він замінює**.
+Займенник узгоджується з **референтом, який він замінює**, а не з власником чи особою, що його називає.
 
----
+## 4. Конструкції після celui/celle/ceux/celles
 
-## 4. Займенник зазвичай потребує уточнення
+Вказівні займенники цього типу часто потребують уточнення.
 
-На відміну від українського «цей/та», французькі **celui/celle/ceux/celles** часто не використовуються абсолютно без продовження.
-
-Типові моделі:
-
-### celui/celle + de
+### + de
 
 - *celui de Paul*
 - *celle de Marie*
 - *ceux de mes parents*
-- *celles de l’année dernière*
+- *celles de l'année dernière*
 
-### celui/celle + relative clause
+### + відносна підрядна частина
 
 - *celui qui parle*
-- *celle que j’ai rencontrée*
+- *celle que j'ai rencontrée*
 - *ceux qui travaillent ici*
 - *celles que tu connais*
 
-Це одна з центральних конструкцій:
+Центральна модель:
 
-> **celui/celle/ceux/celles + qui/que/dont/où...**
-
----
+**celui/celle/ceux/celles + qui/que/dont/où...**
 
 ## 5. -ci та -là
 
-До вказівних займенників і визначників можна додавати **-ci** та **-là** для розрізнення двох референтів або вираження просторової / дискурсивної близькості.
+**-ci** та **-là** допомагають розрізняти референти або організовувати просторову / дискурсивну близькість.
 
-### З іменником
+З іменником:
 
-- *ce livre-ci* — ця книга
-- *ce livre-là* — та книга
+- *ce livre-ci*
+- *ce livre-là*
 - *cette maison-ci*
 - *cette maison-là*
 
-### Із займенником
+Із займенником:
 
 - *celui-ci*
 - *celui-là*
@@ -144,31 +135,27 @@ tags: [займенники, вказівні, ce, celui, celle, ceux, celles]
 - *celles-ci*
 - *celles-là*
 
-Приклад:
+Наприклад:
 
 - *Je prends ce livre-ci, pas celui-là.*
 - *Cette voiture-ci est moins chère que celle-là.*
 
-У живій мові контраст не завжди означає буквально «ближче / далі в просторі». **-ci / -là** можуть організовувати сам дискурс.
-
----
+Не зводьте **-ci = близько, -là = далеко** до абсолютного правила: у дискурсі ці форми можуть виконувати функцію протиставлення або організації згадки.
 
 ## 6. ce, ça, ceci, cela
 
-Окремо треба розрізняти **вказівні займенники середнього / нейтрального реферування**.
+Окремо розглядаються форми нейтрального / дискурсивного реферування.
 
 ### ce
 
-Часто вживається перед *être*:
+Часто в конструкціях із **être**:
 
-- *C’est intéressant.*
+- *C'est intéressant.*
 - *Ce sont mes amis.*
-
-У сучасній мові **c’est** — базова конструкція представлення або ідентифікації.
 
 ### cela
 
-Більш нейтральне / формальніше «це; те»:
+Поширене в нейтральному та формальнішому письмовому мовленні:
 
 - *Cela me paraît important.*
 
@@ -177,47 +164,34 @@ tags: [займенники, вказівні, ce, celui, celle, ceux, celles]
 Дуже поширене в розмовній мові:
 
 - *Ça va.*
-- *Je n’aime pas ça.*
-- *Ça m’intéresse.*
+- *Je n'aime pas ça.*
+- *Ça m'intéresse.*
 
-**ça** не слід механічно маркувати як «неправильне». Це нормальна частина сучасної французької, особливо розмовної.
+**Ça** не є «неправильною» формою: це нормативний елемент сучасного вживання, особливо в розмовному стилі.
 
 ### ceci
 
-Частіше зустрічається в письмових, пояснювальних, презентаційних та деяких формальніших контекстах:
+Може вживатися в письмовому, пояснювальному або презентаційному контексті:
 
 - *Ceci explique la différence.*
 
-Не робіть із **ceci/cela** простого правила «ceci = близько, cela = далеко»: у сучасному вживанні їхня дискурсивна функція важливіша за буквальну просторову відстань.
-
----
+Не вчіть **ceci/cela** як абсолютну пару «близько / далеко»: їхня дискурсивна функція часто важливіша за буквальну просторову відстань.
 
 ## 7. ce qui, ce que, ce dont
 
-Коли немає конкретного іменника, який треба назвати, використовуються конструкції:
+Коли йдеться про нейтральне «те, що...», використовуються:
 
-- **ce qui** — те, що є підметом наступного дієслова;
-- **ce que / ce qu’** — те, що є його COD;
-- **ce dont** — те, чого / про що / з чим пов’язана конструкція з **de**.
+- **ce qui** — конструкція, де *ce qui* є підметом наступного дієслова;
+- **ce que / ce qu'** — конструкція, де *ce que* є COD;
+- **ce dont** — конструкція, пов'язана з керуванням через **de**.
 
-### ce qui
+Приклади:
 
 - *Je comprends **ce qui** se passe.*
-- *Dis-moi **ce qui** t’intéresse.*
-
-### ce que
-
 - *Je sais **ce que** tu veux.*
-- *Regarde **ce qu’**il fait.*
-
-### ce dont
-
 - *Je sais **ce dont** tu as besoin.*
-- *C’est **ce dont** je parle.*
 
-Для українськомовного учня важливо не перекладати всі три форми одним словом «що», а визначати синтаксичну функцію.
-
----
+Не перекладайте всі три форми одним українським «що»: визначайте синтаксичну функцію.
 
 ## 8. ce qui / ce que vs celui qui / celui que
 
@@ -226,41 +200,35 @@ tags: [займенники, вказівні, ce, celui, celle, ceux, celles]
 - *Je prends **celui qui** est sur la table.*
 - *Je comprends **ce qui** est important.*
 
-**celui** відсилає до конкретного іменника чоловічого роду:
+**Celui** відсилає до конкретного референта чоловічого роду:
 
 - *le livre → celui qui...*
 
-**ce** у *ce qui* не замінює конкретно названий чоловічий чи жіночий іменник; конструкція має нейтральне значення «те, що...».
+**Ce** у *ce qui* має нейтральне реферування:
+
+- *ce qui est important* = те, що є важливим.
 
 Так само:
 
 - *le livre que je lis → celui que je lis*
 - *ce que je lis* = те, що я читаю.
 
----
+## 9. Український контраст
 
-## 9. Українська перспектива
+Українські **цей, ця, це, ці, той, та, те, ті** мають широкий спектр уживання.
 
-Українські «цей», «ця», «це», «ці», «той», «та», «те», «ті» мають ширший спектр уживання.
-
-Французька система розподіляє функції інакше:
+Французька розподіляє функції інакше:
 
 - **ce/cet/cette/ces** + іменник;
 - **celui/celle/ceux/celles** як займенник;
-- **ce/cela/ça/ceci** у нейтральному або дискурсивному реферуванні.
+- **ce/ceci/cela/ça** у нейтральному або дискурсивному реферуванні.
 
-Тому переклад:
-
-> «цей» → *ce*
-
-не завжди працює.
+Тому переклад «цей → ce» не є універсальним алгоритмом.
 
 Наприклад:
 
 - «той, що я бачу» → *celui que je vois*;
 - «те, що я бачу» → *ce que je vois*.
-
----
 
 ## 10. Типові помилки
 
@@ -278,12 +246,11 @@ tags: [займенники, вказівні, ce, celui, celle, ceux, celles]
 
 Якщо потрібно замінити конкретний іменник:
 
-✅ *je prends celui-ci*  
-або інша відповідна конструкція.
+✅ *je prends celui-ci*
 
 ### ❌ *celui livre*
 
-Займенник **celui** не ставиться перед іменником.
+Займенник **celui** не ставиться перед іменником:
 
 ✅ *ce livre*  
 або  
@@ -295,56 +262,38 @@ tags: [займенники, вказівні, ce, celui, celle, ceux, celles]
 
 ✅ *ce qui est important*
 
----
-
 ## 11. Алгоритм
 
-1. Чи після вказівної форми стоїть іменник?
+1. Чи після форми стоїть іменник?
    - так → **ce/cet/cette/ces**;
-2. Чи форма сама замінює іменникову групу?
-   - конкретний іменник → **celui/celle/ceux/celles**;
+2. Чи форма сама замінює конкретну іменникову групу?
+   - **celui/celle/ceux/celles**;
 3. Чи йдеться про нейтральне «те, що...»?
    - **ce qui / ce que / ce dont**;
-4. Чи треба розрізнити два референти?
+4. Чи треба розрізнити референти?
    - **-ci / -là**;
-5. Чи це розмовне «це»?
-   - **ça** часто природніше за **cela**.
+5. Чи це розмовне нейтральне «це»?
+   - **ça** часто природне в розмовній мові.
 
----
+## 12. Самоперевірка
 
-## 12. Мінімальні пари
+1. ___ livre — **ce**
+2. ___ homme — **cet**
+3. ___ maison — **cette**
+4. ___ étudiants — **ces**
+5. ___ de Paul — **celui**
+6. ___ de Marie — **celle**
+7. ___ qui travaillent — **ceux**
+8. ___ que tu connais — **celles**
 
-- *ce livre* / *celui-ci*
-- *cette voiture* / *celle-là*
-- *ces étudiants* / *ceux qui travaillent*
-- *ce qui m’intéresse* / *celui qui m’intéresse*
-- *ce que je vois* / *celui que je vois*
+### ce qui чи ce que?
 
----
+1. *Je sais ___ tu veux.* → **ce que**
+2. *Je comprends ___ se passe.* → **ce qui**
+3. *Voilà ___ j'ai besoin.* → **ce dont**
+4. *Dis-moi ___ t'intéresse.* → **ce qui**
 
-## Вправи
-
-### A. Виберіть форму
-
-1. ___ livre → **ce**
-2. ___ homme → **cet**
-3. ___ maison → **cette**
-4. ___ étudiants → **ces**
-5. ___ de Paul → **celui**
-6. ___ de Marie → **celle**
-7. ___ qui travaillent → **ceux**
-8. ___ que tu connais → **celles**
-
-### B. ce qui чи ce que?
-
-1. Je sais ___ tu veux. → **ce que**
-2. Je comprends ___ se passe. → **ce qui**
-3. Voilà ___ j’ai besoin. → **ce dont**
-4. Dis-moi ___ t’intéresse. → **ce qui**
-
----
-
-## Пов’язані теми
+## Пов'язані теми
 
 - [Присвійні займенники](./pronouns-possessive)
 - [COD](./pronouns-cod)

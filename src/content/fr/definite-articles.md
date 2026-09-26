@@ -1,19 +1,22 @@
 ---
-title_uk: "Визначники (артиклі): визначний артикл"
-title_fr: "Les articles définis"
-description_uk: "Визначний артикл (le, la, les) вказує на вже згадуваний або єдиний об'єкт."
+title_uk: "Визначений артикль — застаріла сторінка"
+title_fr: "Les articles définis — page héritée"
+description_uk: "Застаріла сторінка. Актуальний системний довідник див. у articles-definite."
 category: nouns
-order: 6
+order: 999
 related:
-  - nouns/noun-gender
-  - nouns/indefinite-articles
-  - nouns/partitive-articles
-  - nouns/contracted-articles
-tags:
-  - definite-articles
-  - articles
-  - determiners
+  - articles-definite
+status: deprecated
+level: A1
+depth: short
+register: neutral
+variety:
+  - FR
+contrastive_uk: low
+sources:
+  - "Legacy content retained only for migration compatibility."
 ---
+
 
 ## Швидко
 

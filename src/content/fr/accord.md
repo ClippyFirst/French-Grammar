@@ -1,439 +1,857 @@
 ---
-title_uk: "Узгодження у французькій мові: повний довідник для українськомовних"
+title_uk: "Узгодження у французькій: підмет, прикметник і participe passé"
 title_fr: "L'accord en français"
-description_uk: "Детальний посібник з узгодження у французькій мові. Дізнайтеся про узгодження прикметників, дієприкметників минулого часу, іменників та дієслів. З порівняннями, прикладами та вправами для українськомовних."
-category: "agreement"
+description_uk: "Системний довідник про узгодження підмета й дієслова, прикметників, детермінативів та participe passé з être, avoir і займенниковими дієсловами."
+category: agreement
+canonical_ids:
+  - "FR-545"
+  - "FR-546"
+  - "FR-547"
+  - "FR-548"
+  - "FR-549"
+  - "FR-551"
+  - "FR-552"
+  - "FR-553"
+  - "FR-554"
 order: 23
-related: ["adjectives", "passe-compose", "pronouns-cod"]
-tags: ["узгодження", "accord", "прикметник", "дієприкметник", "рід", "число", "французька-граматика"]
+prerequisites:
+  - noun-gender
+  - singular-plural
+  - pronouns-subject
+  - pronouns-cod
+  - pronominal-verbs
+related:
+  - adjective-position
+  - passe-compose
+  - relative-pronouns
+  - pronominal-participe-agreement
+  - sentence-structure
+  - passive
+contrast:
+  - pronouns-coi
+  - pronominal-verbs
+next:
+  - passe-compose
+aliases:
+  - accord
+  - accord grammatical
+  - accord sujet-verbe
+  - accord de l'adjectif
+  - accord du participe passé
+tags:
+  - узгодження
+  - accord
+  - sujet-verbe
+  - adjectif
+  - participe passé
+  - COD
+  - COI
+depth: high
+register: neutral
+variety:
+  - FR
+contrastive_uk: high
+status: review
+sources:
+  - "Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue"
+  - "Académie française — Exemples de remarques normatives: https://www.academie-francaise.fr/le-dictionnaire-la-9e-edition/exemples-de-remarques-normatives"
+  - "Cambridge University Press — Advanced French Grammar: https://www.cambridge.org/core/books/advanced-french-grammar/43D68AA9110EE9C87998795C352E594C"
+reviewed_at: "2026-09-26"
+formula: true
+toc: true
 ---
 
-# 🎯 Узгодження у французькій мові (L'accord)
+# Узгодження
 
-## 📌 Швидко
-> ⏳ **Узгодження** (l'accord) — це **зміна форми слова** залежно від **роду** (чол./жін.) та **числа** (одн./множ.) іменника, до якого воно відноситься. У французькій мові узгоджуватися можуть: **прикметники**, **дієприкметники**, **дієслова** (у минулому часі з être).
+## Швидка відповідь
 
-**Головний принцип для participe passé:** не шукайте просто «слово поруч». Визначте синтаксичну функцію: COD, COI, підмет або інший компонент конструкції.
+Французьке **accord** — це залежність граматичної форми одного слова від граматичних властивостей іншого. У практиці найчастіше потрібно аналізувати:
 
----
+- узгодження **підмета й дієслова**;
+- узгодження **прикметника** з іменником або займенником;
+- узгодження **déterminant** з іменником;
+- узгодження **participe passé** у складених часах;
+- складні випадки з **COD, COI, займенниковими дієсловами, кількісними та колективними групами**.
 
-## 📐 Формула узгодження
-
-| Категорія | Правило | Приклад |
-|-----------|---------|---------|
-| **Прикметник** | + **-e** (жін. рід), + **-s** (множ.), + **-es** (жін. множ.) | grand → grande → grands → grandes |
-| **Participe passé з avoir (COD перед participe passé)** | Узгоджується з COD | J'ai mangé **la pomme** → La pomme que j'ai **mangée** |
-| **Дієприкметник (з être)** | Узгоджується з підметом | Il est **parti** → Elle est **partie** |
-| **Participe passé з avoir (COD після)** | Не узгоджується | J'ai **mangé** une pomme |
-
----
-
-## 🏗️ Узгодження прикметників
-
-### ✅ Правила узгодження
-
-#### 1. Рід (Masculin/Féminin)
-**Чоловічий → Жіночий**: додаємо **-e** (або змінюємо закінчення)
-
-| Чоловічий | Жіночий | Правило |
-|-----------|---------|---------|
-| grand | grande | + **-e** |
-| petit | petite | + **-e** |
-| long | longue | + **-e** |
-| blanc | blanche | + **-e** |
-| bon | bonne | подвійне **-n** |
-| gros | grosse | подвійне **-s** |
-| fou | folle | **-ou → -olle** |
-| beau | belle | **-au → -elle** |
-| nouveau | nouvelle | **-au → -elle** |
-| vieux | vieille | **-x → -lle** |
-| sec | sèche | **-c → -che** |
-| doux | douce | **-x → -ce** |
-
-**Приклади:**
-- Un **grand** homme → Une **grande** femme
-- Un **petit** garçon → Une **petite** fille
-- Un **blanc** mur → Une **blanche** maison
-- Un **bon** livre → Une **bonne** idée
-
----
-
-#### 2. Число (Singulier/Pluriel)
-**Однина → Множина**: додаємо **-s** (або **-es** для жін. роду)
-
-| Однина (чол.) | Множина (чол.) | Однина (жін.) | Множина (жін.) |
-|---------------|----------------|---------------|----------------|
-| grand | grands | grande | grandes |
-| petit | petits | petite | petites |
-| bon | bons | bonne | bonnes |
-
-**Приклади:**
-- Un **grand** arbre → Des **grands** arbres
-- Une **grande** maison → Des **grandes** maisons
-- Un **bon** livre → Des **bons** livres
+Найважливіше правило: **не шукайте слово для узгодження лише за близькістю**. Спочатку визначте граматичну залежність і синтаксичну функцію.
 
 ---
 
-#### 3. Особливі випадки
+# FR-545 — Узгодження підмета і дієслова
 
-**А. Прикметники, які не змінюються у жін. роді:**
-| Прикметник | Чоловічий | Жіночий | Приклад |
-|------------|-----------|---------|---------|
-| **clair** | clair | claire | Une lumière **claire** |
-| **cher** | cher | chère | Une amie **chère** |
-| **fier** | fier | fière | Une femme **fière** |
-| **gros** | gros | grosse | Une **grosse** erreur |
+## 1. Базове правило
 
-**Б. Прикметники з нерегулярною множиною:**
-| Однина | Множина | Приклад |
-|--------|---------|---------|
-| **blanc** | blancs | Des murs **blancs** |
-| **sec** | secs | Des vêtements **secs** |
-| **frais** | frais | Des fruits **frais** |
+Особова форма дієслова узгоджується з граматичним підметом за особою та числом:
 
-**В. Прикметники, які змінюють основу:**
-| Чол. | Жін. | Приклад |
-|------|------|---------|
-| **beau** | belle | Une **belle** journée |
-| **nouveau** | nouvelle | Une **nouvelle** voiture |
-| **vieux** | vieille | Une **vieille** femme |
-| **fou** | folle | Une **folle** idée |
+> **Je travaille.**  
+> Я працюю.
 
----
+> **Nous travaillons.**  
+> Ми працюємо.
 
-### ❌ Поширені помилки з прикметниками
+> **La fille arrive.**  
+> Дівчина приходить.
 
-```
-❌ Un grande arbre → ✅ Un grand arbre
-❌ Une petit fille → ✅ Une petite fille
-❌ Des bon livres → ✅ Des bons livres
-❌ Une belle homme → ✅ Un bel homme
-```
+> **Les filles arrivent.**  
+> Дівчата приходять.
 
-> 🔹 **Правило**: Прикметник **узгоджується** з іменником, до якого він відноситься.
+У французькій письмовій мові це узгодження особливо важливе, хоча на слух закінчення багатьох дієслів можуть не розрізнятися:
 
----
+> **Il parle.**  
+> **Ils parlent.**
 
-## 🎯 Узгодження дієприкметників (Participes passés)
+Форми різні на письмі, але вимова часто однакова.
 
-### 1. З допоміжним дієсловом **ÊTRE**
-**Дієприкметник узгоджується з підметом** (хто? що?)
+## 2. Підмет не обов'язково стоїть безпосередньо перед дієсловом
 
-| Підмет | Дієприкметник | Приклад |
-|--------|---------------|---------|
-| Чоловічий (одн.) | **-i** | Il est **parti** |
-| Жіночий (одн.) | **-ie** | Elle est **partie** |
-| Чоловічий (множ.) | **-is** | Ils sont **partis** |
-| Жіночий (множ.) | **-ies** | Elles sont **parties** |
+> **Les étudiants de cette université travaillent beaucoup.**
 
-**Приклади:**
-- Il est **allé** au marché. → Elle est **allée** au marché.
-- Il est **tombé**. → Elle est **tombée**.
-- Ils sont **venus**. → Elles sont **venues**.
-- Il est **né** en 1990. → Elle est **née** en 1990.
+Підмет — **les étudiants de cette université**, а не найближче слово **université**.
 
-> **DR & MR VANDERTRAMP** — лише мнемоніка для частини дієслів, що можуть утворювати passé composé з `être`. Вона не замінює аналіз конкретної конструкції: `sortir`, наприклад, має `être` без COD і `avoir` з COD.
+Тому:
 
----
+> ❌ *Les étudiants de cette université travaille beaucoup.*
 
-### 2. З допоміжним дієсловом **AVOIR**
-**Participe passé узгоджується з COD, якщо COD стоїть перед participe passé**
+> ✅ **Les étudiants de cette université travaillent beaucoup.**
 
-| Ситуація | Узгодження | Приклад |
-|----------|------------|---------|
-| **COD після дієслова** | ❌ Ні | J'ai mangé **une pomme**. |
-| **COD перед дієсловом** | ✅ Так | **La pomme** que j'ai **mangée**. |
-| **COD = займенник (le, la, les)** | ✅ Так | Je **l'**ai **mangée**. (la pomme) |
-| **COD = неозначений займенник** | ❌ Ні | J'ai mangé **quelque chose**. |
+Алгоритм починається з визначення всієї **groupe sujet**, а не останнього іменника перед дієсловом.
 
-**Приклади:**
-- J'ai vu **le film**. → Le film que j'ai **vu**. (у першому реченні COD після; у другому `que` = COD, але `film` чоловічого роду, тому форма `vu` збігається без видимої зміни)
-- J'ai vu **la fille**. → La fille que j'ai **vue**. (COD перед → є узгодження)
-- J'ai mangé **les pommes**. → Les pommes que j'ai **mangées**. (COD перед → є узгодження)
-- J'ai mangé **une tarte**. → La tarte que j'ai **mangée**. (COD перед → є узгодження)
+## 3. Підмет може бути займенником
+
+> **Elle travaille.**
+
+> **Ils arrivent.**
+
+> **On commence à huit heures.**
+
+Особливу увагу треба приділяти **on**: граматично це форма третьої особи однини:
+
+> **On est prêts.**
+
+У складених предикативних формах прикметник або participe passé може узгоджуватися за референтом **on**, але дієслово залишається в однині:
+
+> **On est contents.**
+
+Не:
+
+> ❌ *On sommes contents.*
 
 ---
 
-### 3. COD і COI: не плутайте функції
-**COI не спричиняє узгодження participe passé з попереднім елементом.**
+# FR-546 — Узгодження зі складеним підметом
 
-| Дієслово | Приклад | Узгодження |
-|-----------|---------|------------|
-| **téléphoner à** | La femme à qui j'ai **téléphoné** | ❌ Ні |
-| **parler à** | L'homme à qui j'ai **parlé** | ❌ Ні |
-| **répondre à** | La question à laquelle j'ai **répondu** | ❌ Ні |
-| **plaire à** | La fille qui m'a **plu** | ❌ Ні |
+## 1. et
 
-> **Не плутайте керування дієслова:** `parler à`, `téléphoner à`, `répondre à` мають COI; `cueillir quelque chose` має COD. Узгодження визначається цією функцією, а не самим займенником.
+Коли два або більше підметів поєднано **et**, дієслово зазвичай має множину:
 
----
+> **Paul et Marie arrivent.**  
+> Поль і Марі приїжджають.
 
-### 4. Деякі дієслова потребують аналізу значення та конструкції
+> **Le directeur et son équipe travaillent ensemble.**
 
-| Дієслово | Приклад | Узгодження |
-|-----------|---------|------------|
-| **coûter** | Les 100€ que ce livre m'a **coûté**/**coûtés** | ✅ Так (залежно від сенсу) |
+Не:
 
-| **vivre** | La vie qu'il a **vécue** | ✅ Так |
+> ❌ *Paul et Marie arrive.*
 
----
+## 2. Різні особи
 
-## 🔍 Порівняння: ÊTRE vs AVOIR
+Коли координуються займенники різних осіб, вибір особи дієслова залежить від складу групи:
 
-| Допоміжне дієслово | Узгодження | Приклад |
-|---------------------|------------|---------|
-| **ÊTRE** | ✅ З підметом | Il est **parti** → Elle est **partie** |
-| **AVOIR** | ✅ З COD (якщо перед дієсловом) | La pomme que j'ai **mangée** |
-| **AVOIR** | ❌ З COD (якщо після дієслова) | J'ai mangé **une pomme** |
+> **Toi et moi, nous sommes prêts.**
 
----
+> **Vous et moi, nous devons partir.**
 
-## ❌ Поширені помилки українськомовних
+> **Paul et moi, nous partons demain.**
 
-### 1. Узгодження з ÊTRE
-```
-❌ Il est partie. → ✅ Il est parti.
-❌ Elle est partis. → ✅ Elle est partie.
-❌ Ils sont partie. → ✅ Ils sont partis.
-```
-> 🔹 **Правило**: Узгоджується з **підметом** (хто виконав дію).
+Французька може додатково використовувати займенник **nous** для чіткої організації речення.
 
----
+## 3. ou
 
-### 2. Узгодження з AVOIR (COD перед)
-```
-❌ La pomme que j'ai mangé. → ✅ La pomme que j'ai mangée.
-❌ Les fleurs que j'ai cueilli. → ✅ Les fleurs que j'ai cueillies.
-❌ Je l'ai vu. (la fille) → ✅ Je l'ai vue.
-```
-> 🔹 **Правило**: Якщо **COD стоїть перед дієсловом**, дієприкметник узгоджується з ним.
+З **ou** узгодження залежить від того, як інтерпретується група.
+
+Коли йдеться про альтернативу одного учасника:
+
+> **Paul ou Marie viendra demain.**
+
+Коли обидва елементи фактично утворюють сукупність або контекст вимагає множини, можливе множинне узгодження:
+
+> **Paul ou Marie, ou les deux, viendront demain.**
+
+Тому не треба вчити механічне правило «після ou завжди однина».
+
+## 4. Juxtaposition та повторення
+
+Коли кілька груп функціонують як складений підмет, потрібно аналізувати їхню синтаксичну організацію, а не лише пунктуацію:
+
+> **Le père, la mère et les enfants sont arrivés.**
+
+Підмет має множинну референцію, тому **sont arrivés**.
 
 ---
 
-### 3. Узгодження з AVOIR (COD після)
-```
-❌ J'ai mangée une pomme. → ✅ J'ai mangé une pomme.
-❌ Il a vu la fille. → ✅ Il a vu la fille. (немає узгодження)
-```
-> 🔹 **Правило**: Якщо **COD стоїть після дієслова**, узгодження **не відбувається**.
+# FR-547 — Узгодження з collective nouns
 
----
+## 1. Колективна група
 
-### 4. Плутання з DR & MR VANDERTRAMP
-```
-❌ Il a allé au marché. → ✅ Il est allé au marché.
-❌ Elle a venue à l'heure. → ✅ Elle est venue à l'heure.
-```
-> 🔹 **Правило**: Ці дієслова вживаються з **ÊTRE**, а не з **AVOIR** у passé composé.
+Іменник на кшталт **équipe, groupe, famille, majorité** може позначати сукупність, але граматично залишатися одниною:
 
----
+> **L'équipe travaille bien.**
 
-### 5. Прономінальні конструкції з особливим керуванням
+> **La famille arrive demain.**
 
-Окремі прономінальні дієслова показують, чому функцію `se` треба перевіряти за конкретною моделлю:
+Форма дієслова узгоджується з граматичним центром **l'équipe / la famille**, а не автоматично з людьми всередині групи.
 
-- `Ils se sont rendu compte du danger.` — `se` є COI у `se rendre compte de`, тому `rendu`.
-- `Elle s'est rendue coupable.` — інша конструкція: `se` є COD, тому `rendue`.
+## 2. Collective noun + de + pluriel
 
-Такі випадки не слід зводити до одного списку «дієслів із se». Функція займенника визначається керуванням конкретного дієслова.
+> **Une équipe de chercheurs travaille sur le projet.**
 
-### 6. `pouvoir / devoir / vouloir + infinitif`
-
-У конструкціях із infinitif потрібно встановлювати, чи попередній займенник є COD participe passé чи COD наступного infinitif.
+Граматичний підмет — **une équipe de chercheurs**. Центр групи — **équipe**, тому дієслово в однині.
 
 Порівняйте:
 
-- `La plus grande entreprise que j'ai eu à gérer.` — `que` є COD `gérer`, а не `eu`, тому `eu`.
-- `Les facilités qu'il a eues.` — `que` є COD `eu`, тому `eues`.
+> **Les chercheurs de l'équipe travaillent sur le projet.**
 
-Так само:
+Тут центр підмета — **chercheurs**, тому множина.
 
-- `Les efforts que j'ai dû faire.`
-- `Les décisions qu'il a voulu prendre.`
+## 3. Неузгодження з найближчим іменником
 
-Не можна автоматично узгоджувати participe passé лише тому, що перед ним стоїть `que`.
+> ❌ *Une équipe de chercheurs travaillent...*
 
-### 5. Неозначені займенники
+> ✅ **Une équipe de chercheurs travaille...**
 
-Не можна вчити, що `quelque chose`, `quelqu'un`, `rien`, `personne` «завжди блокують узгодження». Важлива синтаксична структура.
-
-- `J'ai mangé quelque chose.` → COD після participe passé → `mangé`.
-- `La chose que j'ai mangée.` → `que` = COD перед participe passé → `mangée`.
-
-```
-`quelque chose` не блокує узгодження автоматично: `la chose que j'ai aimée` показує, що попередній COD `que` може спричиняти узгодження. Наприклад: `J'ai vu la personne que j'ai connue.`
-```
-
+У живій мові можна зустріти варіативність у деяких конструкціях, особливо коли мовець концептуалізує сукупність через її членів, але в довідковому аналізі спочатку визначайте граматичний центр групи.
 
 ---
 
-## 🇺🇦 Для українськомовних
+# FR-548 — Узгодження з відсотками
 
-### 🎯 Чому у французькій мові узгодження відрізняється від української?
+## 1. Відсоток + іменна група
 
-| Українська | Французька | Приклад |
-|-----------|------------|---------|
-| **Узгодження за родом і числом** | **Узгодження за родом і числом** | Прикметники |
-| **Дієприкметник минулого часу** | Узгоджується з **COD** (якщо перед) | J'ai vu **la fille** → La fille que j'ai **vue** |
-| **Дієприкметник з бути** | Узгоджується з **підметом** | Він пішов → Il est **parti** |
-| **Дієприкметник без COD** | Не узгоджується | Я їв → J'ai **mangé** |
+У конструкціях із відсотками форма дієслова залежить від того, як побудовано підмет і що саме є його граматичним центром.
 
-### 🎯 Як запам'ятати DR & MR VANDERTRAMP?
-**Мнемонічне правило:**
-- **D**escendre (спускатися)
-- **R**etourner (повертатися)
-- **M**onter (підніматися)
-- **R**entrer (повертатися додому)
-- **A**ller (йти)
-- **N**aître (народжуватися)
-- **D**écéder (помирати)
-- **E**ntrer (входити)
-- **S**ortir (виходити)
-- **T**omber (падати)
-- **R**ester (залишатися)
-- **A**rriver (прибувати)
-- **M**ourir (помирати)
-- **P**artir (вирушати)
+> **10 % des étudiants travaillent à distance.**
 
-> 💡 **Спосіб запам'ятання**: "**DR & MR VANDERTRAMP**" — це **рух** (йти, повертатися, падати тощо), тому ці дієслова вживаються з **ÊTRE**.
+Тут **des étudiants** визначає множинну референцію, тому **travaillent**.
 
-### Типові українські помилки
-1. **Забути узгодження з `être`**: `Elle est parti` → `Elle est partie`.
-2. **Не узгодити попередній COD з `avoir`**: `La pomme que j'ai mangé` → `La pomme que j'ai mangée`.
-3. **Узгодити COD після `avoir`**: `J'ai mangée une pomme` → `J'ai mangé une pomme`.
-4. **Узгодити COI**: `Les personnes auxquelles j'ai parlées` → `Les personnes auxquelles j'ai parlé`.
-5. **Плутати `être` та `avoir`**: `Il a allé` → `Il est allé`.
+> **10 % du budget est consacré à la recherche.**
+
+Тут **du budget** — незлічувана / однинова група, тому **est consacré**.
+
+Практичний принцип: не узгоджуйте дієслово механічно з числом самого відсотка. Дивіться на іменну групу після **de** та її семантичну структуру.
+
+## 2. Узгодження з participe passé
+
+Той самий принцип потрібно застосовувати до складених форм:
+
+> **20 % des données ont été vérifiées.**
+
+> **20 % du travail a été terminé.**
 
 ---
 
-## 📝 Вправи
+# FR-549 — Узгодження з кількісними групами
 
-### Вправа 1: Узгодження прикметників
-Доповніть прикметники:
-1. Un grand arbre → Une ___ femme
-2. Un petit garçon → Une ___ fille
-3. Un bon livre → Une ___ idée
-4. Des grands arbres → Des ___ maisons
-5. Un bel homme → Une ___ femme
+## 1. Багато / мало / частина
 
-<details>
-<summary>✅ Відповіді</summary>
+Конструкції з кількісними словами потребують аналізу всієї групи:
 
-1. grande
-2. petite
-3. bonne
-4. grandes
-5. belle
-</details>
+> **Beaucoup d'étudiants travaillent ici.**
 
----
+> **Beaucoup de travail reste à faire.**
 
-### Вправа 2: Узгодження з ÊTRE
-Доповніть дієприкметники:
-1. Il est ___ (partir) en vacances.
-2. Elle est ___ (aller) au marché.
-3. Ils sont ___ (tombé) par terre.
-4. Elles sont ___ (venue) à l'heure.
-5. Nous sommes ___ (resté) à la maison.
+> **Une partie des étudiants est déjà partie.**
 
-<details>
-<summary>✅ Відповіді</summary>
+> **Une partie du travail est terminée.**
 
-1. parti
-2. allée
-3. tombés
-4. venues
-5. restés
-</details>
+У **une partie des étudiants** граматичним центром є **partie**, а не **étudiants**.
+
+## 2. Plus de / moins de / la plupart de
+
+> **La plupart des étudiants sont présents.**
+
+> **La plupart du travail est terminé.**
+
+> **Plus de dix personnes sont venues.**
+
+> **Moins de cinq minutes suffisent.**
+
+Кількісна конструкція може мати різну граматичну організацію, тому правило «бачимо plural noun → plural verb» недостатнє.
+
+## 3. chacun
+
+> **Chacun des étudiants doit répondre.**
+
+Дієслово узгоджується з **chacun**, тобто має однину:
+
+> ❌ *Chacun des étudiants doivent répondre.*
+
+> ✅ **Chacun des étudiants doit répondre.**
 
 ---
 
-### Вправа 3: Узгодження з AVOIR (COD перед)
-Доповніть дієприкметники:
-1. La pomme que j'ai ___ (manger).
-2. Les fleurs que j'ai ___ (cueillir).
-3. Le film que j'ai ___ (voir).
-4. La fille que j'ai ___ (rencontrer).
-5. Les livres que j'ai ___ (lire).
+# FR-550 — Узгодження прикметника
 
-<details>
-<summary>✅ Відповіді</summary>
+## 1. Рід
 
-1. mangée
-2. cueillies
-3. vu
-4. rencontrée
-5. lus
-</details>
+Прикметник узгоджується з іменником:
 
----
+> **un livre intéressant**
 
-### Вправа 4: Узгодження з AVOIR (COD після)
-Доповніть дієприкметники (немає узгодження):
-1. J'ai mangé une pomme que j'ai ___ (acheter).
-2. Il a vu la fille que j'ai ___ (connaître).
-3. Nous avons lu les livres que tu as ___ (recommander).
+> **une histoire intéressante**
 
-<details>
-<summary>✅ Відповіді</summary>
+## 2. Число
 
-1. achetée (COD "une pomme" перед дієсловом "acheter")
-2. connue (COD "la fille" перед дієсловом "connaître")
-3. recommandés (COD "les livres" перед дієсловом "recommander")
-</details>
+> **un livre intéressant**
 
----
+> **des livres intéressants**
 
-### Вправа 5: Виправте помилки
-1. Il est partie en vacances.
-2. La pomme que j'ai mangé.
-3. J'ai mangée une pomme.
-4. Elle est partis à l'heure.
-5. Les fleurs que j'ai cueilli.
+> **une histoire intéressante**
 
-<details>
-<summary>✅ Відповіді</summary>
+> **des histoires intéressantes**
 
-1. Il est **parti** en vacances.
-2. La pomme que j'ai **mangée**.
-3. J'ai **mangé** une pomme.
-4. Elle est **partie** à l'heure.
-5. Les fleurs que j'ai **cueillies**.
-</details>
+## 3. Нерегулярні форми
+
+Не всі жіночі форми утворюються простим додаванням **-e**:
+
+> **beau → belle**
+
+> **nouveau → nouvelle**
+
+> **vieux → vieille**
+
+> **blanc → blanche**
+
+> **heureux → heureuse**
+
+Тому узгодження має дві сторони: визначення граматичних властивостей і правильне утворення конкретної форми прикметника.
+
+## 4. Кілька прикметників
+
+> **une petite maison blanche**
+
+Обидва прикметники узгоджуються з **maison**:
+
+> **petite** — жіночий рід, однина;
+
+> **blanche** — жіночий рід, однина.
+
+Вони не узгоджуються один з одним.
 
 ---
 
-### Вправа 6: Переклад з української
-1. Я бачив дівчину, яку зустрів у парку.
-2. Вона пішла додому.
-3. Книга, яку я прочитав, була цікавою.
-4. Ми з'їли яблука, які купили на ринку.
-5. Діти, яких я побачив, гралися у саду.
+# FR-551 — Узгодження déterminant
 
-<details>
-<summary>✅ Відповіді</summary>
+## 1. Артикль
 
-1. J'ai vu la fille que j'ai **rencontrée** au parc.
-2. Elle est **allée** à la maison.
-3. Le livre que j'ai **lu** était intéressant. (COD після → немає узгодження)
-4. Nous avons mangé les pommes que nous avons **achetées**. (COD перед → є узгодження)
-5. Les enfants que j'ai **vus** jouaient dans le jardin.
-</details>
+Детермінатив повинен відповідати іменнику:
+
+> **un livre**
+
+> **une maison**
+
+> **des livres**
+
+> **des maisons**
+
+## 2. Вказівні та присвійні
+
+> **ce livre / cette maison / ces livres**
+
+> **mon livre / ma maison / mes livres**
+
+Вибір визначається родом і числом іменника, а для присвійних форм — також особою власника.
+
+> **mon amie**
+
+Тут **mon** не означає чоловічий рід власника. Це форма, яка перед голосним полегшує вимову перед жіночим іменником **amie**.
+
+## 3. Узгодження та референція
+
+Не плутайте граматичне узгодження з референцією. У:
+
+> **mon livre**
+
+**mon** узгоджується з **livre**, а не з особою, якій належить книжка.
 
 ---
 
-## 📚 Додаткові ресурси
-- [Passé composé](passe-compose) — узгодження з ÊTRE
-- [Direct Object Pronouns (COD)](pronouns-cod) — що таке прямий додаток
-- [DR & MR VANDERTRAMP](passe-compose) — дієслова з ÊTRE
+# FR-552 — Participe passé з être
+
+## 1. Базова модель
+
+У звичайному складеному часі, де **être** є допоміжним дієсловом, participe passé узгоджується з підметом:
+
+> **Il est arrivé.**
+
+> **Elle est arrivée.**
+
+> **Ils sont arrivés.**
+
+> **Elles sont arrivées.**
+
+## 2. Passé composé
+
+> **Marie est partie.**
+
+> **Paul est parti.**
+
+> **Marie et Paul sont partis.**
+
+> **Marie et Anne sont parties.**
+
+Форма **être** передає особу та число, а participe passé — також рід і число.
+
+## 3. Не переносіть правило на всі конструкції з être
+
+Порівняння:
+
+> **Elle est arrivée.**
+
+і:
+
+> **Elle est médecin.**
+
+У другому реченні **médecin** — іменна частина присудка, а не participe passé.
 
 ---
 
-## 🎓 Підсумок
-- **Узгодження прикметників**: з іменником за родом і числом
-  - Чоловічий → Жіночий: **+ -e** (або зміна закінчення)
-  - Однина → Множина: **+ -s** (або **-es** для жін. роду)
-- **Узгодження дієприкметників з ÊTRE**: узгоджується з **підметом**
-- **Узгодження дієприкметників з AVOIR**: узгоджується з **COD**, якщо він **перед дієсловом**
-- **DR & MR VANDERTRAMP**: дієслова руху, які вживаються з **ÊTRE** у passé composé
-- **Типові помилки**: не забувати узгоджувати з підметом (ÊTRE) і з COD (AVOIR, якщо перед)
+# FR-553 — Participe passé з avoir
+
+## 1. Базове правило
+
+У типовій конструкції з **avoir** participe passé не узгоджується з підметом:
+
+> **Elle a mangé.**
+
+> **Ils ont mangé.**
+
+> **Elle a écrit une lettre.**
+
+Не:
+
+> ❌ *Elle a mangée.*
+
+> ❌ *Ils ont mangés.*
+
+## 2. COD після participe passé
+
+> **Elle a écrit une lettre.**
+
+COD **une lettre** стоїть після participe passé, тому **écrit** не узгоджується з ним.
+
+## 3. Чому це важливо
+
+Не використовуйте українську інтуїцію «жінка зробила → французьке participe passé має жіночу форму». У французькій після **avoir** позиція та функція COD є ключовими.
+
+---
+
+# FR-554 — COD перед avoir
+
+## 1. Основне правило
+
+Якщо прямий додаток стоїть **перед** participe passé з **avoir**, participe passé узгоджується з цим COD за родом і числом:
+
+> **La lettre que j'ai écrite.**
+
+**que** = **la lettre**, COD перед **ai écrit** → **écrite**.
+
+> **Les lettres que j'ai écrites.**
+
+→ **écrites**.
+
+## 2. Займенники
+
+> **Je les ai vues.**
+
+Якщо **les** є передпоставленим COD, participe passé узгоджується з референтом:
+
+> **les photos → vues**
+
+> **les personnes → vues**
+
+## 3. COD не завжди видно як окремий іменник
+
+У відносній конструкції:
+
+> **Les chansons que nous avons entendues.**
+
+**que** є COD дієслова **avons entendues**. Антецедент **les chansons** визначає рід і число.
+
+## 4. COI не викликає такого узгодження
+
+> **Les personnes à qui j'ai parlé.**
+
+**à qui** — COI, не COD.
+
+Тому:
+
+> **parlé**, не *parlées*.
+
+Це одна з найважливіших перевірок: **спочатку функція, потім узгодження**.
+
+---
+
+# FR-555 — Participe passé займенникових дієслів
+
+## 1. Наявність être не достатня
+
+Займенникові дієслова в складених часах використовують **être**, але узгодження participe passé треба визначати за синтаксичною функцією **se** та іншими додатками.
+
+Порівняйте:
+
+> **Elle s'est lavée.**
+
+> **Elle s'est lavé les mains.**
+
+У першому реченні **se** є COD і передує participe passé → **lavée**.
+
+У другому COD — **les mains**, стоїть після participe passé → **lavé**.
+
+## 2. COI
+
+> **Ils se sont parlé.**
+
+Дієслово **parler à quelqu'un** вимагає непрямого додатка:
+
+> **se = à eux**
+
+Тому:
+
+> **Ils se sont parlé.**
+
+Не:
+
+> ❌ *Ils se sont parlés.*
+
+## 3. Відносна конструкція
+
+> **Les personnes qu'elles se sont rencontrées...**
+
+Така форма потребує окремого синтаксичного аналізу, оскільки треба визначити, чи є перед **participe passé** справжній COD і яку роль має **se**.
+
+Не робіть висновок лише за формою **se**.
+
+---
+
+# FR-556 — Попередній COD
+
+## 1. Практичний тест
+
+Для participe passé з **avoir** поставте запитання:
+
+> **кого? що?**
+
+Потім визначте, де стоїть COD.
+
+> **J'ai acheté les fleurs.**
+
+COD після → **acheté**.
+
+> **Les fleurs que j'ai achetées.**
+
+COD перед → **achetées**.
+
+## 2. Не плутайте COD і COI
+
+> **J'ai répondu à la question.**
+
+**à la question** — COI.
+
+Тому:
+
+> **La question à laquelle j'ai répondu.**
+
+Не:
+
+> ❌ *La question à laquelle j'ai répondue.*
+
+## 3. Порядок слів не замінює синтаксичний аналіз
+
+Перед participe passé може стояти не лише COD. Це може бути:
+
+- COI;
+- обставина;
+- підмет;
+- частина прийменникової групи;
+- займенниковий компонент.
+
+Тому правило «слово перед participe passé → узгодження» неправильне.
+
+---
+
+# FR-557 — Participe passé + infinitif
+
+## 1. Чому виникає складність
+
+У конструкціях із **participe passé + infinitif** потрібно визначити, з яким елементом пов'язане передпоставлене слово.
+
+> **Les chansons que j'ai entendu chanter.**
+
+Тут **les chansons** пов'язане з інфінітивом **chanter** як його об'єкт, а **j'ai entendu** описує сприйняття виконання дії.
+
+У таких конструкціях узгодження не можна визначати лише за поверхневою позицією COD.
+
+## 2. Faire + infinitif
+
+Окремий нормативний випадок:
+
+> **La chanson qu'elle a fait chanter aux enfants.**
+
+**fait** перед інфінітивом є незмінним.
+
+> **Elle s'est fait gronder.**
+
+Не:
+
+> ❌ *Elle s'est faite gronder.*
+
+Академія французька окремо фіксує незмінюваність **fait + infinitif**; сучасна нормативна традиція також поширює цей принцип на **laisser + infinitif** в рекомендованому узагальненому написанні.
+
+Тому конструкції з **faire + infinitif** треба аналізувати окремо від звичайного participe passé з **avoir**.
+
+---
+
+# FR-558 — Безособові конструкції та accord
+
+## 1. Безособове il
+
+У:
+
+> **Il faut travailler.**
+
+**il** є формальним підметом, а **travailler** — інфінітив.
+
+У:
+
+> **Il est important de vérifier les données.**
+
+прикметник **important** має чоловічу однину, тому що формальна структура використовує **il**.
+
+Не:
+
+> ❌ *Il est importante de vérifier...*
+
+## 2. Безособові дієслова
+
+> **Il pleut.**
+
+> **Il neige.**
+
+> **Il faut partir.**
+
+Дієслово стоїть у третій особі однини.
+
+Не:
+
+> ❌ *Il pleuvent.*
+
+Навіть якщо після безособової конструкції з'являється змістовий компонент множини, треба аналізувати конкретну синтаксичну модель:
+
+> **Il reste trois jours.**
+
+Тут **trois jours** не перетворює **reste** автоматично на *restent* у стандартній моделі.
+
+---
+
+# FR-559 — Складні випадки узгодження
+
+## 1. Найближче слово не завжди визначає форму
+
+> **Une série de mesures importantes a été annoncée.**
+
+Граматичний центр підмета — **série**, тому:
+
+> **a été annoncée**
+
+а не:
+
+> ❌ *ont été annoncées*
+
+## 2. Далекі залежності
+
+> **La liste des documents que nous avons reçus est complète.**
+
+Тут:
+
+- **la liste** — підмет головного речення;
+- **des documents** — залежна група;
+- **que nous avons reçus** — relative;
+- **est** узгоджується з **la liste**;
+- **reçus** узгоджується з передпоставленим COD **que = les documents**.
+
+Одне речення може містити кілька незалежних механізмів узгодження.
+
+## 3. C'est / ce sont
+
+У конструкціях із **c'est / ce sont** вибір форми залежить від структури та типу предикативної частини:
+
+> **C'est Paul.**
+
+> **Ce sont mes amis.**
+
+У сучасній французькій **c'est** має дуже широкий ужиток, тому не слід механічно замінювати його на **ce sont** у кожній конструкції з множинним елементом.
+
+Для конкретного речення треба враховувати синтаксис і регістр.
+
+## 4. Qui як підмет у relative
+
+> **C'est moi qui suis responsable.**
+
+> **C'est nous qui avons décidé.**
+
+Дієслово в relative узгоджується з референтом **qui**, а не з формою **moi / nous** як із непрямим додатком.
+
+## 5. Кілька можливих центрів
+
+У складних реченнях спочатку розбийте структуру:
+
+1. знайдіть головний предикат;
+2. визначте його підмет;
+3. визначте підмети підрядних;
+4. для кожного participe passé знайдіть окрему синтаксичну залежність;
+5. лише потім застосовуйте правило узгодження.
+
+---
+
+## Таблиця швидкої діагностики
+
+| Конструкція | Що перевіряти | Приклад |
+|---|---|---|
+| підмет + дієслово | особа і число підмета | **Les étudiants travaillent.** |
+| прикметник | рід і число визначального слова | **une maison blanche** |
+| déterminant | рід і число іменника | **cette maison** |
+| participe passé + être | підмет | **Elles sont arrivées.** |
+| participe passé + avoir | чи є COD перед participe passé | **Les lettres que j'ai écrites** |
+| займенникове дієслово | функція **se** та COD | **Elle s'est lavée / lavé les mains** |
+| collective noun | граматичний центр групи | **Une équipe travaille.** |
+| quantité | структура кількісної групи | **La plupart des étudiants sont...** |
+| pourcentage | група після **de** та референція | **10 % des étudiants sont...** |
+| infinitive after participe passé | роль учасників інфінітива | **les chansons que j'ai entendu chanter** |
+| impersonal construction | формальне **il** | **Il faut agir.** |
+
+---
+
+## Українсько-французький контраст
+
+Українська, як і французька, має узгодження роду й числа, тому базове поняття **accord** не є чужим україномовному учневі.
+
+Складність виникає в іншому: французькі правила participe passé часто залежать від **позиції та функції COD**, тоді як українська використовує іншу морфологічну систему.
+
+Порівняйте:
+
+> **Les lettres que j'ai écrites.**  
+> Листи, які я написав.
+
+У французькій **écrites** узгоджується з передпоставленим COD **les lettres**.
+
+Не треба перекладати це як механічне правило «українське слово в множині → французьке participe passé в множині». Спочатку потрібно встановити французьку синтаксичну структуру.
+
+---
+
+## Типові помилки
+
+❌ **Les étudiants travaille.**  
+✅ **Les étudiants travaillent.**
+
+❌ **Une équipe de chercheurs travaillent ici.**  
+✅ **Une équipe de chercheurs travaille ici.**
+
+❌ **Elle a mangée une pomme.**  
+✅ **Elle a mangé une pomme.**
+
+❌ **Les lettres que j'ai écrit.**  
+✅ **Les lettres que j'ai écrites.**
+
+❌ **La personne à qui j'ai parlée.**  
+✅ **La personne à qui j'ai parlé.**
+
+❌ **Ils se sont parlés.**  
+✅ **Ils se sont parlé.**
+
+коли йдеться про **parler à quelqu'un**.
+
+❌ **Elle s'est lavé les mains** → вважати помилкою лише через відсутність **-e**.
+
+✅ **Elle s'est lavé les mains.**
+
+Тут COD **les mains** стоїть після participe passé, а **se** не є COD.
+
+---
+
+## Практичний алгоритм
+
+### Якщо аналізуєте дієслово
+
+1. Знайдіть повну групу підмета.
+2. Визначте її граматичний центр.
+3. Узгодьте особову форму дієслова за особою та числом.
+4. Не орієнтуйтеся на найближчий іменник.
+
+### Якщо аналізуєте прикметник
+
+1. Знайдіть іменник або займенник, який він характеризує.
+2. Визначте рід.
+3. Визначте число.
+4. Утворіть правильну форму прикметника.
+
+### Якщо аналізуєте participe passé
+
+1. Знайдіть допоміжне дієслово.
+2. Якщо це **être**, перевірте підмет і тип конструкції.
+3. Якщо це **avoir**, знайдіть COD.
+4. Перевірте, чи стоїть COD перед participe passé.
+5. Якщо дієслово займенникове, визначте функцію **se**.
+6. Якщо є infinitif, перевірте, з якою дією пов'язаний передпоставлений елемент.
+7. Якщо конструкція безособова, перевірте, чи **il** є формальним підметом.
+8. Лише після синтаксичного аналізу вибирайте закінчення.
+
+---
+
+## Вправи
+
+### 1. Виправте форми
+
+1. **Les étudiants travaille beaucoup.**
+2. **Une partie des données sont incorrectes.**
+3. **Elle a écrite une lettre.**
+4. **Les lettres que j'ai écrit sont longues.**
+5. **Ils se sont parlé toute la soirée.**
+6. **Elle s'est lavée les mains.**
+
+### Відповіді
+
+1. **Les étudiants travaillent beaucoup.**
+2. У стандартному базовому аналізі: **Une partie des données est incorrecte.**
+3. **Elle a écrit une lettre.**
+4. **Les lettres que j'ai écrites sont longues.**
+5. **Ils se sont parlé toute la soirée.**
+6. **Elle s'est lavé les mains.**
+
+У пунктах 2 і 6 важливо бачити не «найближче слово», а граматичну структуру всієї конструкції.
+
+---
+
+## Головне
+
+- Узгодження визначається **граматичною залежністю**, а не просто близькістю слів.
+- Підмет і дієслово узгоджуються за особою та числом.
+- Прикметник узгоджується з елементом, який він характеризує.
+- Déterminant узгоджується з іменником.
+- З **être** participe passé у звичайній конструкції узгоджується з підметом.
+- З **avoir** participe passé не узгоджується з підметом; узгодження можливе з передпоставленим COD.
+- COI не створює такого узгодження.
+- У займенникових дієсловах треба визначати функцію **se**.
+- **Faire + infinitif** має окреме правило: **fait** перед інфінітивом незмінне.
+- Колективні, кількісні та відсоткові групи потребують аналізу граматичного центру.
+- Безособове **il** не слід плутати з особовим займенником.
+- У складному реченні різні participe passé можуть мати різні механізми узгодження.
+
+## Пов'язані теми
+
+- [Passé composé](./passe-compose)
+- [Participe passé](./participe-passe)
+- [Прономінальні дієслова](./pronominal-verbs)
+- [Узгодження participe passé у прономінальних дієсловах](./pronominal-participe-agreement)
+- [Відносні займенники](./relative-pronouns)
+- [Безособові конструкції](./impersonal-verbs)
+- [Структура речення](./sentence-structure)

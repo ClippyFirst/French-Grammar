@@ -6,6 +6,7 @@ category: "prepositions"
 order: 22
 related: ["prepositions-a", "prepositions-de", "prepositions-en"]
 tags: ["препозиции", "данс", "місце", "час", "всередині", "французька-граматика"]
+canonical_ids: ["FR-243"]
 ---
 
 # 🎯 Прийменник DANS у французькій мові

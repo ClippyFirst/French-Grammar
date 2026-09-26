@@ -4,8 +4,9 @@ title_fr: "La préposition à"
 description_uk: "Системний довідник про à: місце, напрямок, адресата, час, спосіб, конструкції з інфінітивом і керування дієслів."
 category: prepositions
 order: 1
-related: [prepositions-de, prepositions-place, prepositions-time, pronouns-coi, pronoun-order, articles-contracted]
+related: [prepositions-de, prepositions-place, prepositions-time, pronouns-coi, pronoun-order, contracted-articles]
 tags: [прийменники, à, керування, COD, COI]
+canonical_ids: ["FR-238"]
 ---
 
 # Прийменник **à**

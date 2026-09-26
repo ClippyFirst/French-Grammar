@@ -11,6 +11,7 @@ tags:
   - capitalization
   - spelling
   - fundamentals
+canonical_ids: ["FR-048"]
 ---
 
 ## Швидко

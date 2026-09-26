@@ -1,3 +1,22 @@
+---
+title_uk: "Теперішній час — застаріла сторінка"
+title_fr: "Le présent — page héritée"
+description_uk: "Застаріла сторінка. Актуальний системний довідник див. у present."
+category: tenses
+order: 999
+related:
+  - present
+status: deprecated
+level: A1
+depth: short
+register: neutral
+variety:
+  - FR
+contrastive_uk: low
+sources:
+  - "Legacy content retained only for migration compatibility."
+---
+
 # Теперішній час (Le Présent)
 
 ## 🇺🇦 Для українськомовних

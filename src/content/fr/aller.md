@@ -1,360 +1,265 @@
 ---
-title_uk: "Дієслово ALLER у французькій мові: повний посібник для українськомовних"
-title_fr: "Le verbe ALLER en français"
-description_uk: "Детальний посібник з дієслова ALLER (йти, їхати) у французькій мові для українськомовних. Дізнайтеся про всі часи, вживання, вирази та поширені помилки. Ідеально для українців, які вивчають французьку."
-category: "verbs"
+title_uk: "Aller: рух, futur proche та нерегулярна парадигма"
+title_fr: "Le verbe aller"
+description_uk: "Системний довідник про aller: рух, стани, futur proche, прийменникове керування, форми та допоміжне être."
+category: verbs
 order: 26
-related: ["etre", "avoir", "faire", "passe-compose"]
-tags: ["дієслова", "aller", "йти", "їхати", "французька-граматика"]
+prerequisites:
+  - present
+  - etre
+related:
+  - avoir
+  - futur-proche
+  - passe-compose
+  - prepositions-a
+  - y-en
+  - imperatif
+contrast:
+  - etre
+  - futur-simple
+next:
+  - futur-proche
+aliases:
+  - aller
+  - aller à
+  - aller + infinitif
+tags:
+  - aller
+  - дієслова
+  - рух
+  - futur proche
+  - être
+level: A1
+depth: high
+register: neutral
+variety: [FR]
+contrastive_uk: high
+status: review
+sources:
+  - "Académie française — Aller : quel groupe de verbes ?: https://www.academie-francaise.fr/vas-tu-aller-ou-nous-irons"
+  - "Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue"
+reviewed_at: "2026-09-25"
+formula: true
+toc: true
+featured: false
+canonical_ids: ["FR-300"]
 ---
 
-# 🚶 Дієслово ALLER (йти, їхати) у французькій мові
-
-## 📌 Швидко
-> ⏳ **ALLER** — це **неправильне дієслово**, яке означає "йти" або "їхати" у французькій мові. Вживається для:
-> - **Руху**: Je vais au cinéma (Я йду в кіно)
-> - **Майбутнього часу**: Je vais manger (Я збираюся їсти)
-> - **Допоміжне дієслово** у passè composé (DR VANDERTRAMP)
-> - **Виразів**: Ça va? (Як справи?)
-
-> 💡 **Головне**: ALLER — це **DR VANDERTRAMP**, тому у passè composé вживається **ÊTRE**!
-
----
-
-## 📐 Формула
-
-### Теперішній час (Présent)
-| Особа | Форма | Переклад |
-|-------|-------|----------|
-| je | vais | я йду/їду |
-| tu | vas | ти йдеш/їдеш |
-| il/elle/on | va | він/вона йде/їде |
-| nous | allons | ми йдемо/їдемо |
-| vous | allez | ви йдете/їдете |
-| ils/elles | vont | вони йдуть/їдуть |
-
----
-
-## 🏗️ Утворення
-
-### ✅ Теперішній час (Présent)
-```
-vais, vas, va, allons, allez, vont
-```
-
-### ✅ Минулий складений час (Passé composé)
-**ÊTRE + allé(e)(s)** (DR VANDERTRAMP!)
-```
-je suis allé(e), tu es allé(e), il est allé, nous sommes allé(e)s, vous êtes allé(e)(s), ils sont allés
-```
-
-### ✅ Минулий недоконаний час (Imparfait)
-```
-j'allais, tu allais, il allait, nous allions, vous alliez, ils allaient
-```
-
-### ✅ Майбутній простий час (Futur simple)
-```
-irais, iras, ira, irons, irez, iront
-```
-
-### ✅ Умовний теперішній час (Conditionnel présent)
-```
-irais, irais, irait, irions, iriez, iraient
-```
-
-### ✅ Наказовий спосіб (Impératif)
-```
-va, allons, allez
-```
-
----
-
-## 🎯 Вживання
-
-### 1. 🚶 Рух (йти/їхати)
-**ALLER + місце** = "йти/їхати кудись"
-
-| Місце | Приклад | Переклад |
-|-------|---------|----------|
-| **ALLER + à + місто** | Je vais à Paris. | Я їду до Парижа. |
-| **ALLER + à + країна (жін.)** | Je vais en France. | Я їду до Франції. |
-| **ALLER + au + країна (чол.)** | Je vais au Canada. | Я їду до Канади. |
-| **ALLER + chez + людина** | Je vais chez le médecin. | Я йду до лікаря. |
-| **ALLER + à + будівля** | Je vais à l'école. | Я йду до школи. |
-
-**Приклади:**
-- Je **vais** au cinéma. (Я йду в кіно.)
-- Tu **vas** à la maison. (Ти йдеш додому.)
-- Il **va** au travail. (Він йде на роботу.)
-- Nous **allons** au restaurant. (Ми йдемо до ресторану.)
-- Vous **allez** où? (Куди ви йдете?)
-
----
-
-### 2. ⏳ Майбутній час (Futur proche)
-**ALLER + інфінітив** = "збиратися робити"
-
-| Конструкція | Приклад | Переклад |
-|-------------|---------|----------|
-| **ALLER + інфінітив** | Je vais manger. | Я збираюся їсти. |
-| **ALLER + інфінітив** | Tu vas partir. | Ти збираєшся їхати. |
-| **ALLER + інфінітив** | Il va pleuvoir. | Збирається дощ. |
-
-**Приклади:**
-- Je **vais** manger une pizza. (Я збираюся з'їсти піцу.)
-- Nous **allons** regarder un film. (Ми збираємося дивитися фільм.)
-- Il **va** pleuvoir. (Збирається дощ.)
-- Tu **vas** tomber! (Ти збираєшся впасти!)
-
-> ⚠️ **УВАГА**: Futur proche = **ALLER + інфінітив**, а не майбутній час дієслова!
-
----
-
-### 3. 💬 Вирази з ALLER
-
-| Вираз | Приклад | Переклад |
-|--------|---------|----------|
-| **Ça va?** | Ça va? | Як справи? |
-| **Ça va bien.** | Ça va bien. | У мене все добре. |
-| **Ça va mal.** | Ça va mal. | У мене все погано. |
-| **Comment ça va?** | Comment ça va? | Як ти? |
-| **Aller bien** | Cette robe te va bien. | Ця сукня тобі пасує. |
-| **Aller à + транспорт** | Je vais à pied. | Я йду пішки. |
-| **Aller en + транспорт** | Je vais en voiture. | Я їду на машині. |
-| **Aller chercher** | Je vais chercher mon frère. | Я йду забирати брата. |
-
-**Приклади:**
-- **Ça va?** — Oui, ça va bien! (Як справи? — Так, все добре!)
-- **Comment ça va?** — Ça va mal, je suis malade. (Як ти? — Погано, я хворий.)
-- Cette couleur **te va** très bien. (Цей колір тобі дуже пасує.)
-
----
-
-### 4. 🏃 Допоміжне дієслово у Passé composé
-**ALLER** — це **DR VANDERTRAMP**, тому у passè composé вживається **ÊTRE**:
-
-| Дієслово | Passé composé | Переклад |
-|----------|---------------|----------|
-| **aller** | Je suis allé(e) | Я ходив/їздив |
-| **aller** | Tu es allé(e) | Ти ходив/їздив |
-| **aller** | Il est allé | Він ходив/їздив |
+# Aller
 
-**Узгодження**: ALLER узгоджується з підметом:
-- Je **suis allé** (чол.) / Je **suis allée** (жін.)
-- Nous **sommes allés** (чол.) / Nous **sommes allées** (жін.)
+## Швидка відповідь
 
-**Приклади:**
-- Je **suis allé** au cinéma hier. (Я ходив в кіно учора.)
-- Elle **est allée** au marché. (Вона ходила на ринок.)
-- Nous **sommes allés** en vacances. (Ми їздили у відпустку.)
+**Aller** — нерегулярне дієслово III групи, попри закінчення **-er**. Його парадигма використовує кілька основ, а майбутній час має основу **ir-**. Académie française прямо зазначає, що *aller* належить до III групи саме через нерегулярність.
 
----
+Основні функції:
 
-## 🔄 Порівняння: ALLER vs AUTRES VERBES
+- рух до місця;
+- стан / перебіг у виразах на кшталт **ça va**;
+- **aller + infinitif** = futur proche;
+- допоміжне *être* у складених часах у відповідних конструкціях.
 
-| Дієслово | Вживання | Приклад |
-|-----------|----------|---------|
-| **ALLER** | Рух | Je vais au cinéma |
-| **ALLER** | Майбутнє | Je vais manger |
-| **ALLER** | DR VANDERTRAMP | Je suis allé |
-| **PARTIR** | Виїзд | Je pars demain |
-| **VENIR** | Приїзд | Je viens de Paris |
-| **RETOURNER** | Повернення | Je retourne à la maison |
+## 1. Présent
 
----
+| Особа | Форма |
+|---|---|
+| je | **vais** |
+| tu | **vas** |
+| il / elle / on | **va** |
+| nous | **allons** |
+| vous | **allez** |
+| ils / elles | **vont** |
 
-## ❌ Поширені помилки українськомовних
+Не намагайтеся вивести всі форми з одного регулярного кореня. Для *aller* історично та морфологічно співіснують різні основи; Академія окремо описує **va-/vo-**, **al-** та **ir-**.
 
-### 1. Плутанина з прийменниками місця
-```
-❌ Je vais en Paris. → ✅ Je vais à Paris.
-❌ Je vais au France. → ✅ Je vais en France.
-❌ Je vais à Canada. → ✅ Je vais au Canada.
-```
-> 💡 **Правило**:
-> - **À + місто** (à Paris, à Kiev)
-> - **EN + країна жіночого роду** (en France, en Ukraine)
-> - **AU + країна чоловічого роду** (au Canada, au Brésil)
+## 2. Рух
 
----
+Базова конструкція:
 
-### 2. Плутанина ALLER та VENIR
-```
-❌ Je viens au cinéma. → ✅ Je vais au cinéma. (я йду, а не приходжу)
-❌ Il va de Paris. → ✅ Il vient de Paris. (він з Парижа = приїхав з Парижа)
-```
-> 💡 **Правило**: **ALLER** = йти/їхати, **VENIR** = приходити/приїжджати
+**aller + direction / destination**
 
----
+> **Je vais à Paris.**
 
-### 3. Забути узгодження у Passé composé
-```
-❌ Je suis allé au marché. (жін.) → ✅ Je suis allée au marché.
-❌ Nous sommes allé en vacances. → ✅ Nous sommes allés en vacances.
-```
-> 💡 **Правило**: ALLER **узгоджується** з підметом у passè composé!
-
----
+> **Nous allons au cinéma.**
 
-### 4. Плутанина з Futur proche та Futur simple
-```
-❌ Je vais aller manger. → ✅ Je vais manger. (Futur proche)
-❌ Je vais manger demain. → ✅ Je vais manger demain. ✅ / Je mangerai demain. (Futur simple)
-```
-> 💡 **Правило**: Futur proche = ALLER + інфінітив (ближче майбутнє)
-
----
-
-### 5. Неправильний порядок у питаннях
-```
-❌ Vas-tu au cinéma? → ✅ Vas-tu au cinéma? ✅
-❌ Va-t-il à l'école? → ✅ Va-t-il à l'école? ✅
-```
-> 💡 **Правило**: У питаннях **вживайте інверсію**: Vas-tu? Va-t-il? Allons-nous?
-
----
-
-## 🇺🇦 Для українськомовних
-
-### 🔥 Основні відмінності від української:
-
-1. **Прийменники місця**: У французькій мові **à/en/au**, у українській — "до/у/на"
-   - 🇫🇷 Je vais à Kiev. = 🇺🇦 Я їду до Києва.
-   - 🇫🇷 Je vais en France. = 🇺🇦 Я їду до Франції.
-
-2. **Futur proche**: У французькій мові **ALLER + інфінітив**, у українській — "збиратися робити"
-   - 🇫🇷 Je vais manger. = 🇺🇦 Я збираюся їсти.
-
-3. **DR VANDERTRAMP**: ALLER — це **DR VANDERTRAMP**, тому у passè composé вживається **ÊTRE**
-   - 🇫🇷 Je suis allé au cinéma. = 🇺🇦 Я ходив в кіно.
-
-4. **Ça va?**: У французькій мові **Ça va?**, у українській — "Як справи?"
-   - 🇫🇷 Ça va? = 🇺🇦 Як справи?
-
-### ⚠️ Типові помилки через вплив української:
-
-1. **Плутанина з прийменниками**:
-   - ❌ Je vais en Kiev. → ✅ Je vais à Kiev.
-
-2. **Плутанина ALLER та VENIR**:
-   - ❌ Je viens au cinéma. → ✅ Je vais au cinéma.
-
-3. **Забути узгодження**:
-   - ❌ Je suis allé au marché. (жін.) → ✅ Je suis allée au marché.
-
----
-
-## 📝 Вправи
-
-### Вправа 1: Кон'югація у теперішньому часі
-1. Je ___ au cinéma. (vais/vas/va)
-2. Tu ___ où? (vais/vas/va)
-3. Il ___ à l'école. (vais/vas/va)
-4. Nous ___ au restaurant. (allons/allez/vont)
-5. Vous ___ en vacances. (allons/allez/vont)
-
-<details>
-<summary>✅ Відповіді</summary>
-
-1. vais
-2. vas
-3. va
-4. allons
-5. allez
-</details>
-
----
-
-### Вправа 2: Виправте помилки
-1. Je vais en Paris.
-2. Je vais au France.
-3. Je viens au cinéma.
-4. Je suis allé au marché. (жін.)
-5. Vas-tu où?
-
-<details>
-<summary>✅ Відповіді</summary>
-
-1. **Je vais à Paris**.
-2. **Je vais en France**.
-3. **Je vais au cinéma**.
-4. **Je suis allée au marché**.
-5. **Vas-tu quelque part?**
-</details>
-
----
-
-### Вправа 3: Виберіть правильний варіант
-1. ___ au cinéma. (Je vais/Je viens)
-2. ___ de Paris. (Il va/Il vient)
-3. Je ___ mangé. (suis allé/ai mangé)
-4. Elle ___ allée au marché. (est/ai)
-5. Nous ___ en voiture. (vont/venons)
-
-<details>
-<summary>✅ Відповіді</summary>
-
-1. **Je vais** au cinéma.
-2. **Il vient** de Paris.
-3. J'**ai mangé**.
-4. Elle **est** allée au marché.
-5. Nous **allons** en voiture.
-</details>
-
----
-
-### Вправа 4: Переклад з української
-1. Я йду в кіно.
-2. Я їду до Франції.
-3. Я збираюся їсти.
-4. Я ходив в кіно.
-5. Як справи?
-
-<details>
-<summary>✅ Відповіді</summary>
-
-1. **Je vais au cinéma**.
-2. **Je vais en France**.
-3. **Je vais manger**.
-4. **Je suis allé(e) au cinéma**.
-5. **Ça va?**
-</details>
-
----
-
-### Вправа 5: Заповніть пропуски
-1. Tu ___ où? (vas/va/allons)
-2. Nous ___ au parc. (vons/allons/allez)
-3. Ils ___ en vacances. (vont/venons/allons)
-4. Je ___ allé au marché. (suis/ai/est)
-5. Ça ___? (va/vas/allons)
-
-<details>
-<summary>✅ Відповіді</summary>
-
-1. **vas** où?
-2. **allons** au parc.
-3. **vont** en vacances.
-4. **suis** allé au marché.
-5. **Ça va**?
-</details>
-
----
-
-## 📚 Додаткові ресурси
-- [ÊTRE](etre) — порівняння з ALLER
-- [AVOIR](avoir) — інші важливі дієслова
-- [Passé composé](passe-compose) — вживання ALLER у минулому часі
-- [Faire](faire) — наступне дієслово для вивчення
-
----
-
-## 🎓 Підсумок
-- **ALLER** — це **неправильне дієслово**, яке означає "йти/їхати"
-- **Основні вживання**: рух, майбутнє (Futur proche), вирази, DR VANDERTRAMP
-- **Кон'югація**: vais, vas, va, allons, allez, vont
-- **Passé composé**: **ÊTRE + allé(e)(s)** (DR VANDERTRAMP!)
-- **Futur proche**: ALLER + інфінітив = "збиратися робити"
-- **Узгодження**: ALLER узгоджується з підметом у passè composé
-- **Типові помилки**: плутанина з прийменниками, ALLER/VENIR, забуття узгодження
+> **Elle va en France.**
+
+> **Ils vont chez leurs amis.**
+
+Вибір прийменника залежить від типу назви та конструкції, тому не вчіть «aller = à» як універсальну формулу.
+
+## 3. Міста, країни та установи
+
+### Місто
+
+> **Je vais à Paris.**
+
+> **Nous allons à Lyon.**
+
+### Країна
+
+> **Je vais en France.**
+
+> **Il va au Canada.**
+
+> **Elle va aux États-Unis.**
+
+### Людина / місце, пов'язане з людиною
+
+> **Je vais chez Marie.**
+
+> **Nous allons chez le médecin.**
+
+Для повної системи див. прийменники та географічні назви.
+
+## 4. Aller + infinitif
+
+**aller + infinitif** утворює **futur proche**:
+
+> **Je vais partir.**
+
+> **Nous allons commencer.**
+
+> **Il va pleuvoir.**
+
+Це не просто «майбутній час aller». *Aller* тут бере участь у перифрастичній часовій конструкції, а смислове дієслово стоїть в інфінітиві.
+
+Порівняйте:
+
+> **Je vais à Paris.** — Я їду до Парижа.
+
+> **Je vais travailler.** — Я зараз / скоро працюватиму; я збираюся працювати.
+
+## 5. Часова перспектива futur proche
+
+Futur proche часто пов'язаний із:
+
+- близькою майбутньою подією;
+- наміром;
+- ситуацією, що вже розгортається;
+- прогнозом із наявних ознак.
+
+> **Attention, le verre va tomber !**
+
+Точне значення залежить від контексту. Не встановлюйте механічну межу на кшталт «futur proche = тільки найближчі 5 хвилин».
+
+## 6. Aller у виразах
+
+**Ça va ?**
+
+> **Ça va ? — Oui, ça va.**
+
+Тут *aller* не означає буквально «йти».
+
+Інші моделі:
+
+> **Ça va mieux.** — Стає краще / почувається краще.
+
+> **Comment ça va ?**
+
+> **Cette chemise te va bien.** — Ця сорочка тобі пасує.
+
+## 7. Passé composé
+
+У типовому значенні руху:
+
+> **Je suis allé à Paris.**
+
+> **Elle est allée chez ses parents.**
+
+> **Nous sommes allés au musée.**
+
+Participe passé **allé** узгоджується з підметом у конструкції з *être*:
+
+> **Elle est allée.**
+
+> **Ils sont allés.**
+
+Не використовуйте «список дієслів руху» як єдине пояснення вибору *être*: вибір допоміжного дієслова складніший за семантичну категорію «рух».
+
+## 8. Aller ≠ être
+
+У нейтральній нормативній французькій не підміняйте *aller* дієсловом *être* у значенні «піти / поїхати / відвідати»:
+
+❌ *J'ai été à Paris* — якщо мається на увазі «я поїхав / сходив до Парижа».  
+✅ **Je suis allé à Paris.**
+
+Académie française окремо описує цю заміну як небажану в цьому значенні. Водночас у живій мові така конструкція трапляється, тому її існування не слід плутати з нормативною рекомендацією.
+
+## 9. Інші форми
+
+| Час / спосіб | Форма від je |
+|---|---|
+| présent | **je vais** |
+| imparfait | **j'allais** |
+| futur simple | **j'irai** |
+| conditionnel présent | **j'irais** |
+| passé composé | **je suis allé(e)** |
+| impératif | **va, allons, allez** |
+| participe passé | **allé** |
+
+Зверніть увагу:
+
+> **j'irai** — futur simple
+
+> **j'irais** — conditionnel présent
+
+## 10. Impératif
+
+> **Va !**
+
+> **Allons-y !**
+
+> **Allez !**
+
+Перед **y/en** у ствердному impératif з'являється кінцеве **-s**:
+
+> **Vas-y !**
+
+Це орфографічно-морфологічна особливість форми *aller* в цій позиції, а не нова форма часу. Академія також фіксує *vas-y* як нормативну форму.
+
+Порівняйте:
+
+> **Va en chercher.**
+
+Тут *en* залежить від інфінітива, тому не переносіть механічно правило *vas-y*.
+
+## 11. Для україномовного учня
+
+Українське **йти / їхати** розподіляється французьким *aller* без окремої граматичної форми для способу пересування:
+
+> **Je vais à pied.** — Я йду пішки.
+
+> **Je vais en train.** — Я їду потягом.
+
+Тому контекст і транспортна конструкція уточнюють спосіб руху.
+
+## 12. Типові помилки
+
+❌ *je aller*  
+✅ **je vais**
+
+❌ *j'allerai*  
+✅ **j'irai**
+
+❌ *j'irais demain* як нейтральне «я поїду завтра»  
+✅ **j'irai demain**
+
+❌ *je suis allé à Paris* → перекладати як «я є пішов»  
+→ це складений минулий час, а *être* тут допоміжне.
+
+## Практична перевірка
+
+1. Je ___ à Paris demain. (*aller*, futur simple)
+2. Nous ___ commencer. (*aller*, futur proche)
+3. Elle ___ au Canada. (*présent*)
+4. Ils ___ au musée hier. (*passé composé*)
+5. ___-y ! (*aller, impératif + y*)
+
+**Відповіді:** 1 **irai**, 2 **allons**, 3 **va**, 4 **sont allés**, 5 **Vas-y**.
+
+## Куди далі
+
+- [Futur proche](./futur-proche)
+- [Passé composé](./passe-compose)
+- [Être](./etre)
+- [y та en](./y-en)

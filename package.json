@@ -9,7 +9,10 @@
     "build": "astro build && pagefind --site dist",
     "preview": "astro preview",
     "astro": "astro",
-    "pagefind": "pagefind"
+    "pagefind": "pagefind",
+    "test": "node --test",
+    "audit:canonical": "node scripts/audit-canonical-coverage.mjs",
+    "audit:canonical:matrix": "node scripts/generate-canonical-matrix.mjs"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.2.1",

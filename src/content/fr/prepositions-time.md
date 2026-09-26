@@ -10,6 +10,7 @@ related:
   - prepositions-a
   - prepositions-de
 tags: [прийменники, час, durée, depuis, pendant, en, dans]
+canonical_ids: ["FR-254", "FR-255", "FR-256", "FR-257", "FR-258", "FR-259"]
 ---
 
 # Часові прийменники

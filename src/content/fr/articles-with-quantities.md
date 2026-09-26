@@ -1,135 +1,199 @@
 ---
-title_uk: "Артикли з кількісними виразами"
+title_uk: "Артикль і кількісні конструкції: de, des та конкретизована множина"
 title_fr: "Les articles avec les quantités"
-description_uk: "З *de* та *des* виражають кількість: de, des, du, de la — залежять від вимови та значення."
+description_uk: "Як поводяться артиклі після чисел і кількісних виразів та чому de і des не завжди є взаємозамінними."
 category: nouns
-order: 12
+order: 60
+prerequisites:
+  - articles-indefinite
+  - articles-partitive
+  - quantifiers
 related:
-  - nouns/partitive-articles
-  - nouns/contracted-articles
-  - nouns/quantifiers
+  - articles-after-negation
+  - contracted-articles
+  - articles-definite
+contrast:
+  - articles-indefinite
+  - articles-partitive
+next:
+  - quantifiers
+aliases:
+  - articles with quantities
+  - article with quantity
+  - de après quantité
+  - de + les
 tags:
-  - quantities
-  - articles
-  - determiners
+  - артикль
+  - кількість
+  - de
+  - des
+  - кількісні конструкції
+level: A2
+depth: high
+register: neutral
+variety:
+  - FR
+contrastive_uk: high
+status: review
+sources:
+  - "Académie française — La grammaire et l’infini (2024): https://www.academie-francaise.fr/la-grammaire-et-linfini"
+reviewed_at: "2026-09-25"
+formula: true
+toc: true
+canonical_ids: ["FR-088", "FR-096"]
 ---
 
-## Швидко
+# Артикль і кількісні конструкції
 
-Коли виражається **кількість** (багато, багато, трохи, досить), використовується
-приєднання **de**:
+## Швидка відповідь
 
-- **de** + однина → *beaucoup **de** livres* (багато книг)
-- **des** + множина → *beaucoup **de** львів* (багато львів, але **des** у формі)
+Після числівників і багатьох слів на позначення кількості перед іменником використовується **de/d’**:
 
-> 💡 Україномовному учню важливо: українська використовує чисники (*багато, трохи*),
-> тоді як у французькій **de** або **des** виконують цю роль.
+- **deux livres**
+- **beaucoup de livres**
+- **peu d’eau**
+- **un kilo de farine**
+- **trois litres d’huile**
 
-## Формула
+Але **des** може залишатися, якщо воно є частиною іншої структури, наприклад **de + les**:
 
-<div class="formula">
+> **beaucoup des livres que tu m’as recommandés**
 
-| Слово-кількість | Артикл | Приклад |
-|------------------|--------|---------|
-| beaucoup **de** | de | beaucoup de livres |
-| peu **de** | de | peu de fromage |
-| trop **de** | de | trop de sucre |
-| assez **de** | de | assez de temps |
-| **des** | des | des livres (кілька книг) |
+Тут **des = de + les**, а не звичайний невизначений артикль.
 
-</div>
+## 1. Числівник + іменник
 
-## Утворення
+Після точного числа артикль перед іменником не ставиться:
 
-### З *de* (приєднання)
+> **deux livres** — дві книжки
 
-У більшості випадків кількісні вирази використовують **de**:
+> **trois étudiants** — троє студентів
 
-<div class="example">
-  <p class="fr">**beaucoup de** livres → *багато книг*</p>
-  <p class="uk"> **bagatо knig** → *багато книг*</p>
-</div>
+> **cinq litres d’eau** — п’ять літрів води
 
-<div class="example">
-  <p class="fr">**peu de** fromage → *трохи сиру*</p>
-  <p class="uk"> **troхі siro** → *трохи сиру*</p>
-</div>
+Не:
 
-### З *des* (неозначне визначення)
+❌ *deux des livres* — якщо мається на увазі просто «дві книжки».
 
-<div class="example">
-  <p class="fr">**des** amis → *кілька друзів* або *друзі* (без визначення визначної кількості)**</p>
-  <p class="uk"> **des** друзі → *кілька друзів*</p>
-</div>
+Але **deux des livres que j’ai achetés** можливе, якщо значення — «дві з книжок, які я купив»:
 
-> ⚠️ У розмовній мові *de* часто випадає після *pas* або у виразах типу *J'en ai des*.
+> **J’ai lu deux des livres que tu m’as donnés.**  
+> Я прочитав дві з книжок, які ти мені дав.
 
-## Використання
+Тут **des = de + les**.
 
-### 1. Кількісні настановники
+## 2. Кількісний вираз + de
 
-<div class="example">
-  <p class="fr">**tous** → *всі*</p>
-  <p class="uk"> **tous** → *всі*</p>
-</div>
+Після **beaucoup, peu, trop, assez, plus, moins, autant** перед іменником стоїть **de/d’**:
 
-> ⚠️ *Tous* (чисівник "всі") не вживає *de* перед іменником:
-> *tous les amis* (а не *tous de amis*). Але після *il y a* можна:
-> *il y a **tous les** amis* → *у мене є всі друзі*.
+> **beaucoup de travail**
 
-### 2. З частовими виразами
+> **peu de temps**
 
-<div class="example">
-  <p class="fr">**assez de** — *досить*</p>
-  <p class="uk"> **досить de** — *досить*</p>
-</div>
+> **trop de bruit**
 
-<div class="example">
-  <p class="fr">**trop de** — *забагато*</p>
-  <p class="uk"> **zabagato de** — *забагато*</p>
-</div>
+> **assez d’argent**
 
-<div class="example">
-  <p class="fr">**peu de** — *мало*</p>
-  <p class="uk"> **malо de** — *мало*</p>
-</div>
+> **plus de possibilités**
 
-## Порівняння
+> **moins d’eau**
 
-| Вираз | Французька | Українська |
-|-------|-----------|------------|
-| багато | beaucoup de | багато |
-| трохи | peu de | трохи / мало |
-| забагато | trop de | забагато |
-| досить | assez de | досить |
+> **autant de livres**
 
-> 💡 У українській ці кількісні вирази **не вимагають** приєднання.
-> У французькій **de** завжди потрібне після них.
+Перед голосним або *h muet* працює звичайна елізія:
 
-## Винятки
+> **beaucoup d’amis**
 
-> ⚠️ У певних виразах *de* може бути частиною дієслова або іменника,
-> а не кількісним приєднанням:
+> **peu d’eau**
 
-- *avoir **de** l'air* → *виглядати* (не *de* — це значення)
-- *parler **de** quelque chose* → *говорити про щось* (приєднання)
+## 3. Міра, місткість, частина
+
+Після іменника на позначення міри/місткості також уживається **de/d’**:
+
+> **un kilo de pommes**
+
+> **une bouteille d’eau**
+
+> **un verre de lait**
+
+> **trois mètres de tissu**
+
+Тут **de** пов’язує назву міри з речовиною або предметами, які вимірюються.
+
+## 4. Кількість + конкретизована множина
+
+Якщо кількісний вираз стосується **визначеної множини**, можливе **de + les = des**:
+
+> **beaucoup des étudiants de cette classe**
+
+> **deux des candidats**
+
+> **la plupart des personnes présentes**
+
+Порівняйте:
+
+> **beaucoup d’étudiants**  
+> багато студентів загалом / невизначена кількість
+
+> **beaucoup des étudiants de cette classe**  
+> багато з конкретної групи студентів цього класу
+
+Це один із найважливіших випадків, коли правило «після *beaucoup* завжди *de*, ніколи *des*» стає неправильним.
+
+## 5. Partitif після кількості не зберігається
+
+Порівняйте:
+
+> **Je bois du café.**  
+> Я п’ю каву.
+
+> **Je bois beaucoup de café.**  
+> Я п’ю багато кави.
+
+> **Je bois deux tasses de café.**  
+> Я п’ю дві чашки кави.
+
+Кількість уже виражена **beaucoup** або **deux tasses**, тому окремий партитивний артикль не додається.
+
+## 6. Для україномовного учня
+
+Українська виражає кількість без французького **de**:
+
+> багато книжок  
+> дві книжки  
+> трохи води
+
+Тому корисно вчити не переклад **de**, а конструкцію:
+
+> **кількісний вираз + de/d’ + іменник**
+
+При цьому перевіряйте, чи **des** не є насправді **de + les**.
 
 ## Типові помилки
 
-<div class="mistake">
-  <p class="wrong">❌ *beaucoup **des** livres* (використання *des* замість *de* після *beaucoup*)</p>
-  <p class="right">✅ *beaucoup **de** livres*</p>
-  <p class="why">Після кількісних зворотів типу *beaucoup* використовується **de**,
-    а не **des**. *Des* вживається тільки тоді, коли це виступає як самостійний
-    неозначний артикл.**</p>
-</div>
+❌ *beaucoup des livres* — якщо просто мається на увазі «багато книжок».  
+✅ **beaucoup de livres**
 
-<div class="mistake">
-  <p class="wrong">❌ *Je n'ai **pas des** livres* (не змінено на *de* у запереченні)**</p>
-  <p class="right">✅ *Je n'ai **pas de** livres.*</p>
-  <p class="why">У запереченні після *pas* **des/des** → **de**.**</p>
-</div>
+Але:
 
-## Пов'язані теми
+> **beaucoup des livres de cette bibliothèque**
 
-(related handled by component)
+може бути правильним, якщо йдеться про конкретну групу.
+
+❌ *deux des livres* — якщо просто «дві книжки».  
+✅ **deux livres**
+
+Але:
+
+> **deux des livres que j’ai achetés**
+
+правильно = «дві з книжок, які я купив».
+
+❌ *beaucoup de l’eau* — якщо мається на увазі просто «багато води».  
+✅ **beaucoup d’eau**
+
+## Куди далі
+
+- **Кількісні звороти** — повна система *beaucoup de, peu de, trop de* тощо.
+- **Частковий артикль** — *du/de la/de l’* без окремого виразу кількості.
+- **Злиті артиклі** — *du/des = de + le/les* у відповідних синтаксичних умовах.

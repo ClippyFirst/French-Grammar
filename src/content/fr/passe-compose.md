@@ -1,200 +1,255 @@
 ---
 title_uk: "Passé composé — складений минулий час"
 title_fr: "Le passé composé"
-description_uk: "Утворення й уживання passé composé, вибір avoir/être, узгодження та контраст із imparfait."
+description_uk: "Утворення passé composé, вибір avoir/être, participe passé, узгодження та контраст із imparfait."
 category: tenses
 order: 20
-related:
+canonical_ids:
+  - FR-341
+  - FR-342
+  - FR-343
+prerequisites:
   - present
+  - avoir
+  - etre
+related:
+  - passe-simple
   - imparfait
   - passe-compose-vs-imparfait
+  - plus-que-parfait
   - accord
-tags: [passé composé, минулий час, avoir, être, participe passé]
+contrast:
+  - passe-compose-vs-imparfait
+next:
+  - passe-compose-vs-imparfait
+aliases:
+  - passé composé
+  - compound past
+  - French perfect
+tags:
+  - passé composé
+  - минулий час
+  - avoir
+  - être
+  - participe passé
+level: A2
+depth: high
+register: neutral
+variety:
+  - FR
+contrastive_uk: high
+status: review
+sources:
+  - "Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue"
+reviewed_at: "2026-09-25"
+formula: true
+toc: true
 ---
 
-# Passé composé — складений минулий час
+# Passé composé
 
-## Швидко
+## Швидка відповідь
 
-Passé composé — складена форма минулого часу: **avoir або être у présent + participe passé**.
+**Passé composé** утворюється з présent допоміжного **avoir** або **être** + **participe passé**:
 
-Його типова функція — подати минулу ситуацію як **подію, факт або цілісний епізод**. Не ототожнюйте його механічно з українським доконаним видом.
+> **J’ai parlé.** — Я поговорив / говорив.
 
-## Утворення
+> **Elle est arrivée.** — Вона приїхала.
 
-### З avoir
+У сучасній французькій це один із головних способів говорити про минулі події. Його не можна механічно прирівнювати до українського доконаного виду.
 
-Більшість дієслів:
+## 1. Утворення з avoir
 
-**avoir au présent + participe passé**
+Більшість дієслів утворюють passé composé з **avoir**:
 
-- j’ai parlé
-- tu as fini
-- elle a vendu
-- nous avons compris
-- ils ont pris
+> **j’ai parlé**
 
-### З être
+> **nous avons fini**
 
-З être вживаються певні неперехідні дієслова зміни стану/місця та **всі прономінальні дієслова**:
+> **ils ont compris**
 
-- elle est arrivée
-- ils sont partis
-- nous nous sommes levés
+Допоміжне дієслово відмінюється, а participe passé не змінюється залежно від особи.
 
-Не вчіть правило «всі дієслова руху». Допоміжне дієслово залежить від конкретної лексичної конструкції та інколи від перехідності:
+## 2. Утворення з être
 
-- **Elle est sortie.** — Вона вийшла.
-- **Elle a sorti le livre.** — Вона дістала книжку.
+Частина неперехідних дієслів, що утворюють passé composé з **être**, узгоджується з підметом:
 
-## Participe passé
+> **Elle est arrivée.**
 
-| Тип | Модель | Приклад |
-|---|---|---|
-| I група | -er → -é | parler → parlé |
-| II група | -ir → -i | finir → fini |
-| III група | різні моделі | prendre → pris |
+> **Ils sont partis.**
 
-Корисні форми:
+Усі прономінальні дієслова також утворюють складені часи з **être**, але правила узгодження в прономінальних конструкціях потребують окремого аналізу.
 
-| Infinitif | Participe passé |
+Не варто вчити спрощене правило «дієслова руху → être».
+
+Порівняйте:
+
+> **Elle est sortie.** — Вона вийшла.
+
+> **Elle a sorti le livre.** — Вона дістала книжку.
+
+Тут зміна перехідності змінює допоміжне дієслово.
+
+## 3. Основні форми participe passé
+
+| Інфінітив | Participe passé |
 |---|---|
-| être | été |
-| avoir | eu |
-| faire | fait |
+| parler | parlé |
+| finir | fini |
+| vendre | vendu |
 | prendre | pris |
+| faire | fait |
 | mettre | mis |
 | voir | vu |
 | lire | lu |
 | écrire | écrit |
-| dire | dit |
-| boire | bu |
 | venir | venu |
 | naître | né |
 | mourir | mort |
-| ouvrir | ouvert |
 
-## Часова та аспектуальна перспектива
+Нерегулярні форми треба вчити разом із дієсловом.
 
-Passé composé не визначається тим, що ситуація «об’єктивно завершена». У французькій важливо, як мовець подає ситуацію: як окрему подію, факт або цілісний епізод. Та сама ситуація може бути представлена інакше в іншому контексті.
+## 4. Типове значення: подія як цілісний епізод
+
+> **J’ai acheté ce livre hier.**
+
+> **Elle est arrivée à huit heures.**
+
+У розповіді passé composé часто подає події як окремі ланки:
+
+> **Je suis rentré, j’ai mangé et je me suis couché.**
+
+Але «цілісна подія» не означає «результат обов'язково актуальний зараз». Актуальність може бути важливою в конкретному контексті, але не є необхідною умовою passé composé.
+
+## 5. Тривалість не визначає час автоматично
+
+> **J’ai travaillé pendant trois heures.**
+
+Тут тривалість подана як завершений епізод.
 
 Порівняйте:
 
-- **J'ai travaillé pendant trois heures.** — роботу подано як цілісний епізод.
-- **À huit heures, je travaillais encore.** — роботу подано в межах певної часової точки.
+> **À huit heures, je travaillais encore.**
 
-Отже, тривалість, доконаність результату або лексичне значення дієслова не дають механічного правила вибору.
+Тут робота подана зсередини як ситуація, що тривала в певний момент.
 
-## Часова та аспектуальна перспектива
+Отже, **pendant trois heures** саме по собі не означає «потрібен imparfait».
 
-Passé composé не визначається тим, що ситуація «об’єктивно завершена». Важливо, як мовець подає її: як окрему подію, факт або цілісний епізод. Та сама ситуація може бути представлена інакше в іншому контексті.
+## 6. Passé composé та imparfait
 
-Порівняйте:
+Мінімальна пара:
 
-- **J'ai travaillé pendant trois heures.** — роботу подано як цілісний епізод.
-- **À huit heures, je travaillais encore.** — роботу подано в межах певної часової точки.
+> **Je dormais quand le téléphone a sonné.**
 
-Тривалість або лексичне значення дієслова не дають механічного правила вибору часу.
+> Я спав, коли задзвонив телефон.
 
-## Основні вживання
+**dormais** подає сон як фон/процес; **a sonné** — окрему подію.
 
-### 1. Окрема минула подія
+Але це не означає, що *dormir* «вимагає imparfait». В іншому контексті:
 
-- **J’ai acheté ce livre hier.** — Я купив цю книжку вчора.
-- **Elle est arrivée à huit heures.** — Вона приїхала о восьмій.
+> **J’ai dormi pendant huit heures.**
 
-### 2. Послідовність подій
+Тут сон подано як завершений епізод.
 
-- **Je suis rentré, j’ai mangé et je me suis couché.**
-- Я повернувся, поїв і ліг спати.
+## 7. Узгодження з être
 
-Passé composé часто використовується для подій, які мовець подає як окремі епізоди або ланки подій; у наративі такі події можуть рухати сюжет уперед.
+Звичайна конструкція з **être**:
 
-### 3. Минула подія, пов’язана з теперішньою ситуацією
+> **Il est parti.**
 
-- **J’ai perdu mes clés.** — Я загубив ключі.
+> **Elle est partie.**
 
-Контекст може робити актуальний наслідок помітним, але **наявність актуального результату не є умовою для passé composé**. Та сама форма регулярно використовується для оповіді про минулі події.
+> **Ils sont partis.**
 
-### 4. Завершений часовий епізод
+> **Elles sont parties.**
 
-- **J’ai travaillé pendant trois heures.** — Я пропрацював три години.
+Participe passé узгоджується з підметом за родом і числом.
 
-Тривалість сама по собі не вимагає imparfait: важливо, як мовець структурує подію.
+Прономінальні дієслова не зводяться до цього простого правила: узгодження залежить від синтаксичної структури.
 
-## Узгодження
+## 8. Узгодження з avoir
 
-### З être
+Звичайно:
 
-Participe passé узгоджується з підметом:
+> **Elle a mangé une pomme.**
 
-- **Elle est arrivée.**
-- **Ils sont partis.**
-- **Elles sont venues.**
+COD стоїть після participe passé, тому узгодження з ним не відбувається.
 
-### З avoir
+Якщо COD стоїть перед participe passé:
 
-З підметом узгодження немає:
+> **La pomme que j’ai mangée.**
 
-- **Elle a mangé.**
-- **Ils ont acheté une voiture.**
+> **Les lettres que j’ai écrites.**
 
-Але якщо COD стоїть **перед** participe passé, він може визначати узгодження:
+Узгодження визначається синтаксичною функцією COD, а не просто близькістю слів.
 
-- **La lettre que j’ai écrite.**
-- **Les chansons que nous avons entendues.**
+## 9. Заперечення
 
-## Заперечення
+**ne** і **pas** оточують допоміжне дієслово:
 
-ne ... pas оточує допоміжне дієслово:
+> **Je n’ai pas compris.**
 
-- **Je n’ai pas compris.**
-- **Elle n’est pas venue.**
-- **Nous ne nous sommes pas trompés.**
+> **Elle n’est pas venue.**
 
-❌ *Je n’ai compris pas.*  
-✅ **Je n’ai pas compris.**
+> **Nous ne nous sommes pas trompés.**
 
-## Питання
+Не:
 
-- **Tu as compris ?**
-- **Est-ce que tu as compris ?**
-- **As-tu compris ?**
+> ❌ *Je n’ai compris pas.*
 
-## Українська пастка
+## 10. Питання
 
-Одне французьке passé composé може перекладатися українським доконаним або недоконаним видом:
+У різних стилях:
 
-- **J’ai fini.** → Я закінчив.
-- **J’ai travaillé toute la journée.** → Я працював увесь день.
+> **Tu as compris ?**
 
-Отже, французький час і український вид — різні граматичні категорії.
+> **Est-ce que tu as compris ?**
+
+> **As-tu compris ?**
+
+Passé composé не змінює свою морфологію через тип питання.
+
+## Для україномовного учня
+
+Французький passé composé і український доконаний/недоконаний вид — різні категорії.
+
+> **J’ai travaillé toute la journée.**
+
+може перекладатися:
+
+> **Я працював увесь день.**
+
+А
+
+> **J’ai fini.**
+
+часто:
+
+> **Я закінчив.**
+
+Тому переклад дієслівного виду не повинен бути єдиним критерієм вибору французького часу.
 
 ## Типові помилки
 
-❌ *J’ai allé à Paris.*  
+❌ *J’ai allé à Paris.*
+
 ✅ **Je suis allé à Paris.**
 
-❌ *Elle a arrivée hier.*  
+❌ *Elle a arrivée hier.*
+
 ✅ **Elle est arrivée hier.**
 
-❌ *Elle a mangée une pomme.*  
+❌ *Elle a mangée une pomme.*
+
 ✅ **Elle a mangé une pomme.**
 
-❌ *Les pommes qu’elle a mangé.*  
+❌ *Les pommes qu’elle a mangé.*
+
 ✅ **Les pommes qu’elle a mangées.**
 
-## Контраст
+## Куди далі
 
-**Je dormais quand le téléphone a sonné.**  
-Я спав, коли задзвонив телефон.
-
-dormais — ситуація, подана як фон/процес; a sonné — окрема подія. Це пояснення конкретної конструкції, а не властивість самих дієслів *dormir* і *sonner*.
-
-Для повного алгоритму див. [Passé composé vs imparfait](./passe-compose-vs-imparfait).
-
-## Пов’язані теми
-
-- [Imparfait](./imparfait)
-- [Passé composé vs imparfait](./passe-compose-vs-imparfait)
-- [Узгодження participe passé](./accord)
+- **Imparfait** — внутрішня перспектива, фон, стан, звичка.
+- **Passé composé vs imparfait** — системний вибір між двома формами.
+- **Plus-que-parfait** — ситуація, що передує іншій минулій точці.
+- **Accord du participe passé** — повна система узгодження.

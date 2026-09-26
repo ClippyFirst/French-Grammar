@@ -10,6 +10,7 @@ related:
   - prepositions-a
   - prepositions-de
 tags: [артикль, au, aux, du, des, à, de]
+canonical_ids: ["FR-095"]
 ---
 
 # Злиті форми à/de + визначений артикль

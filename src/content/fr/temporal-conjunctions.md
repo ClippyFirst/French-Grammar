@@ -1,17 +1,38 @@
 ---
-title_uk: "Часові сполучники — коли, після, перед і під час"
+title_uk: "Часові сполучники — коли, щойно, перед і після"
 title_fr: "Les conjonctions temporelles"
-description_uk: "Системний довідник про quand, lorsque, dès que, aussitôt que, pendant que, avant que, après que та depuis que."
+description_uk: "Системний довідник про quand, lorsque, dès que, aussitôt que, pendant que, avant que, après que та depuis que з урахуванням часової перспективи."
 category: conjunctions
 order: 40
+prerequisites:
+  - present
+  - questions
 related:
+  - ne-expletif
   - futur-simple
   - futur-anterieur
   - imparfait
   - passe-compose
+  - plus-que-parfait
   - subjonctif
+  - si-clauses
   - prepositions-time
-tags: [часові сполучники, quand, lorsque, après que, avant que, subjonctif]
+contrast:
+  - si-clauses
+next:
+  - subjonctif
+aliases: ["conjonctions temporelles", "часові сполучники"]
+tags: [часові сполучники, quand, lorsque, dès que, avant que, après que, depuis que]
+level: B1
+depth: high
+register: neutral
+variety: [FR]
+status: review
+contrastive_uk: high
+sources: ["Académie française — Questions de langue"]
+formula: false
+toc: true
+featured: false
 ---
 
 # Часові сполучники

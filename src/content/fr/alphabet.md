@@ -1,7 +1,7 @@
 ---
 title_uk: "Алфавіт"
 title_fr: "L'alphabet"
-description_uk: "Французький алфавіт має 26 літер: 6 голосних (а, е, і, о, у) плюс уколи, і 20 приголосних."
+description_uk: "Французький алфавіт має 26 літер: 6 голосних (a, e, i, o, u, y) та 20 приголосних."
 category: fundamentals
 order: 1
 related:
@@ -10,6 +10,7 @@ related:
 tags:
   - alphabet
   - fundamentals
+canonical_ids: ["FR-017"]
 ---
 
 ## Швидко

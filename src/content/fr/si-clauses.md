@@ -1,128 +1,179 @@
 ---
-title_uk: "Умовні речення: si + час — реальна, гіпотетична та нереальна умова"
-title_fr: "Les phrases avec si"
-description_uk: "Системний довідник про умовні конструкції з si: реальні та гіпотетичні умови, нереальні ситуації в минулому, змішані умовні речення, часову перспективу, futur antérieur та типові помилки україномовних учнів."
-category: syntax
+title_uk: "Умовні конструкції з si — повна система умов, гіпотез і альтернатив"
+title_fr: "Les phrases conditionnelles avec si"
+description_uk: "Повний довідник про умовні конструкції з si: відкриті умови, гіпотези, нереалізоване минуле, змішані моделі та альтернативні способи вираження умови."
+category: complex
 order: 115
+canonical_ids:
+  - FR-375
+  - FR-376
+  - FR-377
+  - FR-378
+  - FR-379
+prerequisites:
+  - present
+  - imparfait
+  - plus-que-parfait
+  - conditionnel-present
+  - conditionnel-passe
 related:
   - conditionnel-present
   - conditionnel-passe
   - imparfait
   - plus-que-parfait
   - futur-simple
+  - futur-anterieur
   - futur-proche
-tags: [si, умовні речення, conditionnel, imparfait, plus-que-parfait, futur antérieur, умова]
+  - indirect-speech
+  - questions
+contrast:
+  - indirect-speech
+  - conditionnel-passe
+next:
+  - conditionnel-present
+aliases: ["si-clauses", "phrases conditionnelles", "phrases avec si", "умовні речення"]
+tags: [si, умовні речення, conditionnel, imparfait, plus-que-parfait, умова, гіпотеза]
+level: B1
+depth: high
+register: neutral
+variety: [FR]
+status: review
+contrastive_uk: high
+sources:
+  - "Académie française — Questions de langue"
+  - "Siepmann, D. et al., A comprehensive grammar of spoken and written French (2025)"
+formula: false
+toc: true
+featured: false
 ---
 
-# Умовні речення з **si**
+# Умовні конструкції з **si**
 
-Французьке **si** не має однієї універсальної формули. Вибір часу залежить від того, **який тип умови** ви виражаєте, наскільки вона реальна для мовця та **до якого моменту** належить наслідок.
+Французькі умовні конструкції не зводяться до однієї таблиці «перший / другий / третій тип». Важливо розрізняти:
 
-Порівняйте:
+- чи є умова відкритою для реалізації;
+- чи мовець уявляє альтернативну ситуацію;
+- чи умова належить до минулого й уже не може бути виконана;
+- коли саме проявляється наслідок;
+- чи **si** означає «якщо», а не «чи»;
+- чи використовується інша конструкція для вираження умови.
 
-- **Si tu viens, nous dînerons ensemble.** — умова цілком можлива.
-- **Si tu venais, nous dînerions ensemble.** — гіпотетична ситуація.
-- **Si tu étais venu, nous aurions dîné ensemble.** — умова в минулому, яка не здійснилася.
+Основна система має три центральні моделі, але між ними існують змішані та альтернативні конструкції.
 
-> **Головний принцип:** спочатку визначте часову та модальну перспективу, а вже потім вибирайте форму дієслова.
+---
 
-## Швидкий вибір
+## 1. Центральна система — FR-375
 
-| Значення | Підрядна з **si** | Наслідок |
+| Функція | Умова | Типовий наслідок |
 |---|---|---|
-| реальна / відкрита умова | **si + présent** | présent, futur, impératif або інша форма за змістом |
-| гіпотетична умова щодо теперішнього / майбутнього | **si + imparfait** | **conditionnel présent** |
-| нереальна умова щодо минулого | **si + plus-que-parfait** | **conditionnel passé** |
-| минула умова → теперішній результат | **si + plus-que-parfait** | **conditionnel présent** |
-| теперішня характеристика → минулий результат | **si + imparfait** | **conditionnel passé** |
+| відкрита / реальна | **si + présent** | présent, futur, impératif тощо |
+| гіпотетична | **si + imparfait** | **conditionnel présent** |
+| нереалізована в минулому | **si + plus-que-parfait** | **conditionnel passé** |
 
-Це не механічна таблиця часів: особливо в змішаних конструкціях форма залежить від того, **коли існувала причина і коли проявляється наслідок**.
+Це **моделі**, а не механічний алгоритм. У реальному тексті наслідок може мати інший час, якщо його власна часова перспектива цього вимагає.
 
----
+### Три базові приклади
 
-## 1. **Si + présent**: реальна або відкрита умова
+**Si tu viens, nous partirons.**  
+→ Якщо ти прийдеш, ми вирушимо.
 
-Коли мовець розглядає умову як можливу, актуальну або відкриту, у підрядній частині часто вживається **présent**.
+**Si tu venais, nous partirions.**  
+→ Якби ти прийшов, ми вирушили б.
 
-### Наслідок у futur
+**Si tu étais venu, nous serions partis.**  
+→ Якби ти прийшов, ми вирушили б.
 
-- **Si tu viens demain, nous dînerons ensemble.**
-- **Si j'ai le temps, je t'appellerai ce soir.**
-- **S'il fait beau, nous irons à la mer.**
-
-Тут не йдеться про «майбутній час після si». Навпаки: **présent після si** є звичайною формою умови, а майбутність наслідку виражає **futur**.
-
-❌ *Si tu viendras demain, nous dînerons ensemble.*  
-✅ **Si tu viens demain, nous dînerons ensemble.**
-
-### Наслідок у présent
-
-Умова може стосуватися загальної закономірності, повторюваної ситуації або актуального наслідку:
-
-- **Si je suis fatigué, je dors mal.**
-- **Si on chauffe l'eau à 100 °C, elle bout.**
-- **Si tu travailles régulièrement, tu progresses.**
-
-Тут **présent** не означає обов'язково «тепер, саме зараз». Він може описувати звичну або загальну залежність.
-
-### Наслідок у impératif
-
-Якщо наслідок є наказом, проханням або інструкцією:
-
-- **Si tu as des questions, appelle-moi.**
-- **Si vous avez besoin d'aide, contactez-nous.**
-- **Si tu vois Paul, dis-lui bonjour.**
-
-Формула **si + présent → impératif** є нормальною конструкцією.
+У третьому реченні йдеться про минулу ситуацію, яка вже не може бути змінена.
 
 ---
 
-## 2. **Si + présent → futur antérieur**
+## 2. Реальні та відкриті умови — FR-376
 
-У наслідку може з'являтися **futur antérieur**, якщо мовець розглядає дію як завершену **до майбутнього моменту або межі**:
+**Si + présent** використовується, коли мовець не подає умову як суто уявну або закриту для реалізації.
 
-- **Si tu commences maintenant, tu auras terminé avant midi.**
-- **Si nous partons à huit heures, nous serons arrivés avant dix heures.**
+### Présent → futur
 
-Порівняйте:
+**Si tu viens demain, nous dînerons ensemble.**
 
-- **tu finiras avant midi** — акцент на майбутній дії;
-- **tu auras fini avant midi** — акцент на тому, що до певної майбутньої межі дія вже буде завершена.
+**Si j'ai le temps, je t'appellerai ce soir.**
 
-Це не окрема «формула умовного речення». **Futur antérieur** тут з'являється через часову перспективу наслідку.
+Французька не ставить futur у підрядній після умовного **si** лише тому, що ситуація відноситься до майбутнього.
+
+❌ *Si tu viendras demain, je serai content.*  
+✅ **Si tu viens demain, je serai content.**
+
+### Présent → présent
+
+**Si je suis fatigué, je dors mal.**
+
+**Si on chauffe l'eau à 100 °C, elle bout.**
+
+Тут умова може виражати звичну закономірність або загальне співвідношення.
+
+### Présent → impératif
+
+**Si tu as des questions, appelle-moi.**
+
+**Si vous avez besoin d'aide, contactez-nous.**
+
+Наслідок може бути наказом, проханням або інструкцією.
+
+### Présent → futur antérieur
+
+**Si tu commences maintenant, tu auras terminé avant midi.**
+
+Умова залишається відкритою, а наслідок описує завершення дії до майбутньої межі.
 
 ---
 
-## 3. **Si + imparfait → conditionnel présent**
+## 3. Гіпотетичні умови — FR-377
 
-Ця конструкція використовується для гіпотетичної ситуації, яка не подається як безпосередньо реальна або яка залежить від уявної умови.
+Типова модель:
+
+**si + imparfait → conditionnel présent**
 
 - **Si j'avais plus de temps, je voyagerais davantage.**
 - **Si nous habitions à Paris, nous prendrions le métro tous les jours.**
 - **Si tu travaillais moins, tu serais moins fatigué.**
 
-Українською це часто відповідає конструкції з **якби**:
+Тут **imparfait** не обов'язково позначає минуле. Він може маркувати **модальну дистанцію**: мовець розглядає ситуацію як уявну або неактуальну для теперішньої реальності.
 
-- **Якби я мав більше часу, я більше подорожував би.**
-- **Якби ми жили в Парижі, ми щодня їздили б метро.**
+Порівняйте:
 
-### Чому тут imparfait?
+**Si j'ai le temps, je viendrai.**
 
-Не перекладайте французький **imparfait** буквально як український минулий час. У цій конструкції він може маркувати **дистанцію від реальності**, а не минуле.
+→ реальна можливість.
 
-Наприклад:
+**Si j'avais le temps, je viendrais.**
 
-**Si j'avais plus de temps...**
+→ гіпотетична ситуація.
 
-не означає обов'язково «якщо я мав більше часу в минулому». Залежно від контексту це може означати:
+Українська аналогія:
 
-> «Якби я мав більше часу зараз...»
+- **якщо матиму час, прийду**;
+- **якби мав час, прийшов би**.
+
+Це функціональна відповідність, а не механічний переклад форм.
 
 ---
 
-## 4. **Si + plus-que-parfait → conditionnel passé**
+## 4. Гіпотеза не означає «неможливо»
 
-Коли умова належить до минулого і розглядається як така, що не відбулася, типовою є конструкція:
+**Si j'avais plus de temps, je voyagerais davantage.**
+
+не обов'язково означає, що людина **фізично не може** мати більше часу.
+
+Конструкція може просто створювати дистанцію від фактичної ситуації:
+
+> «За теперішніх умов у мене недостатньо часу; уявімо іншу ситуацію».
+
+Тому **si + imparfait** не варто називати виключно «формою нереальності». Точніше говорити про **гіпотетичність / дистанцію від актуального стану**.
+
+---
+
+## 5. Нереалізовані минулі умови — FR-378
+
+Типова модель:
 
 **si + plus-que-parfait → conditionnel passé**
 
@@ -130,285 +181,364 @@ tags: [si, умовні речення, conditionnel, imparfait, plus-que-parfai
 - **Si nous étions partis plus tôt, nous serions arrivés à l'heure.**
 - **Si elle avait accepté, elle aurait travaillé avec nous.**
 
-Сенс:
+Умова належить до минулого й не була реалізована.
 
-> умова була можливою в минулому, але фактично не здійснилася; наслідок також належить до минулого.
+### Заборона conditionnel після si
 
-Український відповідник часто має **якби + минула форма / дієприкметникова конструкція + би**:
+❌ *Si j'aurais étudié davantage, j'aurais réussi.*
 
-- **Якби я більше вчився, я склав би іспит.**
-- **Якби ми вирушили раніше, ми приїхали б вчасно.**
-
-### Не використовуйте conditionnel після si
-
-❌ *Si j'aurais étudié davantage, j'aurais réussi.*  
 ✅ **Si j'avais étudié davantage, j'aurais réussi.**
 
-У стандартній умовній конструкції **si** зі значенням умови не вводить підрядну з **conditionnel**.
+### Чому plus-que-parfait?
+
+Тому що умовна подія вже розташована **перед точкою відліку в минулому**:
+
+**j'avais étudié** → передбачувана умова  
+**j'aurais réussi** → гіпотетичний наслідок
 
 ---
 
-## 5. Змішані умовні речення
+## 6. Змішані умови: час причини та час наслідку
 
-Найбільш небезпечна спрощена схема — вважати, що:
+Не всі умови мають симетричну часову структуру.
 
-> **si + plus-que-parfait → тільки conditionnel passé**
+### Минуле → теперішнє
 
-Це неправильно. Причина може бути в минулому, а наслідок — актуальним зараз або в майбутньому.
+**Si j'avais accepté ce poste, je travaillerais à Paris aujourd'hui.**
 
-### Минуле → теперішній результат
+Минуле рішення пояснює теперішній стан.
 
-- **Si j'avais accepté ce poste, je travaillerais à Paris aujourd'hui.**
-- **Si elle avait étudié la médecine, elle serait médecin aujourd'hui.**
-- **Si nous étions partis plus tôt, nous serions déjà à destination.**
-
-Структура:
-
-**si + plus-que-parfait → conditionnel présent**
-
-Умова належить до минулого, але наслідок описує **теперішній стан або актуальний результат**.
+**Si elle avait étudié la médecine, elle serait médecin aujourd'hui.**
 
 ### Теперішня характеристика → минулий результат
 
-Можлива й зворотна перспектива:
+**Si j'étais plus organisé, j'aurais terminé le projet hier.**
 
-- **Si j'étais plus organisé, j'aurais terminé le projet hier.**
-- **Si elle était moins distraite, elle n'aurait pas oublié le rendez-vous.**
+Тут гіпотетична характеристика стосується теперішнього, а результат — минулого.
 
-Тут **imparfait** описує теперішню характеристику або гіпотетичний стан, а **conditionnel passé** — наслідок у минулому.
+Тому не вчіть умовні конструкції як три ізольовані «типи». Відстежуйте дві осі:
 
-> **Змішані умови потрібно читати через часову логіку, а не вчити як третю або четверту «формулу».**
+1. **модальну дистанцію** умови;
+2. **часову локалізацію** наслідку.
 
 ---
 
-## 6. **Si** та futur: важлива заборона
+## 7. Повна система реальної умови
 
-У стандартній французькій, коли **si** вводить саме умовну підрядну, після нього зазвичай не ставлять **futur simple**.
+Для **si + présent** наслідок не обмежений futur.
 
-❌ **Si tu viendras, je serai content.**  
-✅ **Si tu viens, je serai content.**
+Можливі:
 
-❌ **Si nous partirons demain, nous arriverons vendredi.**  
-✅ **Si nous partons demain, nous arriverons vendredi.**
+- **présent** — звичайна закономірність;
+- **futur simple** — майбутній наслідок;
+- **futur antérieur** — завершення до майбутньої межі;
+- **impératif** — наказ / прохання / інструкція;
+- інші форми, якщо їх підтримує контекст.
 
-Але це не означає, що слово **si** взагалі не може сусідити з futur. Треба розрізняти синтаксичні конструкції.
+Наприклад:
 
-### **Si = «якщо»**
+**Si tu viens, nous mangeons ensemble.**
 
-**Si tu viens, je serai content.**
+може описувати домовленість або типовий план у відповідному контексті.
 
-→ умовна підрядна.
+**Si tu viens, nous aurons déjà commencé.**
 
-### **Si = «чи»**
+→ до моменту твого приходу дія вже буде розпочата.
 
-У непрямому питанні **si** означає «чи», і після нього можливі інші часові форми:
+Отже, формула **si + présent → futur** корисна для початку, але не вичерпує системи.
 
-- **Je ne sais pas s'il viendra.**
-- **Je me demande s'il viendrait.**
-- **Je ne sais pas s'il est déjà arrivé.**
+---
 
-Тут **si** не встановлює умову. Воно вводить **непряме питання**.
+## 8. Умовне **si** та непряме питання
+
+Слово **si** має щонайменше дві принципово різні функції.
+
+### **si = якщо**
+
+**Si tu viens, nous partirons.**
+
+### **si = чи**
+
+**Je ne sais pas si tu viendras.**
+
+У другому випадку **si** вводить непряме питання. Тому після нього futur можливий:
+
+**Je me demande s'il viendra demain.**
+
+Не можна переносити правило умовних речень на всі випадки слова **si**.
+
+---
+
+## 9. Альтернативні умовні конструкції — FR-379
+
+Французька може виражати умову не тільки за допомогою **si**.
+
+### **à condition que + subjonctif**
+
+**Je viendrai à condition que tu sois là.**
+
+→ Я прийду за умови, що ти будеш там.
+
+Умова подається як вимога, виконання якої відкриває можливість наслідку.
+
+### **à moins que + subjonctif**
+
+**Nous partirons à moins qu'il ne pleuve.**
+
+→ Ми вирушимо, якщо тільки не буде дощу.
+
+Тут умова має значення винятку.
+
+У письмовій французькій після **à moins que** може з'являтися **ne explétif**:
+
+**à moins qu'il ne pleuve**
+
+Це **не** звичайне заперечення «не буде дощу» в структурному сенсі.
+
+### **pourvu que + subjonctif**
+
+**Je viendrai, pourvu que tu sois disponible.**
+
+→ Я прийду, аби тільки ти був вільний / за умови, що ти будеш вільний.
+
+Конструкція виражає умову, часто з відтінком побажання або застереження.
+
+### **dans le cas où + conditionnel**
+
+**Dans le cas où vous auriez besoin d'aide, contactez-nous.**
+
+→ У разі, якщо вам знадобиться допомога, зв'яжіться з нами.
+
+Тут conditionnel є частиною іншої умовної конструкції; це не підрядна **si**.
+
+### **à supposer que + subjonctif**
+
+**À supposer qu'il soit disponible, nous pourrions commencer.**
+
+→ Припустімо, що він доступний; тоді ми могли б почати.
+
+Конструкція явно вводить припущення.
+
+---
+
+## 10. Умова як прийменникова або дієприкметникова конструкція
+
+У письмовій французькій умова може бути стиснена.
+
+### **en cas de + nom**
+
+**En cas de problème, contactez-nous.**
+
+→ У разі проблеми зв'яжіться з нами.
+
+### **en cas de + infinitif**
+
+Можливі сталі контекстні конструкції з інфінітивом, але їх не слід механічно підміняти **si**. Вибір залежить від структури речення.
+
+### **à défaut de + nom / infinitif**
+
+**À défaut de réponse, nous annulerons la demande.**
+
+→ За відсутності відповіді ми скасуємо запит.
+
+Це вже не проста розмовна модель **si**, а компактний письмовий спосіб подати умову або передумову.
+
+---
+
+## 11. Умови та імператив
+
+У реальній умові наслідком може бути наказ:
+
+**Si tu vois Marie, appelle-moi.**
+
+**Si vous avez un problème, contactez le service technique.**
+
+Українською обидві частини часто перекладаються майбутнім або наказовим способом залежно від контексту:
+
+> Якщо побачиш Марію, подзвони мені.
+
+Французька при цьому не потребує futur після **si**.
+
+---
+
+## 12. Умови та часові межі
+
+Умова може визначати момент, до якого має відбутися дія:
+
+**Si tu arrives avant midi, nous déjeunerons ensemble.**
+
+**Si tu as terminé avant six heures, tu pourras partir.**
+
+У другому реченні **as terminé** — **passé composé**, а не futur antérieur. Його форма тут пояснюється структурою умови та часовою перспективою.
 
 Порівняйте:
 
-- **Si tu viens, nous partirons.** — якщо ти прийдеш.
-- **Je ne sais pas si tu viendras.** — я не знаю, чи ти прийдеш.
+**Si tu termines avant six heures, tu pourras partir.**
 
-Це різні синтаксичні конструкції.
+→ якщо завершиш до шостої.
 
----
+**Si tu as terminé avant six heures, tu pourras partir.**
 
-## 7. **Si** не завжди означає нереальність
+→ якщо до шостої вже завершиш / якщо виявиться, що до шостої ти завершив.
 
-Порівняйте три речення:
-
-- **Si tu viens, nous partirons.**
-- **Si tu venais, nous partirions.**
-- **Si tu étais venu, nous serions partis.**
-
-У першому випадку умова подається як відкрита можливість.
-
-У другому — як гіпотеза, дистанційована від реальності.
-
-У третьому — як нереалізована умова в минулому.
-
-Тому не варто вчити:
-
-> présent = реальність  
-> imparfait = минуле  
-> plus-que-parfait = дуже минуле
-
-У конструкціях з **si** часи також кодують **модальну дистанцію та часову перспективу**.
+Вибір форми може змінювати часову та дискурсивну перспективу.
 
 ---
 
-## 8. Як вибрати форму: алгоритм
+## 13. Український контраст
 
-### Крок 1. Що означає **si**?
+Українська умовність часто дуже прозоро позначається часткою **би / б**:
 
-Якщо **«якщо»** → умовна конструкція.
+**Якби я знав, я б прийшов.**
 
-Якщо **«чи»** → непряме питання, і правило умовних речень не застосовується.
+У французькій відповідність розподіляється між двома частинами:
 
-### Крок 2. Умова реальна / відкрита?
+**Si je savais, je viendrais.**
 
-→ починайте з **si + présent**.
+Тому для україномовного учня корисно мислити структурою:
 
-**Si tu viens, je serai content.**
+**якби + форма гіпотетичної умови → би + наслідок**
 
-### Крок 3. Це гіпотеза щодо теперішнього або майбутнього?
+≈
 
-→ **si + imparfait → conditionnel présent**.
+**si + imparfait → conditionnel présent**
 
-**Si j'avais le temps, je voyagerais.**
+Але в реальній французькій система ширша:
 
-### Крок 4. Умова не відбулася в минулому?
+**si + présent → futur / présent / impératif**
 
-→ **si + plus-que-parfait → conditionnel passé**.
+**si + plus-que-parfait → conditionnel passé**
 
-**Si j'avais su, je serais venu.**
+**si + plus-que-parfait → conditionnel présent** у змішаній перспективі
 
-### Крок 5. Умова і наслідок належать до різних моментів?
+**si + imparfait → conditionnel passé** у змішаній перспективі
 
-→ побудуйте **змішану** конструкцію.
-
-**Si j'avais accepté, je travaillerais ici aujourd'hui.**
-
-### Крок 6. Наслідок має бути завершеним до майбутньої межі?
-
-→ перевірте **futur antérieur**.
-
-**Si tu pars maintenant, tu auras fini avant midi.**
+Інші умовні значення можуть виражатися **à condition que, à moins que, pourvu que, dans le cas où, à supposer que, en cas de** тощо.
 
 ---
 
-## 9. Типові помилки україномовних учнів
+## 14. Типові помилки
 
-### Помилка 1. Перенесення українського «якщо прийдеш»
+### Помилка 1. Futur після si
 
-❌ *Si tu viendras demain...*  
-✅ **Si tu viens demain...**
+❌ *Si tu viendras, je serai content.*
 
-Українське майбутнє не означає автоматично французький **futur** після *si*.
+✅ **Si tu viens, je serai content.**
 
 ### Помилка 2. Conditionnel після si
 
-❌ *Si j'aurais su...*  
-✅ **Si j'avais su...**
+❌ *Si j'aurais su, je serais venu.*
 
-Conditionnel позначає наслідок, а не стандартну форму підрядної умови.
+✅ **Si j'avais su, je serais venu.**
 
-### Помилка 3. Ототожнення imparfait із минулим
+### Помилка 3. «Imparfait = минуле»
 
-❌ Вчити *si j'avais* тільки як «якщо я мав у минулому».
+У:
 
-✅ У **si j'avais plus de temps** форма може стосуватися теперішньої гіпотези.
+**Si j'avais plus de temps, je voyagerais.**
 
-### Помилка 4. Вважати, що третій тип завжди має тільки conditionnel passé
+imparfait створює гіпотетичну дистанцію, а не обов'язково локалізує умову в минулому.
 
-❌ Вивчити лише *si + plus-que-parfait → conditionnel passé*.
+### Помилка 4. Три «типи» як абсолютні правила
 
-✅ Розрізняти:
+Наслідок може мати інший час, якщо цього вимагає його власна перспектива.
 
-- **Si j'avais travaillé davantage, j'aurais réussi.** — минуле → минуле.
-- **Si j'avais accepté, je travaillerais à Paris aujourd'hui.** — минуле → теперішнє.
+### Помилка 5. Плутати si «якщо» та si «чи»
 
-### Помилка 5. Плутати **si** «якщо» та **si** «чи»
+**Si tu viens, nous partirons.**  
+→ якщо.
 
-- **Si tu viens, appelle-moi.** — якщо.
-- **Je ne sais pas si tu viendras.** — чи.
+**Je ne sais pas si tu viendras.**  
+→ чи.
 
----
+### Помилка 6. Вважати альтернативні умови різновидами si
 
-## 10. Мінімальні пари
-
-### Відкрита можливість / гіпотеза
-
-- **Si tu viens demain, nous dînerons ensemble.**
-- **Si tu venais demain, nous dînerions ensemble.**
-
-Перше речення подає прихід як відкриту можливість; друге — як гіпотетичну ситуацію.
-
-### Минуле / теперішній результат
-
-- **Si j'avais accepté, j'aurais travaillé à Paris.**
-- **Si j'avais accepté, je travaillerais à Paris aujourd'hui.**
-
-У першому випадку наслідок належить до минулого; у другому — стан актуальний тепер.
-
-### Умова / непряме питання
-
-- **Si Paul vient, nous commencerons.**
-- **Je ne sais pas si Paul viendra.**
-
-У першому *si* = «якщо», у другому *si* = «чи».
+**à condition que**, **à moins que**, **pourvu que**, **dans le cas où** мають власні синтаксичні моделі й не є просто «іншими словами для si».
 
 ---
 
-## 11. Український контраст
+## 15. Практичний алгоритм
 
-Українська має сильний формальний маркер гіпотетичності — частку **би / б**:
+### Якщо бачите **si**
 
-- **якби я знав, я б прийшов**;
-- **якби вона працювала менше, вона була б менш втомленою**;
-- **якби ми вирушили раніше, ми приїхали б вчасно**.
+1. Перевірте: **«якщо» чи «чи»?**
+2. Якщо «якщо», визначте модальну дистанцію.
+3. Перевірте час умови.
+4. Окремо визначте час наслідку.
+5. Лише після цього називайте модель.
 
-У французькій функціонально близьку роль відіграють **imparfait / plus-que-parfait у підрядній з si** та **conditionnel** у наслідку.
+### Швидка схема
 
-Тому корисно зіставляти не окремі форми, а структури:
+**Відкрита умова**
 
-| Українська | Французька |
-|---|---|
-| якщо + теперішня / реальна умова | **si + présent** |
-| якби + гіпотеза | **si + imparfait** |
-| якби + нереалізоване минуле | **si + plus-que-parfait** |
-| би в наслідку | **conditionnel** |
+→ **si + présent**
 
-Але це **функціональна аналогія, а не правило механічного перекладу**.
+**Гіпотеза**
+
+→ **si + imparfait → conditionnel présent**
+
+**Нереалізоване минуле**
+
+→ **si + plus-que-parfait → conditionnel passé**
+
+**Різні часові точки**
+
+→ змішана конструкція.
+
+**Інша синтаксична модель**
+
+→ **à condition que / à moins que / pourvu que / dans le cas où / à supposer que / en cas de** тощо.
 
 ---
 
-## 12. Самоперевірка
+## 16. Самоперевірка
 
-1. **Si tu ___ (venir) demain, nous ___ (partir) ensemble.**
-2. **Si j'___ (avoir) plus de temps, je ___ (lire) davantage.**
-3. **Si elle ___ (étudier) davantage, elle ___ (réussir) l'examen.**
-4. **Si nous ___ (partir) maintenant, nous ___ (arriver) avant midi.**
-5. **Si j'___ (accepter) ce poste, je ___ (vivre) à Paris aujourd'hui.**
-6. **Si j'___ (être) plus organisé, j'___ (terminer) le projet hier.**
-7. **Je ne sais pas s'il ___ (venir) demain.**
-8. **Si tu ___ (avoir) des questions, appelle-moi.**
+1. Si tu ___ (venir) demain, nous dînerons ensemble.
+2. Si j'___ (avoir) plus de temps, je voyagerais davantage.
+3. Si elle ___ (étudier) davantage, elle aurait réussi.
+4. Si j'avais accepté, je ___ (travailler) à Paris aujourd'hui.
+5. Si j'étais plus organisé, j'___ (terminer) le projet hier.
+6. Si tu ___ (avoir) des questions, appelle-moi.
+7. Je ne sais pas s'il ___ (venir) demain.
+8. Je viendrai à condition que tu ___ (être) disponible.
+9. Nous partirons à moins qu'il ne ___ (pleuvoir).
+10. Dans le cas où vous ___ (avoir) besoin d'aide, contactez-nous.
 
 ### Відповіді
 
-1. **viens / partirons** → *si + présent → futur simple*.
-2. **avais / lirais** → *si + imparfait → conditionnel présent*.
-3. **avait étudié / aurait réussi** → *si + plus-que-parfait → conditionnel passé*.
-4. **partons / arriverons** → відкрита умова.
-5. **avais accepté / vivrais** → минула умова → теперішній результат.
-6. **étais / aurais terminé** → теперішня характеристика → минулий результат.
-7. **viendra** → *si* = «чи», непряме питання.
-8. **as** → *si + présent → impératif*.
+1. **viens**
+2. **avais**
+3. **avait étudié**
+4. **travaillerais**
+5. **aurais terminé**
+6. **as**
+7. **viendra**
+8. **sois**
+9. **pleuve**
+10. **auriez**
 
 ---
 
 ## Короткий підсумок
 
-Запам'ятовуйте не одну таблицю, а **логіку перспективи**:
+Французька система умов базується не на механічному перекладі українського **б / би**, а на взаємодії **модальності, часу та синтаксису**.
 
-**реальна / відкрита умова**  
-→ *si + présent*
+Запам'ятайте ядро:
 
-**гіпотеза щодо теперішнього або майбутнього**  
-→ *si + imparfait → conditionnel présent*
+**si + présent**  
+→ відкрита умова.
 
-**нереалізована минула умова**  
-→ *si + plus-que-parfait → conditionnel passé*
+**si + imparfait → conditionnel présent**  
+→ гіпотеза.
 
-**різні часові точки**  
-→ змішана конструкція
+**si + plus-que-parfait → conditionnel passé**  
+→ нереалізована минула умова.
 
-**умова зі значенням майбутньої завершеності**  
-→ наслідок може містити *futur antérieur*
+Далі перевіряйте:
 
-І головне: у стандартній умовній конструкції не переносіть **conditionnel** або **futur** у підрядну після **si** механічно.
+- змішану часову перспективу;
+- **si** «якщо» vs **si** «чи»;
+- альтернативні конструкції умови;
+- власну часову структуру наслідку.
+
+Саме така схема дозволяє читати й будувати французькі умовні речення без спрощення системи до трьох запам'ятованих формул.

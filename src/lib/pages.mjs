@@ -50,10 +50,20 @@ export function tocFromHeadings(headings) {
     .map((h) => ({ id: h.slug, text: h.text }));
 }
 
+/**
+ * Resolve both current canonical slug references and legacy category/slug references.
+ * Plain slugs are matched uniquely by entry id; namespaced refs retain their
+ * explicit category constraint for backward compatibility.
+ */
 export function relatedFor(all, category, refs) {
   return refs
     .map((ref) => {
       const slash = ref.indexOf('/');
+      if (slash === -1) {
+        const matches = all.filter((e) => slugFromId(e.id) === ref);
+        return matches.length === 1 ? matches[0] : undefined;
+      }
+
       const rcat = ref.slice(0, slash);
       const rslug = ref.slice(slash + 1);
       return all.find((e) => slugFromId(e.id) === rslug && e.data.category === rcat);

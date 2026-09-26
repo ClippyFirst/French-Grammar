@@ -11,6 +11,7 @@ tags:
   - punctuation
   - typography
   - fundamentals
+canonical_ids: ["FR-049"]
 ---
 
 ## Швидко

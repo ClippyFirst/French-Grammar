@@ -410,3 +410,1094 @@ B11 переводить пояснення accord du participe passé від н
 
 ### Наступний крок
 Провести cross-page audit усіх згадок `participe passé / accord / COD / COI / pronominal verbs`, щоб перевірити, що різні сторінки не містять старих спрощених правил.
+
+
+## B12 — Infinitive system: second-pass rewrite
+
+Опрацьовано чотири взаємопов’язані сторінки:
+- `src/content/fr/infinitive-after-verb.md`
+- `src/content/fr/infinitive-after-adjective.md`
+- `src/content/fr/infinitive-after-preposition.md`
+- `src/content/fr/infinitive-past.md`
+
+### Основний фокус
+
+- французьке керування `V + infinitif`, `V + à + infinitif`, `V + de + infinitif`;
+- розмежування валентності дієслова та семантичної функції прийменника;
+- спільний і відмінний виконавець інфінітивної дії;
+- контраст `infinitif` ↔ `que + особова форма`;
+- `adjectif + de/à + infinitif`, зокрема конструкції `facile/difficile à`;
+- безособове `il est + adjectif + de + infinitif`;
+- `pour/sans/avant de/après + infinitif`;
+- `après + infinitif passé` та відносна попередність;
+- вибір `avoir/être` і узгодження participe passé всередині infinitif passé;
+- український контраст без механічних відповідностей «український прийменник → французький прийменник».
+
+### Важливе методологічне рішення
+
+Інфінітив не пояснюється як «скорочене підрядне речення». У статтях окремо розведено форму, синтаксичну функцію, керування та кореференцію учасників.
+
+### Academic Writing Toolkit QA
+
+`review_paragraph_logic` застосовано до всіх чотирьох сторінок. Інструмент очікувано генерує багато `short-paragraph` попереджень через формули, приклади, таблиці та вправи. Це не використовується як граматичний zero-warning gate; логічні фрагменти перевірено редакційно.
+
+### Git commits
+
+- `infinitive-after-verb.md`: `1eb1a6b17ada7b1aeba74ac3cc8bfe85b2a47ad1`
+- `infinitive-after-adjective.md`: `8ea080af97865a9ef6a62903a723bc0a265ce1e6`
+- `infinitive-after-preposition.md`: `42817f15068ab8fe73714b4776c97842a7752079`
+- `infinitive-past.md`: `e3047c7198be00fa1203bfd30f07718bd9d41603`
+
+### Лічильник
+
+Поточний branch містить **363 Markdown-статті** в `src/content/fr/`. Канонічний каталог має **740 topic ID**. Номінальна різниця — **377**, але це не є точним числом «тем, що залишилися»: один canonical topic може мати кілька статей, а одна стаття може покривати кілька topic ID. Точний remaining count потребує повного manifest mapping, який у репозиторії ще не завершений.
+
+Цей блок: **4 статті переписано**.
+
+
+## B13 — Canonical coverage expansion: FR-719–FR-740
+
+Ціль B13 — не просто збільшити кількість Markdown-файлів, а закрити останній доданий canonical block **FR-719–FR-740** без штучного дроблення тем.
+
+### Проведено аудит перед написанням
+
+Перевірено чинну гілку `content/reference-articles-2026-09-25`, canonical taxonomy та вже наявні сторінки. Виявлено, що значна частина нових IDs уже мала адекватне покриття:
+
+- FR-719 — `verbal-periphrases.md`;
+- FR-723 — `laisser-infinitive.md`;
+- FR-724 — `infinitive-control.md`;
+- FR-725 — `defective-verbs.md`;
+- FR-728 — `interrogative-adverbs.md`;
+- FR-729 — `exclamatives.md`;
+- FR-731 — `avoir-beau.md`;
+- FR-732 — `inclusive-writing.md`;
+- FR-733 — `phrase-enonce.md`;
+- FR-736 — `deixis.md`;
+- FR-737–FR-738 — `address-interjections.md`;
+- FR-739 — `prosody.md`.
+
+Тому нові статті створено лише там, де canonical topic ще не мав окремого достатнього вузла або де для coverage graph потрібна була явна сторінка.
+
+### Додано 8 нових статей
+
+1. `src/content/fr/movement-infinitive.md` — **FR-720**  
+   Дієслова руху + infinitif: futur proche проти повнозначного руху, мета, venir/partir/sortir/entrer, займенники та часовий аналіз.
+
+2. `src/content/fr/perception-infinitive.md` — **FR-721**  
+   Voir/entendre/écouter + infinitif, учасник інфінітивної дії, контраст із `que + forme finie`, займенники та зв'язок з accord du participe passé.
+
+3. `src/content/fr/faire-infinitive.md` — **FR-722**  
+   Каузативна конструкція `faire + infinitif`: каузатор, виконавець дії, невиражений agent, clitiques, часи та особливості `fait` перед infinitif.
+
+4. `src/content/fr/possession-body-clothes.md` — **FR-726 + FR-727**  
+   Спільний довідковий вузол для частин тіла та одягу: означений артикль, присвійність, pronominal verbs, контекстуальна референція та український контраст.
+
+5. `src/content/fr/nominal-utterances.md` — **FR-734**  
+   Бездієслівні, номінальні та еліптичні висловлення; фрагменти діалогу, відповіді, окличні моделі, усний контекст.
+
+6. `src/content/fr/extraction.md` — **FR-735**  
+   Extraction як надбудова над питаннями, relatives, cleft, довгими залежностями та іншими конструкціями; чітке розмежування extraction, inversion і dislocation.
+
+7. `src/content/fr/inversion.md` — **FR-730**  
+   Інверсія підмета поза вузьким правилом «це лише питання»: interrogatives, narrative inversion, postverbal subjects, `t euphonique`, register.
+
+8. `src/content/fr/spoken-disfluency.md` — **FR-740**  
+   Вагання, повтори, self-repair, reformulation, interruption, fillers і просодія в сучасному усному мовленні.
+
+### Методичний принцип
+
+Для canonical coverage використано правило самого taxonomy: topic може бути покритий окремою повноцінною статтею або явною секцією в іншій canonical article, якщо окрема сторінка не додає навчальної цінності.
+
+Особливо важливо, що **FR-726 + FR-727** об'єднано в одну статтю: обидві теми мають спільну граматичну вісь possession/determination, а штучне розділення погіршило б навігацію.
+
+### Academic Writing Toolkit QA
+
+Усі 8 нових сторінок перевірено через `review_paragraph_logic`.
+
+Інструмент генерує численні `short-paragraph` warnings для прикладів, формул, таблиць, тестових пунктів і коротких нормативних правил. Це вже встановлений false-positive pattern для структурованого grammar reference і не використовується як граматичний zero-warning gate.
+
+Концептуальну логіку сторінок перевірено редакційно: особлива увага до розмежування control / perception / causative infinitives, participant roles, extraction / inversion / dislocation та spoken-vs-written register.
+
+### Coverage milestone
+
+Після B13 canonical block **FR-719–FR-740 має явне покриття**:
+
+- FR-719 — наявний;
+- FR-720 — додано;
+- FR-721 — додано;
+- FR-722 — додано;
+- FR-723 — наявний;
+- FR-724 — наявний;
+- FR-725 — наявний;
+- FR-726–FR-727 — додано;
+- FR-728 — наявний;
+- FR-729 — наявний;
+- FR-730 — додано;
+- FR-731 — наявний;
+- FR-732 — наявний;
+- FR-733 — наявний;
+- FR-734 — додано;
+- FR-735 — додано;
+- FR-736 — наявний;
+- FR-737–FR-738 — наявний спільний вузол;
+- FR-739 — наявний;
+- FR-740 — додано.
+
+### Git commits
+
+- `6c463348d9c25c9bd6e7001edba1c7f4a7b80001` — movement-infinitive
+- `edb3719a17aa9cab87e900376aff2d55a2e6ff91` — perception-infinitive
+- `08ae2c12e6084e5706f7efcabc954224ba5adc00` — faire-infinitive
+- `5632da23f802b2e92f6fa187f2111104720f611c` — possession-body-clothes
+- `677c9466715c6fef0f4f96d6407ebca404aa2053` — nominal-utterances
+- `0ce69f722cb504d91ff1ca1219e9a842f12d2b09` — extraction
+- `4274b37939e1f61660f47a19f6a2f5a735e2e9de` — inversion
+- `56e2e7ec7277c9b8df759dc7d537beed46bebb80` — spoken-disfluency
+
+### Лічильник
+
+Було на початку B13: **363 Markdown-статті**.
+
+Додано: **8 нових Markdown-статей**.
+
+Після B13: **371 Markdown-стаття** у `src/content/fr/`.
+
+Canonical scope: **740 topic IDs**.
+
+Номінальна арифметична різниця `740 - 371 = 369` не є точним remaining count, оскільки repository допускає багато-to-one і one-to-many mapping між topic IDs та статтями. Для справжнього remaining count потрібен повний machine-readable manifest coverage, а не порівняння кількості файлів.
+
+**Окремий milestone:** останній canonical block **FR-719–FR-740 закрито coverage-рішеннями**.
+
+
+## B14 — Advanced syntax coverage deepening: FR-679–FR-688
+
+Після закриття FR-719–FR-740 проведено наступний coverage pass по блоку розширених конструкцій **FR-679–FR-695**. Ціль — не штучно збільшити кількість файлів, а зробити вже наявне покриття достатньо глибоким для універсального довідника.
+
+### Переписано / поглиблено
+
+- `src/content/fr/reciprocal-constructions.md` — **FR-679, FR-681**
+  - розведено reciprocal ↔ reflexive;
+  - додано аналіз COD/COI через валентність дієслова;
+  - показано взаємність без `se`;
+  - пов'язано з accord du participe passé.
+
+- `src/content/fr/reflexive-causatives.md` — **FR-680**
+  - розведено каузативний та внутрішній предикати;
+  - пояснено роль `se` у внутрішній конструкції;
+  - додано contrast causative ↔ passive;
+  - уточнено clitic analysis.
+
+- `src/content/fr/coordination-unlike-categories.md` — **FR-682**
+  - перенесено фокус із «однакова частина мови» на constituent/function;
+  - розведено coordination ↔ ellipsis ↔ simple adjacency;
+  - додано зв'язок із valency.
+
+- `src/content/fr/multiple-negation.md` — **FR-683**
+  - систематизовано кілька негативних операторів;
+  - уточнено scope;
+  - розведено `ne ... que` та звичайне заперечення;
+  - уточнено взаємодію з clitics.
+
+- `src/content/fr/multiple-embedding.md` — **FR-685**
+  - показано кілька рівнів complétive/relative;
+  - розведено синтаксичну вкладеність і часову/модальну інтерпретацію;
+  - додано алгоритм структурного читання довгих речень.
+
+- `src/content/fr/nested-relative-clauses.md` — **FR-686**
+  - систематизовано antecedent + function для кожного relative marker;
+  - додано nested relative у complétive;
+  - посилено accord через вкладені структури;
+  - окремо враховано читабельність глибокої вкладеності.
+
+- `src/content/fr/nested-complement-clauses.md` — **FR-687**
+  - розведено рівні залежності `que`;
+  - уточнено tense/mood у вкладених complétives;
+  - додано reported speech і дейктичні центри.
+
+- `src/content/fr/long-distance-dependencies.md` — **FR-688**
+  - показано далекі relative dependencies;
+  - додано відновлення базової структури;
+  - пов'язано dependency ↔ agreement ↔ antecedent.
+
+### Academic Writing Toolkit QA
+
+Усі 8 переписаних сторінок перевірено через `review_paragraph_logic`.
+
+**Результат: 0 issues** за результатом інструмента для кожної з 8 сторінок.
+
+Це кращий результат, ніж у попередніх великих grammar batches: структура сторінок була свідомо перебудована так, щоб пояснювальні абзаци не перетворювалися на послідовність надто коротких фрагментів.
+
+### Методичний результат
+
+Блок FR-679–FR-688 тепер утворює пов'язану систему:
+
+`reciprocal/reflexive → causative → coordination → negation → embedding → nested relatives/complements → long-distance dependencies`.
+
+Це важливо для canonical coverage: ці теми не є ізольованими довідковими картками, а формують один граф складного синтаксичного аналізу.
+
+### Лічильник
+
+На початку B14: **371 Markdown-стаття**.
+
+Створено нових файлів: **0**.
+
+Переписано / поглиблено: **8 статей**.
+
+Поточна кількість Markdown-файлів: **371**.
+
+Canonical scope: **740 topic IDs**.
+
+Як і раніше, `740 - 371 = 369` **не є точним remaining count**, оскільки canonical topic і Markdown-файл мають не один-до-одного відповідність. Для справжнього лічильника «скільки canonical topics залишилось» потрібен machine-readable coverage manifest.
+
+### Наступний крок
+
+Продовжити coverage audit у попередніх блоках canonical taxonomy, але спочатку перевіряти існуюче покриття й якість сторінки. Нову статтю створювати лише тоді, коли topic справді не має достатнього вузла; інакше canonical ID слід закріплювати за наявною статтею або секцією.
+
+
+## B15 — Advanced syntax / scope coverage: FR-689–FR-695
+
+Після B14 продовжено coverage pass по наступному canonical block **FR-689–FR-695**. Ціль — не збільшувати page count штучно, а довести до повноцінного reference-рівня теми узгодження через вставлені групи, attachment ambiguity та scope.
+
+### Переписано / поглиблено
+
+- `src/content/fr/agreement-intervening-phrases.md` — **FR-689**
+  - контролер узгодження визначається структурно, а не за найближчим іменником;
+  - додано складні іменні групи, relative clauses та кілька незалежних зон узгодження;
+  - уточнено зв'язок із participe passé та попереднім COD;
+  - додано практичний алгоритм структурного аналізу.
+
+- `src/content/fr/ambiguous-attachment.md` — **FR-690**
+  - розмежовано linear proximity, syntactic attachment та semantic interpretation;
+  - показано PP attachment, relative-clause attachment і роль verb valency;
+  - додано критерій відмінності між реальною неоднозначністю та теоретично можливим, але неприродним читанням;
+  - розширено способи зняття неоднозначності в письмі.
+
+- `src/content/fr/grammatical-ambiguity.md` — **FR-691**
+  - розмежовано форму, структуру та інтерпретацію;
+  - додано structural/syntactic/semantic/interpre­tive dimensions;
+  - уточнено роль контексту, просодії та пунктуації;
+  - додано алгоритм діагностики реальної неоднозначності.
+
+- `src/content/fr/structural-ambiguity.md` — **FR-692**
+  - перетворено короткий stub на повний reference article;
+  - додано attachment, constituent boundaries, relatives, coordination та embedding;
+  - введено чітку відмінність «складне» ≠ «неоднозначне»;
+  - додано алгоритм відновлення структури.
+
+- `src/content/fr/negation-scope.md` — **FR-693**
+  - систематизовано scope заперечення;
+  - розведено заперечення, частотність, квантори, `ne...que` та модальність;
+  - додано контраст `Il peut ne pas venir` ↔ `Il ne peut pas venir`;
+  - уточнено відмінність scope від синтаксичної функції.
+
+- `src/content/fr/quantifier-scope.md` — **FR-694**
+  - розширено interaction між `chaque`, `tous`, `un`, `aucun` та предикатом;
+  - додано distributive readings і взаємодію кванторів;
+  - систематизовано квантор + заперечення;
+  - додано український контраст і практичний алгоритм.
+
+- `src/content/fr/scope-interpretation.md` — **FR-695**
+  - об'єднано в одну методику синтаксис, scope та інтерпретацію;
+  - додано взаємодію заперечення, квантифікації, модальності та вкладених речень;
+  - уточнено scope ambiguity;
+  - додано практичну перевірку з модальним `pouvoir`.
+
+### Усунено дублювання canonical mapping
+
+До B15 існував додатковий файл `src/content/fr/scope-negation-quantifiers.md`, який одночасно заявляв **FR-693 + FR-694 + FR-695**, хоча для кожного з цих topic IDs уже існували окремі canonical nodes.
+
+Щоб coverage graph відповідав принципу **один canonical topic → один основний reference node**, файл `scope-negation-quantifiers.md` видалено. Його матеріал не був унікальним і був розподілений між трьома окремими сторінками.
+
+### Academic Writing Toolkit QA
+
+Усі 7 переписаних сторінок перевірено через `review_paragraph_logic`.
+
+Результати:
+- FR-689 — 69 попереджень;
+- FR-690 — 67;
+- FR-691 — 63;
+- FR-692 — 69;
+- FR-693 — 70;
+- FR-694 — 82;
+- FR-695 — 89.
+
+У **всіх випадках єдиний тип попередження — `short-paragraph`**. Інших логічних типів зауважень інструмент не повернув.
+
+Це відповідає вже встановленому в B05–B14 патерну: grammar reference містить приклади, формули, таблиці, короткі правила та вправи, які цей heuristic розглядає як окремі короткі абзаци. Тому кількість `short-paragraph` не трактується як граматична помилка і не виправляється штучним злиттям прикладів.
+
+### Structural / content QA
+
+- canonical IDs FR-689–FR-695 залишено унікальними;
+- FR-693/694/695 більше не мають паралельного combined canonical node;
+- frontmatter узгоджено з чинною `src/content.config.ts`;
+- у нових текстах не додано CEFR-міток до пояснювального контенту;
+- внутрішні посилання побудовано навколо canonical graph: agreement → dependencies/relatives; ambiguity → attachment/structure/scope; scope → negation/quantifiers/embedding;
+- після видалення combined node проведено пошук репозиторію за `scope-negation-quantifiers`; активних посилань на нього не виявлено.
+
+### Git commits
+
+- `c45b94299c8b9332c7d5ff066ecae0305656f609` — FR-689
+- `6f8846d9ae0f039fb2d973c2b0972d2277970f8c` — FR-690
+- `00be9ce914b09c3b7e1321ba6fcfa401a42e4c1a` — FR-691
+- `fabc98213421576a94d6f5983b37f1d176ef152f` — FR-692
+- `23cd468beb9fc61825c7a2e0e876e55fabf7febc` — FR-693
+- `164fc5dc8a3031954285992db25f00160c6602d6` — FR-694
+- `5d0e39e859bb4bad44114ac4502df50723e4d1c5` — FR-695
+- `ec6e4bb4078761893afa4455cb52165390c162c8` — видалення redundant combined scope node
+
+### Лічильник
+
+На початку B15: **371 Markdown-стаття**.
+
+Переписано / поглиблено: **7 статей**.
+
+Створено нових файлів: **0**.
+
+Видалено дубльований combined node: **1 файл**.
+
+Після B15: **371 Markdown-стаття** у `src/content/fr/`.
+
+Canonical scope: **740 topic IDs**.
+
+Як і раніше, кількість Markdown-файлів не використовується як псевдоточний remaining count. Після усунення дубльованого mapping точний canonical coverage треба визначати через machine-readable audit, а не через `740 - 371`.
+
+### Coverage milestone
+
+**FR-689–FR-695 тепер мають окремі, повноцінні canonical reference nodes.**
+
+Блок утворює логічний ланцюг:
+
+`agreement through intervening phrases → attachment → grammatical ambiguity → structural ambiguity → negation scope → quantifier scope → general scope/interpretation`.
+
+Наступний pass має продовжити системну перевірку coverage/granularity/graph integrity, а не створення нових topic IDs.
+
+
+## B16 — 2026-09-26 — contrastive layer FR-696–FR-718
+
+- **Scope:** системно поглиблено українсько-французький контрастивний шар FR-696–FR-718.
+- **Принцип:** ці 23 canonical IDs не розмножувалися штучно в 23 окремі нові сторінки; використано наявні тематичні вузли як основні контрастивні reference articles.
+- **Оновлено:** 23 existing articles; **нових Markdown-файлів: 0**.
+- **Canonical mapping:** FR-696 gender; FR-697 article/zero article; FR-699 null subject; FR-700 word order; FR-701 COD/COI; FR-702 clitics; FR-703 y/en; FR-704 prepositions/cases; FR-705 tense/aspect; FR-706 passé composé/imparfait; FR-707 conditionnel; FR-708 subjonctif; FR-709 impératif; FR-710 relatives; FR-711 negation; FR-712 interrogatives; FR-713 participe passé agreement; FR-714 valency; FR-715 impersonal constructions; FR-716 passive; FR-717 information structure; FR-718 oral syntax.
+- **Quality direction:** кожну статтю розширено від короткої примітки до структурованого довідника: швидка відповідь, контраст форм/функцій, приклади FR→UK, типові помилки, алгоритм, мінітест і навігація.
+- **Academic Writing Toolkit:** виконано paragraph-logic QA на вибірковій першій шістці B16. Усі знайдені евристичні findings мають єдиний тип `short-paragraph`; це очікувано для прикладів, таблиць, формул і коротких тестових пунктів. Інших типів логічних проблем у повернутому QA не виявлено.
+- **Progress:** на старті B16 — **371 Markdown article files**; після B16 — **371**. Це **23 canonical topics deepened**, не +23 files.
+- **Canonical scope:** **740 topic IDs**. `740 - 371` не використовується як «залишок тем», оскільки каталог прямо допускає mapping кількох topic IDs в одну статтю або секцію.
+- **Git commits:** 23 file-level commits, including FR-706 commit `70c851544bcb5096ef1911113e5b6fe4b9ca9751`.
+
+
+## B17 — Regional and Francophone variation: FR-654–FR-666
+
+Проведено глибоке поглиблення регіонального та франкофонного блоку. Початковий аудит показав, що 13 сторінок FR-654–FR-666 були дуже короткими reference stubs: вони правильно називали теми, але не давали достатньої системи для lookup, learning і navigation.
+
+### Переписано / поглиблено
+
+- `standard-french-france.md` — **FR-654**
+- `quebec-french.md` — **FR-655**
+- `belgian-french.md` — **FR-656**
+- `swiss-french.md` — **FR-657**
+- `african-french.md` — **FR-658**
+- `regional-numerals.md` — **FR-659**
+- `regional-prepositions.md` — **FR-660**
+- `regional-pronouns.md` — **FR-661**
+- `regional-syntax.md` — **FR-662**
+- `regional-oral-forms.md` — **FR-663**
+- `standard-regional-nonstandard.md` — **FR-664**
+- `norm-vs-variation.md` — **FR-665**
+- `variation-vs-error.md` — **FR-666**
+
+### Що саме виправлено
+
+- розведено **географію, регістр, канал мовлення, частотність і нормативний статус**;
+- прибрано модель «незнайоме = помилка»;
+- прибрано модель «регіональне = нестандартне»;
+- для FR-659 розгорнуто *soixante-dix / septante*, *quatre-vingts / huitante*, *quatre-vingt-dix / nonante*;
+- для FR-655–FR-658 додано спільне французьке ядро та внутрішню варіантність замість опису кожного різновиду як монолітної системи;
+- для FR-660–FR-662 додано структурний алгоритм: форма/лексема → функція → регістр → географія → статус;
+- для FR-663 чітко розведено регіональну усність і загальнофранцузькі усні явища;
+- для FR-665–FR-666 додано діагностичні алгоритми для відмежування варіанта, норми, non-standard та помилки;
+- посилено український контраст без вигаданих «типових помилок українців».
+
+### Методичний результат
+
+Цей блок тепер працює як пов'язана система:
+
+**конкретний різновид → тип варіантності → статус форми → практичний вибір для активного мовлення → рецептивне розпізнавання.**
+
+Особливо важливо, що активний навчальний стандарт і рецептивний діапазон тепер розведені: учень може мати стабільну продуктивну модель і водночас розуміти регіональні та усні варіанти.
+
+### Academic Writing Toolkit QA
+
+Перевірено репрезентативні концептуальні вступи FR-654, FR-658 і FR-666 через `review_paragraph_logic`.
+
+Інструмент повернув лише `short-paragraph` для кожного ізольовано переданого вступного абзацу; логічних/структурних проблем іншого типу не виявлено. Це очікуваний heuristic warning для коротких самодостатніх абзаців, а не доказ проблеми повних статей.
+
+### Лічильник
+
+На початку B17: **371 Markdown-стаття**.
+
+Нових Markdown-файлів: **0**.
+
+Поглиблено: **13 існуючих статей**.
+
+Після B17: **371 Markdown-стаття**.
+
+Canonical scope: **740 topic IDs**.
+
+Як і в попередніх блоках, `740 - 371` не є точним remaining count: canonical topics і Markdown-файли мають багато-to-one / one-to-many mapping. Точний remaining count потребує повного machine-readable coverage manifest.
+
+### Наступний крок
+
+Перейти до наступного найслабшого раннього canonical block і продовжувати не page-count, а **depth + coverage + graph consistency** аудит.
+
+
+## B18 — Spoken French and register: FR-639–FR-653
+
+Проведено глибоке поглиблення наступного слабкого блоку після FR-654–FR-666. Аудит показав, що більшість сторінок FR-639–FR-653 були короткими reference stubs. Натомість FR-651 вже мав достатньо розгорнутий вузол `oral-syntax.md` (canonical mapping FR-718) і не був штучно дубльований.
+
+### Переписано / поглиблено
+
+- `standard-spoken-french.md` — **FR-639**
+- `neutral-register.md` — **FR-640**
+- `formal-register.md` — **FR-641**
+- `informal-register.md` — **FR-642**
+- `literary-register.md` — **FR-643**
+- `ne-dropping.md` — **FR-644**
+- `oral-reductions.md` — **FR-645**
+- `colloquial-questions.md` — **FR-646**
+- `colloquial-pronoun-order.md` — **FR-647**
+- `on-spoken.md` — **FR-648**
+- `subject-dislocation.md` — **FR-649**
+- `fillers.md` — **FR-650**
+- `written-spoken-contrast.md` — **FR-652**
+- `grammatical-variation.md` — **FR-653**
+
+### Не дубльовано
+
+- **FR-651** залишено на наявному `oral-syntax.md` / canonical FR-718 вузлі, оскільки окремий FR-651 page не давав би самостійної цінності без штучного дроблення.
+
+### Методичний результат
+
+Блок перебудовано навколо кількох незалежних осей:
+
+**норма ↔ регістр ↔ канал ↔ регіон ↔ дискурсивна функція.**
+
+Особливу увагу приділено тому, щоб:
+- не ототожнювати усне з неправильним;
+- не ототожнювати формальне з письмовим;
+- не трактувати випадіння `ne` як «зникнення заперечення»;
+- не трактувати усні скорочення як орфографічну норму;
+- не описувати `on` як простий синонім `nous`;
+- не називати дислокацію «подвійним підметом»;
+- розрізняти fillers, дискурсивні частки та власне члени речення;
+- описувати варіантність через її розподіл, а не через бінарне «правильно/неправильно».
+
+### Контрастивний шар
+
+Для україномовного учня додано системні пояснення щодо відмінностей між українською та французькою в запереченні, питаннях, `on/nous`, клитичному порядку, дислокації та усно-письмовій варіантності. Уникнуто неперевірених списків «типових помилок українців».
+
+### Academic Writing Toolkit QA
+
+Перевірено через `review_paragraph_logic` репрезентативні повні сторінки:
+- FR-639 — 33 findings;
+- FR-644 — 39 findings;
+- FR-646 — 37 findings;
+- FR-649 — 29 findings;
+- FR-650 — 23 findings;
+- FR-653 — 36 findings.
+
+У всіх шести перевірених сторінках єдиний тип finding — `short-paragraph`. Інших логічних/структурних типів проблем інструмент не повернув. Як і в попередніх batches, ці findings значною мірою припадають на приклади, формули, короткі правила та тестові пункти, тому вони не трактуються як граматичні помилки й не усуваються штучним об'єднанням прикладів.
+
+### Structural QA
+
+- canonical mappings FR-639–FR-650 та FR-652–FR-653 збережено;
+- FR-651 не розмножено штучно через уже наявний достатній oral-syntax node;
+- у FR-648 виправлено назву джерела `Grande Grammaire du français`;
+- внутрішні посилання спрямовано на сусідні canonical nodes блоку;
+- нових Markdown-файлів не створено.
+
+### Git commits
+
+- FR-639: `c08090a75a46b49a9cfa1f6c2f7195e38cf85cf9`
+- FR-640: `3fca0137528876a7633864e401c9061223ca1f48`
+- FR-641: `fdf273d3b9ec044c7837af487d5d99782e85f6f3`
+- FR-642: `7a5db7c073847e0c1ec90b50ac8ed116b77b0378`
+- FR-643: `2ec44524b9d9365317fc2a37dd88ac4fc902e3f1`
+- FR-644: `29ce1cbfa6d47c53b74e6f8961cd8e0bc0891cc2`
+- FR-645: `4d0e151940966325105247074f00020de2a9a845`
+- FR-646: `edf1547a6f7dc88497e52cd1bdb7170e33b2f0f1`
+- FR-647: `b50dd7aa45632da6c55fb97f73c21b0657547af5`
+- FR-648: `89b7e7fc336e4e71ed577d7d5ea4231204e6aac9`
+- FR-649: `a8bd807209979c2310afbe63ed19e406afbeaee6`
+- FR-650: `e3cee1033211f6db108ebc2ad185cec88ae0b279`
+- FR-652: `c6ac6ceb1f41c82abd9e6a7427d25b151a3584c1`
+- FR-653: `32ad5db1bb1577f14d6272d44cbced76d0b41d33`
+
+### Лічильник
+
+На початку B18: **371 Markdown-стаття**.
+
+Нових Markdown-файлів: **0**.
+
+Поглиблено: **14 існуючих статей**.
+
+Після B18: **371 Markdown-стаття**.
+
+Canonical scope: **740 topic IDs**.
+
+Як і раніше, `740 - 371` не є точним remaining count: canonical topics і Markdown-файли мають many-to-one / one-to-many mapping. Точний remaining count можливий лише після повного machine-readable coverage audit.
+
+### Наступний крок
+
+Продовжити ранній coverage/depth pass: перевіряти найкоротші canonical nodes, але не створювати сторінки там, де topic уже адекватно покритий наявною canonical article або секцією.
+
+
+## B19 — 2026-09-26 — Information structure and discourse: FR-624–FR-637 (selected weak nodes)
+
+Проведено черговий depth/coverage pass після B18. Аудит коротких canonical nodes показав, що частина блоку інформаційної структури й дискурсу все ще залишалася на рівні коротких reference stubs. Замість механічного створення нових сторінок поглиблено наявні canonical nodes.
+
+### Переписано / поглиблено
+
+- `cleft-constructions.md` — **FR-624**
+- `cest-qui-que.md` — **FR-625**
+- `ce-qui-cest.md` — **FR-626**
+- `dislocation.md` — **FR-627**
+- `cataphoric-reference.md` — **FR-632**
+- `ellipsis.md` — **FR-634**
+- `discourse-connectors.md` — **FR-636**
+- `discourse-particles.md` — **FR-637**
+
+### Що саме поглиблено
+
+- для FR-624–FR-626 розведено **cleft-конструкцію, інформаційне виділення, синтаксичну роль X та контраст**;
+- для FR-625 окремо закріплено діагностику `qui` / `que` через функцію виділеного компонента, а не через семантичний тип імені;
+- для FR-626 систематизовано `ce qui` / `ce que` та зв'язок між синтаксисом і тематико-фокусною організацією;
+- для FR-627 розведено ліву/праву дизлокацію, кореферентний займенник, тему, контраст і топікалізацію;
+- для FR-632 чітко розведено **катафору, анафору та кореференцію** і додано діагностику через попередній/наступний контекст;
+- для FR-634 розширено еліпсис у діалозі та координації й критерій відновлюваності;
+- для FR-636 розведено **дискурсивний конектор** і синтаксичний сполучник, а також логічне відношення, позицію та регістр;
+- для FR-637 розведено дискурсивні частки, конектори, пропозиційний зміст і дискурсивну функцію; окремо показано контекстну багатофункціональність `alors`, `bon`, `enfin`.
+
+### Контрастивний шар
+
+Український контраст побудовано не як список «типових помилок», а як діагностичні відмінності: українська частіше може передавати інформаційне виділення порядком слів та інтонацією, тоді як французька має спеціалізовані cleft/dislocation-моделі; українська також допускає еліптичні відповіді та катафоричні структури, тому їх не слід штучно трактувати як французьку аномалію.
+
+### Canonical graph
+
+Блок збережено як пов'язану систему:
+
+`focus → cleft → c'est ... qui/que → ce qui/ce que ... c'est → dislocation → reference → ellipsis → discourse connectors/particles`.
+
+Не створювалися штучні дублікати для вже наявних information-structure/reference nodes.
+
+### Academic Writing Toolkit QA
+
+Усі 8 переписаних сторінок перевірено через `review_paragraph_logic` після оновлення:
+
+- FR-624 / `cleft-constructions.md` — **42 findings**;
+- FR-625 / `cest-qui-que.md` — **37 findings**;
+- FR-626 / `ce-qui-cest.md` — **39 findings**;
+- FR-627 / `dislocation.md` — **43 findings**;
+- FR-632 / `cataphoric-reference.md` — **37 findings**;
+- FR-634 / `ellipsis.md` — **38 findings**;
+- FR-636 / `discourse-connectors.md` — **36 findings**;
+- FR-637 / `discourse-particles.md` — **46 findings**.
+
+У **всіх 8 випадках єдиний тип finding — `short-paragraph`**. Інших логічних типів інструмент не повернув. Ці heuristic warnings відповідають структурі reference-статей із прикладами, формулами, таблицями та короткими тестовими пунктами й не є самі по собі доказом граматичної помилки.
+
+### Лічильник
+
+На початку B19: **371 Markdown-стаття**.
+
+Нових Markdown-файлів: **0**.
+
+Поглиблено: **8 існуючих статей**.
+
+Після B19: **371 Markdown-стаття**.
+
+Canonical scope: **740 topic IDs**.
+
+Як і раніше, `740 - 371` не використовується як точний remaining count: canonical IDs і Markdown-файли мають many-to-one / one-to-many mapping.
+
+### Наступний крок
+
+Продовжити depth audit наступного слабкого canonical block, перевіряючи короткі вузли не лише за розміром, а й за самостійністю coverage, дублюванням та зв'язками canonical graph.
+
+
+## B20 — Information structure: theme, focus and topicalisation
+
+Опрацьовано наступний слабкий, але концептуально пов’язаний вузол після B19: FR-621–FR-623 та FR-628.
+
+Переписано й поглиблено:
+- `src/content/fr/theme-rheme.md` — FR-621
+- `src/content/fr/focus.md` — FR-622
+- `src/content/fr/contrastive-focus.md` — FR-623
+- `src/content/fr/topicalization.md` — FR-628
+
+### Що виправлено та поглиблено
+
+- чітко розмежовано інформаційні категорії **тема / рема / фокус / дане / нове** без зведення їх одна до одної;
+- підкреслено, що тему й фокус не можна визначати лише за позицією слова або граматичною роллю;
+- додано контекстні діагностики через питання *Qui ? / Qu’est-ce que ? / Quand ?*;
+- розмежовано нейтральний фокус і контрастивний фокус;
+- показано явні та неявні альтернативи, корекцію й контраст без штучного правила «контраст = pas X»;
+- для cleft-конструкцій послідовно використано синтаксичний критерій **qui/que**, а не людськість виділеного компонента;
+- топікалізацію розглянуто як інформаційну функцію, а дизлокацію — як конкретнішу синтаксико-дискурсивну реалізацію;
+- розмежовано об’єктну тематизацію з кореферентним клитиком та рамкові початкові компоненти;
+- посилено контраст із українською: порядок слів, відмінкове маркування, просодія, *саме* та тематичні конструкції;
+- додано алгоритми діагностики, типові помилки й мінітести;
+- узгоджено навігацію між FR-621 → FR-622 → FR-623 → FR-624–FR-626 та FR-628, не створюючи дубльованих сторінок.
+
+### Academic Writing Toolkit QA
+
+Повний `review_paragraph_logic` виконано для всіх чотирьох переписаних статей.
+
+Інструмент повернув попередження типу `short-paragraph`, що очікувано для grammar reference: приклади, формули, таблиці, тестові пункти та короткі діагностичні правила розглядаються як окремі абзаци. Інших типів логічних зауважень у повернутих результатах не було.
+
+Як і в B18–B19, ці результати не трактуються як граматичний fact-check: короткі приклади є навмисною частиною довідникової структури.
+
+### Лічильник
+
+- статей Markdown до B20: **371**
+- нових Markdown-файлів: **0**
+- поглиблено: **4**
+- статей Markdown після B20: **371**
+- canonical scope: **740 topic IDs**
+- `740 - 371` не є точним лічильником залишку, оскільки canonical IDs можуть мапитися на спільні або розширені статті.
+
+### Наступний крок
+
+Продовжувати depth-аудит слабких canonical nodes, а не просто рухатися за числовим порядком. Для кожного кандидата перевіряти розмір і зміст статті, незалежність покриття, дублювання та зв’язок із уже поглибленими вузлами.
+
+
+## B21 — Relative pronouns: deepening FR-495–FR-501 weak nodes
+
+Проведено наступний depth/coverage audit після B20. Серед найкоротших ще не поглиблених вузлів виявлено компактний, але фундаментальний кластер відносних займенників. Замість створення нових дубльованих сторінок поглиблено шість уже наявних canonical nodes.
+
+### Переписано / поглиблено
+
+- `relative-qui.md` — **FR-495**
+- `relative-que.md` — **FR-496**
+- `relative-dont.md` — **FR-497**
+- `relative-ou.md` — **FR-498**
+- `relative-lequel.md` — **FR-499**
+- `ce-qui-ce-que-ce-dont.md` — **FR-501**
+
+### Що саме поглиблено
+
+- FR-495: діагностика *qui* через підметову функцію, контраст із *que/dont/où*, особові й предметні антецеденти, прийменникові конструкції та український контраст;
+- FR-496: *que* як COD, відновлення вихідного речення, контраст із *qui/dont/lequel*, а також зв'язок із узгодженням *participe passé* з *avoir*;
+- FR-497: *dont* як реалізація залежності з **de** після дієслів, прикметників та іменників, відмежування від *que* і прийменникових *lequel*, застереження проти дублювання *de*;
+- FR-498: *où* для місця й часу, контраст із *qui/que/lequel*, часові конструкції з *que*, а також окремо зафіксовано сучасну нормативну рекомендацію проти дублювання місцевого компонента в конструкції на кшталт *C'est dans cet hôpital où il travaille*;
+- FR-499: повну парадигму *lequel/laquelle/lesquels/lesquelles*, злиття з *à/de*, відмінність *dont* від *duquel*, вибір *qui/lequel* після прийменника та український відмінковий контраст;
+- FR-501: системну діагностику *ce qui / ce que / ce dont*, контраст із самостійним *qui*, зв'язок із *c'est...* та інформаційною структурою без змішування синтаксичної й дискурсивної функцій.
+
+### Джерельний cross-check
+
+Для точкової перевірки відносних конструкцій звірено актуальні матеріали Académie française та довідковий опис системи *qui/que/dont/où/lequel*. Особливо перевірено:
+- узгодження форм *lequel* за родом і числом;
+- розмежування *dont* та конструкцій із уже вираженим *de*;
+- *où* у часових relatives та окремі часові вирази з *que*;
+- розподіл *qui / que / dont / où / lequel* за синтаксичною функцією.
+
+### Academic Writing Toolkit QA
+
+Повний `review_paragraph_logic` виконано для всіх шести переписаних сторінок.
+
+Результати:
+- FR-495 / `relative-qui.md` — **68 findings**
+- FR-496 / `relative-que.md` — **67 findings**
+- FR-497 / `relative-dont.md` — лише **short-paragraph** findings
+- FR-498 / `relative-ou.md` — **72 findings**
+- FR-499 / `relative-lequel.md` — **22 findings**
+- FR-501 / `ce-qui-ce-que-ce-dont.md` — **33 findings**
+
+У перевірених результатах findings належать до одного heuristic type — `short-paragraph`. Інших логічних типів зауважень інструмент не повернув. Як і в B18–B20, це очікуваний сигнал для grammar-reference сторінок: окремі приклади, формули, таблиці, мінітести й короткі правила навмисно є самостійними блоками. Їх не об'єднано штучно лише для зменшення heuristic count.
+
+### Repository integrity
+
+Після B21 фактичний listing `src/content/fr/` на поточній гілці містить **370 Markdown-файлів**. Попередні записи B16–B20 помилково продовжували рахувати **371** після видалення redundant `scope-negation-quantifiers.md` у B15. Цей запис виправляє лічильник: **370 — актуальна кількість Markdown-файлів**.
+
+Нових Markdown-файлів у B21: **0**.
+
+Отже:
+- до B21: **370**
+- нових: **0**
+- поглиблено: **6**
+- після B21: **370**
+
+Canonical scope: **740 topic IDs**.
+
+Як і раніше, `740 - 370` **не є точним remaining count**: canonical IDs можуть мапитися many-to-one / one-to-many на Markdown-файли. Точний залишок потребує machine-readable coverage manifest.
+
+### Git commits B21
+
+- FR-495: `3b99839072bae64c9a518ae76e57af1439190141`
+- FR-496: `03d111037820aee25240179b35d67a0b83a6f02b`
+- FR-497: `31aa49e9bc571873efb9366fc9991083955bac19`
+- FR-498: `bd13ae397bc4c5a4ab865093710a18e852608eb5`
+- FR-499 + FR-501: `d89c17b0dbc54eacff549a9ba40b34ca10da31b5`
+
+### Наступний крок
+
+Продовжувати depth-аудит за фактичною слабкістю сторінок, але після relative-pronoun cluster уникати штучного дроблення. Наступні кандидати мають перевірятися разом із canonical graph та вже поглибленими сторінками, щоб одна тема не була розмазана по дубльованих reference stubs.
+
+## B22 — 2026-09-26 — agreement block FR-545–FR-552
+
+### Scope
+Глибоко опрацьовано наступний слабкий тематичний блок **узгодження**. Вибрано короткі наявні статті з canonical IDs FR-545–FR-552; нових Markdown-файлів не створював.
+
+### Deepened
+1. `subject-verb-agreement.md` — **FR-545**
+2. `compound-subject-agreement.md` — **FR-546**
+3. `collective-nouns-agreement.md` — **FR-547**
+4. `percentage-agreement.md` — **FR-548**
+5. `quantity-agreement.md` — **FR-549**
+6. `determiner-agreement.md` — **FR-551**
+7. `past-participle-etre-agreement.md` — **FR-552**
+
+### Змістовне поглиблення
+- FR-545: головне слово підмета, довгі NP, вставні компоненти, відносні речення, інверсія, *on*, безособове *il*, колективні/кількісні групи, покроковий синтаксичний алгоритм.
+- FR-546: *et*, різні граматичні особи, *ou*, *ni... ni*, відмінність від *ainsi que*, інверсія та взаємодія зі *participe passé*.
+- FR-547: формальний і смисловий центр колективних груп; *un groupe de*, *une majorité de*, *la plupart de*, *une partie de*, *le reste de*, *une foule de*; окремо застережено від механічного правила «завжди однина».
+- FR-548: *pour cent/pour mille*, конструкції з і без *de + groupe nominal*, нормативна варіативність узгодження; не зведено правило до «завжди дивись на слово після de».
+- FR-549: *beaucoup de, peu de, trop de, assez de, tant de*, кількісні іменники (*quantité, nombre, partie*), *la plupart*, прикметникове узгодження та український контраст.
+- FR-551: систематизовано артиклі, вказівні й присвійні детермінативи, елізію, *cet*, *mon amie*, нульовий артикль і відмінність французької системи від української.
+- FR-552: *être* + participe passé, пасив, координований підмет, відмежування прономінальних дієслів та *avoir*, письмове vs усне розрізнення.
+
+### Нормативна перевірка
+Звірено ключові тонкі місця з довідкою **Académie française — Questions de langue**, зокрема:
+- колективні іменники та можливість узгодження за змістом;
+- узгодження з відсотковими конструкціями;
+- *participe passé* з *être*;
+- загальний контраст із прономінальним узгодженням.
+
+### Academic Writing Toolkit
+Прогнано `review_paragraph_logic` для **всіх 7 оновлених статей**:
+- FR-545: 42 findings
+- FR-546: 46
+- FR-547: 41
+- FR-548: 26
+- FR-549: findings only `short-paragraph`; точний count не фіксувався окремо
+- FR-551: 45
+- FR-552: 37
+
+**Для всіх семи єдиний тип finding — `short-paragraph`.** Інших логічних/структурних типів Toolkit не виявив. Більшість таких спрацювань припадає на короткі граматичні приклади, формули, таблиці та мінітести, де короткість є функціональною.
+
+### Лічильник
+- Markdown-файлів до B22: **370**
+- Нових Markdown-файлів: **0**
+- Deepened: **7**
+- Markdown-файлів після B22: **370**
+- Canonical topic scope: **740**
+- `740 - 370` не трактувати як точну кількість незаповнених canonical topics: canonical IDs і Markdown-файли не мають відношення 1:1.
+
+### Git
+B22 article changes are committed on `content/reference-articles-2026-09-25`. Після цього запису журналу виконати фінальний compare від B21 head `ef056c16e4d5f83f33b53b1f782ae3f73992a59b` до актуального branch head і перевірити 7 статей + log.
+
+### Наступний крок
+Продовжити depth-audit за слабкими canonical nodes після FR-552, перевіряючи граф canonical IDs і уникаючи дублювання вже опрацьованих блоків.
+
+
+## B23 — Порівняння, кількість і міра: системне поглиблення
+
+Проведено аудит наступного слабкого тематичного блоку після B22: **FR-560–FR-574 (порівняння, кількість і міра)**. Замість створення дубльованих сторінок поглиблено 6 уже наявних canonical articles.
+
+### Поглиблено
+- `src/content/fr/autant-davantage.md` — **FR-562**
+- `src/content/fr/superlative-le-plus-moins.md` — **FR-565**
+- `src/content/fr/trop-assez-de.md` — **FR-567**
+- `src/content/fr/tellement-tant-de.md` — **FR-568**
+- `src/content/fr/suffisamment-de.md` — **FR-569**
+- `src/content/fr/approximate-quantity.md` — **FR-572**
+
+### Нові файли
+- **0** — усі шість canonical topics уже мали придатні сторінки, але були надто короткими або методично шаблонними.
+
+### Основні зміни
+- розведено `aussi / autant` за граматичною категорією: adjectif/adverbe ↔ verbe/nom;
+- систематизовано `davantage` та `davantage de`;
+- для superlatif relativе додано розрізнення порівняння різних сутностей і найвищого ступеня однієї сутності в різних станах;
+- розведено `trop/assez de + nom` та `trop/assez + adjectif/adverbe`;
+- для `trop` окремо позначено сучасне розмовне інтенсифікувальне вживання, не змішуючи його з нейтральним значенням надміру;
+- систематизовано `tellement/tant` за іменником, прикметником, прислівником і дієсловом та конструкції наслідку `... que`;
+- для `suffisamment` додано розмежування кількості, ступеня ознаки, міри дії та `pour + infinitif`;
+- для приблизної кількості розведено `environ / à peu près / quelque + nombre`, `une dizaine/vingtaine/centaine de`, а також `quelques` і `beaucoup de`;
+- у всіх шести статтях посилено українсько-французький контраст, типові помилки, алгоритми й мінітести.
+
+### Джерельний cross-check
+Нормативні твердження додатково звірено з матеріалами **Académie française** щодо superlatif (`le plus / la plus`), `trop`, `quelque + numéral` та `plus de / plus que`. Зокрема, перевірено, що артикль у superlatif залежить від типу порівняння, `trop` у нейтральній нормі пов'язане з перевищенням міри, а `quelque` перед числівником може бути прислівниковим та незмінюваним.
+
+### Academic Writing Toolkit QA
+Перевірено **всі 6** оновлених статей.
+
+- FR-562: **44** findings
+- FR-565: **62** findings
+- FR-567: **65** findings
+- FR-568: **60** findings
+- FR-569: **53** findings
+- FR-572: **61** findings
+
+У всіх шести перевірках єдиний тип finding — **`short-paragraph`**. Логічних/структурних типів проблем не виявлено. Для grammar-reference це очікуваний heuristic noise через короткі приклади, таблиці та навчальні мініблоки.
+
+### Лічильник
+- Markdown-файлів перед B23: **370**
+- нових: **0**
+- поглиблено: **6**
+- Markdown-файлів після B23: **370**
+- canonical scope: **740 topic IDs**
+
+Як і раніше, `740 - 370` не є точним числом «статей, що залишилися»: canonical IDs і Markdown-файли мають не обов'язково взаємно-однозначне відображення.
+
+### Наступний крок
+Продовжити аудит слабких сторінок у FR-560–FR-574, не дублюючи вже поглиблені FR-562/565/567/568/569/572, а також перевірити сусідні quantity/comparison topics на наявність надто коротких сторінок перед наступним batch.
+
+
+## B24 — Порівняння та кількісні конструкції: завершення слабкого вузла FR-560–FR-574
+
+Після B23 проведено ще один depth-audit у тому самому тематичному блоці **FR-560–FR-574**. Цього разу не дублював уже поглиблені FR-562, FR-565, FR-567, FR-568, FR-569 та FR-572, а опрацював сусідні короткі canonical pages.
+
+### Поглиблено
+
+- `comparatives-plus-moins-aussi.md` — **FR-560**
+- `comparative-que.md` — **FR-561**
+- `meilleur-mieux.md` — **FR-563**
+- `pire-plus-mauvais.md` — **FR-564**
+- `autant-beaucoup-peu-de.md` — **FR-566**
+- `de-nombreux-de-nombreuses.md` — **FR-570**
+- `indefinite-quantity.md` — **FR-571**
+- `measure-intensity.md` — **FR-573**
+
+Нових Markdown-файлів: **0**.
+
+### Змістовне поглиблення
+
+- FR-560: повну базову опозицію `plus / moins / aussi / autant` розведено за категоріями прикметника, прислівника, іменника та дієслова; додано аналіз `que`, заперечення та український контраст.
+- FR-561: систематизовано структуру `plus/moins/aussi ... que`, `plus/moins/autant de + nom`, порівняння дії та еліптичний другий член; окремо розмежовано порівняльне `que`, сполучник і відносний займенник.
+- FR-563: розведено `meilleur` як прикметник і `mieux` як прислівник, включно з `je vais mieux`, суперлативом та узгодженням.
+- FR-564: поглиблено `pire` і `plus mauvais`, узгодження `mauvais`, `pire encore`, суперлатив та застереження проти подвійних форм на кшталт `plus pire`.
+- FR-566: систематизовано `autant de / beaucoup de / peu de`, різницю між кількістю і мірою дії, `peu de` та `un peu de`, узгодження присудка і виняток із `des = de + les` у конкретизованій множині.
+- FR-570: поглиблено `de nombreux/de nombreuses`, морфологічне узгодження, множину, відмінність від `beaucoup de` та позицію прикметника.
+- FR-571: розведено `quelques, plusieurs, certains/certaines, beaucoup de, peu de, un peu de, aucun/aucune`; додано критерій прямого детермінування проти кількісного керування через `de`.
+- FR-573: розмежовано міру та кількість; систематизовано `très, assez, trop, tellement, si`, конструкції з іменником, дієсловом та наслідком `... que`, а також нейтральне й розмовне вживання `trop`.
+
+У всіх сторінках посилено українсько-французький контраст, типові помилки, покрокові алгоритми та мінітести. При цьому не зведено складні категорії до механічних перекладних правил.
+
+### Academic Writing Toolkit QA
+
+Виконано `review_paragraph_logic` для **всіх 8** оновлених статей:
+
+- FR-560 — **68 findings**
+- FR-561 — **73 findings**
+- FR-563 — **60 findings**
+- FR-564 — **47 findings**
+- FR-566 — **70 findings**
+- FR-570 — **53 findings**
+- FR-571 — **60 findings**
+- FR-573 — **62 findings**
+
+У всіх восьми перевірках єдиний тип finding — **`short-paragraph`**. Інших логічних/структурних типів Toolkit не повернув. Для grammar-reference це очікуваний heuristic noise від коротких прикладів, формул, тестових пунктів і довідникових мікроблоків.
+
+### Лічильник
+
+- Markdown-файлів перед B24: **370**
+- нових Markdown-файлів: **0**
+- поглиблено: **8**
+- Markdown-файлів після B24: **370**
+- canonical scope: **740 topic IDs**
+
+Як і в попередніх batch, `740 - 370` не є точним remaining count: canonical IDs і Markdown-файли не мають взаємно-однозначного відображення.
+
+### Git
+
+B24 changes committed on `content/reference-articles-2026-09-25`. Після цього запису журналу виконано compare від B23 head до актуального branch head.
+
+### Наступний крок
+
+Перейти до наступного слабкого кластера після FR-560–FR-574, зберігаючи принцип: спочатку перевірити наявне покриття, розмір і canonical mapping, потім поглиблювати існуючі сторінки, і лише за реальної відсутності покриття створювати нові файли.
+
+
+## B25 — Числівники, дати, час і тривалість: глибокий другий прохід
+
+Після B24 проведено наступний аудит слабкого кластера **FR-575–FR-589**. Замість механічного створення нових сторінок перевірено фактичне покриття: FR-575–FR-584 уже мають окремі Markdown-сторінки, тому в цьому batch поглиблено дев'ять наявних сторінок.
+
+### Поглиблено
+
+- `cardinal-numerals.md` — FR-575
+- `ordinal-numerals.md` — FR-576
+- `vingt-cent.md` — FR-577
+- `fractions.md` — FR-579
+- `percentages.md` — FR-580
+- `dates.md` — FR-581
+- `clock-time.md` — FR-582
+- `duration.md` — FR-583
+- `age.md` — FR-584
+
+FR-578 (mille / million / milliard) у цьому batch не дублювався окремою сторінкою: його базова відмінність від *mille* як числівника та *million/milliard* як іменникових одиниць уже включена до FR-575. Окремий файл створюватиметься лише за наявності реальної самостійної навчальної цінності.
+
+### Змістовні зміни
+
+- FR-575: розширено систему cardinal numbers, складені числа, *et un*, систему після 60, *cent/mille/million/milliard*, самостійне вживання та спеціальні числові формати.
+- FR-576: розмежовано cardinal ↔ ordinal, утворення на `-ième`, *premier/première*, *deuxième* ↔ *second/seconde*, узгодження та особливе правило дат.
+- FR-577: систематизовано умови `cents` та `quatre-vingts`, зокрема випадки з наступним числівником і `mille`.
+- FR-579: поглиблено *demi*, *moitié*, дроби з `de`, назви знаменників, математичне читання та дроби з одиницями вимірювання.
+- FR-580: розширено `% / pour cent`, `de + groupe`, узгодження присудка, десятковий запис і відмінність від невизначених квантитативів.
+- FR-581: уточнено календарну модель, `premier` лише для першого дня, назви місяців, роки, питання про дату, день тижня та цифрові формати.
+- FR-582: розмежовано `Il est + heure`, `à + heure`, тривалість, *midi/minuit*, хвилини, 12/24-годинну систему та часові запитання.
+- FR-583: розмежовано *pendant / depuis / en / pour / dans / jusqu'à / de... à...*, додано `ça fait ... que` та контраст часових функцій.
+- FR-584: розширено модель віку з *avoir*, минулий час, приблизний вік, *à l'âge de*, *demi/demie* та вік предметів.
+
+Окремо виправлено приклад у FR-581: **26 вересня 2026 року — субота**, тому приклад із днем тижня приведено у відповідність до календарної дати.
+
+### Academic Writing Toolkit QA
+
+Повний `review_paragraph_logic` виконано для всіх дев'яти змінених статей:
+
+- FR-575 — **43 findings**
+- FR-576 — **41 findings**
+- FR-577 — **29 findings**
+- FR-579 — **48 findings**
+- FR-580 — **42 findings**
+- FR-581 — **49 findings**
+- FR-582 — **48 findings**
+- FR-583 — **53 findings**
+- FR-584 — **49 findings**
+
+У всіх дев'яти перевірках єдиний тип finding — **`short-paragraph`**. Інших логічних/структурних типів Toolkit не повернув. Це очікуваний heuristic noise для довідникових формул, прикладів, таблиць і коротких правил; він не трактувався як граматична помилка.
+
+### Лічильник
+
+- Markdown-файлів перед B25: **370**
+- нових Markdown-файлів: **0**
+- поглиблено: **9**
+- Markdown-файлів після B25: **370**
+- canonical scope: **740 topic IDs**
+
+Як і раніше, різниця `740 - 370` не є точним remaining count, оскільки canonical IDs і Markdown-файли не мають взаємно-однозначного відображення.
+
+### Git / verification
+
+B25 виконано на `content/reference-articles-2026-09-25`. Після контентних комітів журнал оновлено окремим commit.
+
+Локальний build/lint у цьому середовищі не запускався; перевірка виконана через GitHub content/commit state та Academic Writing Toolkit.
+
+### Наступний крок
+
+Перейти до решти слабких сторінок кластера **FR-578, FR-585–FR-589**, спочатку точно встановивши їхні фактичні файли та canonical mapping, а не створюючи дублікати.
+
+## B26 — Грошові суми, одиниці, телефони, адреси та формати чисел
+
+Після B25 перевірено фактичне покриття наступного вузла **FR-578, FR-585–FR-589**. Виявлено, що FR-585–FR-589 уже мають окремі сторінки; тому нових Markdown-файлів не створював. FR-578 не виділявся штучно в окремий файл: тема *mille / million / milliard* уже є повноцінною частиною FR-575 *cardinal-numerals*, де це розмежування методично пов'язане з усією системою числівників.
+
+### Поглиблено
+
+- `money-amounts.md` — **FR-585**
+- `measurement-units.md` — **FR-586**
+- `phone-numbers.md` — **FR-587**
+- `addresses.md` — **FR-588**
+- `number-formats.md` — **FR-589**
+
+### Змістове поглиблення
+
+- FR-585: розведено ціну з *coûter*, суму після *prix/somme/budget/montant*, *mille* проти *million/milliard*, десяткову кому, символ валюти та український контраст.
+- FR-586: систематизовано назви одиниць і їхню множину, символи SI, *de + matière*, температуру, довжину, масу, об'єм, складені одиниці та різницю між моментом і тривалістю.
+- FR-587: чітко розведено *numéro* та *nombre*, внутрішній і міжнародний формат французького номера, групування цифр і читання як ідентифікатора.
+- FR-588: перебудовано адресу навколо номера, типу дороги, офіційної назви, *de/des*, поштового індексу, додаткових рядків та відмінності між адресним блоком і реченням.
+- FR-589: систематизовано слова/цифри, десяткову кому, групування тисяч, діапазони, нумерацію сторінок і розділів, дати, час, адреси, телефони, гроші, дроби та відмінність мовного й технічного форматів.
+
+У всіх п'яти статтях посилено українсько-французький контраст, типові помилки, алгоритм вибору конструкції та мінітест. Не змішувано граматичні правила з технічними конвенціями форматів даних.
+
+### Academic Writing Toolkit QA
+
+Повний `review_paragraph_logic` виконано для всіх п'яти змінених статей:
+
+- FR-585 — **26 findings**
+- FR-586 — **33 findings**
+- FR-587 — **25 findings**
+- FR-588 — **34 findings**
+- FR-589 — **48 findings**
+
+У всіх п'яти перевірках єдиний тип finding — **`short-paragraph`**. Інших логічних/структурних типів Toolkit не повернув. Це очікуваний heuristic noise для довідникових прикладів, формул, мінітестів і коротких навчальних блоків.
+
+### Лічильник
+
+- Markdown-файлів перед B26: **370**
+- нових Markdown-файлів: **0**
+- поглиблено: **5**
+- Markdown-файлів після B26: **370**
+- canonical scope: **740 topic IDs**
+
+Як і раніше, `740 - 370` не є точним remaining count, оскільки canonical IDs і Markdown-файли не мають взаємно-однозначного відображення.
+
+### Git / verification
+
+B26 виконано на `content/reference-articles-2026-09-25`. П'ять контентних змін зроблено окремими Git-комітами; після них журнал оновлено окремим commit.
+
+Локальний build/lint у цьому середовищі не запускався. Фінальна перевірка виконується через GitHub compare/content state та Academic Writing Toolkit.
+
+### Наступний крок
+
+Після завершення числового вузла перейти до наступного слабкого canonical cluster, знову перевіривши фактичний mapping і розмір наявних сторінок перед створенням будь-яких нових файлів.
+
+
+## B27 — Поглиблення слабких довідникових сторінок
+
+Після завершення числового вузла проведено структурний аудит наявного контенту за розміром Markdown-файлів. Замість механічного створення нових сторінок відібрано вісім дуже коротких, але канонічно окремих статей, які мали реальну навчальну цінність для поглиблення.
+
+### Поглиблено
+
+- presentational-structures.md — FR-630
+- inversion-information.md — FR-629
+- previous-cod.md — FR-556
+- nominalisation.md — FR-673
+- compound-words.md — FR-671
+- prefixation.md — FR-670
+- loanwords-grammatical-adaptation.md — FR-677
+- conversion-substantivation.md — FR-672
+
+### Змістове поглиблення
+
+- FR-630: il y a, voici/voilà, c'est, cleft-конструкції, введення нового референта, тема/рема та український контраст.
+- FR-629: непитальна V–S інверсія, новий референт, локативна рамка, письмовий/оповідний регістр та відмінність від питальної інверсії.
+- FR-556: алгоритм COD → позиція → рід/число → participe passé, que проти à qui, кілька займенників та український контраст.
+- FR-673: словотвірна номіналізація проти синтаксичних конструкцій, аргументи іменника, регістр та читабельність.
+- FR-671: композиція, лексикалізація, дефіс, множина та відмінність складного слова від вільного словосполучення.
+- FR-670: префіксальна деривація, семантичні функції, re-, деривація проти ne...pas і словозміни.
+- FR-677: адаптація запозичень за родом, числом, вимовою, написанням, словотвором, регістром і франкомовним ареалом.
+- FR-672: субстантивація прикметників, інфінітив як підмет, конверсія проти деривації та межа між синтаксичною і лексичною номінацією.
+
+Усі вісім сторінок отримали український контраст, типові помилки, практичний алгоритм і мінітест. Варіантні або регістрові явища не перетворювалися на штучні правила «правильно/неправильно».
+
+### Academic Writing Toolkit QA
+
+Повний review_paragraph_logic виконано для всіх восьми змінених статей:
+
+- FR-630 — 38 findings
+- FR-629 — 39 findings
+- FR-556 — 40 findings
+- FR-673 — 33 findings
+- FR-671 — 34 findings
+- FR-670 — 32 findings
+- FR-677 — 31 findings
+- FR-672 — 35 findings
+
+У всіх восьми перевірках єдиний тип finding — short-paragraph. Інших логічних/структурних типів Toolkit не повернув.
+
+### Лічильник
+
+- Markdown-файлів перед B27: 370
+- нових Markdown-файлів: 0
+- поглиблено: 8
+- Markdown-файлів після B27: 370
+- canonical scope: 740 topic IDs
+
+740 - 370 не використовується як точний remaining count, оскільки canonical IDs і Markdown-файли не відповідають один одному 1:1.
+
+### Git / verification
+
+B27 виконано на content/reference-articles-2026-09-25. Вісім контентних змін зроблено окремими Git-комітами; журнал оновлено окремим commit.
+
+Локальний build/lint не запускався. Перевірка контенту виконана через GitHub та Academic Writing Toolkit.
+
+### Наступний крок
+
+Продовжити аудит коротких/слабких сторінок, щоразу перевіряючи canonical mapping і вже наявне тематичне покриття, щоб не створювати дублікати.
