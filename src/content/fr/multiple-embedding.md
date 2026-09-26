@@ -1,14 +1,14 @@
 ---
-title_uk: "Багаторівнева вкладеність речень"
-title_fr: "L'imbrication des propositions"
-description_uk: "Як французька організує речення, у яких одна підрядна конструкція містить іншу."
+title_uk: "Багаторівнева синтаксична вкладеність"
+title_fr: "L'imbrication syntaxique"
+description_uk: "Як кілька рівнів підрядності взаємодіють у французькому реченні та як відновлювати їхні залежності."
 category: sentences
 order: 685
 canonical_ids: ["FR-685"]
-prerequisites: ["complex-sentences", "relative-clauses"]
-related: ["nested-relative-clauses", "nested-complement-clauses", "word-order", "indirect-speech"]
+prerequisites: ["complex-sentences", "relative-clauses", "subordinate-clauses"]
+related: ["nested-relative-clauses", "nested-complement-clauses", "long-distance-dependencies", "indirect-speech"]
 contrast: ["complex-sentences"]
-next: ["nested-relative-clauses"]
+next: ["nested-relative-clauses", "nested-complement-clauses"]
 level: C1
 depth: high
 register: neutral
@@ -17,6 +17,7 @@ status: review
 contrastive_uk: medium
 sources:
   - "Grande Grammaire du français"
+  - "French Grammar and Usage, 5th ed. (2025)"
 formula: false
 toc: true
 featured: false
@@ -24,81 +25,92 @@ featured: false
 
 ## Швидка відповідь
 
-**Вкладеність** означає, що одна конструкція є складником іншої:
+**Вкладеність** означає, що одна синтаксична конструкція є складником іншої.
 
-> [Il dit [qu'elle pense [que nous partirons]]].
+> *Je sais [qu'il affirme [que Marie viendra]].*
 
-Тут *qu'elle pense...* залежить від *dit*, а *que nous partirons* залежить від *pense*.
+Перша *complétive* залежить від *sais*, друга — від *affirme*.
 
-Вкладеність не є окремим часом чи способом дієслова. Це властивість синтаксичної структури.
+Вкладеність може поєднувати complétives, relatives, часові, умовні та інші підрядні частини.
 
-## 1. Рівні
+## 1. Рівні структури
 
-У реченні:
-
-> *Je sais qu'il affirme que Marie viendra.*
-
-можна виділити:
-
-1. головну конструкцію: *Je sais*;
-2. першу complétive: *qu'il affirme que Marie viendra*;
-3. вкладену complétive: *que Marie viendra*.
-
-Кожен рівень має власний предикат і власні залежності.
-
-## 2. Вкладена відносна конструкція
-
-Вкладеність може поєднувати різні типи підрядності:
-
-> *J'ai rencontré l'homme qui connaît la femme que tu as appelée.*
-
-Перша relative — *qui connaît...* — залежить від *l'homme*.
-
-Усередині неї є друга relative — *que tu as appelée* — залежна від *la femme*.
-
-Тому не можна аналізувати всі *qui/que* однаково: потрібно встановити antecedent і функцію кожного відносного елемента.
-
-## 3. Узгодження
-
-Вкладеність може збільшувати відстань між елементами, але не скасовує їхніх граматичних зв'язків:
-
-> *Les décisions que la commission a prises hier seront publiées.*
-
-*prises* узгоджується з попереднім COD *les décisions*, хоча між ним і participe passé стоїть підрядна частина.
-
-Це важливо для читання довгих французьких речень.
-
-## 4. Вкладеність і порядок слів
-
-Французька зберігає чіткі синтаксичні залежності навіть у довгих структурах. Не слід визначати функцію слова лише за найближчим іменником.
-
-Корисний алгоритм:
-
-1. знайти всі особові форми дієслів;
-2. визначити межі підрядних частин;
-3. для кожного *qui/que/dont/où* знайти antecedent;
-4. встановити функцію залежного компонента;
-5. перевірити узгодження та керування.
-
-## Український контраст
-
-Українська також допускає багаторівневу підрядність. Відмінність для студента полягає насамперед у тому, що французька має іншу систему відносних займенників, порядок клитик, узгодження та обмеження порядку слів.
-
-Тому довге французьке речення краще аналізувати як дерево залежностей, а не перекладати послідовно слово за словом.
-
-## Практична перевірка
-
-Розберіть:
+Розглянемо:
 
 > *Je pense que l'étudiant qui a écrit ce texte sait que le professeur le corrigera.*
 
-Тут є:
+Є щонайменше чотири рівні:
 
-- головна конструкція *Je pense*;
-- complétive *que ... sait...*;
-- relative *qui a écrit ce texte*;
-- вкладена complétive *que le professeur le corrigera*.
+1. *Je pense*;
+2. *que ... sait ...* — complétive;
+3. *qui a écrit ce texte* — relative всередині іменної групи;
+4. *que le professeur le corrigera* — complétive, залежна від *sait*.
+
+Ці конструкції не можна аналізувати лише за найближчим *que/qui*.
+
+## 2. Кожна підрядна має свій предикат
+
+У:
+
+> *Il affirme que Marie pense que Paul viendra.*
+
+*affirme*, *pense* і *viendra* належать до різних предикативних рівнів.
+
+Час і спосіб кожної форми визначаються не просто кількістю вкладень, а її власною синтаксичною та модальною позицією.
+
+## 3. Вкладені relatives
+
+> *J'ai rencontré l'homme qui connaît la femme que tu as appelée.*
+
+Перша relative стосується *l'homme*, друга — *la femme*.
+
+Тому одна конструкція може містити кілька *qui/que*, кожне з власною функцією та antecedent.
+
+## 4. Вкладені complétives
+
+> *Elle a dit qu'il croyait que nous partirions.*
+
+Потрібно встановити:
+
+> *Elle a dit [qu'il croyait [que nous partirions]].*
+
+Внутрішня частина не залежить безпосередньо від *a dit*. Це має значення для аналізу reported speech і futur dans le passé.
+
+## 5. Вкладеність та узгодження
+
+> *Les lettres que la secrétaire que tu as rencontrée a envoyées sont importantes.*
+
+Тут є кілька незалежних зв'язків:
+
+- *rencontrée* пов'язане з *la secrétaire*;
+- *envoyées* — з *les lettres*.
+
+Вкладеність збільшує лінійну відстань, але не змінює синтаксичного контролера.
+
+## 6. Як читати довге речення
+
+Не перекладайте слово за словом. Використовуйте алгоритм:
+
+1. знайдіть усі особові дієслова;
+2. визначте головний предикат;
+3. поставте дужки навколо підрядних;
+4. для кожної relative знайдіть antecedent;
+5. визначте функції *qui/que/dont/où*;
+6. лише потім аналізуйте час, спосіб і узгодження.
+
+## Український контраст
+
+Українська теж допускає глибоку вкладеність. Французька, однак, сильніше покладається на порядок слів, службові елементи, систему relative pronouns та clitics.
+
+Переклад може допомогти зрозуміти зміст, але не повинен замінювати французький структурний аналіз.
+
+## Типові помилки
+
+- вважати всі *que* однаковими;
+- прив'язувати participe passé до найближчого іменника;
+- змінювати часи лише через кількість рівнів;
+- втрачати antecedent у nested relatives.
 
 ## Куди далі
 
-Після цього матеріалу дивіться окремо **nested relative clauses**, **nested complement clauses** та **complex sentences**.
+Дивіться **nested relative clauses**, **nested complement clauses** та **long-distance dependencies**.
