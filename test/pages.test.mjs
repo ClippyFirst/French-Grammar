@@ -1,6 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { relatedFor } from '../src/lib/pages.mjs';
+import { canonicalCategory } from '../src/data/categories.mjs';
+import { relatedFor, slugFromId } from '../src/lib/pages.mjs';
 
 const all = [
   {
@@ -49,4 +50,20 @@ test('relatedFor does not silently resolve an ambiguous plain slug', () => {
   ];
   const result = relatedFor(ambiguous, 'adjectives', ['adjective-position']);
   assert.deepEqual(result, []);
+});
+
+
+test('canonicalCategory normalizes legacy site categories', () => {
+  assert.equal(canonicalCategory('numbers'), 'quantification');
+  assert.equal(canonicalCategory('punctuation'), 'orthography');
+  assert.equal(canonicalCategory('complex-sentences'), 'complex');
+  assert.equal(canonicalCategory('modality'), 'modals');
+  assert.equal(canonicalCategory('relative-clauses'), 'relative');
+  assert.equal(canonicalCategory('variation'), 'regional');
+  assert.equal(canonicalCategory('Узгодження'), 'agreement');
+});
+
+test('slugFromId normalizes extension and nested IDs', () => {
+  assert.equal(slugFromId('topic.md'), 'topic');
+  assert.equal(slugFromId('legacy/topic.mdx'), 'topic');
 });
