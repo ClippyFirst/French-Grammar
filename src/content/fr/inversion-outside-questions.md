@@ -4,7 +4,7 @@ title_fr: "L'inversion du sujet hors de l'interrogation ordinaire"
 description_uk: "Як інверсія підмета функціонує в окличних реченнях, вставних словах, оповідному стилі та інших конструкціях поза типовим питальним реченням."
 category: sentences
 order: 730
-canonical_ids: ["FR-730"]
+canonical_ids: ["FR-730", "FR-457"]
 prerequisites: ["questions", "word-order", "exclamatives"]
 related: ["inversion", "questions", "exclamatives", "indirect-speech", "prosody"]
 contrast: ["questions", "word-order"]
