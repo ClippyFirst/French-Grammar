@@ -1,23 +1,23 @@
-const CANONICAL_ID_RE = /FR-\\d{3}/g;
+const CANONICAL_ID_RE = /FR-\d{3}/g;
 
 export function parseCanonicalIds(source) {
-  const inline = source.match(/^canonical_ids:\\s*\\[([^\\]]*)\\]\\s*$/m);
+  const inline = source.match(/^canonical_ids:\s*\[([^\]]*)\]\s*$/m);
   if (inline) return [...inline[1].matchAll(CANONICAL_ID_RE)].map((m) => m[0]);
 
-  const multiline = source.match(/^canonical_ids:[ \\t]*\\r?\\n((?:[ \\t]*-[ \\t]*FR-\\d{3}[ \\t]*\\r?\\n?)*)/m);
+  const multiline = source.match(/^canonical_ids:[ \\t]*\r?\n((?:[ \\t]*-[ \\t]*FR-\d{3}[ \\t]*\r?\n?)*)/m);
   if (!multiline) return [];
   return [...multiline[1].matchAll(CANONICAL_ID_RE)].map((m) => m[0]);
 }
 
 export function parseCatalogIds(source) {
   // Historical audit notes also contain FR-* bullet lists; only the live catalog is authoritative.
-  const match = source.match(/# CANONICAL TOPIC CATALOG([\\s\\S]*?)(?=^# 2\\. )/m);
+  const match = source.match(/# CANONICAL TOPIC CATALOG([\s\\S]*?)(?=^# 2\\. )/m);
   const catalog = match ? match[1] : source;
-  return [...catalog.matchAll(/^\\s*-\\s+(FR-\\d{3})\\s+/gm)].map((m) => m[1]);
+  return [...catalog.matchAll(/^\s*-\s+(FR-\d{3})\s+/gm)].map((m) => m[1]);
 }
 
 export function parseStatus(source) {
-  const match = source.match(/^status:\\s*["']?([A-Za-z-]+)["']?\\s*$/m);
+  const match = source.match(/^status:\s*["']?([A-Za-z-]+)["']?\s*$/m);
   if (!match) return undefined;
   const legacy = {
     DRAFT: 'draft',
@@ -151,5 +151,5 @@ export function formatCoverageReport(result) {
     lines.push('', '## Duplicate mappings', ...result.duplicates.map(({ id, paths }) => `- ${id}: ${paths.join(', ')}`));
   }
 
-  return lines.join('\\n') + '\\n';
+  return lines.join('\n') + '\n';
 }
