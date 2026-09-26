@@ -4,14 +4,14 @@ export function parseCanonicalIds(source) {
   const inline = source.match(/^canonical_ids:\s*\[([^\]]*)\]\s*$/m);
   if (inline) return [...inline[1].matchAll(CANONICAL_ID_RE)].map((m) => m[0]);
 
-  const multiline = source.match(/^canonical_ids:[ \\t]*\r?\n((?:[ \\t]*-[ \\t]*FR-\d{3}[ \\t]*\r?\n?)*)/m);
+  const multiline = source.match(/^canonical_ids:[ \t]*\r?\n((?:[ \t]*-[ \t]*FR-\d{3}[ \t]*\r?\n?)*)/m);
   if (!multiline) return [];
   return [...multiline[1].matchAll(CANONICAL_ID_RE)].map((m) => m[0]);
 }
 
 export function parseCatalogIds(source) {
   // Historical audit notes also contain FR-* bullet lists; only the live catalog is authoritative.
-  const match = source.match(/# CANONICAL TOPIC CATALOG([\s\\S]*?)(?=^# 2\\. )/m);
+  const match = source.match(/# CANONICAL TOPIC CATALOG([\s\S]*?)(?=^# 2\. )/m);
   const catalog = match ? match[1] : source;
   return [...catalog.matchAll(/^\s*-\s+(FR-\d{3})\s+/gm)].map((m) => m[1]);
 }
@@ -41,7 +41,7 @@ export function auditCanonicalCoverage({ catalogIds, files }) {
     const max = catalogNumbers[catalogNumbers.length - 1];
     const presentNumbers = new Set(catalogNumbers);
     for (let n = min; n <= max; n += 1) {
-      if (!presentNumbers.has('FR-' + String(n).padStart(3, '0'))) catalogGaps.push('FR-' + String(n).padStart(3, '0'));
+      if (!presentNumbers.has(n)) catalogGaps.push('FR-' + String(n).padStart(3, '0'));
     }
   }
   const catalogCounts = new Map();
