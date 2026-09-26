@@ -2,8 +2,7 @@
 title_uk: "Дизлокація у французькій"
 title_fr: "La dislocation"
 description_uk: "Довідник про ліву й праву дизлокацію, кореферентні займенники, топік, контраст і відмінність від топікалізації."
-canonical_ids:
-  - "FR-627"
+canonical_ids: ["FR-627", "FR-459", "FR-460"]
 level: B2
 category: discourse
 register: neutral
