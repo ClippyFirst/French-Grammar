@@ -3,6 +3,7 @@ title_uk: "Складні випадки французького узгодже
 title_fr: "Les cas complexes d’accord"
 description_uk: "Системний розбір випадків, де узгодження залежить від синтаксису, керування, координації, кількості або інфінітивної конструкції."
 canonical_ids: ["FR-559"]
+category: agreement
 level: C1
 prerequisites: ["subject-verb-agreement", "past-participle-avoir-agreement", "pronominal-verbs"]
 related: ["previous-cod", "participle-infinitive-agreement", "collective-nouns-agreement"]
