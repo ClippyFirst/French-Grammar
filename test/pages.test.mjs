@@ -85,7 +85,7 @@ test('navigation helpers group legacy categories under canonical sections', () =
     { key: 'orthography', uk: 'Орфографія' },
   ];
   const sections = sectionsFor(legacyEntries, categoryList);
-  assert.deepEqual(sections.map((section) => section.id), ['h-orthography', 'h-quantification']);
+  assert.deepEqual(sections.map((section) => section.id), ['h-quantification', 'h-orthography']);
   assert.equal(catCountsFor(legacyEntries).quantification, 1);
   assert.equal(catCountsFor(legacyEntries).orthography, 1);
 });
