@@ -26,6 +26,7 @@ reviewed_at: "2026-09-25"
 formula: true
 toc: true
 featured: false
+canonical_ids: ["FR-154", "FR-155", "FR-156", "FR-157", "FR-158", "FR-159", "FR-160", "FR-161", "FR-162", "FR-163"]
 ---
 
 # Порядок об’єктних займенників
