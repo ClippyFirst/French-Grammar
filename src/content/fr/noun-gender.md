@@ -37,6 +37,7 @@ sources:
 reviewed_at: "2026-09-25"
 formula: false
 toc: true
+canonical_ids: ["FR-059", "FR-060"]
 ---
 
 # Рід французьких іменників
