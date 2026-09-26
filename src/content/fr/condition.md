@@ -6,7 +6,7 @@ title_uk: "Умова: exprimer la condition"
 title_fr: "Exprimer la condition"
 description_uk: "Довідкова стаття про умова: exprimer la condition у сучасній французькій."
 canonical_ids:
-  - FR-164
+  - FR-481
 prerequisites:
   - phrase-enonce
   - sentence-structure
