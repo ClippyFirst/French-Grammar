@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { parseCanonicalIds, parseStatus, auditCanonicalCoverage } from '../scripts/lib/canonical-coverage.mjs';
+import { parseCanonicalIds, parseCatalogIds, parseStatus, auditCanonicalCoverage } from '../scripts/lib/canonical-coverage.mjs';
 
 test('parseCanonicalIds extracts canonical IDs from frontmatter', () => {
   const source = `---
@@ -76,4 +76,19 @@ test('auditCanonicalCoverage detects a non-contiguous canonical catalog', () => 
   });
 
   assert.deepEqual(result.catalogGaps, ['FR-002']);
+});
+
+
+test('parseCatalogIds ignores historical audit bullet lists outside the live catalog', () => {
+  const source = [
+    '# CANONICAL TOPIC CATALOG',
+    '',
+    '- FR-001 First topic',
+    '- FR-002 Second topic',
+    '',
+    '# 2. Audit history',
+    '',
+    '- FR-999 Historical note',
+  ].join('\\n');
+  assert.deepEqual(parseCatalogIds(source), ['FR-001', 'FR-002']);
 });
