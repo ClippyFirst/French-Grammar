@@ -36,6 +36,7 @@ sources:
 reviewed_at: "2026-09-25"
 formula: true
 toc: true
+canonical_ids: ["FR-119", "FR-120", "FR-121", "FR-122", "FR-123", "FR-124", "FR-125", "FR-126"]
 ---
 
 # Позиція прикметника
