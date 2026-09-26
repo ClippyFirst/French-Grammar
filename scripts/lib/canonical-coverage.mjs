@@ -10,7 +10,10 @@ export function parseCanonicalIds(source) {
 }
 
 export function parseCatalogIds(source) {
-  return [...source.matchAll(/^\\s*-\\s+(FR-\\d{3})\\s+/gm)].map((m) => m[1]);
+  // Historical audit notes also contain FR-* bullet lists; only the live catalog is authoritative.
+  const match = source.match(/# CANONICAL TOPIC CATALOG([\\s\\S]*?)(?=^# 2\\. )/m);
+  const catalog = match ? match[1] : source;
+  return [...catalog.matchAll(/^\\s*-\\s+(FR-\\d{3})\\s+/gm)].map((m) => m[1]);
 }
 
 export function parseStatus(source) {
