@@ -874,6 +874,32 @@ CEFR не є структурою каталогу. A1–C2 — метадані
 - FR-717 Інформаційна структура французької ↔ український порядок слів і просодія
 - FR-718 Усна французька ↔ українські усні синтаксичні моделі
 
+
+## AO — Розширені конструкції та дискурс
+
+- FR-719 Complex verbal expressions / verbal periphrases
+- FR-720 Verbs of movement + infinitive
+- FR-721 Verbs of perception + infinitive vs subordinate clause
+- FR-722 Faire + infinitive: causative construction
+- FR-723 Laisser + infinitive: permissive construction
+- FR-724 Subject/control relations in infinitival clauses
+- FR-725 Defective verbs and incomplete paradigms
+- FR-726 Possession, definite articles and body parts
+- FR-727 Possession, definite articles and clothes
+- FR-728 Interrogative adverbs: comment / pourquoi / quand / où / combien
+- FR-729 Exclamative constructions
+- FR-730 Inversion outside ordinary yes/no questions
+- FR-731 Concessive construction avoir beau + infinitive
+- FR-732 Inclusive writing and contemporary orthographic usage
+- FR-733 Phrase vs énoncé: речення і висловлення
+- FR-734 Бездієслівні, номінальні та еліптичні висловлення
+- FR-735 Екстракція та залежності на відстані
+- FR-736 Дейксис: особовий, просторовий, часовий і текстовий
+- FR-737 Звертання та форми адресації
+- FR-738 Інтер'єкції та їхня граматика
+- FR-739 Просодія як граматичний і дискурсивний ресурс
+- FR-740 Вагання, самокорекція та переривання в усному мовленні
+
 # 2. Як цей каталог використовується
 
 ## 2.1 Topic ID — канонічний ідентифікатор
