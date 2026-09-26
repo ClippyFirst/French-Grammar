@@ -8,13 +8,6 @@ canonical_ids:
   - "FR-475"
   - "FR-476"
   - "FR-477"
-  - "FR-478"
-  - "FR-479"
-  - "FR-480"
-  - "FR-481"
-  - "FR-482"
-  - "FR-483"
-  - "FR-484"
 prerequisites:
   - sentence-structure
   - coordination
