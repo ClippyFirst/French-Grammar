@@ -9,11 +9,9 @@ import Breadcrumbs from '../../../components/Breadcrumbs.astro';
 import TOC from '../../../components/TOC.astro';
 
 export async function getStaticPaths() {
-  const all = await getCollection('fr');
-  const used = [...new Set(all.map((e) => canonicalCategory(e.data.category)))];
-  return used.map((categoryKey) => ({
-    params: { category: categoryKey },
-    props: { categoryKey },
+  return categories.map((category) => ({
+    params: { category: category.key },
+    props: { categoryKey: category.key },
   }));
 }
 
