@@ -24,7 +24,7 @@
     </main>
     <slot name="footer" />
     <script>
-      // Простой тумблер тема (без JS-залежностей, напоминает выбор з localStorage).
+      // Простий перемикач теми без зовнішніх JS-залежностей.
       var stored = localStorage.getItem('theme') || 'light';
       document.documentElement.setAttribute('data-theme', stored);
       var toggle = document.getElementById('theme-toggle');
