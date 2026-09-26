@@ -6,7 +6,7 @@ title_uk: "Уступка: exprimer la concession"
 title_fr: "Exprimer la concession"
 description_uk: "Довідкова стаття про уступка: exprimer la concession у сучасній французькій."
 canonical_ids:
-  - FR-163
+  - FR-484
 prerequisites:
   - phrase-enonce
   - sentence-structure
