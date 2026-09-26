@@ -45,6 +45,7 @@ reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+canonical_ids: ["FR-083", "FR-089", "FR-092", "FR-093", "FR-094"]
 ---
 
 # Відсутність артикля
