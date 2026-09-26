@@ -3,6 +3,7 @@ title_uk: "Орфографічні чергування у відмінюван
 title_fr: "Les alternances orthographiques des verbes"
 description_uk: "Системний довідник про зміни написання основи в дієсловах: -ger, -cer, -yer, -eler/-eter та споріднені моделі."
 category: verbs
+canonical_ids: ["FR-297"]
 order: 297
 prerequisites:
   - present
