@@ -12,9 +12,10 @@
     "pagefind": "pagefind",
     "test": "node --test",
     "audit:canonical": "node scripts/audit-canonical-coverage.mjs",
+    "audit:site-categories": "node scripts/audit-site-categories.mjs --strict",
     "audit:canonical:matrix": "node scripts/generate-canonical-matrix.mjs",
-    "qa": "npm run test && npm run audit:canonical && npm run build",
-    "qa:full": "npm run test && npm run audit:canonical && npm run audit:canonical:matrix && npm run build"
+    "qa": "npm run test && npm run audit:canonical && npm run audit:site-categories && npm run build",
+    "qa:full": "npm run test && npm run audit:canonical && npm run audit:site-categories && npm run audit:canonical:matrix && npm run build"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.2.1",
