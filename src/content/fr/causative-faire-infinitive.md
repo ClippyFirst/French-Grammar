@@ -4,7 +4,7 @@ title_fr: "Faire + infinitif : la construction causative"
 description_uk: "Як faire + infinitif виражає спричинення дії, як розподіляються ролі учасників і де розташовуються займенники."
 category: verbs
 order: 722
-canonical_ids: ["FR-535", "FR-722"]
+canonical_ids: ["FR-514", "FR-535", "FR-722"]
 prerequisites: ["infinitive", "pronouns-infinitive", "pronoun-order"]
 related: ["reflexive-causatives", "perception-verbs-infinitive", "passive", "verbal-periphrases"]
 contrast: ["laisser-infinitive"]
