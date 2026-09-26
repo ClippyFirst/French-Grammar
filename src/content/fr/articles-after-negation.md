@@ -41,6 +41,7 @@ sources:
 reviewed_at: "2026-09-25"
 formula: true
 toc: true
+canonical_ids: ["FR-087"]
 ---
 
 # Артикль після заперечення
