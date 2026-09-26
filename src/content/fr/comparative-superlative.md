@@ -5,6 +5,7 @@ description_uk: "Система порівняння у французькій: 
 category: adjectives
 canonical_ids:
   - "FR-560"
+  - "FR-561"
 order: 130
 prerequisites:
   - adjective-position
@@ -553,3 +554,391 @@ featured: false
    a) meilleur b) mieux
 
 **Відповіді:** 1 **aussi**; 2 **aussi**; 3 **autant**; 4 **plus**; 5 **moins**; 6 **meilleure**; 7 **mieux**.
+
+
+# FR-561 — plus que, moins que, aussi que
+
+## Швидка відповідь
+
+**plus que, moins que, aussi que** — порівняльні конструкції, у яких після **plus, moins, aussi** стоїть **que**. Вони можуть порівнювати не лише окремий прикметник чи прислівник, а й **цілу предикативну групу, кількість, міру, спосіб дії або загальний обсяг властивості**.
+
+Базова схема:
+
+> **A + verbe + plus / moins / aussi + que + B**
+
+Наприклад:
+
+> **Paul travaille plus que Marc.**  
+> Поль працює більше, ніж Марк.
+
+> **Paul travaille moins que Marc.**  
+> Поль працює менше, ніж Марк.
+
+> **Paul travaille autant que Marc.**  
+> Поль працює стільки ж, скільки Марк.
+
+Для **aussi** важливо розрізняти конструкцію з прикметником/прислівником:
+
+> **Paul est aussi grand que Marc.**
+
+> **Paul travaille aussi vite que Marc.**
+
+і конструкції, де порівнюється сама дія. Для кількісного значення нормативним відповідником є **autant que**, а не *aussi que*:
+
+> **Paul travaille autant que Marc.**
+
+## 1. Plus que: «більше, ніж»
+
+**Plus que** може порівнювати дію або ступінь без повторення прикметника чи прислівника:
+
+> **Il travaille plus que moi.**
+
+> **Elle voyage plus que son frère.**
+
+> **Nous sortons plus qu'avant.**
+
+Значення конкретизується контекстом. **Plus** може стосуватися кількості, частоти, інтенсивності або обсягу дії.
+
+Порівняйте:
+
+> **Il travaille plus que moi.**
+
+і:
+
+> **Il travaille plus rapidement que moi.**
+
+У першому випадку порівнюється загальний обсяг/міра роботи; у другому — саме швидкість виконання.
+
+## 2. Moins que: «менше, ніж»
+
+> **Il travaille moins que moi.**
+
+> **Elle voyage moins qu'avant.**
+
+> **Nous dépensons moins que prévu.**
+
+Як і **plus que**, конструкція може бути контекстуально неповною: конкретний параметр не обов'язково названий.
+
+Порівняйте:
+
+> **Il travaille moins.**
+
+> **Il travaille moins que son collègue.**
+
+Друга конструкція явно називає другий полюс порівняння.
+
+## 3. Aussi que: важливе обмеження
+
+Не слід механічно будувати **aussi que** всюди, де українською можна сказати «так само, як».
+
+Якщо порівнюється прикметник:
+
+> **Il est aussi grand que son frère.**
+
+Якщо прислівник:
+
+> **Il court aussi vite que son frère.**
+
+Якщо загальна міра дії:
+
+> **Il travaille autant que son frère.**
+
+Отже, стандартна кількісна/міральна модель — **autant que**.
+
+Форма **aussi que** самостійно не є універсальним еквівалентом **autant que**.
+
+## 4. Plus que та plus de
+
+Ці моделі не треба плутати.
+
+**Plus + adjectif/adverbe + que:**
+
+> **Cette solution est plus efficace que l'autre.**
+
+**Plus de + nom + que:**
+
+> **Cette solution demande plus de temps que l'autre.**
+
+**Plus que** без іменника:
+
+> **Cette solution coûte plus que l'autre.**
+
+У третьому реченні **plus** стосується міри або обсягу, який відновлюється з контексту.
+
+## 5. Moins que та moins de
+
+Аналогічна різниця:
+
+> **Cette méthode est moins efficace que l'autre.**
+
+> **Cette méthode demande moins de temps que l'autre.**
+
+> **Cette méthode coûte moins que l'autre.**
+
+Тобто:
+
+- **moins + adjectif + que** → нижчий ступінь властивості;
+- **moins de + nom + que** → менша кількість;
+- **moins que** → менша міра/обсяг дії або параметра, визначеного контекстом.
+
+## 6. Autant que як конструкція рівності
+
+Коли порівнюється міра дії:
+
+> **Il travaille autant que moi.**
+
+> **Elle voyage autant que son frère.**
+
+> **Nous dépensons autant que l'année dernière.**
+
+Коли зберігається іменник:
+
+> **Il a autant de travail que moi.**
+
+Отже:
+
+> **autant que** → міра дії;
+
+> **autant de + nom + que** → кількість іменника.
+
+## 7. Порівняння з передбачуваним або попереднім значенням
+
+Другий полюс може бути не конкретною людиною:
+
+> **Il travaille plus que prévu.**
+
+> **Elle arrive plus tard que prévu.**
+
+> **Nous avons moins de temps que prévu.**
+
+**prévu** тут не є звичайним іменним учасником порівняння. Конструкція означає, що фактична міра відрізняється від тієї, яку передбачали.
+
+Так само:
+
+> **C'est plus difficile que prévu.**
+
+> **C'est moins cher que prévu.**
+
+## 8. Plus que jamais / moins que jamais
+
+Фіксовані або напівфразеологізовані моделі можуть порівнювати стан із попереднім досвідом:
+
+> **Il est plus motivé que jamais.**
+
+> **Elle travaille plus que jamais.**
+
+> **Nous avons moins de temps que jamais.**
+
+**que jamais** означає приблизно «ніж будь-коли раніше» / «як ніколи» залежно від конструкції.
+
+Не слід аналізувати такі вислови лише як буквальне зіставлення двох людей чи предметів.
+
+## 9. Plus que tout / plus que tout autre
+
+> **Il aime ce travail plus que tout.**
+
+> **Cette question compte plus que tout.**
+
+> **Elle est plus expérimentée que tout autre membre de l'équipe.**
+
+У першій моделі **tout** узагальнює множину можливих об'єктів або факторів. У другій **tout autre + nom** формує явно виражений клас для порівняння.
+
+## 10. Plus que + infinitif або дієслівна група
+
+Порівняння може стосуватися цілої дії:
+
+> **Il préfère écouter plus que parler.**
+
+У таких випадках потрібно дивитися на структуру всього речення: **plus que** не обов'язково вводить звичайну іменну групу.
+
+Порівняйте:
+
+> **Il parle plus que moi.**
+
+і:
+
+> **Il préfère écouter plutôt que parler.**
+
+У другому реченні **plutôt que** виражає перевагу одного варіанта над іншим і не є тотожним простому **plus que**.
+
+## 11. Plus que vs plutôt que
+
+Це особливо важлива пара для перекладу.
+
+**plus que**:
+
+> **Il travaille plus que moi.**
+
+= він працює більше, ніж я.
+
+**plutôt que**:
+
+> **Il préfère travailler plutôt que sortir.**
+
+= він воліє працювати, а не виходити.
+
+Не скорочуйте **plutôt que** до **plus que**: зміна прислівника змінює синтаксичну конструкцію та значення.
+
+## 12. Ellipsis: коли друга частина неповна
+
+Французьке порівняння часто використовує еліпсис:
+
+> **Elle est plus calme que lui.**
+
+Повторення **est calme** після **que lui** не потрібне.
+
+Так само:
+
+> **Il travaille plus que moi.**
+
+Повна семантична структура відновлюється з контексту, але французьке речення залишається граматично завершеним.
+
+Для аналізу корисно спочатку відновити пропущений параметр подумки, а вже потім визначати функцію **plus / moins / autant**.
+
+## 13. Plus que cela / moins que cela
+
+Вказівний елемент може виступати другим полюсом:
+
+> **C'est plus que cela.**
+
+> **C'est moins que cela.**
+
+Тут **cela** не називає обов'язково кількість. Значення може стосуватися ступеня, масштабу або змісту — це визначає контекст.
+
+## 14. Ne... plus та plus que — не одна конструкція
+
+Не плутайте:
+
+> **Il ne travaille plus.**
+
+і:
+
+> **Il travaille plus que moi.**
+
+**ne... plus** — заперечення з припиненням дії / зміною її актуальності.
+
+**plus que** — порівняльна конструкція.
+
+Так само:
+
+> **Je n'en veux plus.**
+
+не означає:
+
+> ❌ *Je n'en veux plus que...*
+
+Якщо додається другий полюс, треба аналізувати вже структуру порівняння.
+
+## 15. Ne... pas plus que
+
+Порівняльне **plus** може входити до запереченої конструкції:
+
+> **Il ne travaille pas plus que moi.**
+
+Це не те саме, що:
+
+> **Il travaille moins que moi.**
+
+Перше заперечує твердження про більшу міру. Друге прямо встановлює меншу міру.
+
+Ця різниця особливо важлива в перекладі юридичних, наукових та адміністративних текстів, де логічна точність порівняння має значення.
+
+## 16. Конструкції з ніж очікувалося
+
+Поширені моделі:
+
+> **plus que prévu**
+
+> **moins que prévu**
+
+> **plus que nécessaire**
+
+> **moins que nécessaire**
+
+> **plus que suffisant**
+
+У кожному випадку друга частина задає нормативний, очікуваний або необхідний рівень:
+
+> **Nous avons reçu plus que nécessaire.**
+
+= отримали більше, ніж було потрібно.
+
+Не слід автоматично додавати **de** перед абстрактним параметром, якщо французька конструкція вже порівнює міру без іменника.
+
+## 17. Українсько-французький контраст
+
+Українські **більше ніж**, **менше ніж**, **так само як**, **стільки ж, як** можуть відповідати різним французьким моделям:
+
+> **працює більше, ніж я** → **travaille plus que moi**
+
+> **працює менше, ніж я** → **travaille moins que moi**
+
+> **працює стільки ж, скільки я** → **travaille autant que moi**
+
+але:
+
+> **працює так само швидко, як я** → **travaille aussi vite que moi**
+
+Тому українське **так само** не дає автоматичної форми **aussi**: потрібно визначити, чи порівнюється властивість, прислівниковий спосіб дії чи загальна міра.
+
+## 18. Діагностичний алгоритм
+
+1. Знайдіть **plus / moins / aussi / autant**.
+2. Подивіться, чи є після нього прикметник, прислівник, **de + nom** або нічого.
+3. Якщо порівнюється прикметник → **plus/moins/aussi + adjectif + que**.
+4. Якщо прислівник → **plus/moins/aussi + adverbe + que**.
+5. Якщо кількість іменника → **plus/moins/autant de + nom + que**.
+6. Якщо порівнюється загальна міра дії → зазвичай **plus/moins/autant que**.
+7. Перевірте, чи **plus** не належить до заперечення **ne... plus**.
+8. Перевірте, чи конструкція не є **plutôt que**, **de plus en plus** або іншою окремою моделлю.
+9. Не замінюйте **autant que** на *aussi que* лише через українське «так само».
+
+## Порівняльна таблиця
+
+| Французька модель | Що порівнюється | Приклад |
+|---|---|---|
+| **plus + adjectif + que** | властивість | **plus grand que** |
+| **moins + adjectif + que** | властивість | **moins grand que** |
+| **aussi + adjectif + que** | рівність властивості | **aussi grand que** |
+| **plus + adverbe + que** | спосіб дії | **plus vite que** |
+| **moins + adverbe + que** | спосіб дії | **moins vite que** |
+| **aussi + adverbe + que** | рівність способу дії | **aussi vite que** |
+| **plus de + nom + que** | кількість | **plus de temps que** |
+| **moins de + nom + que** | кількість | **moins de temps que** |
+| **autant de + nom + que** | рівна кількість | **autant de temps que** |
+| **plus que** | більша міра дії/параметра | **travaille plus que moi** |
+| **moins que** | менша міра дії/параметра | **travaille moins que moi** |
+| **autant que** | рівна міра дії/параметра | **travaille autant que moi** |
+
+## Вправи
+
+Виберіть нормативний варіант:
+
+1. **Il travaille ___ moi.**  
+   a) plus que b) plus de
+
+2. **Il travaille ___ vite que moi.**  
+   a) aussi b) autant
+
+3. **Il travaille ___ que moi.**  
+   a) autant b) aussi
+
+4. **Il a ___ de travail que moi.**  
+   a) autant b) aussi
+
+5. **Cette solution est ___ efficace que l'autre.**  
+   a) moins b) moins de
+
+6. **Nous avons ___ de temps que prévu.**  
+   a) plus b) plus de
+
+7. **Il ne travaille pas ___ moi.**  
+   a) plus que b) plus de
+
+8. **Il ne travaille ___.**  
+   a) plus b) plus que
+
+9. **Il préfère travailler ___ sortir.**  
+   a) plutôt que b) plus que
+
+**Відповіді:** 1 **plus que**; 2 **aussi**; 3 **autant**; 4 **autant**; 5 **moins**; 6 **plus de**; 7 **plus que**; 8 **plus**; 9 **plutôt que**.
