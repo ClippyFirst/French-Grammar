@@ -65,6 +65,8 @@ const categoryAliases = {
   'Узгодження': 'agreement',
   'Фонологія, графіка і вимова': 'phonology',
   comparison: 'comparison',
+  numbers: 'quantification',
+  punctuation: 'orthography',
   'complex-sentences': 'complex',
   discourse: 'discourse',
   modality: 'modals',
