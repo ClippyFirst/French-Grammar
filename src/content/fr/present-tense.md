@@ -15,6 +15,7 @@ variety:
 contrastive_uk: low
 sources:
   - "Legacy content retained only for migration compatibility."
+canonical_ids: ["FR-330"]
 ---
 
 # Теперішній час (Le Présent)
