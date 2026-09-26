@@ -4,7 +4,7 @@ title_fr: "L'ambiguïté grammaticale"
 description_uk: "Як синтаксична форма може допускати кілька структурних або семантичних інтерпретацій."
 category: sentences
 order: 691
-canonical_ids: ["FR-691", "FR-692"]
+canonical_ids: ["FR-691"]
 prerequisites: ["word-order", "complex-sentences", "relative-clauses"]
 related: ["multiple-embedding", "nested-relative-clauses", "scope-negation-quantifiers", "deixis"]
 contrast: ["word-order", "relative-clauses"]
