@@ -1,13 +1,13 @@
 ---
 title_uk: "Інфінітив після дієслова"
 title_fr: "L’infinitif après un verbe"
-description_uk: "Системний довідник про дієслова, після яких французька вживає інфінітив без прийменника, з à або de, та про випадки, де потрібна конструкція que."
+description_uk: "Як французькі дієслова керують інфінітивом без прийменника, з à або de, а також коли замість інфінітива потрібна особова підрядна конструкція."
 category: verbs
 canonical_ids: ["FR-508"]
 prerequisites: ["infinitive", "infinitive-complement"]
-related: ["verbs-prepositions", "verb-valency", "vouloir", "devoir", "savoir"]
+related: ["verbs-prepositions", "verb-valency", "vouloir", "devoir", "savoir", "infinitive-control"]
 contrast: ["subordination", "indirect-speech"]
-next: ["infinitive-after-adjective"]
+next: ["infinitive-after-adjective", "infinitive-after-preposition"]
 aliases: ["verbe + infinitif", "infinitif après verbe"]
 tags: ["infinitif", "verbes", "gouvernement"]
 level: B1
@@ -23,141 +23,246 @@ sources:
 formula: true
 toc: true
 featured: false
-
 ---
 
 ## Швидка відповідь
 
-Після французького дієслова інфінітив може з’являтися **без прийменника**, після *à*, після *de* або в окремій конструкції з *que*. Вибір визначається керуванням дієслова.
+Після французького дієслова інфінітив може стояти **без прийменника**, після **à**, після **de** або в іншій прийменниковій конструкції. Вибір визначається лексичною валентністю дієслова та конкретною синтаксичною моделлю, а не українським перекладом.
 
 Порівняй:
 
 - *Je veux partir.* — Я хочу піти.
-- *J’apprends à conduire.* — Я вчуся водити.
-- *Elle décide de rester.* — Вона вирішує залишитися.
+- *Je commence à travailler.* — Я починаю працювати.
+- *J’essaie de comprendre.* — Я намагаюся зрозуміти.
 - *Je veux que tu viennes.* — Я хочу, щоб ти прийшов.
 
-Тому правило «після дієслова ставимо infinitif» є надто широким.
+Тому «дієслово + інфінітив» — не одна формула.
 
-## 1. Чотири основні моделі
+## 1. Інфінітив без прийменника
 
-| Модель | Приклад |
-|---|---|
-| V + infinitif | *Je peux venir.* |
-| V + à + infinitif | *Il commence à travailler.* |
-| V + de + infinitif | *Elle essaie de comprendre.* |
-| V + que + proposition | *Je pense qu’il vient.* |
+Деякі дієслова безпосередньо поєднуються з інфінітивом:
 
-Деякі дієслова мають більше однієї моделі, але значення або синтаксична структура можуть відрізнятися.
+- *vouloir partir*;
+- *pouvoir venir*;
+- *devoir travailler*;
+- *préférer rester*;
+- *espérer réussir*;
+- *savoir nager*.
 
-## 2. Інфінітив без прийменника
+Наприклад:
 
-Особливо характерні модальні та деякі перцептивні/каузативні конструкції:
+> *Nous devons travailler.*
 
-- *Je veux partir.*
-- *Tu dois répondre.*
-- *Elle peut venir.*
-- *Nous savons nager.*
-- *Je vois Paul sortir.*
+→ Ми мусимо працювати.
 
-У *Je dois partir* *partir* безпосередньо залежить від *dois*. Не вставляй *à* або *de*:
+Не можна додавати *de* або *à* лише тому, що український переклад містить інфінітив:
 
-*Je dois partir*, не *Je dois de partir*.
+> ❌ *Je veux de partir.*
 
-## 3. Дієслова з à
+> ✅ *Je veux partir.*
 
-Типові моделі:
+## 2. V + de + infinitif
 
-- *commencer à travailler* — почати працювати;
-- *continuer à parler* — продовжувати говорити;
-- *apprendre à lire* — вчитися читати;
-- *arriver à comprendre* — спромогтися зрозуміти;
-- *parvenir à résoudre* — спромогтися розв’язати.
+Інші дієслова керують *de*:
 
-Прийменник є частиною моделі керування.
+- *essayer de faire*;
+- *décider de faire*;
+- *refuser de faire*;
+- *accepter de faire*;
+- *éviter de faire*;
+- *promettre de faire*.
 
-## 4. Дієслова з de
+> *Elle décide de rester.*
 
-Типові моделі:
+→ Вона вирішує залишитися.
 
-- *décider de partir*;
-- *refuser de répondre*;
-- *essayer de comprendre*;
-- *éviter de faire une erreur*;
-- *oublier de fermer la porte*.
+Прийменник тут є частиною французької моделі. Він не перекладається окремим українським словом.
 
-Порівняй *commencer à* і *décider de*: заміна прийменника без зміни дієслова може зробити конструкцію ненормативною.
+## 3. V + à + infinitif
 
-## 5. Одне дієслово — кілька моделей
+Частина дієслів керує *à*:
 
-Деякі дієслова допускають різні конструкції:
+- *commencer à faire*;
+- *continuer à faire*;
+- *apprendre à faire*;
+- *réussir à faire*;
+- *parvenir à faire*.
 
-*penser à faire quelque chose*  
-*penser que quelqu’un fait quelque chose*
+> *Il commence à comprendre.*
 
-Тут *à + infinitif* і *que + proposition* не є простими взаємозамінними варіантами: у першому випадку інфінітивна група, у другому — особова підрядна конструкція.
+→ Він починає розуміти.
+
+> *Elle réussit à résoudre le problème.*
+
+→ Їй вдається розв’язати проблему.
+
+Тому не слід виводити *à* з українського «до», а *de* — з «від».
+
+## 4. Керування треба вчити блоком
+
+Корисно запам’ятовувати не тільки переклад, а всю модель:
+
+| Дієслово | Модель | Приклад |
+|---|---|---|
+| *vouloir* | V + infinitif | *Je veux partir.* |
+| *essayer* | V + de + infinitif | *J’essaie de comprendre.* |
+| *commencer* | V + à + infinitif | *Je commence à lire.* |
+| *refuser* | V + de + infinitif | *Elle refuse de répondre.* |
+| *réussir* | V + à + infinitif | *Il réussit à gagner.* |
+
+Це питання **керування (gouvernement)**: головний елемент визначає форму залежного компонента.
+
+## 5. Одне дієслово — різні конструкції
+
+Дієслово може мати кілька валентних моделей.
+
+Наприклад:
+
+> *Je demande à Paul de venir.*
+
+→ Я прошу Поля прийти.
+
+Тут *à Paul* позначає адресата, а *de venir* — інфінітивну конструкцію.
+
+В іншій моделі:
+
+> *Je demande si Paul vient.*
+
+→ Я питаю, чи Поль приходить.
+
+Тут *si* вводить особову підрядну конструкцію.
+
+Отже, словникова стаття має вчити не лише значення *demander*, а й його можливі конструкції.
+
+## 6. Інфінітив чи que + особова форма?
 
 Порівняй:
 
-*Je pense partir demain.*  
-*Je pense que Paul partira demain.*
+> *Je veux partir.*
 
-## 6. Відмінність між V + infinitif і V + que
+> *Je veux que Paul parte.*
 
-Це одна з найважливіших моделей:
+У першому реченні інфінітив зазвичай має виконавця, кореферентного з *je*. У другому виконавець виражений окремо — *Paul*.
 
-*Je veux partir.*  
-→ виконавець *partir* збігається з *je*.
+Так само:
 
-*Je veux que Marie parte.*  
-→ виконавець дії — *Marie*.
+> *Elle espère réussir.*
 
-Проте вибір не зводиться лише до суб’єкта: конкретне дієслово визначає, які моделі воно допускає.
+> *Elle espère que son équipe réussira.*
 
-## 7. Дієслова руху
+Інфінітив не є просто «скороченим реченням». Це окрема синтаксична конструкція, у якій особа й число не виражені самим інфінітивом.
 
-Після деяких дієслів руху інфінітив може виражати наступну дію або мету:
+## 7. Спільний і різний виконавець
 
-*Je vais acheter du pain.*  
-*Nous venons dîner.*
+Порівняй:
 
-Конструкція *aller + infinitif* має також граматикалізоване значення найближчого майбутнього:
+> *Paul veut partir.*
 
-*Je vais partir.* — Я зараз/невдовзі піду.
+→ Paul хоче піти.
 
-Отже, одна форма може бути частиною лексико-синтаксичної конструкції або аспектуально-часової перифрази.
+> *Je vois Paul partir.*
 
-## 8. Початок, продовження, припинення
+→ Я бачу, як Поль виходить.
 
-Інфінітив широко вживається з дієсловами фазової характеристики:
+У першому випадку *Paul* є природним виконавцем обох предикацій. У другому *je* сприймає подію, а *Paul* є її учасником.
 
-- *commencer à lire*;
-- *se mettre à travailler*;
-- *continuer à parler*;
-- *cesser de fumer*;
-- *finir de travailler*.
+Дієслово та інфінітив тому не можна аналізувати лише за поверхневою послідовністю слів.
 
-У цих конструкціях головне дієслово визначає фазу інфінітивної дії.
+## 8. Модальні дієслова
 
-## 9. Дієслова сприйняття
+*Pouvoir, devoir, vouloir* часто утворюють конструкції з інфінітивом:
 
-Після *voir, entendre, regarder, écouter, sentir* можливий інфінітив:
+> *Je peux venir.*
 
-*J’entends Paul chanter.*  
-→ Я чую, як Поль співає.
+> *Je dois partir.*
 
-*Je vois Marie sortir.*  
-→ Я бачу, як Марі виходить.
+> *Je veux comprendre.*
 
-Такі конструкції особливі тим, що інфінітив має свій виражений учасник. Вони пов’язані з окремим явищем «дієслово сприйняття + інфінітив» і не повинні автоматично переноситися на всі дієслова.
+Значення залежить від контексту. *Je peux partir* може стосуватися здатності, дозволу або можливості; *je dois partir* — обов’язку або висновку про ймовірність.
 
-## 10. Типові помилки
+Інфінітив є частиною ширшої предикативної конструкції.
 
-- *Je veux de partir* ❌ → *Je veux partir*.
-- *J’essaie à comprendre* ❌ → *J’essaie de comprendre*.
-- *Je commence de travailler* — не універсальна заміна нормативній моделі *commencer à travailler*.
-- *Je veux que partir* ❌ → *Je veux partir* або *Je veux que tu partes*.
+## 9. Aller + infinitif
 
-## Висновок
+> *Je vais partir.*
 
-Після дієслова інфінітив — це питання **валентності конкретного дієслова**. Найнадійніша стратегія — вивчати лексему разом із моделлю: *vouloir + inf.*, *commencer à + inf.*, *essayer de + inf.*, *penser que + proposition*.
+Це **futur proche**. Не слід аналізувати його як випадкове сусідство двох незалежних дієслів.
+
+> *Nous allons commencer.*
+
+> *Elle va répondre.*
+
+У таких випадках часово-модальне значення виникає з усієї конструкції.
+
+## 10. Faire + infinitif і laisser + infinitif
+
+> *Je fais travailler les étudiants.*
+
+> *Je laisse Paul entrer.*
+
+У першому реченні *je* спричиняє ситуацію, а *les étudiants* виконують дію *travailler*. У другому *je* дозволяє, а *Paul* виконує *entrer*.
+
+Це важлива відмінність від:
+
+> *Je travaille.*
+
+> *Je veux travailler.*
+
+Докладніше: [Інфінітив із різними суб’єктами](./infinitive-different-subjects).
+
+## 11. Український контраст
+
+Український інфінітив не дозволяє автоматично передбачити французький прийменник:
+
+- намагатися зрозуміти → *essayer de comprendre*;
+- починати працювати → *commencer à travailler*;
+- хотіти піти → *vouloir partir*;
+- відмовлятися відповідати → *refuser de répondre*;
+- досягти успіху в → *réussir à* + infinitif.
+
+Тому головне правило для навчання: **вивчай французьке дієслово разом із моделлю керування**.
+
+## 12. Практичний алгоритм
+
+1. Знайди головне дієслово.
+2. Визнач його валентну модель.
+3. Перевір, чи потрібен infinitif без прийменника, *à* або *de*.
+4. Визнач виконавця інфінітивної дії.
+5. Перевір, чи це перифраза, каузативна або дозвільна конструкція.
+6. Якщо можливе *que + особова форма*, порівняй структури, а не лише переклад.
+
+## Типові помилки
+
+❌ *J’essaie à comprendre.*
+
+✅ *J’essaie de comprendre.*
+
+❌ *Je commence de travailler.*
+
+✅ *Je commence à travailler.*
+
+❌ *Je veux à partir.*
+
+✅ *Je veux partir.*
+
+❌ *Je demande Paul de venir.*
+
+✅ *Je demande à Paul de venir.*
+
+## Практична перевірка
+
+1. Je veux ___ partir.
+2. Elle essaie ___ comprendre.
+3. Nous commençons ___ travailler.
+4. Il refuse ___ répondre.
+5. Je demande ___ Marie de venir.
+
+**Відповіді:** 1 — нічого, 2 — *de*, 3 — *à*, 4 — *de*, 5 — *à*.
+
+## Куди далі
+
+- [Інфінітив як доповнення](./infinitive-complement)
+- [Інфінітив зі спільним суб’єктом](./infinitive-shared-subject)
+- [Інфінітив із різними суб’єктами](./infinitive-different-subjects)
+- [Інфінітив після прикметника](./infinitive-after-adjective)
+- [Інфінітив після прийменника](./infinitive-after-preposition)
