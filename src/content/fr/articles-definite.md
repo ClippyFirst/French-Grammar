@@ -45,6 +45,7 @@ reviewed_at: "2026-09-25"
 formula: true
 toc: true
 featured: true
+canonical_ids: ["FR-080", "FR-084", "FR-085", "FR-086", "FR-091"]
 ---
 
 # Визначений артикль
