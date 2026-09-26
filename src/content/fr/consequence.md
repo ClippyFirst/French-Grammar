@@ -6,7 +6,7 @@ title_uk: "Наслідок: exprimer la conséquence"
 title_fr: "Exprimer la conséquence"
 description_uk: "Довідкова стаття про наслідок: exprimer la conséquence у сучасній французькій."
 canonical_ids:
-  - FR-160
+  - FR-479
 prerequisites:
   - phrase-enonce
   - sentence-structure
