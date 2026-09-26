@@ -942,3 +942,311 @@ featured: false
    a) plutôt que b) plus que
 
 **Відповіді:** 1 **plus que**; 2 **aussi**; 3 **autant**; 4 **autant**; 5 **moins**; 6 **plus de**; 7 **plus que**; 8 **plus**; 9 **plutôt que**.
+
+
+# FR-562 — autant et davantage
+
+## 1. Дві моделі збільшення або рівності
+
+**autant** і **davantage** пов'язані з кількістю або мірою, але виконують різні функції.
+
+**autant** виражає рівність міри:
+
+> **Il travaille autant que moi.**
+
+> **Elle a autant de temps que nous.**
+
+**davantage** виражає більшу міру:
+
+> **Il travaille davantage.**
+
+> **Elle travaille davantage que moi.**
+
+Отже:
+
+- **autant** → «стільки ж / так само за мірою»;
+- **davantage** → «більше / більшою мірою».
+
+## 2. Autant que та autant de
+
+Дві основні конструкції:
+
+> **autant que + groupe comparé**
+
+> **autant de + nom + que + groupe comparé**
+
+Порівняйте:
+
+> **Je travaille autant que toi.**
+
+> **J'ai autant de travail que toi.**
+
+У першому реченні порівнюється міра дії **travaille**; у другому — кількість **travail**.
+
+Можлива й конструкція з дієсловом та іменником:
+
+> **Elle lit autant de livres que son frère.**
+
+Тут **autant de livres** є об'єктом кількісного порівняння.
+
+## 3. Davantage без de
+
+На відміну від **plus**, **davantage** у стандартній сучасній мові не використовується як універсальний визначник перед іменником.
+
+Природна модель:
+
+> **Il travaille davantage.**
+
+> **Il travaille davantage que moi.**
+
+А для іменника:
+
+> **Il a davantage de temps.**
+
+> **Il a davantage de temps que moi.**
+
+Отже, **davantage de + nom** можливе, але **davantage** залишається прислівниковим елементом; воно не має форм узгодження.
+
+## 4. Davantage vs plus
+
+У багатьох контекстах **davantage** і **plus** можуть бути близькими:
+
+> **Il travaille plus.**
+
+> **Il travaille davantage.**
+
+Обидві форми можуть означати більшу міру роботи. **davantage** часто звучить більш письмово або виразно, тоді як **plus** є нейтральною універсальною формою.
+
+Але заміна не завжди механічна. **plus** має значно ширший набір конструкцій:
+
+> **plus grand**
+
+> **plus vite**
+
+> **plus de temps**
+
+> **plus que moi**
+
+Тому не кожне **plus** можна замінити на **davantage**.
+
+## 5. Davantage de + nom
+
+> **Nous avons davantage de possibilités.**
+
+> **Il faut davantage de temps.**
+
+> **Elle montre davantage d'intérêt.**
+
+Після голосного:
+
+> **davantage d'expérience**
+
+> **davantage d'énergie**
+
+Ця модель означає більшу кількість або міру певної субстанції, ресурсу чи абстрактної величини.
+
+Порівняйте:
+
+> **davantage de temps**
+
+і:
+
+> **plus de temps**
+
+За значенням вони можуть бути дуже близькими.
+
+## 6. Davantage que
+
+**davantage que** може вводити другий полюс порівняння:
+
+> **Il travaille davantage que moi.**
+
+> **Elle voyage davantage que son frère.**
+
+> **Cette mesure profite davantage aux petites entreprises qu'aux grandes.**
+
+У складнішій конструкції другий **que** може залежати від структури, а не просто повторювати перший. Тому потрібно визначати синтаксичні межі всієї групи.
+
+## 7. Autant que vs aussi... que
+
+Це ключове розрізнення.
+
+> **Il travaille autant que moi.**
+
+але:
+
+> **Il travaille aussi vite que moi.**
+
+Перше порівнює загальну міру роботи; друге — швидкість.
+
+Так само:
+
+> **Elle est aussi attentive que son collègue.**
+
+але:
+
+> **Elle a autant d'attention que son collègue.**
+
+Форма **autant** не узгоджується з іменником: **autant de** залишається сталою моделлю.
+
+## 8. Autant que може мати інші значення
+
+Не кожне **autant que** є простим порівнянням двох осіб.
+
+У конструкції:
+
+> **Autant que je sache, il n'est pas ici.**
+
+**autant que je sache** означає приблизно «наскільки мені відомо».
+
+У:
+
+> **Autant que possible**
+
+значення — «наскільки можливо».
+
+Такі конструкції треба розпізнавати цілісно, а не трактувати **autant** як звичайне кількісне порівняння.
+
+## 9. Autant... autant...
+
+Французьке **autant... autant...** може встановлювати паралель між двома аспектами:
+
+> **Autant il est calme, autant son frère est impatient.**
+
+Це не просто конструкція **autant de + nom**. Вона корелює два твердження.
+
+У літературному або риторично організованому тексті така конструкція може бути способом симетричного зіставлення.
+
+## 10. Autant pour moi
+
+Вислів:
+
+> **Autant pour moi.**
+
+уживається як формула визнання власної помилки, приблизно «моя помилка / беру свої слова назад».
+
+Його не слід аналізувати як звичайне **autant de** з іменником.
+
+## 11. Davantage та заперечення
+
+Не плутайте:
+
+> **Il ne travaille plus.**
+
+з:
+
+> **Il ne travaille pas davantage.**
+
+Перше означає, що він більше не працює / припинив працювати.
+
+Друге заперечує додаткову або більшу міру: залежно від контексту — «не працює більше», «не працює більшою мірою».
+
+Тому позиція **plus** і **davantage** у реченні має аналізуватися разом із системою заперечення.
+
+## 12. Davantage et de plus
+
+**davantage** та **de plus** не є повними взаємозамінними синонімами.
+
+> **Il travaille davantage.**
+
+означає більшу міру роботи.
+
+> **Il travaille deux heures de plus.**
+
+означає додаткові дві години порівняно з базовим значенням.
+
+**de plus** може також бути дискурсивним зв'язком зі значенням «крім того»:
+
+> **De plus, cette solution est coûteuse.**
+
+Тут немає кількісного comparatif.
+
+## 13. Davantage vs plus de
+
+Порівняйте:
+
+> **Il faut davantage de temps.**
+
+> **Il faut plus de temps.**
+
+У багатьох нейтральних контекстах значення практично збігається.
+
+Але:
+
+> **Il est davantage intéressé par cette question.**
+
+і:
+
+> **Il est plus intéressé par cette question.**
+
+обидві форми можливі, але стилістична й семантична організація речення може відрізнятися. Вибір залежить від контексту та бажаного регістру.
+
+## 14. Українсько-французький контраст
+
+Українське **стільки ж** найчастіше потребує **autant**:
+
+> **стільки ж часу** → **autant de temps**
+
+> **працює стільки ж** → **travaille autant**
+
+Українське **більше** може відповідати **plus** або **davantage**:
+
+> **працює більше** → **travaille plus / travaille davantage**
+
+> **більше часу** → **plus de temps / davantage de temps**
+
+Але якщо українське **більше** є частиною іншої конструкції, наприклад «більший», потрібен уже **plus + adjectif**, а не **davantage**:
+
+> **більший будинок** → **une maison plus grande**
+
+## 15. Діагностичний алгоритм
+
+1. Якщо значення — **рівна міра** → перевірте **autant**.
+2. Якщо значення — **більша міра** → перевірте **plus / davantage**.
+3. Якщо після форми стоїть іменник → для рівності **autant de + nom**, для більшої кількості **plus de / davantage de + nom**.
+4. Якщо порівнюється прикметник → **plus / aussi / moins + adjectif**; **davantage** тут не замінює **plus**.
+5. Якщо порівнюється прислівник → **plus / aussi / moins + adverbe**.
+6. Якщо порівнюється загальна міра дії → **plus / moins / autant**, а для більшої міри часто **davantage**.
+7. Перевірте, чи **autant que** не є іншою цілісною конструкцією, як **autant que possible** або **autant que je sache**.
+8. Перевірте, чи **de plus** не є дискурсивним «крім того».
+
+## Практична таблиця
+
+| Значення | Нормативна модель | Приклад |
+|---|---|---|
+| рівна міра дії | **autant que** | **travaille autant que moi** |
+| рівна кількість | **autant de + nom** | **autant de temps que moi** |
+| більша міра дії | **plus que / davantage que** | **travaille davantage que moi** |
+| більша кількість | **plus de / davantage de + nom** | **davantage de temps** |
+| більший прикметник | **plus + adjectif** | **plus grand** |
+| рівний прикметник | **aussi + adjectif** | **aussi grand** |
+| більша міра прислівника | **plus + adverbe** | **plus rapidement** |
+| рівна міра прислівника | **aussi + adverbe** | **aussi rapidement** |
+
+## Вправи
+
+1. **Il travaille ___ que moi.**  
+   a) autant b) aussi
+
+2. **Il a ___ de temps que moi.**  
+   a) autant b) aussi
+
+3. **Elle travaille ___.**  
+   a) davantage b) davantage de
+
+4. **Elle a ___ de temps.**  
+   a) davantage b) davantage de
+
+5. **Il est ___ grand que son frère.**  
+   a) davantage b) plus
+
+6. **Autant que je ___, il viendra demain.**  
+   a) sache b) sais
+
+7. **Il travaille ___ que moi.**  
+   a) davantage b) autant
+
+8. **Il faut ___ de temps.**  
+   a) davantage b) davantage de
+
+**Відповіді:** 1 **autant**; 2 **autant**; 3 **davantage**; 4 **davantage de**; 5 **plus**; 6 **sache**; 7 залежно від значення: **davantage** = більше, **autant** = стільки ж; 8 **davantage de**.
