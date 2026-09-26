@@ -80,7 +80,7 @@
 Спільна модель підтримує variety, register, spoken/written, regional, formal/informal, normative/descriptive distinction. Конкретний набір варіантів є мовоспецифічним.
 
 ## 9. Таксономія
-Категорія відповідає на «до якої системи належить явище?». CEFR/depth — «наскільки складною є тема для засвоєння?». Регіон, реєстр і L1-контраст не повинні бути змішані з граматичною категорією.
+Категорія відповідає на питання «до якої системи належить явище?». CEFR і depth описують складність теми для засвоєння, а не її місце в граматичній системі. Регіон, реєстр і L1-контраст є окремими metadata dimensions: вони описують варіантність, комунікативний контекст і контраст із першою мовою та тому не повинні ставати альтернативними значеннями поля category. Такий поділ дає змогу одночасно будувати стабільну навігацію за граматичною системою й фільтрувати матеріал за навчальними та мовними властивостями без змішування різних осей.
 
 Рекомендовані домени: foundations; phonology/pronunciation; orthography; nouns; adjectives; determiners/articles; pronouns; verbs; tense/aspect/mood; non-finite forms; prepositions/government/valency; sentence syntax; coordination/subordination; negation; questions; passive/impersonal/reflexive systems; discourse/information structure; word formation; pragmatics; variation; contrastive topics.
 
