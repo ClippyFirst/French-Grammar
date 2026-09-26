@@ -41,6 +41,7 @@ reviewed_at: "2026-09-25"
 formula: true
 toc: true
 featured: false
+canonical_ids: ["FR-030"]
 ---
 
 # Liaison
