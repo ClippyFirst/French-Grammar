@@ -6,6 +6,7 @@ title_uk: "Lequel після прийменника"
 title_fr: "Lequel après une préposition"
 description_uk: "Довідкова стаття про lequel після прийменника у французькій."
 canonical_ids:
+  - FR-203
   - FR-500
 prerequisites:
   - relative-pronouns
