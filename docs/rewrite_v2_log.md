@@ -1354,7 +1354,7 @@ FR-578 (mille / million / milliard) у цьому batch не дублювавс�
 
 - FR-575 — **43 findings**
 - FR-576 — **41 findings**
-- FR-577 — **30 findings**
+- FR-577 — **29 findings**
 - FR-579 — **48 findings**
 - FR-580 — **42 findings**
 - FR-581 — **49 findings**
