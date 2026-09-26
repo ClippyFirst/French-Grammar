@@ -1,7 +1,7 @@
 ---
-title_uk: "Невизначена кількість"
-title_fr: "Невизначена кількість"
-description_uk: "Невизначену кількість у французькій передають кількісні детермінативи та займенники: **un peu de, beaucoup de, plusieurs, certains, quelques, aucun** тощо. Вибір залежить від того, чи йдеться про малу, велику, обмежену або нульову кількість."
+title_uk: "Невизначена кількість: quelques, plusieurs, beaucoup, peu"
+title_fr: "La quantité indéfinie"
+description_uk: "Системна довідка про невизначену кількість у французькій: quelques, plusieurs, certains, beaucoup de, peu de, un peu de, aucun."
 canonical_ids: ["FR-571"]
 level: B1
 category: quantification
@@ -20,50 +20,165 @@ reviewed_at: "2026-09-26"
 
 ## Швидка відповідь
 
-Невизначену кількість у французькій передають кількісні детермінативи та займенники: **un peu de, beaucoup de, plusieurs, certains, quelques, aucun** тощо. Вибір залежить від того, чи йдеться про малу, велику, обмежену або нульову кількість.
+Невизначена кількість не називає точного числа. Французька розрізняє кілька моделей:
 
-### Основні моделі
+- **quelques + nom pluriel** — кілька;
+- **plusieurs + nom pluriel** — декілька / кілька;
+- **certains/certaines + nom pluriel** — деякі;
+- **beaucoup de + nom** — багато;
+- **peu de + nom** — мало;
+- **un peu de + nom** — трохи;
+- **aucun/aucune + nom singulier** — жоден / жодна.
 
-**quelques + nom pluriel**: *quelques questions* — кілька запитань.
+Головне — не змішувати слова, які безпосередньо визначають іменник, із кількісними прислівниками, що керують ним через **de**.
 
-**plusieurs + nom pluriel**: *plusieurs personnes* — кілька/декілька людей.
+## 1. Quelques
 
-**beaucoup de + nom**: *beaucoup de travail* — багато роботи.
+> *quelques minutes*
 
-**peu de + nom**: *peu de temps* — мало часу.
+> *quelques étudiants*
 
-**un peu de + nom**: *un peu de temps* — трохи часу.
+**Quelques** вживається з множиною та без *de*.
 
-**aucun/aucune + nom singulier**: *aucune solution* — жодного рішення.
+У типових нейтральних контекстах воно передає невелику невизначену кількість:
 
-### Quelques і plusieurs
+> *J'ai quelques questions.*
 
-*Quelques étudiants sont arrivés.* — Кілька студентів прийшли.
+Не утворюйте **quelques de questions*.
 
-*Plusieurs étudiants sont arrivés.* — Декілька студентів прийшли.
+## 2. Plusieurs
 
-Обидва слова вказують на невизначену кількість, але *plusieurs* зазвичай позначає множинність виразніше, тоді як *quelques* часто передає невелику кількість.
+> *plusieurs raisons*
 
-### Кількість без точної цифри
+> *plusieurs personnes*
 
-Невизначені кількісні слова не повідомляють конкретного числа: *beaucoup de gens*, *quelques minutes*, *plusieurs raisons*.
+**Plusieurs** також безпосередньо стоїть перед іменником множини.
 
-### Важлива синтаксична відмінність
+Порівняння:
 
-*Quelques* і *plusieurs* безпосередньо стоять перед іменником; *beaucoup, peu, assez, trop* зазвичай вимагають **de**: *beaucoup de livres, trop de travail*.
+> *quelques raisons*
 
-### Висновок
+> *plusieurs raisons*
 
-Для правильної конструкції спочатку визнач тип кількості, а потім перевір, чи слово керує **іменником безпосередньо** (*quelques, plusieurs*) або через **de** (*beaucoup de, peu de, trop de*).
+Обидва вирази позначають невизначену множину, але *quelques* часто сприймається як менша або обмеженіша кількість, тоді як *plusieurs* виразніше підкреслює множинність.
+
+Це тенденція значення, а не точна математична межа.
+
+## 3. Certains / certaines
+
+**Certains/certaines** може визначати підгрупу:
+
+> *certaines personnes*
+
+> *certains problèmes*
+
+Форма узгоджується з іменником.
+
+> *Certains sont partis.*
+
+У займенниковому вживанні іменник може бути опущений, але форма все одно має відповідну граматичну характеристику.
+
+## 4. Beaucoup de, peu de, un peu de
+
+Ці конструкції мають іншу будову:
+
+> *beaucoup de travail*
+
+> *peu de temps*
+
+> *un peu d'eau*
+
+Тут **de/d'** пов'язує кількісний вираз з іменником.
+
+Порівняйте:
+
+> *quelques livres*
+
+> *beaucoup de livres*
+
+> *plusieurs livres*
+
+Тільки середній тип використовує *de*.
+
+## 5. Aucun / aucune
+
+> *aucune solution*
+
+> *aucun problème*
+
+У базовій конструкції **aucun/aucune** стоїть з іменником в однині.
+
+> *Aucune solution n'est disponible.*
+
+Це не просто «мала кількість», а значення відсутності жодного елемента. Тому не ставте *aucun* автоматично в одну групу з *quelques* лише тому, що всі вони є невизначеними детермінативами.
+
+## 6. Кількість і артикль
+
+Після кількісних виразів часто стоїть **de**:
+
+> *beaucoup de livres*
+
+> *peu d'argent*
+
+Але в конкретизованій множині можливе **de + les = des**:
+
+> *beaucoup des livres que tu as choisis*
+
+Отже, «після *beaucoup* завжди *de*» — корисне початкове правило, але не повний опис системи.
+
+## 7. Узгодження
+
+Узгодження залежить від самого детермінатива та іменника:
+
+> *quelques étudiants*
+
+> *certaines étudiantes*
+
+> *aucune étudiante*
+
+А *beaucoup* та *peu* не мають форм роду/числа, які треба узгоджувати з іменником.
+
+## 8. Український контраст
+
+Українське «кілька» може відповідати **quelques** або **plusieurs**, але вибір залежить від контексту:
+
+> кілька хвилин → *quelques minutes*;
+
+> кілька причин → *plusieurs raisons* можливе залежно від того, що хоче підкреслити мовце.
+
+Тому не встановлюйте жорстке правило «кілька = toujours quelques».
+
+## Типові помилки
+
+❌ **quelques de questions*
+
+✅ *quelques questions*
+
+❌ **plusieurs de personnes*
+
+✅ *plusieurs personnes*
+
+❌ **beaucoup livres*
+
+✅ *beaucoup de livres*
+
+❌ **aucuns solution*
+
+✅ *aucune solution*
 
 ## Практичний алгоритм
 
-1. Визнач, чи виражається точна, приблизна або невизначена кількість.
-2. Визнач граматичну категорію наступного слова.
-3. Перевір, чи керує кількісний елемент іменником через **de**.
-4. Перевір рід і число самого іменника та прикметників.
-5. Для *de/des* перевір, чи перед тобою кількісний оператор, чи звичайний детермінатив.
+1. Визнач, чи потрібна невелика, невизначена, велика або нульова кількість.
+2. Якщо слово безпосередньо визначає іменник, перевір *quelques/plusieurs/certains/aucun*.
+3. Якщо кількісний вираз вимагає зв'язки з іменником, перевір *de/d'*.
+4. Перевір число і рід детермінатива.
+5. Якщо група конкретизована, перевір, чи *des* є злиттям *de + les*.
 
-## Підсумок
+## Мінітест
 
-Кількісні конструкції французької не можна надійно перекладати буквально. Правильний вибір визначається синтаксичною моделлю всієї іменникової групи.
+1. *J'ai ___ questions.*  
+2. *Il reste ___ temps.*  
+3. *___ personnes sont venues.*  
+4. *Il n'existe ___ solution.*
+
+Можливі відповіді: **1 quelques/plusieurs, 2 peu de/un peu de, 3 plusieurs/certaines, 4 aucune** — вибір залежить від значення.
