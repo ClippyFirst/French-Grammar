@@ -31,6 +31,7 @@ tags:
   - h-aspire
   - elision
   - liaison
+canonical_ids: ["FR-033", "FR-034"]
 ---
 
 ## Швидка відповідь
