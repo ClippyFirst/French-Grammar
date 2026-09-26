@@ -6,7 +6,7 @@ title_uk: "Мета: exprimer le but"
 title_fr: "Exprimer le but"
 description_uk: "Довідкова стаття про способи вираження мети у сучасній французькій."
 canonical_ids:
-  - FR-161
+  - FR-480
 prerequisites:
   - phrase-enonce
   - sentence-structure
