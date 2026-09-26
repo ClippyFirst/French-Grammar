@@ -6,6 +6,7 @@ category: prepositions
 order: 1
 related: [prepositions-de, prepositions-place, prepositions-time, pronouns-coi, pronoun-order, contracted-articles]
 tags: [прийменники, à, керування, COD, COI]
+canonical_ids: ["FR-238"]
 ---
 
 # Прийменник **à**
