@@ -1,6 +1,6 @@
 ---
 import { getCollection, render } from 'astro:content';
-import { relatedFor } from '../../../lib/pages.mjs';
+import { relatedFor, slugFromId } from '../../../lib/pages.mjs';
 import { canonicalCategory } from '../../../data/categories.mjs';
 import MarkdownPage from '../../../layouts/MarkdownPage.astro';
 
@@ -9,7 +9,7 @@ export async function getStaticPaths() {
   return all.map((entry) => ({
     params: {
       category: canonicalCategory(entry.data.category),
-      topic: entry.id.replace(/\.(md|mdx)$/, ''),
+      topic: slugFromId(entry.id),
     },
     props: { entry, allEntries: all },
   }));
