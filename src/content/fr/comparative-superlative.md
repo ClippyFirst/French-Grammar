@@ -1250,3 +1250,304 @@ featured: false
    a) davantage b) davantage de
 
 **Відповіді:** 1 **autant**; 2 **autant**; 3 **davantage**; 4 **davantage de**; 5 **plus**; 6 **sache**; 7 залежно від значення: **davantage** = більше, **autant** = стільки ж; 8 **davantage de**.
+
+
+# FR-563 — meilleur et mieux
+
+## 1. Дві різні частини мови
+
+**meilleur** і **mieux** обидва пов'язані з ідеєю «краще», але вони не є взаємозамінними.
+
+- **meilleur** — форма порівняння прикметника **bon**;
+- **mieux** — форма порівняння прислівника **bien**.
+
+Порівняйте:
+
+> **Ce livre est meilleur que l'autre.**
+
+> **Il travaille mieux que moi.**
+
+У першому випадку оцінюється іменник через прикметник; у другому — спосіб виконання дії.
+
+## 2. Meilleur як прикметник
+
+**Meilleur** узгоджується з означуваним іменником за родом і числом:
+
+> **un meilleur résultat**
+
+> **une meilleure solution**
+
+> **de meilleurs résultats**
+
+> **de meilleures solutions**
+
+Форми:
+
+| Рід і число | Форма |
+|---|---|
+| чоловічий однина | **meilleur** |
+| жіночий однина | **meilleure** |
+| чоловічий множина | **meilleurs** |
+| жіночий множина | **meilleures** |
+
+Це принципово відрізняє **meilleur** від незмінного прислівника **mieux**.
+
+## 3. Meilleur + que
+
+Порівняння якості часто оформлюється моделлю:
+
+> **meilleur + que**
+
+> **Cette méthode est meilleure que l'ancienne.**
+
+> **Ses résultats sont meilleurs que les miens.**
+
+**Que** вводить другий полюс порівняння. Якщо контекст його вже зрозумілий, порівняння може бути неповним:
+
+> **Cette solution est meilleure.**
+
+Тут **meilleure** означає «краща [за певним уже зрозумілим критерієм]».
+
+## 4. Mieux як прислівник
+
+**Mieux** є прислівниковою формою і не узгоджується:
+
+> **Elle chante mieux.**
+
+> **Ils chantent mieux.**
+
+> **Nous travaillons mieux ensemble.**
+
+Не *meilleure* і не *meilleurs* у цій функції.
+
+Якщо **mieux** характеризує дію, воно зазвичай відповідає на питання «як? наскільки добре?».
+
+## 5. Mieux que
+
+Для порівняння способу виконання дії використовується:
+
+> **mieux que + groupe comparé**
+
+> **Il explique mieux que moi.**
+
+> **Elle comprend mieux que son collègue.**
+
+> **Nous travaillons mieux qu'avant.**
+
+Це не означає, що **mieux** завжди буквально перекладається одним українським словом. Головне — його функція в реченні: воно порівнює якість або спосіб дії.
+
+## 6. Être meilleur vs être mieux
+
+Після **être** можливі обидві форми, але вони належать до різних структур.
+
+> **Ce restaurant est meilleur.**
+
+Тут **meilleur** — прикметник, який характеризує підмет.
+
+> **C'est mieux ainsi.**
+
+Тут **mieux** оцінює ситуацію, спосіб організації або стан речей загалом.
+
+Особливо природна конструкція:
+
+> **C'est mieux de partir maintenant.**
+
+Тут **mieux** не узгоджується з **c'**.
+
+## 7. C'est meilleur vs c'est mieux
+
+Різницю можна побачити на мінімальних парах:
+
+> **Cette soupe est meilleure.**
+
+→ оцінюється суп як продукт.
+
+> **Manger cette soupe froide, c'est mieux.**
+
+→ оцінюється варіант дії або ситуація.
+
+Але межа залежить від структури висловлення. Не можна визначати вибір лише за наявністю **être**: потрібно встановити, чи слово є прикметником до іменного компонента, чи прислівниковим оцінюванням ситуації.
+
+## 8. Meilleur + nom
+
+Перед іменником **meilleur** поводиться як звичайний прикметник:
+
+> **le meilleur choix**
+
+> **la meilleure option**
+
+> **les meilleurs résultats**
+
+> **les meilleures conditions**
+
+У конструкціях без артикля також можливе:
+
+> **de meilleurs résultats**
+
+Вибір детермінатива визначається не самим **meilleur**, а всією іменною групою.
+
+## 9. Le meilleur — суперлатив
+
+**Le meilleur / la meilleure / les meilleurs / les meilleures** — це суперлатив від **bon**.
+
+> **C'est le meilleur résultat de l'année.**
+
+> **Elle est la meilleure candidate du groupe.**
+
+> **Ce sont les meilleures conditions possibles.**
+
+На відміну від **mieux**, форма **meilleur** тут узгоджується.
+
+## 10. Le mieux — суперлатив від bien
+
+Відповідний суперлатив до **bien** — **le mieux**:
+
+> **C'est lui qui travaille le mieux.**
+
+> **Cette méthode fonctionne le mieux.**
+
+> **Faites ce qui vous convient le mieux.**
+
+**Le mieux** не узгоджується з родом чи числом, коли воно має прислівникову функцію.
+
+Порівняйте:
+
+> **la meilleure méthode** — найкращий метод;
+
+> **la méthode qui fonctionne le mieux** — метод, який працює найкраще.
+
+## 11. Meilleur que vs mieux que
+
+Найкорисніший практичний тест — знайти слово, яке **meilleur / mieux** характеризує.
+
+Якщо це **іменник** або іменна група → **meilleur**:
+
+> **un meilleur résultat que le précédent**
+
+Якщо це **дія / процес / спосіб** → **mieux**:
+
+> **un résultat obtenu mieux que prévu**
+
+У складних реченнях межа може бути неочевидною, тому варто реконструювати синтаксичну структуру, а не перекладати «краще» механічно.
+
+## 12. Plus bon і meilleur
+
+Для звичайного порівняння **bon** має нерегулярну порівняльну форму **meilleur**:
+
+> **Cette solution est meilleure.**
+
+Форма **plus bon** не є стандартною заміною **meilleur** у цьому значенні.
+
+Водночас **plus bon** може траплятися в спеціальних або стилістично маркованих контекстах, де **plus** має не функцію звичайного компаратива якості або де автор навмисно зберігає позитивну форму. Для нейтрального навчального вжитку потрібно засвоїти **bon → meilleur → le meilleur**.
+
+## 13. Bien → mieux → le mieux
+
+Корисна парадигма:
+
+> **bien** → **mieux** → **le mieux**
+
+> **bon** → **meilleur** → **le meilleur**
+
+Ці ряди не можна змішувати.
+
+| Базова форма | Порівняльна | Суперлатив |
+|---|---|---|
+| **bon** | **meilleur** | **le meilleur** |
+| **bien** | **mieux** | **le mieux** |
+
+## 14. Можливе посилення: beaucoup mieux
+
+**Mieux** може модифікуватися словами міри:
+
+> **beaucoup mieux**
+
+> **nettement mieux**
+
+> **bien mieux**
+
+> **beaucoup meilleur** не є симетричною заміною в усіх контекстах.
+
+Для прикметникового **meilleur** можливі інші конструкції інтенсивності, але вибір залежить від синтаксичної структури та стилю. Тому не варто переносити будь-який модифікатор із **mieux** на **meilleur** автоматично.
+
+## 15. Meilleur / mieux у запереченні
+
+Заперечення не змінює базового розрізнення:
+
+> **Cette solution n'est pas meilleure.**
+
+> **Il ne travaille pas mieux.**
+
+Але значення всього висловлення залежить від того, що саме заперечується: якість предмета чи порівняльна міра дії.
+
+## 16. Українсько-французький контраст
+
+Українське **кращий** найчастіше відповідає **meilleur**:
+
+> **кращий результат** → **un meilleur résultat**
+
+> **краща відповідь** → **une meilleure réponse**
+
+Українське **краще** може відповідати **mieux**, якщо йдеться про дію:
+
+> **він працює краще** → **il travaille mieux**
+
+але **краще рішення** → **une meilleure solution**.
+
+Це одна з найважливіших асиметрій для україномовного учня: українська форма **краще** може бути прислівником, тоді як французька потребує прикметникового **meilleur**, якщо оцінюється іменник.
+
+## 17. Діагностичний алгоритм
+
+1. Знайдіть значення «добрий» або «добре».
+2. Якщо воно характеризує іменник → базовою формою є **bon**, у порівнянні **meilleur**.
+3. Якщо воно характеризує дію або спосіб → базовою формою є **bien**, у порівнянні **mieux**.
+4. Перевірте узгодження: **meilleur** змінюється за родом і числом, **mieux** — ні.
+5. Для суперлатива іменної якості → **le meilleur / la meilleure / les meilleurs / les meilleures**.
+6. Для найвищої міри способу дії → **le mieux**.
+7. Не замінюйте автоматично українське «краще» на **mieux**: спочатку визначте синтаксичну функцію.
+8. Перевірте, чи **plus bon** не використано замість нормативного нейтрального **meilleur**.
+
+## 18. Типові помилки
+
+❌ **Cette solution est mieux que l'autre.** — якщо порівнюється саме якість рішення як іменного об'єкта.
+
+✅ **Cette solution est meilleure que l'autre.**
+
+❌ **Il travaille meilleur que moi.**
+
+✅ **Il travaille mieux que moi.**
+
+❌ **une mieux solution**
+
+✅ **une meilleure solution**
+
+❌ **la mieux solution**
+
+✅ **la meilleure solution**
+
+## 19. Вправи
+
+1. **Cette méthode est ___ que l'ancienne.**  
+   a) meilleure b) mieux
+
+2. **Il travaille ___ que moi.**  
+   a) meilleur b) mieux
+
+3. **C'est la ___ solution.**  
+   a) meilleure b) mieux
+
+4. **C'est lui qui travaille le ___.**  
+   a) meilleur b) mieux
+
+5. **Elle a obtenu un ___ résultat.**  
+   a) meilleur b) mieux
+
+6. **La situation est ___.**  
+   a) meilleure b) mieux
+
+7. **Faites ce qui fonctionne le ___.**  
+   a) meilleur b) mieux
+
+8. **Il explique ___ qu'avant.**  
+   a) meilleur b) mieux
+
+**Відповіді:** 1 **meilleure**; 2 **mieux**; 3 **meilleure**; 4 **mieux**; 5 **meilleur**; 6 залежно від структури: **meilleure** при іменній характеристиці, **mieux** при оцінці ситуації; 7 **mieux**; 8 **mieux**.
