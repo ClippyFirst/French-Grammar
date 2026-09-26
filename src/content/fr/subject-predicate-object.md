@@ -6,7 +6,7 @@ title_uk: "Базовий порядок: підмет + дієслово + до
 title_fr: "Ordre de base : sujet + verbe + complément"
 description_uk: "Довідкова стаття про базовий порядок: підмет + дієслово + додаток у сучасній французькій."
 canonical_ids:
-  - FR-147
+  - FR-009
 prerequisites:
   - phrase-enonce
   - sentence-structure
