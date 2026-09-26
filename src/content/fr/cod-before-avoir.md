@@ -2,14 +2,14 @@
 title_uk: "COD перед avoir"
 title_fr: "Le COD placé avant avoir"
 description_uk: "Системне пояснення узгодження participe passé, коли прямий додаток стоїть перед формою avoir + participe passé."
-category: agreement
+category: "Узгодження"
 canonical_ids: ["FR-554"]
 prerequisites: ["past-participle-avoir-agreement"]
 related: ["subject-verb-agreement", "participle-agreement"]
 level: B2
 depth: high
 register: neutral
-variety: ["FR"]
+variety: [FR]
 status: review
 contrastive_uk: high
 sources:
@@ -20,6 +20,7 @@ reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+---
 
 ## Швидка відповідь
 
