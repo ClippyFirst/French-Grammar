@@ -2,7 +2,7 @@
 title_uk: "Екстракція та залежності на відстані"
 title_fr: "L'extraction et les dépendances à longue distance"
 description_uk: "Екстракція та залежності на відстані. Довідкова стаття про конструкцію та її контраст з українською."
-canonical_ids: ["FR-735"]
+canonical_ids: ["FR-688"]
 level: B2
 category: "Контрастивна граматика"
 register: neutral
