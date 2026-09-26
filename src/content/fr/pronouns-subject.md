@@ -37,6 +37,7 @@ sources:
 reviewed_at: "2026-09-25"
 formula: true
 toc: true
+canonical_ids: ["FR-139", "FR-140", "FR-141", "FR-142", "FR-143"]
 ---
 
 # Особові займенники-підмети
