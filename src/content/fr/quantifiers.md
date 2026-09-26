@@ -41,6 +41,7 @@ sources:
 reviewed_at: "2026-09-25"
 formula: true
 toc: true
+canonical_ids: ["FR-111", "FR-571", "FR-572", "FR-573", "FR-574"]
 ---
 
 # Кількісні звороти
