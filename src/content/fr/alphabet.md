@@ -10,6 +10,7 @@ related:
 tags:
   - alphabet
   - fundamentals
+canonical_ids: ["FR-017"]
 ---
 
 ## Швидко
