@@ -29,6 +29,7 @@ tags:
   - noun-gender
   - gender-patterns
   - morphology
+canonical_ids: ["FR-061"]
 ---
 
 ## Швидка відповідь
