@@ -2,12 +2,12 @@
 title_uk: "Присвійність, означений артикль і назви одягу"
 title_fr: "La possession, l'article défini et les vêtements"
 description_uk: "Присвійність, означений артикль і назви одягу. Довідкова стаття про конструкцію та її контраст з українською."
-canonical_ids: ["FR-727"]
+canonical_ids: []
 level: B2
 category: "Контрастивна граматика"
 register: neutral
 variety: [FR]
-status: review
+status: deprecated
 contrastive_uk: high
 formula: true
 toc: true
