@@ -9,11 +9,11 @@ const outputPath = path.join(root, 'docs', 'canonical_topic_article_matrix.md');
 const tick = String.fromCharCode(96);
 
 function parseFrontmatter(source) {
-  const match = source.match(/^---\\r?\\n([\\s\\S]*?)\\r?\\n---/);
+  const match = source.match(/^---\r?\n([\s\\S]*?)\r?\n---/);
   return match ? match[1] : '';
 }
 function field(frontmatter, name) {
-  const match = frontmatter.match(new RegExp('^' + name + ':\\\\s*(.*)$', 'm'));
+  const match = frontmatter.match(new RegExp('^' + name + ':\\\s*(.*)$', 'm'));
   return match ? match[1].trim().replace(/^['\"]|['\"]$/g, '') : '';
 }
 
@@ -21,9 +21,9 @@ const catalogSource = fs.readFileSync(taxonomyPath, 'utf8');
 const catalogIds = parseCatalogIds(catalogSource);
 const catalog = new Map(catalogIds.map((id) => [id, { id, articles: [] }]));
 
-for (const name of fs.readdirSync(contentDir).filter((n) => /\\.mdx?$/.test(n)).sort()) {
+for (const name of fs.readdirSync(contentDir).filter((n) => /\.mdx?$/.test(n)).sort()) {
   const source = fs.readFileSync(path.join(contentDir, name), 'utf8');
-  const article = { path: 'src/content/fr/' + name, slug: name.replace(/\\.mdx?$/, ''), title: field(parseFrontmatter(source), 'title_uk'), status: parseStatus(source) ?? 'unknown' };
+  const article = { path: 'src/content/fr/' + name, slug: name.replace(/\.mdx?$/, ''), title: field(parseFrontmatter(source), 'title_uk'), status: parseStatus(source) ?? 'unknown' };
   for (const id of parseCanonicalIds(source)) if (catalog.has(id)) catalog.get(id).articles.push(article);
 }
 
@@ -32,7 +32,7 @@ const covered = rows.filter((r) => r.articles.length);
 const missing = rows.filter((r) => !r.articles.length);
 const duplicate = rows.filter((r) => r.articles.length > 1);
 const deprecated = rows.filter((r) => r.articles.some((a) => a.status === 'deprecated'));
-const esc = (v) => String(v ?? '').replaceAll('|', '\\\\|').replaceAll('\\n', ' ');
+const esc = (v) => String(v ?? '').replaceAll('|', '\\\\|').replaceAll('\n', ' ');
 const links = (articles) => articles.length ? articles.map((a) => '[' + esc(a.title || a.slug) + '](../' + a.path.replace(/^src\\//, '') + ')' + (a.status === 'deprecated' ? ' [deprecated]' : '')).join('<br>') : '—';
 
 const lines = [
@@ -51,5 +51,5 @@ const lines = [
   '## Missing', '', ...(missing.length ? missing.map((r) => '- ' + tick + r.id + tick) : ['—']), '',
   '## Duplicate mappings', '', ...(duplicate.length ? duplicate.map((r) => '- ' + tick + r.id + tick + ' → ' + r.articles.map((a) => tick + a.slug + tick).join(', ')) : ['—']), ''
 ];
-fs.writeFileSync(outputPath, lines.join('\\n') + '\\n');
+fs.writeFileSync(outputPath, lines.join('\n') + '\n');
 console.log('Wrote ' + outputPath);
