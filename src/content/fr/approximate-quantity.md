@@ -1,7 +1,7 @@
 ---
 title_uk: "Приблизна кількість"
-title_fr: "Приблизна кількість"
-description_uk: "Приблизну кількість французькою можна виражати словами **environ, à peu près, quelque, une vingtaine de, une trentaine de** та іншими конструкціями, що свідомо не подають точного числа."
+title_fr: "La quantité approximative"
+description_uk: "Системний довідник про environ, à peu près, quelque та конструкції une dizaine/vingtaine/centaine de для вираження приблизної кількості."
 canonical_ids: ["FR-572"]
 level: B1
 category: quantification
@@ -20,56 +20,174 @@ reviewed_at: "2026-09-26"
 
 ## Швидка відповідь
 
-Приблизну кількість французькою можна виражати словами **environ, à peu près, quelque, une vingtaine de, une trentaine de** та іншими конструкціями, що свідомо не подають точного числа.
+Французька має кілька різних способів виразити приблизну кількість:
 
-### Приблизне число
+- **environ + nombre**: *environ cinquante personnes*;
+- **à peu près + nombre**: *à peu près cinquante personnes*;
+- **quelque + nombre**: *quelque cinquante personnes*;
+- **une dizaine/vingtaine/centaine de + nom**: *une vingtaine de personnes*.
 
-*environ vingt personnes* — приблизно двадцять людей.
+Усі вони позначають приблизність, але їхня синтаксична структура й стилістичний ефект не однакові.
 
-*à peu près cent euros* — приблизно сто євро.
+## 1. Environ
 
-*une vingtaine de personnes* — близько двадцяти людей.
+*Environ* — прислівниковий елемент приблизності:
 
-*une trentaine de pages* — близько тридцяти сторінок.
+> *environ vingt personnes*
 
-### Environ і à peu près
+> *environ trois heures*
 
-*Environ* безпосередньо пов'язується з числовою величиною: *environ 50 kilomètres*.
+> *environ 50 kilomètres*
 
-*À peu près* також означає приблизність: *à peu près 50 kilomètres*. У нейтральному мовленні обидві форми поширені.
+Він стоїть безпосередньо біля числової величини, яку приблизно визначає.
 
-### Відмінність від кількісних слів
+Порівняй:
 
-*Beaucoup de personnes* — багато людей, без числового орієнтира.
+> *environ vingt personnes* — приблизно двадцять людей;
 
-*Environ cinquante personnes* — приблизно п'ятдесят людей, тобто задано числову точку відліку.
+> *beaucoup de personnes* — багато людей.
 
-### Десятки як приблизна кількість
+У другому випадку немає конкретної числової точки відліку.
 
-*Une dizaine de* — близько десяти.
+## 2. À peu près
 
-*Une vingtaine de* — близько двадцяти.
+*À peu près* також означає приблизність:
 
-*Une centaine de* — близько ста.
+> *à peu près cent euros*
 
-Ці конструкції зберігають іменник після **de**: *une vingtaine de livres*.
+> *à peu près deux heures*
 
-### Типова помилка
+Воно може бути особливо природним у нейтральному мовленні й не змінюється за родом чи числом.
 
-Не плутай *environ* із *environs*: у значенні «приблизно» вживається **environ**.
+> *à peu près vingt personnes*
 
-### Висновок
+## 3. Quelque + числівник
 
-Для приблизної кількості використовуй **environ/à peu près + число** або **une dizaine/vingtaine/centaine de + nom**. Конструкція має показувати саме приблизність, а не просто невелику чи велику кількість.
+**Quelque** перед числівником може означати «приблизно»:
 
-## Практичний алгоритм
+> *quelque mille personnes*
 
-1. Визнач, чи виражається точна, приблизна або невизначена кількість.
-2. Визнач граматичну категорію наступного слова.
-3. Перевір, чи керує кількісний елемент іменником через **de**.
-4. Перевір рід і число самого іменника та прикметників.
-5. Для *de/des* перевір, чи перед тобою кількісний оператор, чи звичайний детермінатив.
+> *quelque dix kilomètres*
+
+Тут *quelque* має прислівникову функцію і **не узгоджується**.
+
+Не плутай із прикметниковим *quelque*:
+
+> *quelques personnes* — кілька людей;
+
+> *quelque mille personnes* — приблизно тисяча людей.
+
+Це різні конструкції.
+
+## 4. Une dizaine de, une vingtaine de, une trentaine de
+
+Конструкції з **-aine** виражають приблизну кількість навколо певного круглого числа:
+
+> *une dizaine de personnes* — близько десяти;
+
+> *une vingtaine de pages* — близько двадцяти;
+
+> *une trentaine d'étudiants* — близько тридцяти;
+
+> *une centaine de personnes* — близько ста.
+
+Після них стоїть **de + nom**:
+
+> *une vingtaine de livres*.
+
+Це відрізняється від *environ vingt livres*, хоча обидві конструкції можуть описувати близьку кількість.
+
+## 5. Десятки та конкретна приблизність
+
+Порівняй:
+
+> *environ vingt personnes*
+
+> *une vingtaine de personnes*
+
+Перша конструкція починається від конкретного числа **20** і маркує його як приблизне.
+
+Друга називає кількісну групу «двадцяток» і теж означає приблизну кількість.
+
+Вибір залежить від того, чи мовцеві важливіша **числова точка**, чи **приблизний діапазон**.
+
+## 6. Приблизність ≠ невизначена кількість
+
+Це важливе семантичне розрізнення.
+
+> *environ cinquante personnes*  
+> приблизно п'ятдесят людей.
+
+> *quelques personnes*  
+> кілька людей.
+
+> *beaucoup de personnes*  
+> багато людей.
+
+У першому випадку є числова оцінка. У другому й третьому точна числова точка не задається.
+
+## 7. Environ і environs
+
+Не плутай:
+
+> *environ cinquante personnes* — приблизно п'ятдесят людей.
+
+У значенні «приблизно» потрібне **environ**.
+
+*Environs* — іменникова форма зі значенням «околиця, навколишня місцевість» або в конструкції *les environs de...*:
+
+> *les environs de Paris* — околиці Парижа.
+
+## 8. Українсько-французький контраст
+
+Українське **приблизно** найчастіше передається *environ* або *à peu près*:
+
+> *приблизно 50 людей* → *environ cinquante personnes*.
+
+Українське **близько двадцяти** може відповідати:
+
+> *une vingtaine de personnes*;
+
+але також:
+
+> *environ vingt personnes*.
+
+Українське **кілька** — не те саме, що «приблизно»:
+
+> *quelques personnes* ≠ *quelque vingt personnes*.
+
+## Типові помилки
+
+❌ *environs vingt personnes*  
+✓ *environ vingt personnes*
+
+❌ *une vingtaine personnes*  
+✓ *une vingtaine de personnes*
+
+❌ *quelques vingt personnes* у значенні «приблизно двадцять»  
+✓ *quelque vingt personnes*.
+
+❌ автоматично перекладати *beaucoup* як «приблизно багато»  
+✓ *beaucoup* виражає невизначено велику кількість, не приблизне число.
+
+## Алгоритм
+
+1. Визнач, чи є конкретна числова точка.
+2. Якщо так, використай **environ / à peu près + nombre**.
+3. Для стилістично компактної конструкції з округленою кількістю — **une dizaine/vingtaine/centaine de + nom**.
+4. Перед числівником *quelque* не узгоджуй.
+5. Не плутай приблизність із *quelques*, *beaucoup de*, *peu de*.
+
+## Мінітест
+
+1. «приблизно 50 км» → *___ cinquante kilomètres*.  
+2. «близько двадцяти студентів» → *une ___ d'étudiants*.  
+3. «приблизно тисяча людей» у книжнішій компактній конструкції → *___ mille personnes*.  
+4. «кілька студентів» → *___ étudiants*.  
+5. Чи є *environ cinquante* і *une cinquantaine de* повністю тотожними за структурою?
+
+**Відповіді:** 1 *environ / à peu près*; 2 *vingtaine*; 3 *quelque*; 4 *quelques*; 5 ні.
 
 ## Підсумок
 
-Кількісні конструкції французької не можна надійно перекладати буквально. Правильний вибір визначається синтаксичною моделлю всієї іменникової групи.
+Для приблизної кількості розрізняй **числову приблизність** (*environ, à peu près, quelque + nombre*) і **округлену кількісну групу** (*une vingtaine de*). Це допомагає уникати буквальних перекладів з української.
