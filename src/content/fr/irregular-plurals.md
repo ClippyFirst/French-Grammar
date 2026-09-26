@@ -29,6 +29,7 @@ tags:
   - plural
   - irregular-plurals
   - nouns
+canonical_ids: ["FR-069", "FR-070"]
 ---
 
 ## Швидка відповідь
