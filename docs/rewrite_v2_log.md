@@ -453,3 +453,117 @@ B11 переводить пояснення accord du participe passé від н
 Поточний branch містить **363 Markdown-статті** в `src/content/fr/`. Канонічний каталог має **740 topic ID**. Номінальна різниця — **377**, але це не є точним числом «тем, що залишилися»: один canonical topic може мати кілька статей, а одна стаття може покривати кілька topic ID. Точний remaining count потребує повного manifest mapping, який у репозиторії ще не завершений.
 
 Цей блок: **4 статті переписано**.
+
+
+## B13 — Canonical coverage expansion: FR-719–FR-740
+
+Ціль B13 — не просто збільшити кількість Markdown-файлів, а закрити останній доданий canonical block **FR-719–FR-740** без штучного дроблення тем.
+
+### Проведено аудит перед написанням
+
+Перевірено чинну гілку `content/reference-articles-2026-09-25`, canonical taxonomy та вже наявні сторінки. Виявлено, що значна частина нових IDs уже мала адекватне покриття:
+
+- FR-719 — `verbal-periphrases.md`;
+- FR-723 — `laisser-infinitive.md`;
+- FR-724 — `infinitive-control.md`;
+- FR-725 — `defective-verbs.md`;
+- FR-728 — `interrogative-adverbs.md`;
+- FR-729 — `exclamatives.md`;
+- FR-731 — `avoir-beau.md`;
+- FR-732 — `inclusive-writing.md`;
+- FR-733 — `phrase-enonce.md`;
+- FR-736 — `deixis.md`;
+- FR-737–FR-738 — `address-interjections.md`;
+- FR-739 — `prosody.md`.
+
+Тому нові статті створено лише там, де canonical topic ще не мав окремого достатнього вузла або де для coverage graph потрібна була явна сторінка.
+
+### Додано 8 нових статей
+
+1. `src/content/fr/movement-infinitive.md` — **FR-720**  
+   Дієслова руху + infinitif: futur proche проти повнозначного руху, мета, venir/partir/sortir/entrer, займенники та часовий аналіз.
+
+2. `src/content/fr/perception-infinitive.md` — **FR-721**  
+   Voir/entendre/écouter + infinitif, учасник інфінітивної дії, контраст із `que + forme finie`, займенники та зв'язок з accord du participe passé.
+
+3. `src/content/fr/faire-infinitive.md` — **FR-722**  
+   Каузативна конструкція `faire + infinitif`: каузатор, виконавець дії, невиражений agent, clitiques, часи та особливості `fait` перед infinitif.
+
+4. `src/content/fr/possession-body-clothes.md` — **FR-726 + FR-727**  
+   Спільний довідковий вузол для частин тіла та одягу: означений артикль, присвійність, pronominal verbs, контекстуальна референція та український контраст.
+
+5. `src/content/fr/nominal-utterances.md` — **FR-734**  
+   Бездієслівні, номінальні та еліптичні висловлення; фрагменти діалогу, відповіді, окличні моделі, усний контекст.
+
+6. `src/content/fr/extraction.md` — **FR-735**  
+   Extraction як надбудова над питаннями, relatives, cleft, довгими залежностями та іншими конструкціями; чітке розмежування extraction, inversion і dislocation.
+
+7. `src/content/fr/inversion.md` — **FR-730**  
+   Інверсія підмета поза вузьким правилом «це лише питання»: interrogatives, narrative inversion, postverbal subjects, `t euphonique`, register.
+
+8. `src/content/fr/spoken-disfluency.md` — **FR-740**  
+   Вагання, повтори, self-repair, reformulation, interruption, fillers і просодія в сучасному усному мовленні.
+
+### Методичний принцип
+
+Для canonical coverage використано правило самого taxonomy: topic може бути покритий окремою повноцінною статтею або явною секцією в іншій canonical article, якщо окрема сторінка не додає навчальної цінності.
+
+Особливо важливо, що **FR-726 + FR-727** об'єднано в одну статтю: обидві теми мають спільну граматичну вісь possession/determination, а штучне розділення погіршило б навігацію.
+
+### Academic Writing Toolkit QA
+
+Усі 8 нових сторінок перевірено через `review_paragraph_logic`.
+
+Інструмент генерує численні `short-paragraph` warnings для прикладів, формул, таблиць, тестових пунктів і коротких нормативних правил. Це вже встановлений false-positive pattern для структурованого grammar reference і не використовується як граматичний zero-warning gate.
+
+Концептуальну логіку сторінок перевірено редакційно: особлива увага до розмежування control / perception / causative infinitives, participant roles, extraction / inversion / dislocation та spoken-vs-written register.
+
+### Coverage milestone
+
+Після B13 canonical block **FR-719–FR-740 має явне покриття**:
+
+- FR-719 — наявний;
+- FR-720 — додано;
+- FR-721 — додано;
+- FR-722 — додано;
+- FR-723 — наявний;
+- FR-724 — наявний;
+- FR-725 — наявний;
+- FR-726–FR-727 — додано;
+- FR-728 — наявний;
+- FR-729 — наявний;
+- FR-730 — додано;
+- FR-731 — наявний;
+- FR-732 — наявний;
+- FR-733 — наявний;
+- FR-734 — додано;
+- FR-735 — додано;
+- FR-736 — наявний;
+- FR-737–FR-738 — наявний спільний вузол;
+- FR-739 — наявний;
+- FR-740 — додано.
+
+### Git commits
+
+- `6c463348d9c25c9bd6e7001edba1c7f4a7b80001` — movement-infinitive
+- `edb3719a17aa9cab87e900376aff2d55a2e6ff91` — perception-infinitive
+- `08ae2c12e6084e5706f7efcabc954224ba5adc00` — faire-infinitive
+- `5632da23f802b2e92f6fa187f2111104720f611c` — possession-body-clothes
+- `677c9466715c6fef0f4f96d6407ebca404aa2053` — nominal-utterances
+- `0ce69f722cb504d91ff1ca1219e9a842f12d2b09` — extraction
+- `4274b37939e1f61660f47a19f6a2f5a735e2e9de` — inversion
+- `56e2e7ec7277c9b8df759dc7d537beed46bebb80` — spoken-disfluency
+
+### Лічильник
+
+Було на початку B13: **363 Markdown-статті**.
+
+Додано: **8 нових Markdown-статей**.
+
+Після B13: **371 Markdown-стаття** у `src/content/fr/`.
+
+Canonical scope: **740 topic IDs**.
+
+Номінальна арифметична різниця `740 - 371 = 369` не є точним remaining count, оскільки repository допускає багато-to-one і one-to-many mapping між topic IDs та статтями. Для справжнього remaining count потрібен повний machine-readable manifest coverage, а не порівняння кількості файлів.
+
+**Окремий milestone:** останній canonical block **FR-719–FR-740 закрито coverage-рішеннями**.
