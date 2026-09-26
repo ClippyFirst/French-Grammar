@@ -1501,3 +1501,24 @@ B27 виконано на content/reference-articles-2026-09-25. Вісім ко
 ### Наступний крок
 
 Продовжити аудит коротких/слабких сторінок, щоразу перевіряючи canonical mapping і вже наявне тематичне покриття, щоб не створювати дублікати.
+
+
+## B28 — canonical gap coverage from qa-output.txt (2026-09-26)
+
+- Reviewed the repository's committed `qa-output.txt` and distinguished canonical audit gaps from actual missing Markdown files.
+- Important finding: the log is a **snapshot**, not a live inventory. Several IDs reported as missing in it (notably FR-609–FR-643) already have current Markdown files with explicit canonical IDs. They should not be duplicated.
+- Added **10 genuinely new canonical articles** from IDs appearing in the logged Missing list:
+  - FR-010 — `cod-coi-complements.md`
+  - FR-011 — `agreement-government.md`
+  - FR-012 — `definiteness-indefiniteness.md`
+  - FR-013 — `countability-mass.md`
+  - FR-014 — `grammatical-gender-number.md`
+  - FR-015 — `tense-aspect-mood-modality.md`
+  - FR-016 — `register-variation-parameters.md`
+  - FR-018 — `grapheme-phoneme.md`
+  - FR-019 — `vowels-consonants.md`
+  - FR-644 — `ne-deletion.md`
+- Current Markdown count therefore moves from the previously established 370 to **380**.
+- Academic Writing Toolkit paragraph-logic review was run on all 10 new files. Findings were exclusively `short-paragraph` heuristic warnings; no substantive paragraph-logic issue type was reported.
+- The batch intentionally did **not** create duplicates for FR-609–FR-643 or FR-728, because those IDs already have current files in the repository despite appearing in the older snapshot.
+- Local `npm run qa` was not executed by the assistant; build status after this batch still requires a fresh local run.
