@@ -47,6 +47,7 @@ reviewed_at: "2026-09-25"
 formula: true
 toc: true
 featured: true
+canonical_ids: ["FR-079", "FR-112"]
 ---
 
 # Déterminant
