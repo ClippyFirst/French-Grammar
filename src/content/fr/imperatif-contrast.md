@@ -2,7 +2,7 @@
 title_uk: "Impératif ↔ український наказовий спосіб"
 title_fr: "L'impératif français et l'impératif ukrainien"
 description_uk: "Impératif ↔ український наказовий спосіб. Контрастивна довідкова стаття про французькі та українські граматичні системи."
-canonical_ids: ["FR-709"]
+canonical_ids: ["FR-709", "FR-403", "FR-404"]
 level: B2
 category: "Контрастивна граматика"
 register: neutral
