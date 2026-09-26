@@ -20,6 +20,7 @@ formula: true
 toc: true
 featured: false
 
+---
 ## Швидка відповідь
 
 Дієслово узгоджується з **граматичним підметом** за особою та числом: *Je travaille*, *Tu travailles*, *Ils travaillent*, *Marie arrive*.
