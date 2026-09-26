@@ -32,7 +32,7 @@ const fr = defineCollection({
 
     // Canonical taxonomy identity. Multiple topic IDs are allowed when one
     // reference article intentionally covers several tightly coupled topics.
-    canonical_ids: z.array(z.string().regex(/^FR-\\d{3}$/)).default([]),
+    canonical_ids: z.array(z.string().regex(/^FR-\d{3}$/)).default([]),
 
     // Canonical graph relations.
     prerequisites: z.array(z.string()).default([]),
