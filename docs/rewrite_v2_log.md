@@ -410,3 +410,46 @@ B11 переводить пояснення accord du participe passé від н
 
 ### Наступний крок
 Провести cross-page audit усіх згадок `participe passé / accord / COD / COI / pronominal verbs`, щоб перевірити, що різні сторінки не містять старих спрощених правил.
+
+
+## B12 — Infinitive system: second-pass rewrite
+
+Опрацьовано чотири взаємопов’язані сторінки:
+- `src/content/fr/infinitive-after-verb.md`
+- `src/content/fr/infinitive-after-adjective.md`
+- `src/content/fr/infinitive-after-preposition.md`
+- `src/content/fr/infinitive-past.md`
+
+### Основний фокус
+
+- французьке керування `V + infinitif`, `V + à + infinitif`, `V + de + infinitif`;
+- розмежування валентності дієслова та семантичної функції прийменника;
+- спільний і відмінний виконавець інфінітивної дії;
+- контраст `infinitif` ↔ `que + особова форма`;
+- `adjectif + de/à + infinitif`, зокрема конструкції `facile/difficile à`;
+- безособове `il est + adjectif + de + infinitif`;
+- `pour/sans/avant de/après + infinitif`;
+- `après + infinitif passé` та відносна попередність;
+- вибір `avoir/être` і узгодження participe passé всередині infinitif passé;
+- український контраст без механічних відповідностей «український прийменник → французький прийменник».
+
+### Важливе методологічне рішення
+
+Інфінітив не пояснюється як «скорочене підрядне речення». У статтях окремо розведено форму, синтаксичну функцію, керування та кореференцію учасників.
+
+### Academic Writing Toolkit QA
+
+`review_paragraph_logic` застосовано до всіх чотирьох сторінок. Інструмент очікувано генерує багато `short-paragraph` попереджень через формули, приклади, таблиці та вправи. Це не використовується як граматичний zero-warning gate; логічні фрагменти перевірено редакційно.
+
+### Git commits
+
+- `infinitive-after-verb.md`: `1eb1a6b17ada7b1aeba74ac3cc8bfe85b2a47ad1`
+- `infinitive-after-adjective.md`: `8ea080af97865a9ef6a62903a723bc0a265ce1e6`
+- `infinitive-after-preposition.md`: `42817f15068ab8fe73714b4776c97842a7752079`
+- `infinitive-past.md`: `e3047c7198be00fa1203bfd30f07718bd9d41603`
+
+### Лічильник
+
+Поточний branch містить **363 Markdown-статті** в `src/content/fr/`. Канонічний каталог має **740 topic ID**. Номінальна різниця — **377**, але це не є точним числом «тем, що залишилися»: один canonical topic може мати кілька статей, а одна стаття може покривати кілька topic ID. Точний remaining count потребує повного manifest mapping, який у репозиторії ще не завершений.
+
+Цей блок: **4 статті переписано**.
