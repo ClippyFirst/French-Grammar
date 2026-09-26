@@ -1,71 +1,115 @@
 ---
-title_uk: "Participe passé з avoir"
-title_fr: "L’accord du participe passé avec avoir"
-description_uk: "Базове правило узгодження participe passé у складених часах із avoir та зв’язок із позицією прямого додатка."
-category: agreement
-canonical_ids: ["FR-553"]
-prerequisites: ["participe-passe"]
-related: ["subject-verb-agreement", "participle-agreement"]
+title_uk: "Узгодження participe passé ↔ українська система відмінювання"
+title_fr: "L'accord du participe passé et le système ukrainien"
+description_uk: "Контрастивний довідник про participe passé з avoir та українські відмінкові й дієслівні засоби."
+canonical_ids: ["FR-713"]
 level: B2
-depth: high
+category: "Контрастивна граматика"
 register: neutral
-variety: ["FR"]
+variety: [FR]
 status: review
 contrastive_uk: high
+formula: false
+toc: true
+featured: false
 sources:
   - "Grande Grammaire du français"
   - "French Grammar and Usage, 5th ed. (2025)"
-  - "Académie française — Questions de langue"
 reviewed_at: "2026-09-26"
-formula: true
-toc: true
-featured: false
+---
+
+# Узгодження participe passé ↔ українська система відмінювання
 
 ## Швидка відповідь
 
-З **avoir** базове правило таке: *participe passé* **не узгоджується з підметом**.
+Французьке узгодження *participe passé* — окрема граматична система. Український переклад минулого дієприкметника не дозволяє механічно передбачити французьке закінчення.
 
-*Marie a mangé.*  
-*Paul a mangé.*
+У складених часах із *avoir* базовий принцип такий: participe passé зазвичай не узгоджується з підметом, але може узгоджуватися з **попереднім прямим додатком** за певних умов.
 
-Але якщо прямий додаток (**COD**) стоїть **перед** *participe passé*, виникає узгодження з цим COD:
+> *J'ai vu Marie.*  
+> *Marie, je l'ai vue.*
 
-*Les lettres que Marie a écrites.*
+У другому реченні *vue* узгоджується з попереднім COD *l'*.
 
-## 1. COD після дієприкметника
+## 1. Чому українська може вводити в оману
 
-*Marie a écrit les lettres.*
+Українська має багату систему відмінювання та узгодження:
 
-COD *les lettres* стоїть після *écrit*, тому в цій базовій конструкції узгодження немає.
+> *Я бачив Марію.*  
+> *Марію я бачив.*
 
-## 2. COD перед дієприкметником
+Форма *бачив* не змінюється через жіночий COD у цій конструкції. Французька в:
 
-*Marie les a écrites.*
+> *Marie, je l'ai vue.*
 
-*les* = *les lettres*, тому *écrites* узгоджується з COD.
+має графічне *-e*, пов'язане з узгодженням participe passé.
 
-## 3. Займенник
+## 2. COD після avoir
 
-*Je les ai vus.*
+> *J'ai vu Marie.*
 
-Якщо *les* — прямий додаток і стоїть перед *ai vu*, дієприкметник узгоджується з його референтом.
+COD *Marie* стоїть після participe passé, тому базового узгодження з ним немає.
 
-## 4. Відносна конструкція
+> *J'ai vu les filles.*
 
-*Les lettres que Marie a écrites.*
+Не треба автоматично писати *vues* лише через жіночий рід COD після дієслова.
 
-*que* є COD дієслова *a écrit* і стоїть перед дієприкметником → *écrites*.
+## 3. COD перед participe passé
 
-## 5. Не плутай з être
+> *Les filles que j'ai vues.*
 
-*Marie est arrivée.*
+COD *que* стоїть перед participe passé й стосується *les filles*. Тому *vues* узгоджується з ним.
 
-Тут узгодження з підметом пов’язане з *être*.
+Це синтаксичне правило, а не правило перекладу.
 
-*Marie a écrit une lettre.*
+## 4. Клитика
 
-Тут *avoir* не викликає узгодження з підметом.
+> *Je les ai vus.*  
+> *Je les ai vues.*
 
-## Висновок
+Форма *les* сама не показує рід, але її антецедент визначає узгодження:
 
-Для *avoir* запам’ятай формулу: **підмет не керує узгодженням; попередній прямий додаток може його викликати**. Складніші випадки потребують окремого аналізу.
+> *les garçons* → *vus*  
+> *les filles* → *vues*
+
+## 5. Український відмінковий контраст
+
+Українська передає роль COD переважно відмінковою формою:
+
+> *я бачу дівчат* — знахідний.
+
+Французький COD не має такого відмінкового маркера, тому узгодження participe passé стає одним із формальних індикаторів структури.
+
+## 6. Не плутати з être
+
+> *Elle est arrivée.*
+
+Тут узгодження з підметом є іншою моделлю. FR-713 зосереджується на контрастивному розумінні узгодження, особливо в конструкціях з *avoir*.
+
+## Типові помилки
+
+❌ *J'ai vues Marie* через жіночий COD.  
+✓ *J'ai vu Marie.*
+
+❌ *Je les ai vus* незалежно від антецедента.  
+✓ *Je les ai vus / vues* залежно від антецедента.
+
+❌ визначати узгодження за українським перекладом.  
+✓ визначати структуру французького речення.
+
+## Алгоритм
+
+1. Знайдіть participe passé.
+2. Визначте допоміжне дієслово.
+3. Якщо *avoir*, знайдіть COD.
+4. Перевірте, чи COD стоїть перед participe passé.
+5. Визначте рід і число антецедента.
+
+## Мінітест
+
+1. *J'ai vu Marie* чи *J'ai vue Marie*?  
+2. *Marie, je l'ai ___*?  
+3. *Les filles que j'ai ___*?  
+4. Чи participe passé з *avoir* автоматично узгоджується з підметом?
+
+**Відповіді:** 1 *vu*; 2 *vue*; 3 *vues*; 4 ні.
