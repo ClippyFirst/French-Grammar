@@ -6,6 +6,7 @@ category: prepositions
 order: 2
 related: [prepositions-a, contracted-articles, articles-partitive, articles-after-negation, pronouns-coi]
 tags: [прийменники, de, керування, кількість, походження]
+canonical_ids: ["FR-239"]
 ---
 
 # Прийменник **de**
