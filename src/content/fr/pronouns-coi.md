@@ -39,6 +39,7 @@ sources:
 reviewed_at: "2026-09-25"
 formula: true
 toc: true
+canonical_ids: ["FR-151", "FR-152", "FR-153"]
 ---
 
 # COI і непрямі об’єктні займенники
