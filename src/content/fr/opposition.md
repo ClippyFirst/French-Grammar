@@ -6,7 +6,7 @@ title_uk: "Протиставлення: exprimer l'opposition"
 title_fr: "Exprimer l'opposition"
 description_uk: "Довідкова стаття про протиставлення: exprimer l'opposition у сучасній французькій."
 canonical_ids:
-  - FR-162
+  - FR-483
 prerequisites:
   - phrase-enonce
   - sentence-structure
