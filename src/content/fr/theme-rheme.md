@@ -2,8 +2,7 @@
 title_uk: "Тема і рема: інформаційна організація французького висловлення"
 title_fr: "Thème et rhème"
 description_uk: "Системний довідник про тему й рему, їхній зв’язок із даним і новим, фокусом, синтаксичними ролями та порядком слів."
-canonical_ids:
-  - "FR-621"
+canonical_ids: ["FR-621", "FR-461"]
 level: B2
 category: discourse
 register: neutral
