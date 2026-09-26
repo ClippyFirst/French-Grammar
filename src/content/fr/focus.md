@@ -2,8 +2,7 @@
 title_uk: "Фокус у французькій: нова, релевантна й виділена інформація"
 title_fr: "Le focus"
 description_uk: "Системний довідник про фокус, його залежність від контексту, питання, просодії, cleft-конструкцій і контрасту."
-canonical_ids:
-  - "FR-622"
+canonical_ids: ["FR-622", "FR-462"]
 level: B2
 category: discourse
 register: neutral
