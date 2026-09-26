@@ -333,3 +333,15 @@ Source grounding for the higher-risk construction claims used current Académie 
 Academic Writing Toolkit review of the combined new/affected prose produced the expected short-paragraph heuristic for compact reference prose, examples and tables; no substantive paragraph-logic defect was identified by that tool.
 
 All affected content remains `status: review`. Repository-wide build/test execution is still unverified in this environment; the latest commit has no reported GitHub Actions workflow run or status check.
+
+
+## Continuation — final canonical syntax/discourse gap pass (2026-09-26)
+
+- Added **elliptical-utterances.md** for **FR-734**, consolidating non-verbal, nominal and contextually recoverable elliptical utterances without treating every fragment as an error.
+- Added **extraction-constructions.md** for **FR-735**, providing a system-level overview of extraction across interrogatives, relatives and cleft constructions and distinguishing it from dislocation/fronting.
+- Confirmed **FR-736** is already covered by the existing **deixis.md**; no duplicate article is retained.
+- Confirmed **FR-733**, **FR-737/738**, and **FR-739** are already represented by **phrase-enonce.md**, **address-interjections.md**, and **prosody.md** respectively.
+- Added **hesitation-self-correction.md** for **FR-740**, covering hesitation, repetition, self-repair, restarts and interactional interruption in spontaneous spoken French.
+- Academic Writing Toolkit paragraph-logic review was run on representative prose from all four attempted additions. No substantive logic defects were returned; the sole heuristic was the expected short-paragraph signal on compact spoken-reference prose.
+- A duplicate FR-736 draft file was removed immediately after inspection; the canonical **deixis.md** remains the single FR-736 article.
+- New material remains review; this pass does not claim release-ready linguistic or build QA.
