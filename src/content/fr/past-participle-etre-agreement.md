@@ -21,6 +21,7 @@ formula: true
 toc: true
 featured: false
 
+---
 ## Швидка відповідь
 
 У складених часах із **être** *participe passé* узгоджується з підметом за родом і числом:
