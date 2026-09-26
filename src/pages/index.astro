@@ -4,12 +4,10 @@ import Base from '../layouts/Base.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import { categories } from '../data/categories.mjs';
+import { catCountsFor } from '../lib/pages.mjs';
 
 const all = await getCollection('fr');
-const catCounts = {};
-for (const e of all) {
-  catCounts[e.data.category] = (catCounts[e.data.category] || 0) + 1;
-}
+const catCounts = catCountsFor(all);
 ---
 
 <Base>
