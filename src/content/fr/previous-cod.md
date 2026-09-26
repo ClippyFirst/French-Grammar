@@ -1,12 +1,11 @@
 ---
 title_uk: "Попередній COD і узгодження participe passé"
 title_fr: "Le COD antéposé et l’accord du participe passé"
-description_uk: "Як попередній прямий додаток викликає узгодження participe passé у конструкціях із avoir та в споріднених структурах."
+description_uk: "Попередній прямий додаток і узгодження participe passé з avoir: займенники, відносні займенники та діагностика COD."
 canonical_ids: ["FR-556"]
 level: B2
 prerequisites: ["past-participle-avoir-agreement", "cod"]
 related: ["cod-before-avoir", "relative-pronouns"]
-
 depth: high
 register: neutral
 variety: [FR]
@@ -20,54 +19,162 @@ reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+---
+
+# Попередній COD і узгодження participe passé
 
 ## Швидка відповідь
 
-У конструкції з **avoir** прямий додаток, поставлений перед *participe passé*, може визначати його рід і число:
+Для *avoir* діє правило:
 
-*Les lettres que j’ai écrites.*
+> **participe passé узгоджується з попереднім COD, якщо цей COD має рід і число.**
 
-*que* = *les lettres* → **écrites**.
+*Les lettres que j'ai écrites.*
 
-## 1. COD після
+*que* = *les lettres* → COD перед *ai écrites* → *écrites*.
 
-*J’ai écrit les lettres.*
+Якщо COD стоїть після дієприкметника:
 
-COD *les lettres* стоїть після дієприкметника → *écrit*.
+*J'ai écrit les lettres.*
 
-## 2. COD перед
+узгодження за COD немає.
 
-*J’ai écrit les lettres.*  
-→ *Je les ai écrites.*
+## 1. Спочатку знайди COD
 
-*les* є COD і стоїть перед *ai écrites* → узгодження.
+Не починай з питання «яке закінчення поставити?». Спочатку знайди об'єкт дії.
 
-## 3. Відносний займенник
+*J'ai écrit les lettres.*
 
-*Les chansons que nous avons écoutées.*
+Що я написав? → *les lettres*.
 
-*que* є COD дієслова *écouter*, а його антецедент — *les chansons*.
+Отже, це COD.
 
-## 4. Не плутай COD і COI
+## 2. COD після participe passé
 
-*Les personnes à qui j’ai parlé.*
+*J'ai écrit les lettres.*
 
-*à qui* — COI, тому *parlé* не отримує узгодження через цю групу.
+Порядок:
 
-## 5. Кілька COD
+**avoir + participe passé + COD**
 
-У реченнях із займенниками треба визначати, який саме займенник є COD:
+Тому:
+
+*écrit*
+
+Не:
+
+❌ *écrites*
+
+## 3. COD перед participe passé
+
+*Je les ai écrites.*
+
+*les* = *les lettres*.
+
+Порядок:
+
+**COD + avoir + participe passé**
+
+Отже:
+
+*écrites* — жіночий рід, множина.
+
+## 4. Відносний займенник que
+
+*Les lettres que j'ai écrites.*
+
+Питання:
+
+*j'ai écrit quoi ?* → *que*.
+
+Антецедент *les lettres* визначає рід і число форми *écrites*.
+
+Порівняй:
+
+*Le livre que j'ai lu.*  
+*Les livres que j'ai lus.*  
+*La lettre que j'ai écrite.*  
+*Les lettres que j'ai écrites.*
+
+## 5. COD чи COI
+
+Не кожен займенник перед дієприкметником викликає узгодження.
+
+*Les personnes à qui j'ai parlé.*
+
+*parler à quelqu'un* → *à qui* є COI.
+
+Тому:
+
+*parlé*, не ❌ *parlées*.
+
+Порівняй:
+
+*Les personnes que j'ai vues.* → *que* = COD → *vues*.
+
+## 6. Два займенники
 
 *Je les lui ai données.*
 
-*les* — COD, *lui* — COI; форма *données* узгоджується з *les*.
+- *les* — COD;
+- *lui* — COI;
+- *les* стоїть перед *ai données*;
+- *données* узгоджується з *les*.
 
-## 6. Алгоритм
+Це корисна діагностика для складних послідовностей займенників.
 
-**дієслово → COD → позиція COD → рід/число COD → форма participe passé.**
+## 7. Не плутай із підметом
 
-Це надійніше, ніж запам’ятовувати окремі закінчення.
+У *Les lettres que j'ai écrites* підмет дієслова *ai écrit* — *je*, а не *les lettres*.
 
-## Висновок
+Форма *écrites* визначається не підметом, а попереднім COD *que*, який відсилає до *les lettres*.
 
-Для *avoir* питання «з чим узгоджується participe passé?» треба ставити після визначення **COD і його позиції**, а не після визначення підмета.
+## 8. Питання про COD
+
+Зручно застосовувати послідовність:
+
+1. знайди дієслово;
+2. постав *qui ? / quoi ?*;
+3. визнач COD;
+4. перевір його позицію щодо participe passé;
+5. якщо він передує — визнач рід і число;
+6. узгодь форму.
+
+Цей алгоритм працює краще за переклад українською.
+
+## 9. Український контраст
+
+Українська не має прямого аналога цього французького правила узгодження дієприкметника з попереднім COD у passé composé.
+
+Тому:
+
+*Les lettres que j'ai écrites.*
+
+не слід аналізувати як кальку української конструкції. Потрібно спочатку встановити синтаксичну функцію *que*.
+
+## Типові помилки
+
+❌ *Les lettres que j'ai écrit.* → ✅ *Les lettres que j'ai écrites.*  
+❌ *Les personnes à qui j'ai parlées.* → ✅ *Les personnes à qui j'ai parlé.*  
+❌ узгоджувати з підметом автоматично;  
+❌ узгоджувати з будь-яким займенником перед *avoir*.
+
+## Практичний алгоритм
+
+**дієслово → COD/COI → позиція COD → антецедент → рід/число → participe passé.**
+
+## Мінітест
+
+1. *Les photos que j'ai ______.* (*prendre*)
+2. *Les personnes à qui j'ai ______.* (*parler*)
+3. *Je les ai ______.* (*voir*, les = femmes)
+
+**Відповіді:** *prises; parlé; vues*.
+
+## Пов'язані теми
+
+- *avoir* + participe passé;
+- COD/COI;
+- відносні займенники;
+- узгодження participe passé;
+- *que* та *à qui*.
