@@ -1,7 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import { categories } from '../../data/categories.mjs';
-import { sectionsFor, catCountsFor } from '../../lib/pages.mjs';
+import { sectionsFor } from '../../lib/pages.mjs';
 import Base from '../../layouts/Base.astro';
 import Header from '../../components/Header.astro';
 import Footer from '../../components/Footer.astro';
@@ -9,7 +9,6 @@ import Breadcrumbs from '../../components/Breadcrumbs.astro';
 
 const all = await getCollection('fr');
 const sections = sectionsFor(all, categories);
-const counts = catCountsFor(all);
 
 const crumbs = [
   { label: 'Головна', href: '/' },
