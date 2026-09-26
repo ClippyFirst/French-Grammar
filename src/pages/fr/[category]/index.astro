@@ -1,6 +1,6 @@
 ---
 import { getCollection } from 'astro:content';
-import { categories, getCategory } from '../../../data/categories.mjs';
+import { categories, getCategory, canonicalCategory } from '../../../data/categories.mjs';
 import { sectionsFor } from '../../../lib/pages.mjs';
 import Base from '../../../layouts/Base.astro';
 import Header from '../../../components/Header.astro';
@@ -10,7 +10,7 @@ import TOC from '../../../components/TOC.astro';
 
 export async function getStaticPaths() {
   const all = await getCollection('fr');
-  const used = [...new Set(all.map((e) => e.data.category))];
+  const used = [...new Set(all.map((e) => canonicalCategory(e.data.category)))];
   return used.map((categoryKey) => ({
     params: { category: categoryKey },
     props: { categoryKey },
