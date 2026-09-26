@@ -40,6 +40,7 @@ sources:
 reviewed_at: "2026-09-25"
 formula: true
 toc: true
+canonical_ids: ["FR-150"]
 ---
 
 # COD і прямі об’єктні займенники
