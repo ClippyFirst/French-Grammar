@@ -1,7 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import { canonicalCategory } from '../src/data/categories.mjs';
-import { relatedFor, slugFromId } from '../src/lib/pages.mjs';
+import { relatedFor, slugFromId, sectionsFor, catCountsFor } from '../src/lib/pages.mjs';
 
 const all = [
   {
@@ -66,4 +66,26 @@ test('canonicalCategory normalizes legacy site categories', () => {
 test('slugFromId normalizes extension and nested IDs', () => {
   assert.equal(slugFromId('topic.md'), 'topic');
   assert.equal(slugFromId('legacy/topic.mdx'), 'topic');
+});
+
+
+test('navigation helpers group legacy categories under canonical sections', () => {
+  const legacyEntries = [
+    {
+      id: 'cardinal-numerals.md',
+      data: { category: 'numbers', order: 1, title_uk: 'Числівники', description_uk: 'Тестова стаття.' },
+    },
+    {
+      id: 'punctuation.md',
+      data: { category: 'punctuation', order: 2, title_uk: 'Пунктуація', description_uk: 'Тестова стаття.' },
+    },
+  ];
+  const categoryList = [
+    { key: 'quantification', uk: 'Кількісні конструкції' },
+    { key: 'orthography', uk: 'Орфографія' },
+  ];
+  const sections = sectionsFor(legacyEntries, categoryList);
+  assert.deepEqual(sections.map((section) => section.id), ['h-orthography', 'h-quantification']);
+  assert.equal(catCountsFor(legacyEntries).quantification, 1);
+  assert.equal(catCountsFor(legacyEntries).orthography, 1);
 });
