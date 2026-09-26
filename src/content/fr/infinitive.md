@@ -3,7 +3,7 @@ title_uk: "Інфінітив: форма, керування та основн�
 title_fr: "L'infinitif"
 description_uk: "Системний довідник про французький інфінітив: infinitif présent, керування, прийменники, два дієслова та відмінність від особової форми."
 category: verbs
-canonical_ids: [FR-315, FR-507, FR-508, FR-509, FR-510, FR-511, FR-512, FR-513, FR-514, FR-515, FR-516]
+canonical_ids: [FR-315, FR-516]
 order: 28
 prerequisites:
   - present
