@@ -21,7 +21,7 @@ function collectContentFiles(dir) {
   for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
     const filePath = path.join(dir, entry.name);
     if (entry.isDirectory()) result.push(...collectContentFiles(filePath));
-    else if (entry.isFile() && /\\.mdx?$/.test(entry.name)) result.push(filePath);
+    else if (entry.isFile() && /\.mdx?$/.test(entry.name)) result.push(filePath);
   }
   return result;
 }
