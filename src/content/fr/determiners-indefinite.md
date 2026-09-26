@@ -44,6 +44,7 @@ sources:
 reviewed_at: "2026-09-25"
 formula: true
 toc: true
+canonical_ids: ["FR-101", "FR-102", "FR-103", "FR-104", "FR-105", "FR-106", "FR-107", "FR-108", "FR-109"]
 ---
 
 # Неозначені визначники
