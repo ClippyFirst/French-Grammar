@@ -2,6 +2,7 @@
 title_uk: "Попередній COD і узгодження participe passé"
 title_fr: "Le COD antéposé et l’accord du participe passé"
 description_uk: "Попередній прямий додаток і узгодження participe passé з avoir: займенники, відносні займенники та діагностика COD."
+category: agreement
 canonical_ids: ["FR-556"]
 level: B2
 prerequisites: ["past-participle-avoir-agreement", "cod"]
