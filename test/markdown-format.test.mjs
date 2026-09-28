@@ -24,5 +24,7 @@ test('does not change inline code', () => {
 test('does not change fenced code', () => {
   const input = ['```md', '** привіт **', '```', '', '** привіт **'].join('\n');
   const expected = ['```md', '** привіт **', '```', '', '**привіт**'].join('\n');
-  assert.equal(repairSource(input).source, expected);
+  const repaired = repairSource(input).source;
+  assert.equal(repaired, expected);
+  assert.equal(repairSource(repaired).source, repaired);
 });
