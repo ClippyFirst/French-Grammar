@@ -2,8 +2,6 @@
 title_uk: "Заміна часових маркерів у непрямій мові"
 title_fr: "Les marqueurs temporels au discours indirect"
 description_uk: "Перебудова aujourd'hui, demain, hier, maintenant та інших часових вказівників при зміні точки відліку в непрямій мові."
-canonical_ids:
-  - "FR-616"
 level: B2
 category: indirect
 register: neutral
