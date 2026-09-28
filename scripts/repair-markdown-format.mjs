@@ -79,21 +79,32 @@ export function repairLine(line) {
 }
 
 export function repairSource(source) {
-  const fm = extractFrontmatter(source);
-  const prefix = source.slice(0, fm.end);
-  const body = source.slice(fm.end);
-  const lines = body.split(/(\r?\n)/);
-  let fenced = false;
-  let changes = 0;
-  for (let i = 0; i < lines.length; i += 2) {
-    const line = lines[i];
-    if (line == null) continue;
-    if (/^\s*(`{3,}|~{3,})/.test(line)) { fenced = !fenced; continue; }
-    if (fenced) continue;
-    const next = repairLine(line);
-    if (next !== line) { lines[i] = next; changes++; }
+  let current = source;
+  let totalChanges = 0;
+
+  for (let pass = 0; pass < 5; pass += 1) {
+    const fm = extractFrontmatter(current);
+    const prefix = current.slice(0, fm.end);
+    const body = current.slice(fm.end);
+    const lines = body.split(/(\r?\n)/);
+    let fenced = false;
+    let changes = 0;
+
+    for (let i = 0; i < lines.length; i += 2) {
+      const line = lines[i];
+      if (line == null) continue;
+      if (/^\s*(`{3,}|~{3,})/.test(line)) { fenced = !fenced; continue; }
+      if (fenced) continue;
+      const next = repairLine(line);
+      if (next !== line) { lines[i] = next; changes++; }
+    }
+
+    current = prefix + lines.join('');
+    totalChanges += changes;
+    if (changes === 0) break;
   }
-  return { source: prefix + lines.join(''), changes };
+
+  return { source: current, changes: totalChanges };
 }
 
 if (import.meta.url !== pathToFileURL(process.argv[1]).href) process.exit(0);
