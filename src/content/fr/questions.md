@@ -5,21 +5,6 @@ description_uk: "Повна система прямих і непрямих пи
 category: questions
 order: 10
 canonical_ids:
-  - "FR-424"
-  - "FR-425"
-  - "FR-426"
-  - "FR-427"
-  - "FR-428"
-  - "FR-429"
-  - "FR-430"
-  - "FR-431"
-  - "FR-432"
-  - "FR-433"
-  - "FR-434"
-  - "FR-435"
-  - "FR-436"
-  - "FR-437"
-  - "FR-438"
 prerequisites:
   - present
   - pronouns-subject
