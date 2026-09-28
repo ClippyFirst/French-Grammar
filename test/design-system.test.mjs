@@ -14,37 +14,29 @@ const pages = [
 
 test('design system exposes required semantic tokens', () => {
   for (const token of [
-    '--bg:',
-    '--surface:',
-    '--ink:',
-    '--ink-soft:',
-    '--accent:',
-    '--border:',
-    '--focus:',
-    '--reading-max:',
-    '--serif:',
-    '--space-5:',
+    '--bg:', '--surface:', '--ink:', '--ink-soft:', '--accent:',
+    '--border:', '--focus:', '--reading-max:', '--serif:', '--space-5:',
   ]) {
-    assert.match(css, new RegExp(token.replace(/[.*+?^{}()|[\]\\]/g, '\\$&')));
+    assert.ok(css.includes(token), `missing design token: ${token}`);
   }
   assert.match(css, /@media \(prefers-reduced-motion: reduce\)/);
   assert.match(css, /@media print/);
 });
 
 test('global controls have accessible state and names', () => {
-  assert.match(header, /aria-label="Відкрити пошук"/);
-  assert.match(header, /id="theme-toggle"/);
-  assert.match(header, /aria-pressed="false"/);
-  assert.match(header, /aria-controls="mobile-navigation"/);
-  assert.match(header, /aria-expanded="false"/);
-  assert.match(main, /setAttribute\('aria-expanded'/);
-  assert.match(main, /event\.key === 'Escape'/);
+  assert.ok(header.includes('aria-label="Відкрити пошук"'));
+  assert.ok(header.includes('id="theme-toggle"'));
+  assert.ok(header.includes('aria-pressed="false"'));
+  assert.ok(header.includes('aria-controls="mobile-navigation"'));
+  assert.ok(header.includes('aria-expanded="false"'));
+  assert.ok(main.includes("setAttribute('aria-expanded'"));
+  assert.ok(main.includes("event.key === 'Escape'"));
 });
 
 test('theme initialization supports stored and system preferences', () => {
-  assert.match(base, /localStorage\.getItem\('theme'\)/);
-  assert.match(base, /prefers-color-scheme: dark/);
-  assert.match(main, /localStorage\.setItem\('theme', next\)/);
+  assert.ok(base.includes("localStorage.getItem('theme')"));
+  assert.ok(base.includes("prefers-color-scheme: dark"));
+  assert.ok(main.includes("localStorage.setItem('theme', next)"));
 });
 
 test('directory pages contain no ad-hoc inline presentation styles', () => {
@@ -52,7 +44,7 @@ test('directory pages contain no ad-hoc inline presentation styles', () => {
 });
 
 test('design system preserves content-independent semantic grammar hooks', () => {
-  for (const selector of ['\.formula', '\.example', '\.callout', '\.mistake', '\.related']) {
-    assert.match(css, new RegExp(selector));
+  for (const selector of ['.formula', '.example', '.callout', '.mistake', '.related']) {
+    assert.ok(css.includes(selector), `missing grammar hook: ${selector}`);
   }
 });
