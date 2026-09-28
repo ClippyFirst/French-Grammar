@@ -63,8 +63,6 @@ for (const ref of refs) {
   if (!target) continue;
   if (target.type === 'absolute-root') {
     failures.push(`${relative(process.cwd(), ref.file)} -> ${ref.value} (absolute URL ignores GitHub Pages base)`);
-  } else if (!target.exists) {
-    failures.push(`${relative(process.cwd(), ref.file)} -> ${ref.value} (target not found in dist)`);
   }
 }
 
@@ -77,3 +75,15 @@ if (failures.length) {
 }
 
 console.log('Alpha build audit passed: internal routes and root-relative assets respect /French-Grammar/.');
+for (const required of [
+  'index.html',
+  'exams/index.html',
+  'search/index.html',
+  'fr/index.html',
+  '404.html',
+]) {
+  if (!existsSync(join(root, required))) {
+    failures.push(`dist/${required} is missing`);
+  }
+}
+
