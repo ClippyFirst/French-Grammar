@@ -2,8 +2,6 @@
 title_uk: "Узгодження модальності в непрямій мові"
 title_fr: "La concordance de la modalité au discours indirect"
 description_uk: "Як у непрямій мові передається необхідність, можливість, бажання, дозвіл, припущення та дистанція, не зводячи модальність до механічної заміни форм."
-canonical_ids:
-  - "FR-619"
 level: B2
 category: modality
 register: neutral
