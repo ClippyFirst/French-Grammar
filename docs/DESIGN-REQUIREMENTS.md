@@ -301,3 +301,19 @@ UI готовий, коли сайт усе ще очевидно є тим са
 Головне правило:
 
 > Не прикрашати граматику. Зробити саму структуру граматики красивою.
+## Search implementation standard
+
+The primary site search uses the same static, metadata-driven architecture established in the Spanish and Portuguese grammar references:
+
+- build a searchable catalog from the Astro content collection at build time;
+- search locally in the browser without a backend or third-party search service;
+- normalize case and diacritics so French queries remain forgiving;
+- search Ukrainian titles, French titles, aliases and tags;
+- rank exact title matches above prefix matches, aliases, title substrings, tags, identifiers and description/token matches;
+- support the `/` keyboard shortcut when focus is not already inside a form control;
+- keep the query in the URL as `?q=` so results are linkable and reloadable;
+- render useful empty, result and no-result states with semantic live status;
+- keep the search catalog content-derived so taxonomy/content changes automatically propagate to search;
+- do not introduce a server, database, external search API or client framework merely for search;
+
+The search is a reference-navigation tool, not a full-text document index. If full article-body search is introduced later, it must preserve this metadata search as the fast primary path and be justified by measured user need.
