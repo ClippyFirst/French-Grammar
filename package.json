@@ -22,7 +22,8 @@
     "build:pagefind": "pagefind --site dist",
     "qa:content": "npm run repair:content-schema && npm run audit:content-schema",
     "audit:markdown-format": "node scripts/repair-markdown-format.mjs",
-    "repair:markdown-format": "node scripts/repair-markdown-format.mjs --write"
+    "repair:markdown-format": "node scripts/repair-markdown-format.mjs --write",
+    "audit:search": "node --test test/search.test.mjs"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.2.1",
