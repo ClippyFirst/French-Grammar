@@ -2,7 +2,7 @@
 title_uk: "Бездієслівні, номінальні та еліптичні висловлення"
 title_fr: "Les énoncés averbaux, nominaux et elliptiques"
 description_uk: "Бездієслівні, номінальні та еліптичні висловлення. Довідкова стаття про конструкцію та її контраст з українською."
-canonical_ids: ["FR-734"]
+
 level: B2
 category: "Контрастивна граматика"
 register: neutral
