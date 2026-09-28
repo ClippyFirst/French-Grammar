@@ -4,7 +4,7 @@ title_fr: "Possession, articles définis, parties du corps et vêtements"
 description_uk: "Як французька виражає належність щодо частин тіла та одягу: означений артикль, присвійний детермінатив, зворотні дієслова та контекст."
 category: determiners
 order: 726
-canonical_ids: ["FR-726", "FR-727"]
+
 prerequisites:
   - articles-definite
   - determiners-possessive
