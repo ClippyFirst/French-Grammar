@@ -14,7 +14,7 @@
     "audit:canonical": "node scripts/audit-canonical-coverage.mjs",
     "audit:site-categories": "node scripts/audit-site-categories.mjs --strict",
     "audit:canonical:matrix": "node scripts/generate-canonical-matrix.mjs",
-    "qa": "npm run test && npm run audit:canonical && npm run audit:site-categories && npm run audit:content-schema && npm run audit:search && npm run audit:markdown-format && npm run build",
+    "qa": "npm run test && npm run audit:canonical && npm run audit:site-categories && npm run audit:content-schema && npm run audit:search && npm run audit:markdown-format && npm run build && npm run audit:alpha",
     "qa:full": "node scripts/qa-full.mjs",
     "audit:content-schema": "node scripts/audit-content-schema.mjs",
     "repair:content-schema": "node scripts/repair-content-schema.mjs",
@@ -23,7 +23,8 @@
     "qa:content": "npm run repair:content-schema && npm run audit:content-schema",
     "audit:markdown-format": "node scripts/repair-markdown-format.mjs",
     "repair:markdown-format": "node scripts/repair-markdown-format.mjs --write",
-    "audit:search": "node --test test/search.test.mjs"
+    "audit:search": "node --test test/search.test.mjs",
+    "audit:alpha": "node scripts/audit-alpha-build.mjs"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.2.1",
