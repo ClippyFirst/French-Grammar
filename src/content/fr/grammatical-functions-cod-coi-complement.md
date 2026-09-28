@@ -3,7 +3,6 @@ title_uk: "Граматичні функції COD, COI та complément"
 title_fr: "Les fonctions grammaticales : COD, COI et complément"
 description_uk: "Як розрізняти COD, COI та ширше поняття complément у французькому реченні."
 category: "Метамова і базові поняття"
-canonical_ids: ["FR-010"]
 level: "B1"
 depth: "high"
 register: "neutral"
