@@ -15,6 +15,7 @@ export const examSections = [
       ['Les pronoms sujets', 'Pronom', 'both'],
       ['Les pronoms toniques', 'Pronom', 'both'],
       ['Les pronoms interrogatifs', 'Pronom', 'both'],
+      ['Les pronoms indéfinis', 'Pronom', 'evi'],
       ['Le pronom indéfini on', 'Pronom', 'both'],
       ['Les pronoms COD et COI', 'Pronom', 'both'],
       ['Les pronoms en et y', 'Pronom', 'both'],
@@ -31,6 +32,7 @@ export const examSections = [
     key: 'verb',
     title: 'Verbe',
     topics: [
+      ['La forme affirmative', 'Verbe', 'evi'],
       ["Le présent de l'indicatif", 'Verbe', 'both'],
       ["L'impératif", 'Verbe', 'both'],
       ['La négation', 'Verbe', 'both'],
