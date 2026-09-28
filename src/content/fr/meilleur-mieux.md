@@ -2,7 +2,7 @@
 title_uk: "meilleur / mieux: прикметникове та прислівникове порівняння"
 title_fr: "meilleur / mieux : comparaison adjectivale et adverbiale"
 description_uk: "Системна довідка про meilleur і mieux, їхню синтаксичну поведінку, узгодження та типові помилки."
-canonical_ids: ["FR-563"]
+canonical_ids: ["FR-563", "FR-133"]
 level: B2
 category: comparison
 register: neutral
