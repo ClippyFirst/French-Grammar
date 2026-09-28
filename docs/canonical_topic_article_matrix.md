@@ -9,7 +9,7 @@
 |---|---:|
 | Канонічних тем | 740 |
 | Тем із хоча б однією статтею | 740 |
-| Покриття | 100% |
+| Покриття | 100.0% |
 | Тем без статті | 0 |
 | Тем із кількома статтями | 0 |
 | Тем, прив’язаних до deprecated-файла | 0 |
@@ -509,9 +509,9 @@
 | `FR-489` | [Вибір часу в підрядному реченні](../content/fr/tense-selection-subordinate.md) |
 | `FR-490` | [Вибір способу в підрядному реченні](../content/fr/mood-selection-subordinate.md) |
 | `FR-491` | [Узгодження часових відношень між підрядними](../content/fr/temporal-agreement-subordinate.md) |
-| `FR-492` | [Відносне речення: структура](../content/fr/relative-clause-structure.md)<br>[Відносні підрядні речення: структура, функція, референт і складні антецеденти](../content/fr/relative-clauses.md) |
-| `FR-493` | [Визначальні відносні речення](../content/fr/defining-relatives.md)<br>[Відносні підрядні речення: структура, функція, референт і складні антецеденти](../content/fr/relative-clauses.md) |
-| `FR-494` | [Пояснювальні відносні речення](../content/fr/nonrestrictive-relatives.md)<br>[Відносні підрядні речення: структура, функція, референт і складні антецеденти](../content/fr/relative-clauses.md) |
+| `FR-492` | [Відносне речення: структура](../content/fr/relative-clause-structure.md) |
+| `FR-493` | [Визначальні відносні речення](../content/fr/defining-relatives.md) |
+| `FR-494` | [Пояснювальні відносні речення](../content/fr/nonrestrictive-relatives.md) |
 | `FR-495` | [Qui як відносний займенник](../content/fr/relative-qui.md) |
 | `FR-496` | [Que як відносний займенник](../content/fr/relative-que.md) |
 | `FR-497` | [Dont як відносний займенник](../content/fr/relative-dont.md) |
@@ -522,8 +522,8 @@
 | `FR-502` | [Ce à quoi, ce sur quoi та інші конструкції](../content/fr/ce-quoi-prepositions.md) |
 | `FR-503` | [Indicatif і subjonctif у відносних реченнях](../content/fr/relative-subjunctive.md) |
 | `FR-504` | [Відносні речення з прийменниковим керуванням](../content/fr/relative-prepositional-government.md) |
-| `FR-505` | [Референт відносного займенника](../content/fr/relative-antecedent.md)<br>[Відносні підрядні речення: структура, функція, референт і складні антецеденти](../content/fr/relative-clauses.md) |
-| `FR-506` | [Відносні конструкції з кількома antecedents](../content/fr/multiple-antecedents-relative.md)<br>[Відносні підрядні речення: структура, функція, референт і складні антецеденти](../content/fr/relative-clauses.md) |
+| `FR-505` | [Референт відносного займенника](../content/fr/relative-antecedent.md) |
+| `FR-506` | [Відносні конструкції з кількома antecedents](../content/fr/multiple-antecedents-relative.md) |
 | `FR-507` | [Інфінітив як доповнення](../content/fr/infinitive-complement.md) |
 | `FR-508` | [Інфінітив після дієслова](../content/fr/infinitive-after-verb.md) |
 | `FR-509` | [Інфінітив після прикметника](../content/fr/infinitive-after-adjective.md) |
@@ -761,8 +761,9 @@
 
 ## Missing
 
-_Немає._
+—
 
 ## Duplicate mappings
 
-_Немає._
+—
+

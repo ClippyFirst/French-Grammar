@@ -1,28 +1,28 @@
 # French Grammar — full QA report
 
-Started: 2026-09-28T15:35:10.554Z
+Started: 2026-09-28T15:54:48.789Z
 Repository: ClippyFirst/French-Grammar
 Working directory: F:\GitHub\Grammars\French Grammar
 ## test
 
 Command: C:\Program Files\nodejs\node.exe --test
-Started: 2026-09-28T15:35:10.558Z
-✔ parseCanonicalIds extracts canonical IDs from frontmatter (6.1403ms)
-✔ parseCanonicalIds also extracts quoted multiline IDs (0.4426ms)
-✔ parseCanonicalIds also extracts inline arrays (0.3088ms)
-✔ auditCanonicalCoverage reports missing, invalid and duplicate mappings (1.3063ms)
-✔ auditCanonicalCoverage detects duplicate catalog IDs and duplicate IDs inside one file (0.3832ms)
-✔ auditCanonicalCoverage reports canonical mappings on deprecated files (0.2594ms)
-✔ parseStatus normalizes legacy status values (0.4135ms)
-✔ auditCanonicalCoverage detects a non-contiguous canonical catalog (0.2441ms)
-✔ parseCatalogIds ignores historical audit bullet lists outside the live catalog (0.5209ms)
-✔ relatedFor resolves a plain canonical slug (4.5796ms)
-✔ relatedFor preserves category/slug references for legacy content (0.3745ms)
-✔ relatedFor does not silently resolve an ambiguous plain slug (0.2647ms)
-✔ canonicalCategory normalizes legacy site categories (0.291ms)
-✔ slugFromId normalizes extension and nested IDs (0.335ms)
-✔ navigation helpers group legacy categories under canonical sections (0.5539ms)
-✔ category catalog and layers stay in sync (0.2516ms)
+Started: 2026-09-28T15:54:48.791Z
+✔ parseCanonicalIds extracts canonical IDs from frontmatter (2.1074ms)
+✔ parseCanonicalIds also extracts quoted multiline IDs (0.2524ms)
+✔ parseCanonicalIds also extracts inline arrays (0.1825ms)
+✔ auditCanonicalCoverage reports missing, invalid and duplicate mappings (0.638ms)
+✔ auditCanonicalCoverage detects duplicate catalog IDs and duplicate IDs inside one file (0.2339ms)
+✔ auditCanonicalCoverage reports canonical mappings on deprecated files (0.1589ms)
+✔ parseStatus normalizes legacy status values (0.2589ms)
+✔ auditCanonicalCoverage detects a non-contiguous canonical catalog (0.1456ms)
+✔ parseCatalogIds ignores historical audit bullet lists outside the live catalog (0.3209ms)
+✔ relatedFor resolves a plain canonical slug (2.5183ms)
+✔ relatedFor preserves category/slug references for legacy content (0.2283ms)
+✔ relatedFor does not silently resolve an ambiguous plain slug (0.1654ms)
+✔ canonicalCategory normalizes legacy site categories (0.1772ms)
+✔ slugFromId normalizes extension and nested IDs (0.1379ms)
+✔ navigation helpers group legacy categories under canonical sections (0.3533ms)
+✔ category catalog and layers stay in sync (0.3056ms)
 ℹ tests 16
 ℹ suites 0
 ℹ pass 16
@@ -30,68 +30,49 @@ Started: 2026-09-28T15:35:10.558Z
 ℹ cancelled 0
 ℹ skipped 0
 ℹ todo 0
-ℹ duration_ms 341.9868
+ℹ duration_ms 208.7211
 
-Finished: 2026-09-28T15:35:11.078Z
+Finished: 2026-09-28T15:54:49.148Z
 Exit code: 0
 Signal: none
-Duration: 0.5s
+Duration: 0.4s
 ## audit:canonical
 
 Command: C:\Program Files\nodejs\node.exe scripts/audit-canonical-coverage.mjs
-Started: 2026-09-28T15:35:11.078Z
+Started: 2026-09-28T15:54:49.148Z
 # Canonical coverage audit
 
 - Catalog topics: 740
 - Canonical sequence gaps: 0
-- Covered topics: 730
-- Coverage: 98.6%
-- Missing topics: 10
+- Covered topics: 740
+- Coverage: 100.0%
+- Missing topics: 0
 - Invalid IDs: 0
-- Duplicate mappings: 5
+- Duplicate mappings: 0
 - Duplicate catalog IDs: 0
 - Duplicate IDs inside files: 0
 - Deprecated-file mappings: 0
-- Files without explicit canonical IDs: 63
+- Files without explicit canonical IDs: 54
 
-## Missing
-- FR-561
-- FR-615
-- FR-616
-- FR-617
-- FR-618
-- FR-644
-- FR-724
-- FR-731
-- FR-735
-- FR-740
-
-## Duplicate mappings
-- FR-492: src/content/fr/relative-clause-structure.md, src/content/fr/relative-clauses.md
-- FR-493: src/content/fr/defining-relatives.md, src/content/fr/relative-clauses.md
-- FR-494: src/content/fr/nonrestrictive-relatives.md, src/content/fr/relative-clauses.md
-- FR-505: src/content/fr/relative-antecedent.md, src/content/fr/relative-clauses.md
-- FR-506: src/content/fr/multiple-antecedents-relative.md, src/content/fr/relative-clauses.md
-
-Finished: 2026-09-28T15:35:12.084Z
+Finished: 2026-09-28T15:54:49.317Z
 Exit code: 0
 Signal: none
-Duration: 1.0s
+Duration: 0.2s
 ## audit:site-categories
 
 Command: C:\Program Files\nodejs\node.exe scripts/audit-site-categories.mjs --strict
-Started: 2026-09-28T15:35:12.084Z
+Started: 2026-09-28T15:54:49.317Z
 === FRENCH-GRAMMAR SITE CATEGORY AUDIT ===
 
 Files: 595
 Known canonical categories: 33
-Missing category: 1
+Missing category: 0
 Unknown category: 0
 Legacy categories normalized: 341
 Duplicate generated routes: 0
 
 --- Missing category ---
-- src/content/fr/register-variation.md
+—
 
 --- Unknown category ---
 —
@@ -442,37 +423,36 @@ Duplicate generated routes: 0
 --- Duplicate generated routes ---
 —
 
-Finished: 2026-09-28T15:35:12.251Z
-Exit code: 1
+Finished: 2026-09-28T15:54:49.487Z
+Exit code: 0
 Signal: none
 Duration: 0.2s
 ## audit:content-schema
 
 Command: C:\Program Files\nodejs\node.exe scripts/audit-content-schema.mjs
-Started: 2026-09-28T15:35:12.251Z
+Started: 2026-09-28T15:54:49.488Z
 === FRENCH-GRAMMAR CONTENT SCHEMA SHAPE AUDIT ===
 
 Files scanned: 595
-Issues: 2
+Issues: 0
 
-- src/content/fr/quantifiers.md:44 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/register-variation.md:1 → category → missing required field
+—
 
-Finished: 2026-09-28T15:35:12.433Z
-Exit code: 1
+Finished: 2026-09-28T15:54:49.676Z
+Exit code: 0
 Signal: none
 Duration: 0.2s
 ## audit:canonical:matrix
 
 Command: C:\Program Files\nodejs\node.exe scripts/generate-canonical-matrix.mjs
-Started: 2026-09-28T15:35:12.433Z
+Started: 2026-09-28T15:54:49.676Z
 Wrote F:\GitHub\Grammars\French Grammar\docs\canonical_topic_article_matrix.md
 
-Finished: 2026-09-28T15:35:12.613Z
+Finished: 2026-09-28T15:54:49.857Z
 Exit code: 0
 Signal: none
 Duration: 0.2s
 ## build
 
 Command: npm.cmd run build
-Started: 2026-09-28T15:35:12.614Z
+Started: 2026-09-28T15:54:49.858Z
