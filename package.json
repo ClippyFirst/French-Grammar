@@ -14,7 +14,7 @@
     "audit:canonical": "node scripts/audit-canonical-coverage.mjs",
     "audit:site-categories": "node scripts/audit-site-categories.mjs --strict",
     "audit:canonical:matrix": "node scripts/generate-canonical-matrix.mjs",
-    "qa": "npm run test && npm run audit:canonical && npm run audit:site-categories && npm run build",
+    "qa": "npm run test && npm run audit:canonical && npm run audit:site-categories && npm run audit:content-schema && npm run audit:markdown-format && npm run build",
     "qa:full": "node scripts/qa-full.mjs",
     "audit:content-schema": "node scripts/audit-content-schema.mjs",
     "repair:content-schema": "node scripts/repair-content-schema.mjs",
