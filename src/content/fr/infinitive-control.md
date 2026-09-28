@@ -1,4 +1,6 @@
 ---
+canonical_ids:
+  - "FR-724"
 title_uk: "Суб'єкт інфінітива та контроль"
 title_fr: "Le sujet de l'infinitif et les relations de contrôle"
 description_uk: "Як визначати суб'єкта інфінітива, коли він спільний із головним реченням, виражений окремо або відновлюється з конструкції."
