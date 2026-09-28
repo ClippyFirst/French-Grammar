@@ -1,5 +1,11 @@
 import { canonicalCategory } from '../data/categories.mjs';
 
+export function sitePath(path = '/') {
+  const clean = '/' + String(path).replace(/^\/+/, '');
+  const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+  return base + (clean === '/' ? '/' : clean);
+}
+
 export function slugFromId(id) {
   return id.replace(/\\/g, '/').split('/').pop().replace(/\.(md|mdx)$/, '');
 }
@@ -11,7 +17,7 @@ export function sectionsFor(all, categories) {
     topics: all
       .filter((e) => canonicalCategory(e.data.category) === c.key)
       .sort((a, b) => a.data.order - b.data.order)
-      .map((e) => ({ href: '/fr/' + c.key + '/' + slugFromId(e.id) + '/', title: e.data.title_uk, desc: e.data.description_uk })),
+      .map((e) => ({ href: sitePath('/fr/' + c.key + '/' + slugFromId(e.id) + '/'), title: e.data.title_uk, desc: e.data.description_uk })),
   })).filter((s) => s.topics.length > 0);
 }
 
@@ -27,7 +33,7 @@ export function catCountsFor(all) {
 export function topicsFor(all, category) {
   return all.filter((e) => canonicalCategory(e.data.category) === canonical)
     .sort((a, b) => a.data.order - b.data.order)
-    .map((e) => ({ title: e.data.title_uk, desc: e.data.description_uk, href: '/fr/' + canonical + '/' + slugFromId(e.id) + '/' }));
+    .map((e) => ({ title: e.data.title_uk, desc: e.data.description_uk, href: sitePath('/fr/' + canonical + '/' + slugFromId(e.id) + '/') }));
 }
 
 export function tocFromHeadings(headings) {
@@ -47,6 +53,6 @@ export function relatedFor(all, category, refs) {
     return all.find((e) => slugFromId(e.id) === rslug && canonicalCategory(e.data.category) === rcat);
   }).filter(Boolean).map((e) => ({
     title_uk: e.data.title_uk, title_fr: e.data.title_fr, description_uk: e.data.description_uk,
-    href: '/fr/' + canonicalCategory(e.data.category) + '/' + slugFromId(e.id) + '/',
+    href: sitePath('/fr/' + canonicalCategory(e.data.category) + '/' + slugFromId(e.id) + '/'),
   }));
 }
