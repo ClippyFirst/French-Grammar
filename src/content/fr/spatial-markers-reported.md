@@ -2,8 +2,6 @@
 title_uk: "Заміна просторових маркерів у непрямій мові"
 title_fr: "Les marqueurs spatiaux au discours indirect"
 description_uk: "Перебудова ici, là та інших просторових вказівників при зміні перспективи мовця в непрямій мові."
-canonical_ids:
-  - "FR-617"
 level: B2
 category: indirect
 register: neutral
