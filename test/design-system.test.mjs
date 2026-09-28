@@ -19,7 +19,7 @@ test('design system exposes required semantic tokens and media rules', () => {
   ]) {
     assert.ok(css.includes(token), `missing design token: ${token}`);
   }
-  assert.match(css, /@media \\(prefers-reduced-motion: reduce\\)/);
+  assert.match(css, /@media \(prefers-reduced-motion: reduce\)/);
   assert.match(css, /@media print/);
   for (const selector of ['.formula', '.example', '.callout', '.mistake', '.related']) {
     assert.ok(css.includes(selector), `missing grammar hook: ${selector}`);
