@@ -2,6 +2,7 @@
 title_uk: "Participe passé перед інфінітивом"
 title_fr: "Le participe passé suivi d’un infinitif"
 description_uk: "Як аналізувати узгодження participe passé, коли після нього стоїть інфінітив, зокрема у конструкціях voir, entendre, faire та подібних."
+category: agreement
 canonical_ids: ["FR-557"]
 level: B2
 prerequisites: ["past-participle-avoir-agreement", "infinitive"]
