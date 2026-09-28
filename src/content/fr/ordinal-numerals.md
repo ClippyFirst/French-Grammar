@@ -5,7 +5,6 @@ description_uk: "Порядкові числівники позначають м
 category: numbers
 canonical_ids:
   - FR-576
-  - "FR-138"
 level: B1
 depth: high
 register: neutral
