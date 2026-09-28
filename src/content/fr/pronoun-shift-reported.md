@@ -2,8 +2,6 @@
 title_uk: "Заміна особових займенників у непрямій мові"
 title_fr: "Le changement des pronoms au discours indirect"
 description_uk: "Як je, tu, il, elle, nous, vous та об'єктні займенники перебудовуються при переході від прямої до непрямої мови."
-canonical_ids:
-  - "FR-615"
 level: B1
 category: indirect
 register: neutral
