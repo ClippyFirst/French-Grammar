@@ -2,8 +2,6 @@
 title_uk: "Conditionnel у непрямій мові"
 title_fr: "Le conditionnel au discours indirect"
 description_uk: "Conditionnel як форма майбутнього в минулому та як маркер дистанційованої передачі інформації в reported speech."
-canonical_ids:
-  - "FR-618"
 level: B2
 category: moods
 register: neutral
