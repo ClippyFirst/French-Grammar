@@ -13,6 +13,7 @@ const stages = [
   ['audit:canonical', process.execPath, ['scripts/audit-canonical-coverage.mjs']],
   ['audit:site-categories', process.execPath, ['scripts/audit-site-categories.mjs', '--strict']],
   ['audit:content-schema', process.execPath, ['scripts/audit-content-schema.mjs']],
+  ['audit:markdown-format', process.execPath, ['scripts/repair-markdown-format.mjs']],
   ['audit:canonical:matrix', process.execPath, ['scripts/generate-canonical-matrix.mjs']],
   ['build', process.platform === 'win32' ? 'npm.cmd' : 'npm', ['run', 'build']],
 ];
