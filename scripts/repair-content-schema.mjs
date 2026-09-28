@@ -20,6 +20,7 @@ const scalarDefaults = new Map([
 ]);
 
 const optionalScalars = new Set(['level', 'register', 'part_of', 'reviewed_at']);
+const arrayFieldPattern = /^([A-Za-z_][A-Za-z0-9_-]*):\\s*(?:\\[.*\\]|null|~)?\\s*$/;
 const required = new Set(['title_uk', 'title_fr', 'description_uk', 'category']);
 
 function collect(dir, relativeDir = '') {
