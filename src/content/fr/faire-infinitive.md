@@ -4,7 +4,7 @@ title_fr: "Faire + infinitif : la construction causative"
 description_uk: "Системний довідник про faire + infinitif: каузативність, виконавець інфінітивної дії, займенники, часові форми та відмінність від звичайного faire."
 category: complex
 order: 722
-canonical_ids: ["FR-722"]
+
 prerequisites:
   - infinitive
   - pronouns-infinitive
