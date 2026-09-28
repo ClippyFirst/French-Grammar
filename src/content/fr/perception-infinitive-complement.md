@@ -2,7 +2,7 @@
 title_uk: "Дієслова сприйняття: інфінітив чи підрядне речення"
 title_fr: "Les verbes de perception : infinitif ou proposition subordonnée"
 description_uk: "Дієслова сприйняття: інфінітив чи підрядне речення. Довідкова стаття про конструкцію та її контраст з українською."
-canonical_ids: ["FR-721"]
+
 level: B2
 category: "Контрастивна граматика"
 register: neutral
