@@ -3,7 +3,8 @@ import { getCollection } from 'astro:content';
 import Base from '../layouts/Base.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
-import { examSections, examMeta } from '../data/exam-topics.mjs';
+import { canonicalCategory } from '../data/categories.mjs';
+import { examSections } from '../data/exam-topics.mjs';
 
 const entries = await getCollection('fr');
 const normalize = (value) => String(value ?? '')
@@ -17,7 +18,7 @@ const normalize = (value) => String(value ?? '')
 
 const catalog = entries.map((entry) => ({
   slug: entry.id.replace(/\.(md|mdx)$/i, '').split('/').pop(),
-  category: entry.data.category,
+  category: canonicalCategory(entry.data.category),
   titleUk: entry.data.title_uk,
   titleFr: entry.data.title_fr,
   aliases: entry.data.aliases ?? [],
@@ -44,23 +45,18 @@ const seen = new Map();
 for (const section of examSections) {
   for (const [title, category, exam] of section.topics) {
     const key = normalize(title);
-    if (seen.has(key)) {
-      const row = seen.get(key);
-      row.categories = [...new Set([...row.categories, category])];
-      row.exams = [...new Set([...row.exams, exam])];
-      continue;
-    }
+    if (seen.has(key)) continue;
     const topic = resolveTopic(title);
-    const row = { title, categories: [category], exams: [exam], topic };
+    const row = { title, categories: [category], exam, topic };
     seen.set(key, row);
     rows.push(row);
   }
 }
 
 const counts = {
-  nmt: rows.filter((row) => row.exams.includes('nmt') || row.exams.includes('both')).length,
-  evi: rows.filter((row) => row.exams.includes('evi') || row.exams.includes('both')).length,
-  both: rows.filter((row) => row.exams.includes('both')).length,
+  nmt: rows.filter((row) => row.exam === 'nmt' || row.exam === 'both').length,
+  evi: rows.filter((row) => row.exam === 'evi' || row.exam === 'both').length,
+  both: rows.filter((row) => row.exam === 'both').length,
 };
 ---
 
@@ -109,13 +105,13 @@ const counts = {
             const row = rows.find((item) => item.title === title);
             const topic = row?.topic;
             const href = topic ? '/fr/' + topic.category + '/' + topic.slug + '/' : '/search/?q=' + encodeURIComponent(title);
-            const badge = row?.exams.includes('both') ? 'both' : exam === 'evi' ? 'evi' : 'nmt';
+            const badge = row?.exam ?? exam;
             const badgeLabel = badge === 'both' ? 'НМТ + ЄВІ' : badge === 'evi' ? 'ЄВІ' : 'НМТ';
             return (
               <a class="exam-topic" href={href}>
                 <span class="exam-topic-main">
                   <span class="exam-topic-title">{title}</span>
-                  <span class="exam-topic-meta">{row?.categories.join(' · ') ?? category}</span>
+                  <span class="exam-topic-meta">{category}</span>
                 </span>
                 <span class="exam-topic-side">
                   <span class={'exam-badge exam-badge--' + badge}>{badgeLabel}</span>
