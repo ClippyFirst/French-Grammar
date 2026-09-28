@@ -18,7 +18,7 @@ const catalog = entries.map((entry) => ({
   summary: entry.data.description_uk, aliases: entry.data.aliases ?? [], tags: entry.data.tags ?? [],
   category: canonicalCategory(entry.data.category), code: String(topicNumber.get(entry.id) ?? 0).padStart(3, '0'),
   level: entry.data.level, featured: entry.data.featured,
-  href: '/fr/' + canonicalCategory(entry.data.category) + '/' + slugFromId(entry.id) + '/',
+  href: import.meta.env.BASE_URL + 'fr/' + canonicalCategory(entry.data.category) + '/' + slugFromId(entry.id) + '/',
 }));
 const initialQuery = Astro.url.searchParams.get('q')?.trim() ?? '';
 const initialHits = searchTopics(initialQuery, catalog, 30);
