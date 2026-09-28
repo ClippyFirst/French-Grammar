@@ -21,7 +21,7 @@ tags: [conditionnel passé, умовний спосіб, гіпотеза, жа�
 level: B2
 depth: high
 register: neutral
-variety: FR
+variety: [FR]
 contrastive_uk: high
 status: review
 sources:
@@ -341,8 +341,7 @@ Conditionnel passé не є «сильнішим минулим» і не зам
 
 Але в непрямій мові:
 
-**Il a dit qu'il viendrait.**
-
+**Il a dit qu'il viendrait.**  
 → **Він сказав, що прийде.**
 
 Український переклад не містить **би**, хоча французька форма — conditionnel présent.
@@ -484,4 +483,3 @@ Conditionnel passé не є «сильнішим минулим» і не зам
 - передавати дистанційоване медійне повідомлення.
 
 Тому найкраща стратегія — не перекладати форму механічно, а спочатку визначити її **часову, модальну та дискурсивну функцію**.
-
