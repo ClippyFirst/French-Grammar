@@ -2,8 +2,6 @@
 title_uk: "Узгодження часів у непрямій мові"
 title_fr: "La concordance des temps au discours indirect"
 description_uk: "Як часові форми співвідносяться в reported speech: simultanéité, antériorité, postériorité та залежність від часової перспективи."
-canonical_ids:
-  - "FR-614"
 level: B2
 category: modality
 register: neutral
