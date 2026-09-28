@@ -16,7 +16,8 @@ test('converts Markdown emphasis inside simple HTML blocks', () => {
 test('preserves adjacent valid emphasis spans', () => {
   assert.equal(repairLine('Найважливіші — **атрибутивна** та **предикативна**.'), 'Найважливіші — **атрибутивна** та **предикативна**.');
 });
-\ntest('does not change inline code', () => {
+
+test('does not change inline code', () => {
   assert.equal(repairLine('`** привіт **` і ** привіт **'), '`** привіт **` і **привіт**');
 });
 
