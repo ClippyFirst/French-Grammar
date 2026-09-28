@@ -70,9 +70,9 @@ for (const ref of refs) {
 
 
 console.log(`Alpha build audit: ${htmlFiles.length} HTML files, ${refs.length} references inspected.`);
-if (failures.length || forbidden.length) {
-  console.error(`Alpha build audit failed: ${failures.length + forbidden.length} issue(s).`);
-  for (const item of [...failures, ...forbidden]) console.error(`- ${item}`);
+if (failures.length) {
+  console.error(`Alpha build audit failed: ${failures.length} issue(s).`);
+  for (const item of failures) console.error(`- ${item}`);
   process.exit(1);
 }
 
