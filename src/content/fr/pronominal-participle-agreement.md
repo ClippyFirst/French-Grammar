@@ -2,6 +2,7 @@
 title_uk: "Participe passé у прономінальних дієсловах"
 title_fr: "L’accord du participe passé des verbes pronominaux"
 description_uk: "Як визначати узгодження participe passé у прономінальних дієсловах через синтаксичну функцію se та COD."
+category: agreement
 canonical_ids: ["FR-555"]
 level: B1
 prerequisites: ["pronominal-verbs", "accord"]
