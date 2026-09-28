@@ -3,7 +3,7 @@ title_uk: "Безособове se та узагальнені se-констру
 title_fr: "Le se impersonnel et les constructions génériques"
 description_uk: "Як se бере участь у пасивних, середніх та узагальнених конструкціях і чому не кожне se є безособовим."
 category: syntax
-canonical_ids: ["FR-543"]
+canonical_ids: ["FR-543", "FR-530"]
 prerequisites: ["reflexive-pronouns", "passive-reflexive"]
 related: ["impersonal-il", "passive-reflexive", "on-subject"]
 level: C1
