@@ -4,10 +4,6 @@ title_fr: "La subordination et les propositions subordonnées"
 description_uk: "Системний довідник про підрядність, типи підрядних конструкцій, відносні, умовні, причинні, наслідкові, цільові, протиставні, допустові та часові підрядні речення."
 category: complex
 order: 475
-canonical_ids:
-  - "FR-475"
-  - "FR-476"
-  - "FR-477"
 prerequisites:
   - sentence-structure
   - coordination
