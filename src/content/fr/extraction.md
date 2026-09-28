@@ -4,7 +4,7 @@ title_fr: "Extraction et dépendances à longue distance"
 description_uk: "Системний довідник екстракційних конструкцій французької: питання, відносні конструкції, cleft, порівняння та довгі синтаксичні залежності."
 category: syntax
 order: 735
-canonical_ids: ["FR-735"]
+
 prerequisites:
   - questions
   - relative-pronouns
