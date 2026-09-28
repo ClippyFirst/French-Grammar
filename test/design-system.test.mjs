@@ -2,10 +2,10 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import { readFileSync } from 'node:fs';
 
-const css = readFileSync('public/styles/global.css', 'utf8');
+const css = readFileSync('src/styles/global.css', 'utf8');
 const header = readFileSync('src/components/Header.astro', 'utf8');
 const base = readFileSync('src/layouts/Base.astro', 'utf8');
-const main = readFileSync('public/js/main.js', 'utf8');
+const main = readFileSync('src/scripts/main.js', 'utf8');
 const pages = [
   readFileSync('src/pages/index.astro', 'utf8'),
   readFileSync('src/pages/fr/index.astro', 'utf8'),
