@@ -25,7 +25,6 @@ export function catCountsFor(all) {
 }
 
 export function topicsFor(all, category) {
-  const canonical = canonicalCategory(category);
   return all.filter((e) => canonicalCategory(e.data.category) === canonical)
     .sort((a, b) => a.data.order - b.data.order)
     .map((e) => ({ title: e.data.title_uk, desc: e.data.description_uk, href: '/fr/' + canonical + '/' + slugFromId(e.id) + '/' }));
