@@ -44,7 +44,7 @@ const tocItems = section
     <div class="container">
       {cat ? (
         <header class="directory-head">
-          <h1>{cat.uk}</h1>
+          <h1><span class="category-title-uk">{cat.uk}</span><span class="category-title-fr">{cat.fr}</span></h1>
           <p class="lead">{cat.description}</p>
         </header>
       ) : (
@@ -65,3 +65,8 @@ const tocItems = section
     </div>
   </article>
 </Base>
+
+<style>
+.category-title-uk { display:block; }
+.category-title-fr { display:block; margin-top:.2rem; font-size:.55em; font-weight:500; font-style:italic; color:var(--text-muted); }
+</style>
