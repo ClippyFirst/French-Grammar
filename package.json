@@ -18,8 +18,9 @@
     "qa:full": "node scripts/qa-full.mjs",
     "audit:content-schema": "node scripts/audit-content-schema.mjs",
     "repair:content-schema": "node scripts/repair-content-schema.mjs",
-    "build:astro": "astro build",
-    "build:pagefind": "pagefind --site dist"
+    "build:astro": "npm run audit:content-schema && astro build",
+    "build:pagefind": "pagefind --site dist",
+    "qa:content": "npm run audit:content-schema && npm run repair:content-schema"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.2.1",
