@@ -3,7 +3,6 @@ title_uk: "Семантичний і граматичний рід"
 title_fr: "Genre sémantique et genre grammatical"
 description_uk: "Семантичний і граматичний рід: системний довідник для україномовного учня."
 category: "Іменник"
-canonical_ids: ["FR-060"]
 level: B2
 depth: high
 register: neutral
