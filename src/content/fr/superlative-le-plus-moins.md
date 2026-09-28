@@ -2,7 +2,7 @@
 title_uk: "le plus / le moins: найвищий ступінь"
 title_fr: "Le superlatif relatif avec le plus / le moins"
 description_uk: "Повний довідник про le plus / le moins: прикметники, прислівники, артикль, групу порівняння та випадки, де форма le не змінюється."
-canonical_ids: ["FR-565"]
+canonical_ids: ["FR-565", "FR-131"]
 level: B2
 category: comparison
 register: neutral
