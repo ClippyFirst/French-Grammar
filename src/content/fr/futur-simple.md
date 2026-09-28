@@ -18,7 +18,7 @@ tags: [futur simple, майбутній час, futur proche, conditionnel]
 level: A2
 depth: high
 register: neutral
-variety: FR
+variety: [FR]
 contrastive_uk: high
 status: review
 sources:
