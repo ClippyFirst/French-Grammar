@@ -15,7 +15,7 @@ tags: [plus-que-parfait, давноминулий, передування]
 level: B1
 depth: high
 register: neutral
-variety: FR
+variety: [FR]
 contrastive_uk: high
 status: review
 sources:
