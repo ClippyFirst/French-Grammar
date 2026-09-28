@@ -2,7 +2,7 @@
 title_uk: "plus que / moins que / aussi ... que: порівняльні конструкції"
 title_fr: "plus que / moins que / aussi ... que : les constructions comparatives"
 description_uk: "Довідка про структуру порівнянь із plus, moins, aussi та autant, включно з пропущеним повтором після que."
-canonical_ids: ["FR-561"]
+
 level: B1
 category: comparison
 register: neutral
