@@ -2,7 +2,7 @@ import { canonicalCategory } from '../data/categories.mjs';
 
 export function sitePath(path = '/') {
   const clean = '/' + String(path).replace(/^\/+/, '');
-  const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+  const base = (import.meta.env?.BASE_URL ?? '/').replace(/\/$/, '');
   return base + (clean === '/' ? '/' : clean);
 }
 
