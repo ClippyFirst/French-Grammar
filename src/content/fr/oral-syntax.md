@@ -2,7 +2,7 @@
 title_uk: "Усна французька ↔ українські усні синтаксичні моделі"
 title_fr: "Le français oral et les modèles syntaxiques ukrainiens"
 description_uk: "Контрастивний довідник про розмовний синтаксис, еліпсис, дислокацію, інтонаційні питання та відмінності усної французької й української."
-canonical_ids: ["FR-718"]
+canonical_ids: ["FR-718", "FR-651"]
 level: C1
 category: "Контрастивна граматика"
 register: spoken
