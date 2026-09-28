@@ -12,7 +12,7 @@ tags: [присвійні займенники, mon, mien, узгодження]
 level: A2
 depth: high
 register: neutral
-variety: FR
+variety: [FR]
 contrastive_uk: high
 status: review
 sources:
