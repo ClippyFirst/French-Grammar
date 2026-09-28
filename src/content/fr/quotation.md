@@ -2,8 +2,6 @@
 title_uk: "Цитування"
 title_fr: "La citation"
 description_uk: "Французькі способи цитування: дослівна цитата, вбудована цитата, авторські слова, межі цитованого фрагмента та типові графічні моделі."
-canonical_ids:
-  - "FR-610"
 level: B2
 category: indirect
 register: neutral
