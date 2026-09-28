@@ -1,4 +1,6 @@
 ---
+canonical_ids:
+  - "FR-617"
 title_uk: "Заміна просторових маркерів"
 title_fr: "Le changement des marqueurs spatiaux"
 description_uk: "Як контекст впливає на ici, là, venir, aller та інші просторові засоби під час передавання чужого висловлювання."
