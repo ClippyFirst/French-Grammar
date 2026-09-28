@@ -4,14 +4,7 @@ title_fr: "Les constructions impersonnelles"
 description_uk: "Системний довідник про формальне il, il y a, il faut, il semble, il paraît, il est + adjectif, безособове se та інші безособові конструкції."
 category: verbs
 canonical_ids:
-  - "FR-536"
-  - "FR-537"
-  - "FR-538"
-  - "FR-539"
-  - "FR-540"
-  - "FR-541"
   - "FR-542"
-  - "FR-543"
   - "FR-544"
   - "FR-321"
 order: 82
