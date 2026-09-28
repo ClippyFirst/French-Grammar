@@ -14,7 +14,7 @@ canonical_ids:
   assert.deepEqual(parseCanonicalIds(source), ['FR-001', 'FR-014']);
 });
 
-test('parseCanonicalIds also extracts inline arrays', () => {
+test('parseCanonicalIds also extracts quoted multiline IDs', () => {\n  const source = `---\ncanonical_ids:\n  - "FR-451"\n  - 'FR-452'\n---\n`;\n  assert.deepEqual(parseCanonicalIds(source), ['FR-451', 'FR-452']);\n});\n\ntest('parseCanonicalIds also extracts inline arrays', () => {
   const source = `---
 canonical_ids: ["FR-439", "FR-440"]
 ---
