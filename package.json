@@ -20,7 +20,9 @@
     "repair:content-schema": "node scripts/repair-content-schema.mjs",
     "build:astro": "npm run audit:content-schema && astro build",
     "build:pagefind": "pagefind --site dist",
-    "qa:content": "npm run repair:content-schema && npm run audit:content-schema"
+    "qa:content": "npm run repair:content-schema && npm run audit:content-schema",
+    "audit:markdown-format": "node scripts/repair-markdown-format.mjs",
+    "repair:markdown-format": "node scripts/repair-markdown-format.mjs --write"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.2.1",
