@@ -2,6 +2,7 @@
 title_uk: "Безособові конструкції та узгодження"
 title_fr: "Les constructions impersonnelles et l’accord"
 description_uk: "Як безособове il впливає на форму дієслова, participe passé та предикативних елементів."
+category: agreement
 canonical_ids: ["FR-558"]
 level: B2
 prerequisites: ["impersonal-il", "subject-verb-agreement"]
