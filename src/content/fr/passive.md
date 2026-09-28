@@ -2,7 +2,7 @@
 title_uk: "Французький пасив ↔ українські пасивні та безособові альтернативи"
 title_fr: "La voix passive française et les alternatives ukrainiennes"
 description_uk: "Контрастивний довідник про пасив, agent, українські пасивні конструкції та безособові способи передавання тієї самої ситуації."
-canonical_ids: ["FR-716"]
+canonical_ids: ["FR-716", "FR-524", "FR-525", "FR-526", "FR-527", "FR-528", "FR-529"]
 level: B2
 category: "Контрастивна граматика"
 register: neutral
