@@ -2,7 +2,7 @@
 title_uk: "pire / plus mauvais: порівняння mauvais"
 title_fr: "pire / plus mauvais : comparer avec mauvais"
 description_uk: "Довідка про pire та plus mauvais, їхню порівняльну й суперлативну поведінку та застереження щодо подвійних форм."
-canonical_ids: ["FR-564"]
+canonical_ids: ["FR-564", "FR-134"]
 level: B2
 category: comparison
 register: neutral
