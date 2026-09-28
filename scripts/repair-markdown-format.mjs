@@ -45,14 +45,14 @@ function restoreInlineCode(value, parts) {
 }
 
 function repairHtmlInline(line) {
-  return line.replace(/(<(?:p|span|div|li|td|th)(?:\\s+[^>]*)?>)(.*?)(<\\/(?:p|span|div|li|td|th)>)/g, (full, open, inner, close) => {
-    if (!/[*_]{1,2}\\S/.test(inner)) return full;
+  return line.replace(/(<(?:p|span|div|li|td|th)(?:\s+[^>]*)?>)(.*?)(<\/(?:p|span|div|li|td|th)>)/g, (full, open, inner, close) => {
+    if (!/[*_]{1,2}\S/.test(inner)) return full;
     const repaired = repairLine(inner);
     const html = repaired
-      .replace(/\\*\\*([^*\\n]+?)\\*\\*/g, '<strong>$1</strong>')
-      .replace(/(?<!\\*)\\*([^*\\n]+?)\\*(?!\\*)/g, '<em>$1</em>')
-      .replace(/__([^_\\n]+?)__/g, '<strong>$1</strong>')
-      .replace(/(?<!_)_([^_\\n]+?)_(?!_)/g, '<em>$1</em>');
+      .replace(/\*\*([^*\n]+?)\*\*/g, '<strong>$1</strong>')
+      .replace(/(?<!\*)\*([^*\n]+?)\*(?!\*)/g, '<em>$1</em>')
+      .replace(/__([^_\n]+?)__/g, '<strong>$1</strong>')
+      .replace(/(?<!_)_([^_\n]+?)_(?!_)/g, '<em>$1</em>');
     return open + html + close;
   });
 }
