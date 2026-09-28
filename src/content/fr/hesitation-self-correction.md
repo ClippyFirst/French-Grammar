@@ -4,7 +4,7 @@ title_fr: "Hésitations, auto-corrections et interruptions dans le français par
 description_uk: "Довідник про вагання, самокорекцію, повтори, обірвані конструкції та перезапуск висловлення в сучасній усній французькій."
 category: spoken
 order: 740
-canonical_ids: ["FR-740"]
+
 prerequisites:
   - phrase-enonce
   - address-interjections
