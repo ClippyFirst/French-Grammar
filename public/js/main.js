@@ -44,8 +44,4 @@
     if (event.key === 'Escape') closeNavigation();
   });
 
-  const homeInput = document.querySelector('[data-search-input]');
-  homeInput?.addEventListener('click', () => {
-    document.querySelector('[data-pagefind-modal]')?.click();
-  });
 })();
