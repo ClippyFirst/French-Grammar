@@ -9,7 +9,14 @@ test('repairs whitespace inside emphasis delimiters', () => {
   assert.equal(repairLine('Це * привіт *.'), 'Це *привіт*.');
 });
 
-test('converts Markdown emphasis inside simple HTML blocks', () => {\n  assert.equal(repairLine('  <p class="fr">**Paris**, *France*</p>'), '  <p class="fr"><strong>Paris</strong>, <em>France</em></p>');\n});\n\ntest('preserves adjacent valid emphasis spans', () => {\n  assert.equal(repairLine('Найважливіші — **атрибутивна** та **предикативна**.'), 'Найважливіші — **атрибутивна** та **предикативна**.');\n});\n\ntest('does not change inline code', () => {
+test('converts Markdown emphasis inside simple HTML blocks', () => {
+  assert.equal(repairLine('  <p class="fr">**Paris**, *France*</p>'), '  <p class="fr"><strong>Paris</strong>, <em>France</em></p>');
+});
+
+test('preserves adjacent valid emphasis spans', () => {
+  assert.equal(repairLine('Найважливіші — **атрибутивна** та **предикативна**.'), 'Найважливіші — **атрибутивна** та **предикативна**.');
+});
+\ntest('does not change inline code', () => {
   assert.equal(repairLine('`** привіт **` і ** привіт **'), '`** привіт **` і **привіт**');
 });
 
