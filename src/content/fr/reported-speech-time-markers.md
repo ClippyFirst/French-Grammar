@@ -1,4 +1,6 @@
 ---
+canonical_ids:
+  - "FR-616"
 title_uk: "Заміна часових маркерів"
 title_fr: "Le changement des marqueurs temporels"
 description_uk: "Відповідники aujourd’hui, demain, hier, maintenant та інших часових маркерів після переходу до непрямої мови."
