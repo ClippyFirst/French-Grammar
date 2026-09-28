@@ -68,14 +68,17 @@ function runStage(label, command, args) {
           windowsHide: true,
           stdio: 'ignore',
         });
-        killer.on('close', () => {
+        const finishTimeout = () => {
           if (!settled) {
             settled = true;
             clearTimeout(timeout);
             console.log(`QA: ${label} timed out.`);
             resolveStage({ label, code: 124 });
           }
-        });
+        };
+        killer.on('close', finishTimeout);
+        killer.on('error', finishTimeout);
+        setTimeout(finishTimeout, 5000);
       } else {
         child.kill('SIGTERM');
         setTimeout(() => {
