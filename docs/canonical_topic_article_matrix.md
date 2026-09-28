@@ -8,10 +8,10 @@
 | Метрика | Значення |
 |---|---:|
 | Канонічних тем | 740 |
-| Тем із хоча б однією статтею | 664 |
-| Покриття | 89.7% |
-| Тем без статті | 76 |
-| Тем із кількома статтями | 32 |
+| Тем із хоча б однією статтею | 716 |
+| Покриття | 96.8% |
+| Тем без статті | 24 |
+| Тем із кількома статтями | 109 |
 | Тем, прив’язаних до deprecated-файла | 0 |
 
 ## Матриця
@@ -35,29 +35,29 @@
 | `FR-015` | [Час, аспект, спосіб і модальність](../content/fr/tense-aspect-mood-modality.md) |
 | `FR-016` | [Регістр і варіантність як граматичні параметри](../content/fr/register-variation-parameters.md)<br>[Регістр і варіантність як граматичні параметри](../content/fr/register-variation.md) |
 | `FR-017` | [Алфавіт](../content/fr/alphabet.md) |
-| `FR-018` | [Графема і фонема](../content/fr/grapheme-phoneme.md) |
-| `FR-019` | [Голосні та приголосні](../content/fr/vowels-consonants.md) |
-| `FR-020` | [Відкриті та закриті голосні](../content/fr/open-closed-vowels.md) |
-| `FR-021` | [Носові голосні](../content/fr/nasal-vowels.md) |
-| `FR-022` | [Напівголосні та напівприголосні](../content/fr/semivowels.md) |
-| `FR-023` | [Французький /ʁ/](../content/fr/french-r.md) |
-| `FR-024` | [Склад і складова структура](../content/fr/syllable-structure.md) |
-| `FR-025` | [Наголос і фразова просодія](../content/fr/stress-prosody.md) |
-| `FR-026` | [Інтонаційні контури](../content/fr/intonation-contours.md) |
-| `FR-027` | [Schwa та e caduc](../content/fr/schwa-e-caduc.md)<br>[Schwa / e caduc](../content/fr/schwa.md) |
-| `FR-028` | [Німі кінцеві голосні](../content/fr/final-silent-vowels.md)<br>[Німі кінцеві голосні](../content/fr/silent-final-vowels.md) |
-| `FR-029` | [Німі кінцеві приголосні](../content/fr/final-silent-consonants.md)<br>[Німі кінцеві приголосні](../content/fr/silent-final-consonants.md) |
+| `FR-018` | [Графема і фонема](../content/fr/grapheme-phoneme.md)<br>[Правила читання французької: графема, вимова, мовчазні літери та основні закономірності](../content/fr/reading-rules.md) |
+| `FR-019` | [Правила читання французької: графема, вимова, мовчазні літери та основні закономірності](../content/fr/reading-rules.md)<br>[Голосні та приголосні](../content/fr/vowels-consonants.md) |
+| `FR-020` | [Відкриті та закриті голосні](../content/fr/open-closed-vowels.md)<br>[Правила читання французької: графема, вимова, мовчазні літери та основні закономірності](../content/fr/reading-rules.md) |
+| `FR-021` | [Носові голосні](../content/fr/nasal-vowels.md)<br>[Правила читання французької: графема, вимова, мовчазні літери та основні закономірності](../content/fr/reading-rules.md) |
+| `FR-022` | [Правила читання французької: графема, вимова, мовчазні літери та основні закономірності](../content/fr/reading-rules.md)<br>[Напівголосні та напівприголосні](../content/fr/semivowels.md) |
+| `FR-023` | [Французький /ʁ/](../content/fr/french-r.md)<br>[Правила читання французької: графема, вимова, мовчазні літери та основні закономірності](../content/fr/reading-rules.md) |
+| `FR-024` | [Правила читання французької: графема, вимова, мовчазні літери та основні закономірності](../content/fr/reading-rules.md)<br>[Склад і складова структура](../content/fr/syllable-structure.md) |
+| `FR-025` | [Правила читання французької: графема, вимова, мовчазні літери та основні закономірності](../content/fr/reading-rules.md)<br>[Наголос і фразова просодія](../content/fr/stress-prosody.md) |
+| `FR-026` | [Інтонаційні контури](../content/fr/intonation-contours.md)<br>[Правила читання французької: графема, вимова, мовчазні літери та основні закономірності](../content/fr/reading-rules.md) |
+| `FR-027` | [Правила читання французької: графема, вимова, мовчазні літери та основні закономірності](../content/fr/reading-rules.md)<br>[Schwa та e caduc](../content/fr/schwa-e-caduc.md)<br>[Schwa / e caduc](../content/fr/schwa.md) |
+| `FR-028` | [Німі кінцеві голосні](../content/fr/final-silent-vowels.md)<br>[Правила читання французької: графема, вимова, мовчазні літери та основні закономірності](../content/fr/reading-rules.md)<br>[Німі кінцеві голосні](../content/fr/silent-final-vowels.md) |
+| `FR-029` | [Німі кінцеві приголосні](../content/fr/final-silent-consonants.md)<br>[Правила читання французької: графема, вимова, мовчазні літери та основні закономірності](../content/fr/reading-rules.md)<br>[Німі кінцеві приголосні](../content/fr/silent-final-consonants.md) |
 | `FR-030` | [Ліація: liaison у французькій вимові](../content/fr/liaison.md) |
 | `FR-031` | [Enchaînement: зв'язування вже наявних звуків](../content/fr/enchainement.md) |
 | `FR-032` | [Елізія та апостроф](../content/fr/elision.md) |
 | `FR-033` | [H muet і H aspiré](../content/fr/h-muet-aspire.md) |
 | `FR-034` | [H muet і H aspiré](../content/fr/h-muet-aspire.md) |
-| `FR-035` | [Граматичні омоніми](../content/fr/grammatical-homophones.md) |
+| `FR-035` | [Граматичні омоніми](../content/fr/grammatical-homophones.md)<br>[Правила читання французької: графема, вимова, мовчазні літери та основні закономірності](../content/fr/reading-rules.md) |
 | `FR-036` | [Діакритичні знаки французької: aigu, grave, circonflexe, tréma, cédille](../content/fr/accents.md) |
-| `FR-037` | [Вимова закінчень дієслів](../content/fr/verb-endings-pronunciation.md) |
-| `FR-038` | [Вимова граматичних закінчень і множини](../content/fr/grammatical-endings-plural-pronunciation.md) |
-| `FR-039` | [Вимова запозичень і варіантність](../content/fr/loanword-pronunciation.md) |
-| `FR-040` | [Словникова вимова та нерегулярні відповідності](../content/fr/dictionary-pronunciation.md) |
+| `FR-037` | [Правила читання французької: графема, вимова, мовчазні літери та основні закономірності](../content/fr/reading-rules.md)<br>[Вимова закінчень дієслів](../content/fr/verb-endings-pronunciation.md) |
+| `FR-038` | [Вимова граматичних закінчень і множини](../content/fr/grammatical-endings-plural-pronunciation.md)<br>[Правила читання французької: графема, вимова, мовчазні літери та основні закономірності](../content/fr/reading-rules.md) |
+| `FR-039` | [Вимова запозичень і варіантність](../content/fr/loanword-pronunciation.md)<br>[Правила читання французької: графема, вимова, мовчазні літери та основні закономірності](../content/fr/reading-rules.md) |
+| `FR-040` | [Словникова вимова та нерегулярні відповідності](../content/fr/dictionary-pronunciation.md)<br>[Правила читання французької: графема, вимова, мовчазні літери та основні закономірності](../content/fr/reading-rules.md) |
 | `FR-041` | [Апостроф](../content/fr/apostrophe.md) |
 | `FR-042` | [Дефіс](../content/fr/hyphen.md) |
 | `FR-043` | [Складні слова та їх написання](../content/fr/compound-word-spelling.md) |
@@ -338,7 +338,7 @@
 | `FR-318` | [Participe passé: форма, функції та узгодження](../content/fr/participe-passe.md) |
 | `FR-319` | [Gérondif: одночасність, спосіб та умова](../content/fr/gerondif.md) |
 | `FR-320` | [Прономінальні дієслова](../content/fr/pronominal-verbs.md) |
-| `FR-321` | — |
+| `FR-321` | [Безособові конструкції у французькій: il y a, il faut, il semble та інші моделі](../content/fr/impersonal-verbs.md) |
 | `FR-322` | [Être та avoir як допоміжні дієслова](../content/fr/auxiliary-verbs.md) |
 | `FR-323` | [Дієслова з двома моделями допоміжного дієслова](../content/fr/two-auxiliaries.md) |
 | `FR-324` | [Перехідність дієслова: COD, COI та структура валентності](../content/fr/transitivity.md) |
@@ -363,7 +363,7 @@
 | `FR-343` | [Passé composé — складений минулий час](../content/fr/passe-compose.md) |
 | `FR-344` | [Imparfait — минулий час і внутрішня перспектива](../content/fr/imparfait.md) |
 | `FR-345` | [Imparfait — минулий час і внутрішня перспектива](../content/fr/imparfait.md) |
-| `FR-346` | — |
+| `FR-346` | [Passé composé / imparfait ↔ український доконаний / недоконаний вид](../content/fr/passe-compose-vs-imparfait.md) |
 | `FR-347` | [Plus-que-parfait — передування в минулому](../content/fr/plus-que-parfait.md) |
 | `FR-348` | [Plus-que-parfait — передування в минулому](../content/fr/plus-que-parfait.md) |
 | `FR-349` | [Passé simple: форма, наративне значення та писемний регістр](../content/fr/passe-simple.md) |
@@ -441,60 +441,60 @@
 | `FR-421` | [Ne explétif: нефункціональне ne у підрядних конструкціях](../content/fr/ne-expletif.md) |
 | `FR-422` | [Випадіння ne в усній мові](../content/fr/spoken-ne-dropping.md) |
 | `FR-423` | [Ne без pas у спеціальних конструкціях](../content/fr/ne-without-pas.md) |
-| `FR-424` | [Питання інтонацією](../content/fr/questions-intonation.md) |
-| `FR-425` | [Est-ce que](../content/fr/est-ce-que.md) |
-| `FR-426` | [Інверсія в питаннях](../content/fr/inversion-questions.md) |
-| `FR-427` | [t euphonique](../content/fr/t-euphonique.md) |
-| `FR-428` | [Qui / que / quoi у питаннях](../content/fr/qui-que-quoi-questions.md) |
-| `FR-429` | [Quel / lequel](../content/fr/quel-lequel.md) |
-| `FR-430` | [Combien](../content/fr/combien.md) |
-| `FR-431` | [Comment](../content/fr/comment.md) |
-| `FR-432` | [Pourquoi](../content/fr/pourquoi.md) |
-| `FR-433` | [Quand](../content/fr/quand.md) |
-| `FR-434` | [Où](../content/fr/ou-interrogative.md) |
-| `FR-435` | [Питання з прийменником](../content/fr/questions-prepositions.md) |
-| `FR-436` | [Непряме питання](../content/fr/indirect-questions.md) |
-| `FR-437` | [Питання у живій французькій](../content/fr/spoken-questions.md) |
-| `FR-438` | [Риторичні питання](../content/fr/rhetorical-questions.md) |
+| `FR-424` | [Питання інтонацією](../content/fr/questions-intonation.md)<br>[Питання у французькій](../content/fr/questions.md) |
+| `FR-425` | [Est-ce que](../content/fr/est-ce-que.md)<br>[Питання у французькій](../content/fr/questions.md) |
+| `FR-426` | [Інверсія в питаннях](../content/fr/inversion-questions.md)<br>[Питання у французькій](../content/fr/questions.md) |
+| `FR-427` | [Питання у французькій](../content/fr/questions.md)<br>[t euphonique](../content/fr/t-euphonique.md) |
+| `FR-428` | [Питання у французькій](../content/fr/questions.md)<br>[Qui / que / quoi у питаннях](../content/fr/qui-que-quoi-questions.md) |
+| `FR-429` | [Quel / lequel](../content/fr/quel-lequel.md)<br>[Питання у французькій](../content/fr/questions.md) |
+| `FR-430` | [Combien](../content/fr/combien.md)<br>[Питання у французькій](../content/fr/questions.md) |
+| `FR-431` | [Comment](../content/fr/comment.md)<br>[Питання у французькій](../content/fr/questions.md) |
+| `FR-432` | [Pourquoi](../content/fr/pourquoi.md)<br>[Питання у французькій](../content/fr/questions.md) |
+| `FR-433` | [Quand](../content/fr/quand.md)<br>[Питання у французькій](../content/fr/questions.md) |
+| `FR-434` | [Où](../content/fr/ou-interrogative.md)<br>[Питання у французькій](../content/fr/questions.md) |
+| `FR-435` | [Питання з прийменником](../content/fr/questions-prepositions.md)<br>[Питання у французькій](../content/fr/questions.md) |
+| `FR-436` | [Непряме питання](../content/fr/indirect-questions.md)<br>[Питання у французькій](../content/fr/questions.md) |
+| `FR-437` | [Питання у французькій](../content/fr/questions.md)<br>[Питання у живій французькій](../content/fr/spoken-questions.md) |
+| `FR-438` | [Питання у французькій](../content/fr/questions.md)<br>[Риторичні питання](../content/fr/rhetorical-questions.md) |
 | `FR-439` | [Окличні конструкції у французькій](../content/fr/exclamatives.md) |
 | `FR-440` | [Окличні конструкції у французькій](../content/fr/exclamatives.md) |
-| `FR-441` | [Базовий порядок слів у французькому реченні](../content/fr/basic-word-order.md) |
-| `FR-442` | [SVO у французькій мові](../content/fr/svo-word-order.md) |
-| `FR-443` | [Підмет і присудок](../content/fr/subject-predicate.md) |
-| `FR-444` | [Іменна частина присудка](../content/fr/nominal-predicate.md) |
-| `FR-445` | [COD, COI та complément circonstanciel у реченні](../content/fr/cod-coi-cc-position.md) |
-| `FR-446` | [Позиція об'єктних займенників](../content/fr/object-pronoun-position.md) |
-| `FR-447` | [Позиція прислівників](../content/fr/adverb-position.md) |
-| `FR-448` | [Позиція обставин](../content/fr/circumstantial-position.md) |
-| `FR-449` | [Розширення іменної групи](../content/fr/noun-group-expansion.md) |
-| `FR-450` | [Розширення дієслівної групи](../content/fr/verb-group-expansion.md) |
-| `FR-451` | — |
-| `FR-452` | — |
-| `FR-453` | — |
-| `FR-454` | [Il y a: безособова конструкція існування](../content/fr/il-y-a.md) |
-| `FR-455` | — |
-| `FR-456` | — |
+| `FR-441` | [Базовий порядок слів у французькому реченні](../content/fr/basic-word-order.md)<br>[Базова структура французького речення та порядок слів](../content/fr/sentence-structure.md) |
+| `FR-442` | [Базова структура французького речення та порядок слів](../content/fr/sentence-structure.md)<br>[SVO у французькій мові](../content/fr/svo-word-order.md) |
+| `FR-443` | [Базова структура французького речення та порядок слів](../content/fr/sentence-structure.md)<br>[Підмет і присудок](../content/fr/subject-predicate.md) |
+| `FR-444` | [Іменна частина присудка](../content/fr/nominal-predicate.md)<br>[Базова структура французького речення та порядок слів](../content/fr/sentence-structure.md) |
+| `FR-445` | [COD, COI та complément circonstanciel у реченні](../content/fr/cod-coi-cc-position.md)<br>[Базова структура французького речення та порядок слів](../content/fr/sentence-structure.md) |
+| `FR-446` | [Позиція об'єктних займенників](../content/fr/object-pronoun-position.md)<br>[Базова структура французького речення та порядок слів](../content/fr/sentence-structure.md) |
+| `FR-447` | [Позиція прислівників](../content/fr/adverb-position.md)<br>[Базова структура французького речення та порядок слів](../content/fr/sentence-structure.md) |
+| `FR-448` | [Позиція обставин](../content/fr/circumstantial-position.md)<br>[Базова структура французького речення та порядок слів](../content/fr/sentence-structure.md) |
+| `FR-449` | [Розширення іменної групи](../content/fr/noun-group-expansion.md)<br>[Базова структура французького речення та порядок слів](../content/fr/sentence-structure.md) |
+| `FR-450` | [Базова структура французького речення та порядок слів](../content/fr/sentence-structure.md)<br>[Розширення дієслівної групи](../content/fr/verb-group-expansion.md) |
+| `FR-451` | [C'est, ce sont, il y a, voici та voilà: французькі презентативні конструкції](../content/fr/presentatives.md) |
+| `FR-452` | [C'est, ce sont, il y a, voici та voilà: французькі презентативні конструкції](../content/fr/presentatives.md) |
+| `FR-453` | [C'est, ce sont, il y a, voici та voilà: французькі презентативні конструкції](../content/fr/presentatives.md) |
+| `FR-454` | [Il y a: безособова конструкція існування](../content/fr/il-y-a.md)<br>[C'est, ce sont, il y a, voici та voilà: французькі презентативні конструкції](../content/fr/presentatives.md) |
+| `FR-455` | [C'est, ce sont, il y a, voici та voilà: французькі презентативні конструкції](../content/fr/presentatives.md) |
+| `FR-456` | [C'est, ce sont, il y a, voici та voilà: французькі презентативні конструкції](../content/fr/presentatives.md) |
 | `FR-457` | [Інверсія поза звичайними питаннями](../content/fr/inversion-outside-questions.md) |
 | `FR-458` | [Еліпсис у французькій](../content/fr/ellipsis.md) |
 | `FR-459` | [Дизлокація у французькій](../content/fr/dislocation.md) |
 | `FR-460` | [Дизлокація у французькій](../content/fr/dislocation.md) |
 | `FR-461` | [Тема і рема: інформаційна організація французького висловлення](../content/fr/theme-rheme.md) |
 | `FR-462` | [Фокус у французькій: нова, релевантна й виділена інформація](../content/fr/focus.md) |
-| `FR-463` | — |
-| `FR-464` | — |
-| `FR-465` | — |
-| `FR-466` | — |
-| `FR-467` | — |
-| `FR-468` | — |
-| `FR-469` | — |
-| `FR-470` | — |
-| `FR-471` | — |
-| `FR-472` | [Складні речення: сурядність, підрядність і зв’язок частин](../content/fr/complex-sentences.md) |
-| `FR-473` | — |
-| `FR-474` | — |
-| `FR-475` | [Підрядне після дієслова](../content/fr/subordinate-after-verb.md) |
-| `FR-476` | [Підрядне після прикметника](../content/fr/subordinate-after-adjective.md) |
-| `FR-477` | [Підрядне після іменника](../content/fr/subordinate-after-noun.md) |
+| `FR-463` | [Сурядність і сурядні речення у французькій мові](../content/fr/coordination.md) |
+| `FR-464` | [Сурядність і сурядні речення у французькій мові](../content/fr/coordination.md) |
+| `FR-465` | [Сурядність і сурядні речення у французькій мові](../content/fr/coordination.md) |
+| `FR-466` | [Сурядність і сурядні речення у французькій мові](../content/fr/coordination.md) |
+| `FR-467` | [Сурядність і сурядні речення у французькій мові](../content/fr/coordination.md) |
+| `FR-468` | [Сурядність і сурядні речення у французькій мові](../content/fr/coordination.md) |
+| `FR-469` | [Сурядність і сурядні речення у французькій мові](../content/fr/coordination.md) |
+| `FR-470` | [Сурядність і сурядні речення у французькій мові](../content/fr/coordination.md) |
+| `FR-471` | [Сурядність і сурядні речення у французькій мові](../content/fr/coordination.md) |
+| `FR-472` | [Складні речення: сурядність, підрядність і зв’язок частин](../content/fr/complex-sentences.md)<br>[Сурядність і сурядні речення у французькій мові](../content/fr/coordination.md) |
+| `FR-473` | [Сурядність і сурядні речення у французькій мові](../content/fr/coordination.md) |
+| `FR-474` | [Сурядність і сурядні речення у французькій мові](../content/fr/coordination.md) |
+| `FR-475` | [Підрядне після дієслова](../content/fr/subordinate-after-verb.md)<br>[Підрядність і підрядні речення у французькій мові](../content/fr/subordination.md) |
+| `FR-476` | [Підрядне після прикметника](../content/fr/subordinate-after-adjective.md)<br>[Підрядність і підрядні речення у французькій мові](../content/fr/subordination.md) |
+| `FR-477` | [Підрядне після іменника](../content/fr/subordinate-after-noun.md)<br>[Підрядність і підрядні речення у французькій мові](../content/fr/subordination.md) |
 | `FR-478` | [Причина: exprimer la cause](../content/fr/cause.md) |
 | `FR-479` | [Наслідок: exprimer la conséquence](../content/fr/consequence.md) |
 | `FR-480` | [Мета: exprimer le but](../content/fr/purpose.md) |
@@ -502,16 +502,16 @@
 | `FR-482` | [Часові підрядні речення](../content/fr/time-clauses.md) |
 | `FR-483` | [Протиставлення: exprimer l'opposition](../content/fr/opposition.md) |
 | `FR-484` | [Уступка: exprimer la concession](../content/fr/concession.md) |
-| `FR-485` | [Підрядні порівняння](../content/fr/comparison-clauses.md) |
-| `FR-486` | [Підрядні способу дії](../content/fr/manner-clauses.md) |
-| `FR-487` | [Підрядні обмеження](../content/fr/restriction-clauses.md) |
-| `FR-488` | [Підрядні кількості та міри](../content/fr/quantity-clauses.md) |
-| `FR-489` | [Вибір часу в підрядному реченні](../content/fr/tense-selection-subordinate.md) |
-| `FR-490` | [Вибір способу в підрядному реченні](../content/fr/mood-selection-subordinate.md) |
-| `FR-491` | [Узгодження часових відношень між підрядними](../content/fr/temporal-agreement-subordinate.md) |
-| `FR-492` | [Відносне речення: структура](../content/fr/relative-clause-structure.md)<br>[Відносні підрядні речення: структура, функція, референт і складні антецеденти](../content/fr/relative-clauses.md) |
-| `FR-493` | [Визначальні відносні речення](../content/fr/defining-relatives.md)<br>[Відносні підрядні речення: структура, функція, референт і складні антецеденти](../content/fr/relative-clauses.md) |
-| `FR-494` | [Пояснювальні відносні речення](../content/fr/nonrestrictive-relatives.md)<br>[Відносні підрядні речення: структура, функція, референт і складні антецеденти](../content/fr/relative-clauses.md) |
+| `FR-485` | [Підрядні порівняння](../content/fr/comparison-clauses.md)<br>[Непряма мова — передавання висловлювань, питань і наказів](../content/fr/indirect-speech.md) |
+| `FR-486` | [Непряма мова — передавання висловлювань, питань і наказів](../content/fr/indirect-speech.md)<br>[Підрядні способу дії](../content/fr/manner-clauses.md) |
+| `FR-487` | [Непряма мова — передавання висловлювань, питань і наказів](../content/fr/indirect-speech.md)<br>[Підрядні обмеження](../content/fr/restriction-clauses.md) |
+| `FR-488` | [Непряма мова — передавання висловлювань, питань і наказів](../content/fr/indirect-speech.md)<br>[Підрядні кількості та міри](../content/fr/quantity-clauses.md) |
+| `FR-489` | [Непряма мова — передавання висловлювань, питань і наказів](../content/fr/indirect-speech.md)<br>[Вибір часу в підрядному реченні](../content/fr/tense-selection-subordinate.md) |
+| `FR-490` | [Непряма мова — передавання висловлювань, питань і наказів](../content/fr/indirect-speech.md)<br>[Вибір способу в підрядному реченні](../content/fr/mood-selection-subordinate.md) |
+| `FR-491` | [Непряма мова — передавання висловлювань, питань і наказів](../content/fr/indirect-speech.md)<br>[Узгодження часових відношень між підрядними](../content/fr/temporal-agreement-subordinate.md) |
+| `FR-492` | [Непряма мова — передавання висловлювань, питань і наказів](../content/fr/indirect-speech.md)<br>[Відносне речення: структура](../content/fr/relative-clause-structure.md)<br>[Відносні підрядні речення: структура, функція, референт і складні антецеденти](../content/fr/relative-clauses.md) |
+| `FR-493` | [Визначальні відносні речення](../content/fr/defining-relatives.md)<br>[Непряма мова — передавання висловлювань, питань і наказів](../content/fr/indirect-speech.md)<br>[Відносні підрядні речення: структура, функція, референт і складні антецеденти](../content/fr/relative-clauses.md) |
+| `FR-494` | [Непряма мова — передавання висловлювань, питань і наказів](../content/fr/indirect-speech.md)<br>[Пояснювальні відносні речення](../content/fr/nonrestrictive-relatives.md)<br>[Відносні підрядні речення: структура, функція, референт і складні антецеденти](../content/fr/relative-clauses.md) |
 | `FR-495` | [Qui як відносний займенник](../content/fr/relative-qui.md) |
 | `FR-496` | [Que як відносний займенник](../content/fr/relative-que.md) |
 | `FR-497` | [Dont як відносний займенник](../content/fr/relative-dont.md) |
@@ -553,32 +553,32 @@
 | `FR-533` | — |
 | `FR-534` | [Laisser + infinitif: дозволова конструкція](../content/fr/laisser-infinitive.md) |
 | `FR-535` | [Faire + infinitif: каузативна конструкція](../content/fr/causative-faire-infinitive.md) |
-| `FR-536` | [Il y a: безособова конструкція існування](../content/fr/il-y-a.md) |
-| `FR-537` | [Il faut: необхідність і безособова модальність](../content/fr/il-faut.md) |
-| `FR-538` | [Il semble: безособове вираження враження та ймовірності](../content/fr/il-semble.md) |
-| `FR-539` | [Il paraît: враження, повідомлення та безособова конструкція](../content/fr/il-parait.md) |
-| `FR-540` | [Il est + прикметник: безособова оцінка](../content/fr/il-est-adjectif.md) |
-| `FR-541` | [Безособове il: формальний підмет у французькій](../content/fr/impersonal-il.md) |
-| `FR-542` | — |
-| `FR-543` | [Безособове se та узагальнені se-конструкції](../content/fr/impersonal-se.md) |
-| `FR-544` | — |
-| `FR-545` | [Узгодження підмета і дієслова](../content/fr/subject-verb-agreement.md) |
-| `FR-546` | [Узгодження при складеному підметі](../content/fr/compound-subject-agreement.md) |
-| `FR-547` | [Узгодження з колективними іменниками](../content/fr/collective-nouns-agreement.md) |
-| `FR-548` | [Узгодження з відсотками](../content/fr/percentage-agreement.md) |
-| `FR-549` | [Узгодження з кількісними групами](../content/fr/quantity-agreement.md) |
+| `FR-536` | [Il y a: безособова конструкція існування](../content/fr/il-y-a.md)<br>[Безособові конструкції у французькій: il y a, il faut, il semble та інші моделі](../content/fr/impersonal-verbs.md) |
+| `FR-537` | [Il faut: необхідність і безособова модальність](../content/fr/il-faut.md)<br>[Безособові конструкції у французькій: il y a, il faut, il semble та інші моделі](../content/fr/impersonal-verbs.md) |
+| `FR-538` | [Il semble: безособове вираження враження та ймовірності](../content/fr/il-semble.md)<br>[Безособові конструкції у французькій: il y a, il faut, il semble та інші моделі](../content/fr/impersonal-verbs.md) |
+| `FR-539` | [Il paraît: враження, повідомлення та безособова конструкція](../content/fr/il-parait.md)<br>[Безособові конструкції у французькій: il y a, il faut, il semble та інші моделі](../content/fr/impersonal-verbs.md) |
+| `FR-540` | [Il est + прикметник: безособова оцінка](../content/fr/il-est-adjectif.md)<br>[Безособові конструкції у французькій: il y a, il faut, il semble та інші моделі](../content/fr/impersonal-verbs.md) |
+| `FR-541` | [Безособове il: формальний підмет у французькій](../content/fr/impersonal-il.md)<br>[Безособові конструкції у французькій: il y a, il faut, il semble та інші моделі](../content/fr/impersonal-verbs.md) |
+| `FR-542` | [Безособові конструкції у французькій: il y a, il faut, il semble та інші моделі](../content/fr/impersonal-verbs.md) |
+| `FR-543` | [Безособове se та узагальнені se-конструкції](../content/fr/impersonal-se.md)<br>[Безособові конструкції у французькій: il y a, il faut, il semble та інші моделі](../content/fr/impersonal-verbs.md) |
+| `FR-544` | [Безособові конструкції у французькій: il y a, il faut, il semble та інші моделі](../content/fr/impersonal-verbs.md) |
+| `FR-545` | [Узгодження у французькій: підмет, прикметник і participe passé](../content/fr/accord.md)<br>[Узгодження підмета і дієслова](../content/fr/subject-verb-agreement.md) |
+| `FR-546` | [Узгодження у французькій: підмет, прикметник і participe passé](../content/fr/accord.md)<br>[Узгодження при складеному підметі](../content/fr/compound-subject-agreement.md) |
+| `FR-547` | [Узгодження у французькій: підмет, прикметник і participe passé](../content/fr/accord.md)<br>[Узгодження з колективними іменниками](../content/fr/collective-nouns-agreement.md) |
+| `FR-548` | [Узгодження у французькій: підмет, прикметник і participe passé](../content/fr/accord.md)<br>[Узгодження з відсотками](../content/fr/percentage-agreement.md) |
+| `FR-549` | [Узгодження у французькій: підмет, прикметник і participe passé](../content/fr/accord.md)<br>[Узгодження з кількісними групами](../content/fr/quantity-agreement.md) |
 | `FR-550` | [Узгодження прикметника у французькій: рід, число, позиція та складні випадки](../content/fr/adjective-agreement.md) |
-| `FR-551` | [Узгодження детермінатива](../content/fr/determiner-agreement.md) |
-| `FR-552` | [Participe passé з être](../content/fr/past-participle-etre-agreement.md) |
-| `FR-553` | — |
-| `FR-554` | [COD перед avoir](../content/fr/cod-before-avoir.md) |
+| `FR-551` | [Узгодження у французькій: підмет, прикметник і participe passé](../content/fr/accord.md)<br>[Узгодження детермінатива](../content/fr/determiner-agreement.md) |
+| `FR-552` | [Узгодження у французькій: підмет, прикметник і participe passé](../content/fr/accord.md)<br>[Participe passé з être](../content/fr/past-participle-etre-agreement.md) |
+| `FR-553` | [Узгодження у французькій: підмет, прикметник і participe passé](../content/fr/accord.md) |
+| `FR-554` | [Узгодження у французькій: підмет, прикметник і participe passé](../content/fr/accord.md)<br>[COD перед avoir](../content/fr/cod-before-avoir.md) |
 | `FR-555` | [Participe passé у прономінальних дієсловах](../content/fr/pronominal-participle-agreement.md) |
 | `FR-556` | [Попередній COD і узгодження participe passé](../content/fr/previous-cod.md) |
 | `FR-557` | [Participe passé перед інфінітивом](../content/fr/participle-infinitive-agreement.md) |
 | `FR-558` | [Безособові конструкції та узгодження](../content/fr/impersonal-accord.md) |
 | `FR-559` | [Складні випадки французького узгодження](../content/fr/complex-agreement.md) |
-| `FR-560` | [plus / moins / aussi: базова система порівняння](../content/fr/comparatives-plus-moins-aussi.md) |
-| `FR-561` | [plus que / moins que / aussi ... que: порівняльні конструкції](../content/fr/comparative-que.md) |
+| `FR-560` | [Порівняльний і найвищий ступінь](../content/fr/comparative-superlative.md)<br>[plus / moins / aussi: базова система порівняння](../content/fr/comparatives-plus-moins-aussi.md) |
+| `FR-561` | [plus que / moins que / aussi ... que: порівняльні конструкції](../content/fr/comparative-que.md)<br>[Порівняльний і найвищий ступінь](../content/fr/comparative-superlative.md) |
 | `FR-562` | [autant / davantage](../content/fr/autant-davantage.md) |
 | `FR-563` | [meilleur / mieux: прикметникове та прислівникове порівняння](../content/fr/meilleur-mieux.md) |
 | `FR-564` | [pire / plus mauvais: порівняння mauvais](../content/fr/pire-plus-mauvais.md) |
@@ -626,51 +626,51 @@
 | `FR-606` | [Модальність обов'язку](../content/fr/modality-obligation.md) |
 | `FR-607` | [Модальність дозволу](../content/fr/modality-permission.md) |
 | `FR-608` | [Евіденційна / дистанційна функція conditionnel](../content/fr/conditionnel-evidential.md) |
-| `FR-609` | [Узгодження після кількісних виразів](../content/fr/number-quantifier-agreement.md) |
-| `FR-610` | [Узгодження в конструкціях приблизної кількості](../content/fr/approximate-quantity-agreement.md)<br>[Цитування](../content/fr/quoting.md) |
-| `FR-611` | — |
-| `FR-612` | — |
-| `FR-613` | — |
-| `FR-614` | [Узгодження часів у непрямій мові](../content/fr/reported-speech-sequence-of-tenses.md) |
-| `FR-615` | [Заміна особових займенників](../content/fr/reported-speech-pronoun-shift.md) |
-| `FR-616` | [Заміна часових маркерів](../content/fr/reported-speech-time-markers.md) |
-| `FR-617` | [Заміна просторових маркерів](../content/fr/reported-speech-place-markers.md) |
-| `FR-618` | [Conditionnel у непрямій мові](../content/fr/reported-speech-conditionnel.md) |
-| `FR-619` | [Узгодження модальності](../content/fr/reported-speech-modality.md) |
-| `FR-620` | — |
+| `FR-609` | [Пряма мова](../content/fr/direct-speech.md)<br>[Узгодження після кількісних виразів](../content/fr/number-quantifier-agreement.md) |
+| `FR-610` | [Узгодження в конструкціях приблизної кількості](../content/fr/approximate-quantity-agreement.md)<br>[Цитування](../content/fr/quotation.md)<br>[Цитування](../content/fr/quoting.md) |
+| `FR-611` | [Непряма розповідь](../content/fr/reported-narrative.md) |
+| `FR-612` | [Непряме питання](../content/fr/indirect-question.md) |
+| `FR-613` | [Непрямий наказ і прохання](../content/fr/indirect-command-request.md) |
+| `FR-614` | [Узгодження часів у непрямій мові](../content/fr/reported-sequence.md)<br>[Узгодження часів у непрямій мові](../content/fr/reported-speech-sequence-of-tenses.md) |
+| `FR-615` | [Заміна особових займенників у непрямій мові](../content/fr/pronoun-shift-reported.md)<br>[Заміна особових займенників](../content/fr/reported-speech-pronoun-shift.md) |
+| `FR-616` | [Заміна часових маркерів](../content/fr/reported-speech-time-markers.md)<br>[Заміна часових маркерів у непрямій мові](../content/fr/temporal-markers-reported.md) |
+| `FR-617` | [Заміна просторових маркерів](../content/fr/reported-speech-place-markers.md)<br>[Заміна просторових маркерів у непрямій мові](../content/fr/spatial-markers-reported.md) |
+| `FR-618` | [Conditionnel у непрямій мові](../content/fr/conditionnel-reported.md)<br>[Conditionnel у непрямій мові](../content/fr/reported-speech-conditionnel.md) |
+| `FR-619` | [Узгодження модальності в непрямій мові](../content/fr/modality-reported.md)<br>[Узгодження модальності](../content/fr/reported-speech-modality.md) |
+| `FR-620` | [Пунктуація цитування](../content/fr/quotation-punctuation.md) |
 | `FR-621` | [Тема і рема: інформаційна організація французького висловлення](../content/fr/theme-rheme.md) |
 | `FR-622` | [Фокус у французькій: нова, релевантна й виділена інформація](../content/fr/focus.md) |
-| `FR-623` | — |
-| `FR-624` | — |
-| `FR-625` | — |
-| `FR-626` | — |
+| `FR-623` | [Контрастивний фокус: протиставлення, корекція та альтернативи](../content/fr/contrastive-focus.md) |
+| `FR-624` | [Розщеплені (cleft) конструкції](../content/fr/cleft-constructions.md) |
+| `FR-625` | [C'est ... qui / que](../content/fr/cest-qui-que.md) |
+| `FR-626` | [Ce qui ... c'est ... / Ce que ... c'est ...](../content/fr/ce-qui-cest.md) |
 | `FR-627` | [Дизлокація у французькій](../content/fr/dislocation.md) |
-| `FR-628` | — |
-| `FR-629` | — |
-| `FR-630` | — |
-| `FR-631` | — |
-| `FR-632` | — |
-| `FR-633` | — |
+| `FR-628` | [Топікалізація: тематизація компонентів у французькому реченні](../content/fr/topicalization.md) |
+| `FR-629` | [Інверсія як інформаційна структура](../content/fr/inversion-information.md) |
+| `FR-630` | [Презентативні конструкції](../content/fr/presentational-structures.md) |
+| `FR-631` | [Анафорична референція](../content/fr/anaphoric-reference.md) |
+| `FR-632` | [Катафорична референція](../content/fr/cataphoric-reference.md) |
+| `FR-633` | [Референція займенників](../content/fr/pronoun-reference.md) |
 | `FR-634` | [Еліпсис у французькій](../content/fr/ellipsis.md) |
-| `FR-635` | — |
-| `FR-636` | — |
-| `FR-637` | — |
-| `FR-638` | — |
-| `FR-639` | — |
-| `FR-640` | — |
-| `FR-641` | — |
-| `FR-642` | — |
-| `FR-643` | — |
-| `FR-644` | [Випадіння ne](../content/fr/ne-deletion.md) |
-| `FR-645` | — |
-| `FR-646` | — |
-| `FR-647` | — |
-| `FR-648` | — |
-| `FR-649` | — |
-| `FR-650` | — |
+| `FR-635` | [Повторення і переформулювання](../content/fr/repetition-reformulation.md) |
+| `FR-636` | [Дискурсивні конектори](../content/fr/discourse-connectors.md) |
+| `FR-637` | [Дискурсивні частки](../content/fr/discourse-particles.md) |
+| `FR-638` | [Стандартна писемна французька](../content/fr/standard-written-french.md) |
+| `FR-639` | [Стандартна усна французька](../content/fr/standard-spoken-french.md) |
+| `FR-640` | [Нейтральний регістр](../content/fr/neutral-register.md) |
+| `FR-641` | [Формальний регістр](../content/fr/formal-register.md) |
+| `FR-642` | [Неформальний регістр](../content/fr/informal-register.md) |
+| `FR-643` | [Літературний регістр](../content/fr/literary-register.md) |
+| `FR-644` | [Випадіння ne](../content/fr/ne-deletion.md)<br>[Випадіння ne](../content/fr/ne-dropping.md) |
+| `FR-645` | [Усні скорочення](../content/fr/oral-reductions.md) |
+| `FR-646` | [Розмовні питання](../content/fr/colloquial-questions.md) |
+| `FR-647` | [Розмовний порядок займенників](../content/fr/colloquial-pronoun-order.md) |
+| `FR-648` | [On у живій мові](../content/fr/on-spoken.md) |
+| `FR-649` | [Повторення та дислокація підмета](../content/fr/subject-dislocation.md) |
+| `FR-650` | [Частки та fillers](../content/fr/fillers.md) |
 | `FR-651` | — |
-| `FR-652` | — |
-| `FR-653` | — |
+| `FR-652` | [Written ↔ spoken contrasts](../content/fr/written-spoken-contrast.md) |
+| `FR-653` | [Граматична варіантність у сучасному вжитку](../content/fr/grammatical-variation.md) |
 | `FR-654` | [Стандартна французька Франції](../content/fr/standard-french-france.md) |
 | `FR-655` | [Французька Квебеку](../content/fr/quebec-french.md) |
 | `FR-656` | [Французька Бельгії](../content/fr/belgian-french.md) |
@@ -723,7 +723,7 @@
 | `FR-703` | [y / en ↔ відсутність прямого одно-до-одного відповідника](../content/fr/y-en-contrast.md) |
 | `FR-704` | [Французькі прийменники ↔ українські відмінки + прийменники](../content/fr/prepositions-vs-cases.md) |
 | `FR-705` | [Французькі часові форми ↔ українська видо-часова система](../content/fr/tense-vs-aspect-ukrainian.md) |
-| `FR-706` | [Passé composé / imparfait ↔ український доконаний / недоконаний вид](../content/fr/passe-compose-vs-aspect.md) |
+| `FR-706` | [Passé composé / imparfait ↔ український доконаний / недоконаний вид](../content/fr/passe-compose-vs-aspect.md)<br>[Passé composé / imparfait ↔ український доконаний / недоконаний вид](../content/fr/passe-compose-vs-imparfait.md) |
 | `FR-707` | [Conditionnel ↔ українські умовні конструкції](../content/fr/conditionnel-contrast.md) |
 | `FR-708` | [Subjonctif ↔ українські синтаксичні засоби модальності](../content/fr/subjonctif-contrast.md) |
 | `FR-709` | [Французький impératif ↔ український наказовий спосіб](../content/fr/imperatif-contrast.md) |
@@ -772,24 +772,6 @@
 - `FR-136`
 - `FR-137`
 - `FR-138`
-- `FR-321`
-- `FR-346`
-- `FR-451`
-- `FR-452`
-- `FR-453`
-- `FR-455`
-- `FR-456`
-- `FR-463`
-- `FR-464`
-- `FR-465`
-- `FR-466`
-- `FR-467`
-- `FR-468`
-- `FR-469`
-- `FR-470`
-- `FR-471`
-- `FR-473`
-- `FR-474`
 - `FR-515`
 - `FR-524`
 - `FR-525`
@@ -801,65 +783,108 @@
 - `FR-531`
 - `FR-532`
 - `FR-533`
-- `FR-542`
-- `FR-544`
-- `FR-553`
-- `FR-611`
-- `FR-612`
-- `FR-613`
-- `FR-620`
-- `FR-623`
-- `FR-624`
-- `FR-625`
-- `FR-626`
-- `FR-628`
-- `FR-629`
-- `FR-630`
-- `FR-631`
-- `FR-632`
-- `FR-633`
-- `FR-635`
-- `FR-636`
-- `FR-637`
-- `FR-638`
-- `FR-639`
-- `FR-640`
-- `FR-641`
-- `FR-642`
-- `FR-643`
-- `FR-645`
-- `FR-646`
-- `FR-647`
-- `FR-648`
-- `FR-649`
-- `FR-650`
 - `FR-651`
-- `FR-652`
-- `FR-653`
 - `FR-728`
 
 ## Duplicate mappings
 
 - `FR-010` → `cod-coi-complements`, `grammatical-functions-cod-coi-complement`
 - `FR-016` → `register-variation-parameters`, `register-variation`
-- `FR-027` → `schwa-e-caduc`, `schwa`
-- `FR-028` → `final-silent-vowels`, `silent-final-vowels`
-- `FR-029` → `final-silent-consonants`, `silent-final-consonants`
+- `FR-018` → `grapheme-phoneme`, `reading-rules`
+- `FR-019` → `reading-rules`, `vowels-consonants`
+- `FR-020` → `open-closed-vowels`, `reading-rules`
+- `FR-021` → `nasal-vowels`, `reading-rules`
+- `FR-022` → `reading-rules`, `semivowels`
+- `FR-023` → `french-r`, `reading-rules`
+- `FR-024` → `reading-rules`, `syllable-structure`
+- `FR-025` → `reading-rules`, `stress-prosody`
+- `FR-026` → `intonation-contours`, `reading-rules`
+- `FR-027` → `reading-rules`, `schwa-e-caduc`, `schwa`
+- `FR-028` → `final-silent-vowels`, `reading-rules`, `silent-final-vowels`
+- `FR-029` → `final-silent-consonants`, `reading-rules`, `silent-final-consonants`
+- `FR-035` → `grammatical-homophones`, `reading-rules`
+- `FR-037` → `reading-rules`, `verb-endings-pronunciation`
+- `FR-038` → `grammatical-endings-plural-pronunciation`, `reading-rules`
+- `FR-039` → `loanword-pronunciation`, `reading-rules`
+- `FR-040` → `dictionary-pronunciation`, `reading-rules`
 - `FR-048` → `capital-letters`, `capitalization`
 - `FR-060` → `noun-gender`, `semantic-gender`
 - `FR-144` → `pronouns-personal`, `pronouns-toniques`
 - `FR-145` → `pronouns-personal`, `pronouns-toniques`
-- `FR-492` → `relative-clause-structure`, `relative-clauses`
-- `FR-493` → `defining-relatives`, `relative-clauses`
-- `FR-494` → `nonrestrictive-relatives`, `relative-clauses`
+- `FR-424` → `questions-intonation`, `questions`
+- `FR-425` → `est-ce-que`, `questions`
+- `FR-426` → `inversion-questions`, `questions`
+- `FR-427` → `questions`, `t-euphonique`
+- `FR-428` → `questions`, `qui-que-quoi-questions`
+- `FR-429` → `quel-lequel`, `questions`
+- `FR-430` → `combien`, `questions`
+- `FR-431` → `comment`, `questions`
+- `FR-432` → `pourquoi`, `questions`
+- `FR-433` → `quand`, `questions`
+- `FR-434` → `ou-interrogative`, `questions`
+- `FR-435` → `questions-prepositions`, `questions`
+- `FR-436` → `indirect-questions`, `questions`
+- `FR-437` → `questions`, `spoken-questions`
+- `FR-438` → `questions`, `rhetorical-questions`
+- `FR-441` → `basic-word-order`, `sentence-structure`
+- `FR-442` → `sentence-structure`, `svo-word-order`
+- `FR-443` → `sentence-structure`, `subject-predicate`
+- `FR-444` → `nominal-predicate`, `sentence-structure`
+- `FR-445` → `cod-coi-cc-position`, `sentence-structure`
+- `FR-446` → `object-pronoun-position`, `sentence-structure`
+- `FR-447` → `adverb-position`, `sentence-structure`
+- `FR-448` → `circumstantial-position`, `sentence-structure`
+- `FR-449` → `noun-group-expansion`, `sentence-structure`
+- `FR-450` → `sentence-structure`, `verb-group-expansion`
+- `FR-454` → `il-y-a`, `presentatives`
+- `FR-472` → `complex-sentences`, `coordination`
+- `FR-475` → `subordinate-after-verb`, `subordination`
+- `FR-476` → `subordinate-after-adjective`, `subordination`
+- `FR-477` → `subordinate-after-noun`, `subordination`
+- `FR-485` → `comparison-clauses`, `indirect-speech`
+- `FR-486` → `indirect-speech`, `manner-clauses`
+- `FR-487` → `indirect-speech`, `restriction-clauses`
+- `FR-488` → `indirect-speech`, `quantity-clauses`
+- `FR-489` → `indirect-speech`, `tense-selection-subordinate`
+- `FR-490` → `indirect-speech`, `mood-selection-subordinate`
+- `FR-491` → `indirect-speech`, `temporal-agreement-subordinate`
+- `FR-492` → `indirect-speech`, `relative-clause-structure`, `relative-clauses`
+- `FR-493` → `defining-relatives`, `indirect-speech`, `relative-clauses`
+- `FR-494` → `indirect-speech`, `nonrestrictive-relatives`, `relative-clauses`
 - `FR-505` → `relative-antecedent`, `relative-clauses`
 - `FR-506` → `multiple-antecedents-relative`, `relative-clauses`
+- `FR-536` → `il-y-a`, `impersonal-verbs`
+- `FR-537` → `il-faut`, `impersonal-verbs`
+- `FR-538` → `il-semble`, `impersonal-verbs`
+- `FR-539` → `il-parait`, `impersonal-verbs`
+- `FR-540` → `il-est-adjectif`, `impersonal-verbs`
+- `FR-541` → `impersonal-il`, `impersonal-verbs`
+- `FR-543` → `impersonal-se`, `impersonal-verbs`
+- `FR-545` → `accord`, `subject-verb-agreement`
+- `FR-546` → `accord`, `compound-subject-agreement`
+- `FR-547` → `accord`, `collective-nouns-agreement`
+- `FR-548` → `accord`, `percentage-agreement`
+- `FR-549` → `accord`, `quantity-agreement`
+- `FR-551` → `accord`, `determiner-agreement`
+- `FR-552` → `accord`, `past-participle-etre-agreement`
+- `FR-554` → `accord`, `cod-before-avoir`
+- `FR-560` → `comparative-superlative`, `comparatives-plus-moins-aussi`
+- `FR-561` → `comparative-que`, `comparative-superlative`
 - `FR-571` → `indefinite-quantity`, `quantifiers`
 - `FR-572` → `approximate-quantity`, `quantifiers`
 - `FR-573` → `measure-intensity`, `quantifiers`
 - `FR-574` → `quantifier-article`, `quantifiers`
-- `FR-610` → `approximate-quantity-agreement`, `quoting`
+- `FR-609` → `direct-speech`, `number-quantifier-agreement`
+- `FR-610` → `approximate-quantity-agreement`, `quotation`, `quoting`
+- `FR-614` → `reported-sequence`, `reported-speech-sequence-of-tenses`
+- `FR-615` → `pronoun-shift-reported`, `reported-speech-pronoun-shift`
+- `FR-616` → `reported-speech-time-markers`, `temporal-markers-reported`
+- `FR-617` → `reported-speech-place-markers`, `spatial-markers-reported`
+- `FR-618` → `conditionnel-reported`, `reported-speech-conditionnel`
+- `FR-619` → `modality-reported`, `reported-speech-modality`
+- `FR-644` → `ne-deletion`, `ne-dropping`
 - `FR-688` → `extraction-long-distance`, `long-distance-dependencies`
+- `FR-706` → `passe-compose-vs-aspect`, `passe-compose-vs-imparfait`
 - `FR-719` → `complex-verbal-expressions`, `verbal-periphrases`
 - `FR-720` → `movement-infinitive`, `movement-verbs-infinitive`
 - `FR-721` → `perception-infinitive-complement`, `perception-infinitive`, `perception-verbs-infinitive`

@@ -1,57 +1,73 @@
 # French Grammar — full QA report
 
-Started: 2026-09-28T14:07:05.512Z
+Started: 2026-09-28T14:12:08.617Z
 Repository: ClippyFirst/French-Grammar
 Working directory: F:\GitHub\Grammars\French Grammar
 ## test
 
 Command: C:\Program Files\nodejs\node.exe --test
-Started: 2026-09-28T14:07:05.514Z
-✔ parseCanonicalIds extracts canonical IDs from frontmatter (1.8686ms)
-✔ parseCanonicalIds also extracts inline arrays (0.254ms)
-✔ auditCanonicalCoverage reports missing, invalid and duplicate mappings (1.5852ms)
-✔ auditCanonicalCoverage detects duplicate catalog IDs and duplicate IDs inside one file (0.2576ms)
-✔ auditCanonicalCoverage reports canonical mappings on deprecated files (0.205ms)
-✔ parseStatus normalizes legacy status values (0.3103ms)
-✔ auditCanonicalCoverage detects a non-contiguous canonical catalog (0.1747ms)
-✔ parseCatalogIds ignores historical audit bullet lists outside the live catalog (0.3548ms)
-✔ relatedFor resolves a plain canonical slug (3.8739ms)
-✔ relatedFor preserves category/slug references for legacy content (0.2698ms)
-✔ relatedFor does not silently resolve an ambiguous plain slug (0.1761ms)
-✔ canonicalCategory normalizes legacy site categories (0.3713ms)
-✔ slugFromId normalizes extension and nested IDs (0.1598ms)
-✔ navigation helpers group legacy categories under canonical sections (0.4795ms)
-✔ category catalog and layers stay in sync (0.5288ms)
-ℹ tests 15
+Started: 2026-09-28T14:12:08.619Z
+file:///F:/GitHub/Grammars/French%20Grammar/test/canonical-coverage.test.mjs:17
+test('parseCanonicalIds also extracts quoted multiline IDs', () => {\n  const source = `---\ncanonical_ids:\n  - "FR-451"\n  - 'FR-452'\n---\n`;\n  assert.deepEqual(parseCanonicalIds(source), ['FR-451', 'FR-452']);\n});\n\ntest('parseCanonicalIds also extracts inline arrays', () => {
+                                                                    ^
+
+SyntaxError: Invalid or unexpected token
+    at compileSourceTextModule (node:internal/modules/esm/utils:318:16)
+    at ModuleLoader.moduleStrategy (node:internal/modules/esm/translators:89:18)
+    at #translate (node:internal/modules/esm/loader:434:20)
+    at afterLoad (node:internal/modules/esm/loader:502:29)
+    at ModuleLoader.loadAndTranslate (node:internal/modules/esm/loader:507:12)
+    at #getOrCreateModuleJobAfterResolve (node:internal/modules/esm/loader:560:36)
+    at afterResolve (node:internal/modules/esm/loader:607:52)
+    at ModuleLoader.getOrCreateModuleJob (node:internal/modules/esm/loader:613:12)
+    at node:internal/modules/esm/loader:632:32
+    at TracingChannel.tracePromise (node:diagnostics_channel:362:14)
+
+Node.js v24.19.0
+✖ test\canonical-coverage.test.mjs (85.3253ms)
+✔ relatedFor resolves a plain canonical slug (3.0773ms)
+✔ relatedFor preserves category/slug references for legacy content (0.256ms)
+✔ relatedFor does not silently resolve an ambiguous plain slug (0.2236ms)
+✔ canonicalCategory normalizes legacy site categories (0.2229ms)
+✔ slugFromId normalizes extension and nested IDs (0.1749ms)
+✔ navigation helpers group legacy categories under canonical sections (0.4603ms)
+✔ category catalog and layers stay in sync (0.2302ms)
+ℹ tests 8
 ℹ suites 0
-ℹ pass 15
-ℹ fail 0
+ℹ pass 7
+ℹ fail 1
 ℹ cancelled 0
 ℹ skipped 0
 ℹ todo 0
-ℹ duration_ms 231.9519
+ℹ duration_ms 298.4211
 
-Finished: 2026-09-28T14:07:05.842Z
-Exit code: 0
+✖ failing tests:
+
+test at test\canonical-coverage.test.mjs:1:1
+✖ test\canonical-coverage.test.mjs (85.3253ms)
+  'test failed'
+
+Finished: 2026-09-28T14:12:09.043Z
+Exit code: 1
 Signal: none
-Duration: 0.3s
+Duration: 0.4s
 ## audit:canonical
 
 Command: C:\Program Files\nodejs\node.exe scripts/audit-canonical-coverage.mjs
-Started: 2026-09-28T14:07:05.843Z
+Started: 2026-09-28T14:12:09.043Z
 # Canonical coverage audit
 
 - Catalog topics: 740
 - Canonical sequence gaps: 0
-- Covered topics: 664
-- Coverage: 89.7%
-- Missing topics: 76
+- Covered topics: 716
+- Coverage: 96.8%
+- Missing topics: 24
 - Invalid IDs: 0
-- Duplicate mappings: 32
+- Duplicate mappings: 109
 - Duplicate catalog IDs: 0
 - Duplicate IDs inside files: 0
 - Deprecated-file mappings: 0
-- Files without explicit canonical IDs: 66
+- Files without explicit canonical IDs: 15
 
 ## Missing
 - FR-114
@@ -65,24 +81,6 @@ Started: 2026-09-28T14:07:05.843Z
 - FR-136
 - FR-137
 - FR-138
-- FR-321
-- FR-346
-- FR-451
-- FR-452
-- FR-453
-- FR-455
-- FR-456
-- FR-463
-- FR-464
-- FR-465
-- FR-466
-- FR-467
-- FR-468
-- FR-469
-- FR-470
-- FR-471
-- FR-473
-- FR-474
 - FR-515
 - FR-524
 - FR-525
@@ -94,64 +92,107 @@ Started: 2026-09-28T14:07:05.843Z
 - FR-531
 - FR-532
 - FR-533
-- FR-542
-- FR-544
-- FR-553
-- FR-611
-- FR-612
-- FR-613
-- FR-620
-- FR-623
-- FR-624
-- FR-625
-- FR-626
-- FR-628
-- FR-629
-- FR-630
-- FR-631
-- FR-632
-- FR-633
-- FR-635
-- FR-636
-- FR-637
-- FR-638
-- FR-639
-- FR-640
-- FR-641
-- FR-642
-- FR-643
-- FR-645
-- FR-646
-- FR-647
-- FR-648
-- FR-649
-- FR-650
 - FR-651
-- FR-652
-- FR-653
 - FR-728
 
 ## Duplicate mappings
 - FR-010: src/content/fr/cod-coi-complements.md, src/content/fr/grammatical-functions-cod-coi-complement.md
 - FR-016: src/content/fr/register-variation-parameters.md, src/content/fr/register-variation.md
-- FR-027: src/content/fr/schwa-e-caduc.md, src/content/fr/schwa.md
-- FR-028: src/content/fr/final-silent-vowels.md, src/content/fr/silent-final-vowels.md
-- FR-029: src/content/fr/final-silent-consonants.md, src/content/fr/silent-final-consonants.md
+- FR-018: src/content/fr/grapheme-phoneme.md, src/content/fr/reading-rules.md
+- FR-019: src/content/fr/reading-rules.md, src/content/fr/vowels-consonants.md
+- FR-020: src/content/fr/open-closed-vowels.md, src/content/fr/reading-rules.md
+- FR-021: src/content/fr/nasal-vowels.md, src/content/fr/reading-rules.md
+- FR-022: src/content/fr/reading-rules.md, src/content/fr/semivowels.md
+- FR-023: src/content/fr/french-r.md, src/content/fr/reading-rules.md
+- FR-024: src/content/fr/reading-rules.md, src/content/fr/syllable-structure.md
+- FR-025: src/content/fr/reading-rules.md, src/content/fr/stress-prosody.md
+- FR-026: src/content/fr/intonation-contours.md, src/content/fr/reading-rules.md
+- FR-027: src/content/fr/reading-rules.md, src/content/fr/schwa-e-caduc.md, src/content/fr/schwa.md
+- FR-028: src/content/fr/final-silent-vowels.md, src/content/fr/reading-rules.md, src/content/fr/silent-final-vowels.md
+- FR-029: src/content/fr/final-silent-consonants.md, src/content/fr/reading-rules.md, src/content/fr/silent-final-consonants.md
+- FR-035: src/content/fr/grammatical-homophones.md, src/content/fr/reading-rules.md
+- FR-037: src/content/fr/reading-rules.md, src/content/fr/verb-endings-pronunciation.md
+- FR-038: src/content/fr/grammatical-endings-plural-pronunciation.md, src/content/fr/reading-rules.md
+- FR-039: src/content/fr/loanword-pronunciation.md, src/content/fr/reading-rules.md
+- FR-040: src/content/fr/dictionary-pronunciation.md, src/content/fr/reading-rules.md
 - FR-048: src/content/fr/capital-letters.md, src/content/fr/capitalization.md
 - FR-060: src/content/fr/noun-gender.md, src/content/fr/semantic-gender.md
 - FR-144: src/content/fr/pronouns-personal.md, src/content/fr/pronouns-toniques.md
 - FR-145: src/content/fr/pronouns-personal.md, src/content/fr/pronouns-toniques.md
-- FR-492: src/content/fr/relative-clause-structure.md, src/content/fr/relative-clauses.md
-- FR-493: src/content/fr/defining-relatives.md, src/content/fr/relative-clauses.md
-- FR-494: src/content/fr/nonrestrictive-relatives.md, src/content/fr/relative-clauses.md
+- FR-424: src/content/fr/questions-intonation.md, src/content/fr/questions.md
+- FR-425: src/content/fr/est-ce-que.md, src/content/fr/questions.md
+- FR-426: src/content/fr/inversion-questions.md, src/content/fr/questions.md
+- FR-427: src/content/fr/questions.md, src/content/fr/t-euphonique.md
+- FR-428: src/content/fr/questions.md, src/content/fr/qui-que-quoi-questions.md
+- FR-429: src/content/fr/quel-lequel.md, src/content/fr/questions.md
+- FR-430: src/content/fr/combien.md, src/content/fr/questions.md
+- FR-431: src/content/fr/comment.md, src/content/fr/questions.md
+- FR-432: src/content/fr/pourquoi.md, src/content/fr/questions.md
+- FR-433: src/content/fr/quand.md, src/content/fr/questions.md
+- FR-434: src/content/fr/ou-interrogative.md, src/content/fr/questions.md
+- FR-435: src/content/fr/questions-prepositions.md, src/content/fr/questions.md
+- FR-436: src/content/fr/indirect-questions.md, src/content/fr/questions.md
+- FR-437: src/content/fr/questions.md, src/content/fr/spoken-questions.md
+- FR-438: src/content/fr/questions.md, src/content/fr/rhetorical-questions.md
+- FR-441: src/content/fr/basic-word-order.md, src/content/fr/sentence-structure.md
+- FR-442: src/content/fr/sentence-structure.md, src/content/fr/svo-word-order.md
+- FR-443: src/content/fr/sentence-structure.md, src/content/fr/subject-predicate.md
+- FR-444: src/content/fr/nominal-predicate.md, src/content/fr/sentence-structure.md
+- FR-445: src/content/fr/cod-coi-cc-position.md, src/content/fr/sentence-structure.md
+- FR-446: src/content/fr/object-pronoun-position.md, src/content/fr/sentence-structure.md
+- FR-447: src/content/fr/adverb-position.md, src/content/fr/sentence-structure.md
+- FR-448: src/content/fr/circumstantial-position.md, src/content/fr/sentence-structure.md
+- FR-449: src/content/fr/noun-group-expansion.md, src/content/fr/sentence-structure.md
+- FR-450: src/content/fr/sentence-structure.md, src/content/fr/verb-group-expansion.md
+- FR-454: src/content/fr/il-y-a.md, src/content/fr/presentatives.md
+- FR-472: src/content/fr/complex-sentences.md, src/content/fr/coordination.md
+- FR-475: src/content/fr/subordinate-after-verb.md, src/content/fr/subordination.md
+- FR-476: src/content/fr/subordinate-after-adjective.md, src/content/fr/subordination.md
+- FR-477: src/content/fr/subordinate-after-noun.md, src/content/fr/subordination.md
+- FR-485: src/content/fr/comparison-clauses.md, src/content/fr/indirect-speech.md
+- FR-486: src/content/fr/indirect-speech.md, src/content/fr/manner-clauses.md
+- FR-487: src/content/fr/indirect-speech.md, src/content/fr/restriction-clauses.md
+- FR-488: src/content/fr/indirect-speech.md, src/content/fr/quantity-clauses.md
+- FR-489: src/content/fr/indirect-speech.md, src/content/fr/tense-selection-subordinate.md
+- FR-490: src/content/fr/indirect-speech.md, src/content/fr/mood-selection-subordinate.md
+- FR-491: src/content/fr/indirect-speech.md, src/content/fr/temporal-agreement-subordinate.md
+- FR-492: src/content/fr/indirect-speech.md, src/content/fr/relative-clause-structure.md, src/content/fr/relative-clauses.md
+- FR-493: src/content/fr/defining-relatives.md, src/content/fr/indirect-speech.md, src/content/fr/relative-clauses.md
+- FR-494: src/content/fr/indirect-speech.md, src/content/fr/nonrestrictive-relatives.md, src/content/fr/relative-clauses.md
 - FR-505: src/content/fr/relative-antecedent.md, src/content/fr/relative-clauses.md
 - FR-506: src/content/fr/multiple-antecedents-relative.md, src/content/fr/relative-clauses.md
+- FR-536: src/content/fr/il-y-a.md, src/content/fr/impersonal-verbs.md
+- FR-537: src/content/fr/il-faut.md, src/content/fr/impersonal-verbs.md
+- FR-538: src/content/fr/il-semble.md, src/content/fr/impersonal-verbs.md
+- FR-539: src/content/fr/il-parait.md, src/content/fr/impersonal-verbs.md
+- FR-540: src/content/fr/il-est-adjectif.md, src/content/fr/impersonal-verbs.md
+- FR-541: src/content/fr/impersonal-il.md, src/content/fr/impersonal-verbs.md
+- FR-543: src/content/fr/impersonal-se.md, src/content/fr/impersonal-verbs.md
+- FR-545: src/content/fr/accord.md, src/content/fr/subject-verb-agreement.md
+- FR-546: src/content/fr/accord.md, src/content/fr/compound-subject-agreement.md
+- FR-547: src/content/fr/accord.md, src/content/fr/collective-nouns-agreement.md
+- FR-548: src/content/fr/accord.md, src/content/fr/percentage-agreement.md
+- FR-549: src/content/fr/accord.md, src/content/fr/quantity-agreement.md
+- FR-551: src/content/fr/accord.md, src/content/fr/determiner-agreement.md
+- FR-552: src/content/fr/accord.md, src/content/fr/past-participle-etre-agreement.md
+- FR-554: src/content/fr/accord.md, src/content/fr/cod-before-avoir.md
+- FR-560: src/content/fr/comparative-superlative.md, src/content/fr/comparatives-plus-moins-aussi.md
+- FR-561: src/content/fr/comparative-que.md, src/content/fr/comparative-superlative.md
 - FR-571: src/content/fr/indefinite-quantity.md, src/content/fr/quantifiers.md
 - FR-572: src/content/fr/approximate-quantity.md, src/content/fr/quantifiers.md
 - FR-573: src/content/fr/measure-intensity.md, src/content/fr/quantifiers.md
 - FR-574: src/content/fr/quantifier-article.md, src/content/fr/quantifiers.md
-- FR-610: src/content/fr/approximate-quantity-agreement.md, src/content/fr/quoting.md
+- FR-609: src/content/fr/direct-speech.md, src/content/fr/number-quantifier-agreement.md
+- FR-610: src/content/fr/approximate-quantity-agreement.md, src/content/fr/quotation.md, src/content/fr/quoting.md
+- FR-614: src/content/fr/reported-sequence.md, src/content/fr/reported-speech-sequence-of-tenses.md
+- FR-615: src/content/fr/pronoun-shift-reported.md, src/content/fr/reported-speech-pronoun-shift.md
+- FR-616: src/content/fr/reported-speech-time-markers.md, src/content/fr/temporal-markers-reported.md
+- FR-617: src/content/fr/reported-speech-place-markers.md, src/content/fr/spatial-markers-reported.md
+- FR-618: src/content/fr/conditionnel-reported.md, src/content/fr/reported-speech-conditionnel.md
+- FR-619: src/content/fr/modality-reported.md, src/content/fr/reported-speech-modality.md
+- FR-644: src/content/fr/ne-deletion.md, src/content/fr/ne-dropping.md
 - FR-688: src/content/fr/extraction-long-distance.md, src/content/fr/long-distance-dependencies.md
+- FR-706: src/content/fr/passe-compose-vs-aspect.md, src/content/fr/passe-compose-vs-imparfait.md
 - FR-719: src/content/fr/complex-verbal-expressions.md, src/content/fr/verbal-periphrases.md
 - FR-720: src/content/fr/movement-infinitive.md, src/content/fr/movement-verbs-infinitive.md
 - FR-721: src/content/fr/perception-infinitive-complement.md, src/content/fr/perception-infinitive.md, src/content/fr/perception-verbs-infinitive.md
@@ -165,14 +206,14 @@ Started: 2026-09-28T14:07:05.843Z
 - FR-735: src/content/fr/extraction-constructions.md, src/content/fr/extraction.md
 - FR-740: src/content/fr/hesitation-self-correction.md, src/content/fr/spoken-disfluency.md
 
-Finished: 2026-09-28T14:07:06.019Z
+Finished: 2026-09-28T14:12:09.297Z
 Exit code: 0
 Signal: none
-Duration: 0.2s
+Duration: 0.3s
 ## audit:site-categories
 
 Command: C:\Program Files\nodejs\node.exe scripts/audit-site-categories.mjs --strict
-Started: 2026-09-28T14:07:06.020Z
+Started: 2026-09-28T14:12:09.298Z
 === FRENCH-GRAMMAR SITE CATEGORY AUDIT ===
 
 Files: 593
@@ -534,14 +575,14 @@ Duplicate generated routes: 0
 --- Duplicate generated routes ---
 —
 
-Finished: 2026-09-28T14:07:06.181Z
+Finished: 2026-09-28T14:12:09.585Z
 Exit code: 0
 Signal: none
-Duration: 0.2s
+Duration: 0.3s
 ## audit:content-schema
 
 Command: C:\Program Files\nodejs\node.exe scripts/audit-content-schema.mjs
-Started: 2026-09-28T14:07:06.181Z
+Started: 2026-09-28T14:12:09.585Z
 === FRENCH-GRAMMAR CONTENT SCHEMA SHAPE AUDIT ===
 
 Files scanned: 593
@@ -549,21 +590,21 @@ Issues: 0
 
 —
 
-Finished: 2026-09-28T14:07:06.357Z
+Finished: 2026-09-28T14:12:09.833Z
 Exit code: 0
 Signal: none
 Duration: 0.2s
 ## audit:canonical:matrix
 
 Command: C:\Program Files\nodejs\node.exe scripts/generate-canonical-matrix.mjs
-Started: 2026-09-28T14:07:06.357Z
+Started: 2026-09-28T14:12:09.833Z
 Wrote F:\GitHub\Grammars\French Grammar\docs\canonical_topic_article_matrix.md
 
-Finished: 2026-09-28T14:07:06.552Z
+Finished: 2026-09-28T14:12:10.127Z
 Exit code: 0
 Signal: none
-Duration: 0.2s
+Duration: 0.3s
 ## build
 
 Command: npm.cmd run build
-Started: 2026-09-28T14:07:06.552Z
+Started: 2026-09-28T14:12:10.127Z
