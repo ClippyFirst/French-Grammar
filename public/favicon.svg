@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <rect width="64" height="64" rx="12" fill="#2456b3"/>
-  <text x="32" y="40" font-size="28" fill="#ffffff" text-anchor="middle" font-family="Georgia, serif">fr</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="French Grammar">
+  <rect width="64" height="64" rx="14" fill="#fbfaf7"/>
+  <circle cx="32" cy="32" r="22" fill="none" stroke="#c7c4bc" stroke-width="2"/>
+  <text x="32" y="39" font-size="22" fill="#20242a" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic">fg</text>
 </svg>
