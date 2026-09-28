@@ -2,6 +2,7 @@
 title_uk: "Laisser + infinitif: дозволова конструкція"
 title_fr: "Laisser + infinitif"
 description_uk: "Як laisser + infinitif виражає дозвіл, допущення або невтручання та чим відрізняється від faire + infinitif."
+canonical_ids: ["FR-515", "FR-534", "FR-723"]
 category: verbs
 order: 723
 
