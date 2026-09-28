@@ -1,0 +1,162 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { examSections, examMeta } from '../data/exam-topics.mjs';
+
+const entries = await getCollection('fr');
+const normalize = (value) => String(value ?? '')
+  .toLocaleLowerCase('uk')
+  .normalize('NFD')
+  .replace(/\p{M}/gu, '')
+  .replace(/[’']/g, "'")
+  .replace(/[^\p{L}\p{N}]+/gu, ' ')
+  .replace(/\s+/g, ' ')
+  .trim();
+
+const catalog = entries.map((entry) => ({
+  slug: entry.id.replace(/\.(md|mdx)$/i, '').split('/').pop(),
+  category: entry.data.category,
+  titleUk: entry.data.title_uk,
+  titleFr: entry.data.title_fr,
+  aliases: entry.data.aliases ?? [],
+}));
+
+function resolveTopic(title) {
+  const wanted = normalize(title);
+  const exact = catalog.find((item) => [item.titleFr, ...item.aliases].some((value) => normalize(value) === wanted));
+  if (exact) return exact;
+  const wantedTokens = wanted.split(' ').filter((token) => token.length > 2);
+  const candidates = catalog
+    .map((item) => {
+      const haystack = normalize([item.titleFr, item.titleUk, ...item.aliases].join(' '));
+      const score = wantedTokens.filter((token) => haystack.includes(token)).length;
+      return { item, score };
+    })
+    .filter(({ score }) => score >= Math.max(2, Math.ceil(wantedTokens.length * 0.6)))
+    .sort((a, b) => b.score - a.score);
+  return candidates[0]?.item ?? null;
+}
+
+const rows = [];
+const seen = new Map();
+for (const section of examSections) {
+  for (const [title, category, exam] of section.topics) {
+    const key = normalize(title);
+    if (seen.has(key)) {
+      const row = seen.get(key);
+      row.categories = [...new Set([...row.categories, category])];
+      row.exams = [...new Set([...row.exams, exam])];
+      continue;
+    }
+    const topic = resolveTopic(title);
+    const row = { title, categories: [category], exams: [exam], topic };
+    seen.set(key, row);
+    rows.push(row);
+  }
+}
+
+const counts = {
+  nmt: rows.filter((row) => row.exams.includes('nmt') || row.exams.includes('both')).length,
+  evi: rows.filter((row) => row.exams.includes('evi') || row.exams.includes('both')).length,
+  both: rows.filter((row) => row.exams.includes('both')).length,
+};
+---
+
+<Base>
+  <Fragment slot="head">
+    <title>Підготовка до НМТ / ЄВІ — французька граматика</title>
+    <meta name="description" content="Теми французької граматики для підготовки до НМТ та ЄВІ: об'єднаний перелік з посиланнями на відповідні статті довідника." />
+    <link rel="canonical" href={Astro.url.pathname} />
+  </Fragment>
+  <Header slot="header" />
+  <Footer slot="footer" />
+
+  <section class="exam-hero" aria-labelledby="exam-title">
+    <div class="container">
+      <p class="eyebrow">Іспити · французька мова</p>
+      <h1 id="exam-title">Підготовка до НМТ / ЄВІ</h1>
+      <p class="lede">Об’єднаний перелік граматичних тем із програм НМТ та ЄВІ. Кожен пункт веде до відповідної теми довідника, якщо стаття вже є в каталозі.</p>
+      <div class="exam-summary" aria-label="Статистика переліку">
+        <span><strong>{rows.length}</strong> унікальних тем</span>
+        <span><strong>{counts.nmt}</strong> для НМТ</span>
+        <span><strong>{counts.evi}</strong> для ЄВІ</span>
+        <span><strong>{counts.both}</strong> у спільному переліку</span>
+      </div>
+    </div>
+  </section>
+
+  <div class="container exam-page">
+    <div class="exam-legend" aria-label="Позначення іспитів">
+      <span class="exam-badge exam-badge--nmt">НМТ</span><span>тема зазначена в програмі НМТ</span>
+      <span class="exam-badge exam-badge--evi">ЄВІ</span><span>тема зазначена в програмі ЄВІ</span>
+      <span class="exam-badge exam-badge--both">НМТ + ЄВІ</span><span>тема є в обох переліках</span>
+    </div>
+
+    <div class="exam-note">
+      <strong>Як читати список.</strong> Формулювання зберігають французькі назви тем НМТ, а програмні формулювання ЄВІ узгоджено з ними. ЄВІ подає частину матеріалу ширшими граматичними блоками (наприклад, часові форми Indicatif), тому відповідність окремих вузьких підтем є навігаційним зіставленням, а не новою вимогою програми.
+    </div>
+
+    {examSections.map((section) => (
+      <section class="exam-section" aria-labelledby={'exam-' + section.key}>
+        <div class="exam-section-heading">
+          <p class="eyebrow">Розділ</p>
+          <h2 id={'exam-' + section.key}>{section.title}</h2>
+        </div>
+        <div class="exam-topic-list">
+          {section.topics.map(([title, category, exam]) => {
+            const row = rows.find((item) => item.title === title);
+            const topic = row?.topic;
+            const href = topic ? '/fr/' + topic.category + '/' + topic.slug + '/' : '/search/?q=' + encodeURIComponent(title);
+            const badge = row?.exams.includes('both') ? 'both' : exam === 'evi' ? 'evi' : 'nmt';
+            const badgeLabel = badge === 'both' ? 'НМТ + ЄВІ' : badge === 'evi' ? 'ЄВІ' : 'НМТ';
+            return (
+              <a class="exam-topic" href={href}>
+                <span class="exam-topic-main">
+                  <span class="exam-topic-title">{title}</span>
+                  <span class="exam-topic-meta">{row?.categories.join(' · ') ?? category}</span>
+                </span>
+                <span class="exam-topic-side">
+                  <span class={'exam-badge exam-badge--' + badge}>{badgeLabel}</span>
+                  <span class="exam-topic-arrow" aria-hidden="true">→</span>
+                </span>
+              </a>
+            );
+          })}
+        </div>
+      </section>
+    ))}
+  </div>
+</Base>
+
+<style>
+  .exam-hero { padding: 4.5rem 0 2.5rem; border-bottom: 1px solid var(--border); background: var(--surface-muted); }
+  .exam-page { padding-top: 2rem; padding-bottom: 5rem; }
+  .exam-summary { display: flex; flex-wrap: wrap; gap: .55rem; margin-top: 1.5rem; }
+  .exam-summary span { padding: .55rem .8rem; border: 1px solid var(--border); border-radius: 999px; background: var(--surface); font-size: .9rem; }
+  .exam-summary strong { font-variant-numeric: tabular-nums; }
+  .exam-legend { display: grid; grid-template-columns: auto 1fr; gap: .55rem .8rem; align-items: center; max-width: 44rem; margin-bottom: 1.25rem; font-size: .9rem; color: var(--text-muted); }
+  .exam-badge { display: inline-flex; align-items: center; justify-content: center; min-height: 1.65rem; padding: .2rem .55rem; border: 1px solid var(--border-strong); border-radius: 999px; font-size: .7rem; font-weight: 700; letter-spacing: .04em; white-space: nowrap; }
+  .exam-badge--nmt { background: var(--surface); }
+  .exam-badge--evi { background: var(--surface-alt); }
+  .exam-badge--both { background: var(--accent-soft); border-color: var(--accent); }
+  .exam-note { max-width: 62rem; margin: 0 0 3rem; padding: 1rem 1.1rem; border-left: 3px solid var(--accent); background: var(--surface-muted); color: var(--text-muted); }
+  .exam-section { margin: 0 0 3.5rem; }
+  .exam-section-heading { margin-bottom: 1rem; }
+  .exam-section-heading h2 { margin: 0; }
+  .exam-topic-list { border-top: 1px solid var(--border); }
+  .exam-topic { display: flex; gap: 1rem; justify-content: space-between; align-items: center; padding: .9rem 0; border-bottom: 1px solid var(--border); color: inherit; text-decoration: none; }
+  .exam-topic:hover .exam-topic-title, .exam-topic:focus-visible .exam-topic-title { text-decoration: underline; text-underline-offset: .15em; }
+  .exam-topic-main { min-width: 0; }
+  .exam-topic-title { display: block; font-weight: 600; }
+  .exam-topic-meta { display: block; margin-top: .2rem; font-size: .78rem; color: var(--text-muted); }
+  .exam-topic-side { display: flex; align-items: center; gap: .75rem; flex: 0 0 auto; }
+  .exam-topic-arrow { color: var(--text-muted); font-size: 1.1rem; }
+  @media (max-width: 640px) {
+    .exam-hero { padding-top: 3rem; }
+    .exam-topic { align-items: flex-start; }
+    .exam-topic-side { flex-direction: column; gap: .35rem; }
+    .exam-topic-arrow { display: none; }
+  }
+</style>
