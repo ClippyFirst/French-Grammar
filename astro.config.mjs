@@ -4,7 +4,8 @@ import sitemap from '@astrojs/sitemap';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://fr-grammar.example.org',
+  site: 'https://clippyfirst.github.io/French-Grammar',
+  base: '/French-Grammar',
   output: 'static',
   markdown: {
     shikiConfig: {
