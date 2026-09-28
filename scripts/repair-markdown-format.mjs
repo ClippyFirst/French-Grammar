@@ -74,7 +74,8 @@ export function repairLine(line) {
     .replace(/(?<!_)_([ \t]+)([^_\n]*?)([ \t]+)_(?!_)/g, '_$2_')
     .replace(/(?<!_)_([ \t]+)([^_\n]*?)_(?!_)/g, '_$2_')
     .replace(/(?<!_)_([^_\n]*?)([ \t]+)_(?!_)/g, '_$1_');
-  value = restoreInlineCode(value, protectedLine.parts);\n  return repairHtmlInline(value);
+  value = restoreInlineCode(value, protectedLine.parts);
+  return repairHtmlInline(value);
 }
 
 export function repairSource(source) {
