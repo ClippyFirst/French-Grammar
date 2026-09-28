@@ -2,7 +2,7 @@
 title_uk: "Passé composé / imparfait ↔ український доконаний / недоконаний вид"
 title_fr: "Le passé composé et l'imparfait face à l'aspect ukrainien"
 description_uk: "Passé composé / imparfait ↔ український доконаний / недоконаний вид. Контрастивна довідкова стаття про французькі та українські граматичні системи."
-canonical_ids: ["FR-706"]
+
 level: B2
 category: "Контрастивна граматика"
 register: neutral
