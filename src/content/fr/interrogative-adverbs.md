@@ -2,7 +2,7 @@
 title_uk: "Французькі interrogatives ↔ українські способи формування питань"
 title_fr: "Les interrogatives françaises et ukrainiennes"
 description_uk: "Контрастивний довідник про питальні речення, інтонацію, est-ce que, інверсію та українські моделі."
-canonical_ids: ["FR-712"]
+canonical_ids: ["FR-712", "FR-728"]
 level: B1
 category: "Контрастивна граматика"
 register: neutral
