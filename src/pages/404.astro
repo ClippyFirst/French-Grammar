@@ -17,6 +17,6 @@ export const prerender = true;
     <p class="not-found-code" aria-hidden="true">404</p>
     <h1>Сторінка не знайдена</h1>
     <p>Такої сторінки немає або адресу змінено.</p>
-    <p><a href="/">Повернутись на головну</a> або <a href="/fr/">оберіть тему</a>.</p>
+    <p><a href={import.meta.env.BASE_URL}>Повернутись на головну</a> або <a href={import.meta.env.BASE_URL + 'fr/'}>оберіть тему</a>.</p>
   </div>
 </Base>
