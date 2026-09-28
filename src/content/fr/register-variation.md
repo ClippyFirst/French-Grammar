@@ -2,8 +2,6 @@
 title_uk: "Регістр і варіантність як граматичні параметри"
 title_fr: "Registre et variation grammaticale"
 description_uk: "Як регістр, усність, писемність і варіантність впливають на французькі граматичні конструкції."
-category: "Метамова і базові поняття"
-canonical_ids: ["FR-016"]
 level: "B2"
 depth: "high"
 register: "neutral"
