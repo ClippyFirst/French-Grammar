@@ -23,7 +23,7 @@ const catCounts = catCountsFor(all);
     <h1 id="home-title">Французька граматика</h1>
     <p class="lede">Довідник для україномовних студентів і вчителів: точні правила, зрозумілі пояснення, французькі приклади та навігація між пов'язаними темами.</p>
     <div class="home-search">
-      <a class="home-search-input" href="/search/" aria-label="Пошук граматичних тем">
+      <a class="home-search-input" href={import.meta.env.BASE_URL + 'search/'} aria-label="Пошук граматичних тем">
         <span class="search-placeholder-icon" aria-hidden="true">⌕</span><span>Знайти граматичну тему…</span>
       </a>
     </div>
@@ -39,7 +39,7 @@ const catCounts = catCountsFor(all);
         const count = catCounts[cat.key] || 0;
         return (
           <div class="category-card">
-            <a href={'/fr/' + cat.key + '/'}>
+            <a href={import.meta.env.BASE_URL + 'fr/' + cat.key + '/'}>
               <span class="category-name">{cat.uk}</span>
               <span class="category-desc">{cat.description}</span>
               <span class="category-count">{count} тем</span>
