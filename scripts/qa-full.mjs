@@ -6,6 +6,8 @@ import { fileURLToPath } from 'node:url';
 const root = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const reportPath = resolve(root, 'qa-output.txt');
 
+const STAGE_TIMEOUT_MS = 10 * 60 * 1000;
+
 const stages = [
   ['test', 'test'],
   ['audit:canonical', 'audit:canonical'],
@@ -30,6 +32,8 @@ writeFileSync(
 
 function runStage(label, script) {
   return new Promise((resolveStage) => {
+    let settled = false;
+    let timedOut = false;
     const npm = process.platform === 'win32' ? 'npm.cmd' : 'npm';
     const started = Date.now();
 
@@ -45,6 +49,8 @@ function runStage(label, script) {
       'utf8',
     );
 
+    console.log(`QA: starting ${label}...`);
+
     const child = spawn(npm, ['run', script], {
       cwd: root,
       env: process.env,
@@ -55,29 +61,44 @@ function runStage(label, script) {
     child.stdout.on('data', (chunk) => appendFileSync(reportPath, chunk, 'utf8'));
     child.stderr.on('data', (chunk) => appendFileSync(reportPath, chunk, 'utf8'));
 
+    const timeout = setTimeout(() => {
+      timedOut = true;
+      appendFileSync(reportPath, `\n[qa-runner] TIMEOUT after ${STAGE_TIMEOUT_MS / 60000} minutes; terminating stage.\n`, 'utf8');
+      child.kill('SIGTERM');
+    }, STAGE_TIMEOUT_MS);
+
     child.on('error', (error) => {
       appendFileSync(
         reportPath,
         `\n[qa-runner error] ${error.stack ?? error.message}\n`,
         'utf8',
       );
+      if (settled) return;
+      settled = true;
+      clearTimeout(timeout);
+      console.log(`QA: ${label} failed (runner error).`);
       resolveStage({ label, code: 1 });
     });
 
     child.on('close', (code, signal) => {
+      if (settled) return;
+      settled = true;
+      clearTimeout(timeout);
+      const finalCode = timedOut ? 124 : (code ?? 1);
+      console.log(`QA: ${label} ${finalCode === 0 ? 'passed' : 'failed'}.`);
       appendFileSync(
         reportPath,
         [
           '',
           `Finished: ${new Date().toISOString()}`,
-          `Exit code: ${code ?? 'null'}`,
+          `Exit code: ${finalCode}`,
           `Signal: ${signal ?? 'none'}`,
           `Duration: ${((Date.now() - started) / 1000).toFixed(1)}s`,
           '',
         ].join('\n'),
         'utf8',
       );
-      resolveStage({ label, code: code ?? 1 });
+      resolveStage({ label, code: finalCode });
     });
   });
 }
