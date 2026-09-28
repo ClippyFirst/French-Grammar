@@ -4,7 +4,7 @@ title_fr: "Les verbes de perception et l'infinitif"
 description_uk: "Як voir, entendre, regarder та інші дієслова сприйняття поєднуються з інфінітивом і як змінюється структура залежно від підмета та синтаксичної функції."
 category: verbs
 order: 721
-canonical_ids: ["FR-721"]
+
 prerequisites: ["infinitive", "relative-clauses", "pronouns-cod"]
 related: ["movement-verbs-infinitive", "nested-complement-clauses", "verbal-periphrases", "participe-present"]
 contrast: ["infinitive", "indirect-speech"]
