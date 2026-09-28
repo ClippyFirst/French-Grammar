@@ -40,7 +40,7 @@ export function relatedFor(all, category, refs) {
   return refs.map((ref) => {
     const slash = ref.indexOf('/');
     if (slash === -1) {
-      const matches = all.filter((e) => slugFromId(e.id) === ref && canonicalCategory(e.data.category) === canonical);
+      const matches = all.filter((e) => slugFromId(e.id) === ref);
       return matches.length === 1 ? matches[0] : undefined;
     }
     const rcat = canonicalCategory(ref.slice(0, slash));
