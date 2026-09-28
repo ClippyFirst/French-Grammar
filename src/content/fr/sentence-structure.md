@@ -5,16 +5,6 @@ description_uk: "Системний довідник про базовий по�
 category: syntax
 order: 1
 canonical_ids:
-  - "FR-441"
-  - "FR-442"
-  - "FR-443"
-  - "FR-444"
-  - "FR-445"
-  - "FR-446"
-  - "FR-447"
-  - "FR-448"
-  - "FR-449"
-  - "FR-450"
 prerequisites:
   - pronouns-subject
   - negation
