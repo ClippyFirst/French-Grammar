@@ -5,26 +5,26 @@ description_uk: "Системний довідник про faire + infinitif: �
 category: complex
 order: 722
 
-prerequisites:
+prerequisites: []
   - infinitive
   - pronouns-infinitive
   - transitivity
-related:
+related: []
   - laisser-infinitive
   - perception-infinitive
   - infinitive-control
   - accord
   - pronoun-order
-contrast:
+contrast: []
   - faire
   - laisser-infinitive
-next:
+next: []
   - laisser-infinitive
-aliases:
+aliases: []
   - faire + infinitif
   - causative faire
   - faire faire
-tags:
+tags: []
   - каузатив
   - faire
   - інфінітив
@@ -34,15 +34,16 @@ register: neutral
 variety: [FR]
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Grande Grammaire du français — constructions verbales"
   - "French Grammar and Usage, 5th ed. (2025)"
   - "Académie française — Questions de langue"
 formula: true
 toc: true
 featured: false
+canonical_ids: []
+variant: []
 ---
-
 # Faire + інфінітив: каузативна конструкція
 
 ## Швидка відповідь

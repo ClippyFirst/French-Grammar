@@ -12,15 +12,20 @@ register: neutral
 variety: ["FR"]
 status: review
 contrastive_uk: high
-sources:
+sources: []
   - "French Grammar and Usage, 5th ed. (2025)"
   - "Grande Grammaire du français"
 reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+order: 100
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Орфографічна реформа 1990 року
 
 **Rectifications de l'orthographe** — набір рекомендацій, затверджених у 1990 році для впорядкування частини французької орфографії. Вони не означають, що всі традиційні написання одномоментно зникли.

@@ -4,7 +4,7 @@ title_fr: "Les pronoms et déterminants démonstratifs"
 description_uk: "Як розрізняти ce, cet, cette, ces та celui, celle, ceux, celles; роль -ci/-là, ce qui/ce que та нейтральних вказівних форм."
 category: pronouns
 order: 12
-related:
+related: []
   - pronouns-possessive
   - pronouns-cod
   - relative-pronouns
@@ -15,10 +15,18 @@ register: neutral
 variety: [FR]
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Académie française, Questions de langue"
+formula: false
+toc: true
+featured: false
+canonical_ids: []
+prerequisites: []
+contrast: []
+next: []
+variant: []
+aliases: []
 ---
-
 # Вказівні форми: ce, cet, cette, ces та celui, celle, ceux, celles
 
 ## Коротка відповідь

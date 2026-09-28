@@ -4,28 +4,28 @@ title_fr: "Le verbe pouvoir"
 description_uk: "Системний довідник про pouvoir: фізична й ситуаційна можливість, здатність, дозвіл, пропозиції та ймовірність."
 category: verbs
 order: 27
-canonical_ids:
+canonical_ids: []
   - FR-302
-prerequisites:
+prerequisites: []
   - present
   - infinitive
-related:
+related: []
   - devoir
   - vouloir
   - savoir
   - negation
   - questions
   - conditionnel-present
-contrast:
+contrast: []
   - devoir
   - savoir
   - vouloir
-next:
+next: []
   - devoir
-aliases:
+aliases: []
   - pouvoir
   - pouvoir + infinitif
-tags:
+tags: []
   - дієслова
   - модальні дієслова
   - можливість
@@ -33,19 +33,20 @@ tags:
 level: A2
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Dictionnaire de l’Académie française, 9e édition — pouvoir"
   - "Grevisse et Goosse, Le Bon Usage, 17e éd."
   - "French Grammar and Usage, 5th ed. (2025)"
 reviewed_at: "2026-09-25"
 formula: true
 toc: true
+featured: false
+variant: []
 ---
-
 # Pouvoir
 
 ## Швидко

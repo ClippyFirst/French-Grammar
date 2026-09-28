@@ -11,15 +11,21 @@ register: neutral
 variety: ["FR"]
 status: review
 contrastive_uk: high
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "French Grammar and Usage, 5th ed. (2025)"
 reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+order: 100
+canonical_ids: []
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Німі кінцеві приголосні
 
 Французьке написання часто має кінцеві приголосні, які **не реалізуються у вимові окремого слова**. Це одна з головних причин, чому французьке слово не можна читати посимвольно.

@@ -2,7 +2,7 @@
 title_uk: "Усні скорочення"
 title_fr: "Les réductions à l'oral"
 description_uk: "Фонетичні й морфосинтаксичні скорочення сучасної розмовної французької та їхнє значення для сприйняття на слух."
-canonical_ids:
+canonical_ids: []
   - "FR-645"
 level: B1
 category: spoken
@@ -13,12 +13,20 @@ contrastive_uk: high
 formula: true
 toc: true
 featured: false
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "French Grammar and Usage, 5th ed. (2025)"
 reviewed_at: "2026-09-26"
+order: 100
+depth: medium
+prerequisites: []
+related: []
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Усні скорочення
 
 ## Швидка відповідь

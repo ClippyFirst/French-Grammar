@@ -5,12 +5,12 @@ slug: relative-que
 title_uk: "Que як відносний займенник"
 title_fr: "Que comme pronom relatif"
 description_uk: "Системний довідник про que як відносний займенник: функція COD, узгодження participe passé та вибір між que, qui й dont."
-canonical_ids:
+canonical_ids: []
   - FR-496
-prerequisites:
+prerequisites: []
   - relative-pronouns
   - subordination
-related:
+related: []
   - relative-pronouns
   - relative-qui
   - relative-dont
@@ -19,19 +19,24 @@ related:
 level: REFERENCE
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "French Grammar and Usage, 5th ed. (2025)"
 reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+order: 100
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Que як відносний займенник
 
 **Que** як відносний займенник у базовій конструкції без прийменника виконує функцію **прямого додатка (COD)**. Його не слід вибирати за українським перекладом «який/яку»: визначальною є роль антецедента у французькій підрядній частині.

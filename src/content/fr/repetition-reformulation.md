@@ -2,7 +2,7 @@
 title_uk: "Повторення і переформулювання"
 title_fr: "La répétition et la reformulation"
 description_uk: "Довідниковий опис теми повторення і переформулювання у французькому дискурсі."
-canonical_ids:
+canonical_ids: []
   - "FR-635"
 level: B2
 category: discourse
@@ -13,12 +13,20 @@ contrastive_uk: high
 formula: true
 toc: true
 featured: false
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "French Grammar and Usage, 5th ed. (2025)"
 reviewed_at: "2026-09-26"
+order: 100
+depth: medium
+prerequisites: []
+related: []
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Повторення і переформулювання
 
 **Повторення** та **переформулювання** допомагають підтримувати зв'язність дискурсу. Французька може повторювати лексему замість обов'язково замінювати її займенником: *Le projet est complexe. Le projet demande du temps.*

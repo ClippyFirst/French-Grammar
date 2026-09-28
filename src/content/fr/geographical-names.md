@@ -4,17 +4,29 @@ title_fr: "Les noms géographiques et les articles"
 description_uk: "Перед назвами міст, країн і регіонів використання артикла залежить від типу назви."
 category: nouns
 order: 13
-related:
+related: []
   - nouns/article-omission
   - nouns/definite-articles
   - nouns/contracted-articles
-tags:
+tags: []
   - geography
   - articles
   - proper-nouns
 canonical_ids: ["FR-066", "FR-077"]
+depth: medium
+status: draft
+contrastive_uk: none
+formula: false
+toc: true
+featured: false
+prerequisites: []
+contrast: []
+next: []
+variant: []
+aliases: []
+variety: []
+sources: []
 ---
-
 ## Швидко
 
 Перед **географічними назвами** артикл використовується **не завжди** і **залежить**:

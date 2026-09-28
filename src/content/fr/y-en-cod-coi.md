@@ -16,8 +16,14 @@ reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+order: 100
+contrastive_uk: none
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # y / en та COD / COI
 
 *y* та *en* не є просто альтернативами *le/la/les* або *lui/leur*. Їхній вибір залежить від прийменникової структури та семантики доповнення.

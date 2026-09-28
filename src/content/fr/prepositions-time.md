@@ -4,15 +4,27 @@ title_fr: "Les prépositions de temps"
 description_uk: "Системний довідник про à, de... à, en, dans, pendant, depuis, jusqu'à, avant, après та типові часові конструкції."
 category: prepositions
 order: 70
-related:
+related: []
   - prepositions-basics
   - prepositions-en
   - prepositions-a
   - prepositions-de
 tags: [прийменники, час, durée, depuis, pendant, en, dans]
 canonical_ids: ["FR-254", "FR-255", "FR-256", "FR-257", "FR-258", "FR-259"]
+depth: medium
+status: draft
+contrastive_uk: none
+formula: false
+toc: true
+featured: false
+prerequisites: []
+contrast: []
+next: []
+variant: []
+aliases: []
+variety: []
+sources: []
 ---
-
 # Часові прийменники
 
 ## Швидко

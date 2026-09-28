@@ -5,30 +5,35 @@ slug: time-clauses
 title_uk: "Часові підрядні речення"
 title_fr: "Les propositions subordonnées temporelles"
 description_uk: "Довідкова стаття про часові підрядні речення у сучасній французькій."
-canonical_ids:
+canonical_ids: []
   - FR-482
-prerequisites:
+prerequisites: []
   - phrase-enonce
   - sentence-structure
-related:
+related: []
   - complex-sentences
   - coordination
   - subordination
 level: REFERENCE
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 contrastive_uk: medium
 status: review
-sources:
+sources: []
   - "Académie française — La terminologie de la langue française: https://www.academie-francaise.fr/la-terminologie-de-la-langue-francaise"
 reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+order: 100
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Часові підрядні речення
 
 Часові підрядні речення показують, коли, до якого моменту, після якої події або відколи відбувається дія.

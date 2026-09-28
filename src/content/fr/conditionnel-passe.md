@@ -4,13 +4,13 @@ title_fr: "Le conditionnel passé"
 description_uk: "Повний довідник про conditionnel passé: форма, нереалізовані умови, жаль і докір, невикористані можливості, непряма мова, futur du passé та дистанційоване медійне повідомлення."
 category: moods
 order: 31
-canonical_ids:
+canonical_ids: []
   - FR-370
   - FR-371
   - FR-372
   - FR-373
   - FR-374
-related:
+related: []
   - conditionnel-present
   - plus-que-parfait
   - futur-anterieur
@@ -24,11 +24,18 @@ register: neutral
 variety: [FR]
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Académie française, Questions de langue"
   - "Siepmann, D. et al., A comprehensive grammar of spoken and written French (2025)"
+formula: false
+toc: true
+featured: false
+prerequisites: []
+contrast: []
+next: []
+variant: []
+aliases: []
 ---
-
 # Conditionnel passé
 
 ## Швидко

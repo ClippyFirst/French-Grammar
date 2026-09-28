@@ -4,10 +4,10 @@ title_fr: "Le verbe avoir"
 description_uk: "Системний довідник про avoir: володіння, вік, стани, сталі конструкції, допоміжну функцію та контраст із être."
 category: verbs
 order: 25
-prerequisites:
+prerequisites: []
   - present
   - etre
-related:
+related: []
   - passe-compose
   - accord
   - impersonal-verbs
@@ -15,16 +15,16 @@ related:
   - articles-indefinite
   - articles-partitive
   - conditionnel-present
-contrast:
+contrast: []
   - etre
   - pronouns-personal
-next:
+next: []
   - passe-compose
-aliases:
+aliases: []
   - avoir
   - avoir présent
   - avoir comme auxiliaire
-tags:
+tags: []
   - avoir
   - дієслова
   - допоміжне дієслово
@@ -37,7 +37,7 @@ register: neutral
 variety: [FR]
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue"
   - "Académie française — Maria K.: auxiliaire avoir et choix de l’auxiliaire: https://www.academie-francaise.fr/maria-k-allemagne"
 reviewed_at: "2026-09-25"
@@ -45,8 +45,8 @@ formula: true
 toc: true
 featured: false
 canonical_ids: ["FR-299"]
+variant: []
 ---
-
 # Avoir
 
 ## Швидка відповідь

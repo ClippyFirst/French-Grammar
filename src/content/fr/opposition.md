@@ -5,30 +5,35 @@ slug: opposition
 title_uk: "Протиставлення: exprimer l'opposition"
 title_fr: "Exprimer l'opposition"
 description_uk: "Довідкова стаття про протиставлення: exprimer l'opposition у сучасній французькій."
-canonical_ids:
+canonical_ids: []
   - FR-483
-prerequisites:
+prerequisites: []
   - phrase-enonce
   - sentence-structure
-related:
+related: []
   - complex-sentences
   - coordination
   - subordination
 level: REFERENCE
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 contrastive_uk: medium
 status: review
-sources:
+sources: []
   - "Académie française — La terminologie de la langue française: https://www.academie-francaise.fr/la-terminologie-de-la-langue-francaise"
 reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+order: 100
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Протиставлення: exprimer l'opposition
 
 **Opposition** зіставляє два факти, властивості або дії, які розходяться між собою. Французька використовує сполучники, прислівники зв'язку та прийменникові конструкції.

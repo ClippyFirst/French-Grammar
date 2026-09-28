@@ -14,8 +14,16 @@ reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+order: 100
+canonical_ids: []
+prerequisites: []
+related: []
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Schwa та e caduc
 
 **Schwa** [ə] — слабкий голосний, який у французькій має значну позиційну та стилістичну варіативність. Термін *e caduc* підкреслює можливість його випадіння в певних контекстах.

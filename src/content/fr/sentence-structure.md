@@ -4,13 +4,13 @@ title_fr: "La structure de base de la phrase française"
 description_uk: "Системний довідник про базовий порядок слів у французькому реченні: SVO, підмет і присудок, COD/COI, обставини, розширення іменної та дієслівної груп."
 category: syntax
 order: 1
-canonical_ids:
-prerequisites:
+canonical_ids: []
+prerequisites: []
   - pronouns-subject
   - negation
   - questions
   - pronoun-order
-related:
+related: []
   - presentatives
   - information-structure
   - dislocation
@@ -20,11 +20,11 @@ related:
 level: A2
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Académie française — La terminologie de la langue française: https://www.academie-francaise.fr/la-terminologie-de-la-langue-francaise"
   - "Cambridge University Press — The Syntax of French, Paul Rowlett: https://www.cambridge.org/core/books/syntax-of-french/5A83D2F22296F2A584757EE7FC1CC0C9"
   - "Cambridge University Press — French: A Linguistic Introduction, table of contents: https://assets.cambridge.org/97805218/21445/toc/9780521821445_toc.pdf"
@@ -33,8 +33,13 @@ sources:
 reviewed_at: "2026-09-25"
 formula: true
 toc: true
+featured: false
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Базова структура французького речення
 
 ## Швидка відповідь

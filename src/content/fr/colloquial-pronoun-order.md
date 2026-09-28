@@ -2,7 +2,7 @@
 title_uk: "Розмовний порядок займенників"
 title_fr: "L'ordre des pronoms à l'oral familier"
 description_uk: "Порядок клитичних займенників у розмовній французькій та межі між фонетичною варіантністю і зміною синтаксичної моделі."
-canonical_ids:
+canonical_ids: []
   - "FR-647"
 level: B2
 category: pronouns
@@ -13,12 +13,20 @@ contrastive_uk: high
 formula: true
 toc: true
 featured: false
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "French Grammar and Usage, 5th ed. (2025)"
 reviewed_at: "2026-09-26"
+order: 100
+depth: medium
+prerequisites: []
+related: []
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Розмовний порядок займенників
 
 ## Швидка відповідь

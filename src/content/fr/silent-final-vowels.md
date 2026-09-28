@@ -11,15 +11,21 @@ register: neutral
 variety: ["FR"]
 status: review
 contrastive_uk: high
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "French Grammar and Usage, 5th ed. (2025)"
 reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+order: 100
+canonical_ids: []
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Німі кінцеві голосні
 
 У французькій написання часто зберігає кінцеві голосні букви, які **не вимовляються** в ізольованому слові. Найвідоміший випадок — кінцева *e* в багатьох словах.

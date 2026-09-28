@@ -12,12 +12,21 @@ contrastive_uk: high
 formula: true
 toc: true
 featured: false
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "French Grammar and Usage, 5th ed. (2025)"
 reviewed_at: "2026-09-26"
+order: 100
+depth: medium
+canonical_ids: []
+prerequisites: []
+related: []
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Passé composé / imparfait ↔ український доконаний / недоконаний вид
 
 Протиставлення *passé composé* та *imparfait* частково перетинається з українським протиставленням доконаного й недоконаного виду, але це не тотожні системи.

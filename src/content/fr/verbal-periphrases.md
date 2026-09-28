@@ -4,17 +4,17 @@ title_fr: "Les périphrases verbales et constructions verbales complexes"
 description_uk: "Системний довідник конструкцій із двома дієсловами: aller, venir de, être en train de, modalні та інші перифрази."
 category: verbs
 order: 292
-canonical_ids:
+canonical_ids: []
   - FR-719
   - FR-337
   - FR-338
   - FR-339
   - FR-340
-prerequisites:
+prerequisites: []
   - infinitive
   - present
   - futur-proche
-related:
+related: []
   - pronouns-infinitive
   - gerondif
   - participe-present
@@ -22,15 +22,15 @@ related:
   - conditionnel-present
   - subjonctif
   - pronominal-verbs
-contrast:
+contrast: []
   - infinitive
-next:
+next: []
   - pronouns-infinitive
-aliases:
+aliases: []
   - périphrases verbales
   - constructions verbales
   - semi-auxiliaires
-tags:
+tags: []
   - périphrase
   - infinitif
   - aller
@@ -39,18 +39,19 @@ tags:
 level: B2
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Grande Grammaire du français — chapitre sur les constructions verbales et périphrases"
   - "Académie française — Questions de langue"
 reviewed_at: "2026-09-25"
 formula: true
 toc: true
+featured: false
+variant: []
 ---
-
 # Дієслівні перифрази та складені дієслівні конструкції
 
 ## Швидка відповідь

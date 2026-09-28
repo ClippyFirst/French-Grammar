@@ -10,15 +10,22 @@ register: neutral
 variety: ["FR"]
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "French Grammar and Usage, 5th ed. (2025)"
 reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+order: 100
+prerequisites: []
+related: []
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Число іменників
 
 Французький іменник має форму однини або множини, а число часто розпізнається не за вимовою іменника, а за детермінативом та узгодженням. Базова письмова модель множини — *-s*, але є незмінні й нерегулярні форми.

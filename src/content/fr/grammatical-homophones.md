@@ -12,15 +12,20 @@ register: neutral
 variety: ["FR"]
 status: review
 contrastive_uk: high
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "French Grammar and Usage, 5th ed. (2025)"
 reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+order: 100
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Граматичні омоніми
 
 **Граматичні омоніми** — форми, які вимовляються однаково або дуже подібно, але мають різне написання та різну граматичну функцію. Для французької це особливо важливо, бо орфографія часто кодує відмінності, які не чути в усному мовленні.

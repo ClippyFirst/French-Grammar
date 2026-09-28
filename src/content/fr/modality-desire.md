@@ -2,24 +2,32 @@
 title_uk: "Модальність бажання"
 title_fr: "modality desire"
 description_uk: "Бажання виражається дієсловами *vouloir*, *souhaiter*, *désirer*, конструкціями з *aimer* та підрядними реченнями."
-canonical_ids:
+canonical_ids: []
   - FR-604
 level: B2
 category: modality
 register: neutral
-variety:
+variety: []
   - FR
 status: review
 contrastive_uk: high
 formula: true
 toc: true
 featured: false
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "French Grammar and Usage, 5th ed. (2025)"
 reviewed_at: "2026-09-26"
+order: 100
+depth: medium
+prerequisites: []
+related: []
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Модальність бажання
 
 ## Швидка відповідь

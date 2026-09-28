@@ -12,15 +12,20 @@ register: neutral
 variety: ["FR"]
 status: review
 contrastive_uk: high
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "French Grammar and Usage, 5th ed. (2025)"
 reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+order: 100
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Регістр і варіантність як граматичні параметри
 
 Регістр і варіантність впливають на вибір форм, але не є синонімами «правильно/неправильно». Одна конструкція може бути нейтральною, інша — формальною, розмовною або регіонально маркованою.

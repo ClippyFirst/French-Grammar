@@ -5,23 +5,23 @@ description_uk: "Системний довідник про participe présent: 
 category: verbs
 canonical_ids: [FR-317, FR-521, FR-522]
 order: 30
-prerequisites:
+prerequisites: []
   - present
   - infinitive
-related:
+related: []
   - gerondif
   - accord
   - adjective-position
   - temporal-conjunctions
-contrast:
+contrast: []
   - gerondif
-next:
+next: []
   - gerondif
-aliases:
+aliases: []
   - participe présent
   - present participle
   - дієприкметник теперішнього часу
-tags:
+tags: []
   - participe présent
   - gérondif
   - adjectif verbal
@@ -32,14 +32,14 @@ register: neutral
 variety: [FR]
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue"
 reviewed_at: "2026-09-25"
 formula: true
 toc: true
 featured: false
+variant: []
 ---
-
 # Participe présent
 
 ## Швидка відповідь

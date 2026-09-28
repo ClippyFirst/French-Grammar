@@ -4,41 +4,41 @@ title_fr: "Le passé simple"
 description_uk: "Довідник про passé simple як простий минулий час, його основні моделі, наративну функцію та сучасний письмовий регістр."
 category: tenses
 order: 349
-canonical_ids:
+canonical_ids: []
   - FR-349
   - FR-350
   - FR-353
-prerequisites:
+prerequisites: []
   - present
   - passe-compose
   - imparfait
-related:
+related: []
   - passe-compose
   - imparfait
   - passe-compose-vs-imparfait
   - passe-anterieur
   - indirect-speech
-contrast:
+contrast: []
   - passe-compose
-next:
+next: []
   - passe-anterieur
 aliases: ["passé simple", "простий минулий час", "літературний минулий"]
 tags: [passé simple, минулий час, наратив, писемна мова]
 level: B2
 depth: high
 register: written
-variety:
+variety: []
   - FR
 status: review
 contrastive_uk: high
-sources:
+sources: []
   - "Académie française — Dictionnaire de l’Académie française"
   - "Académie française — La conjugaison"
 formula: false
 toc: true
 featured: false
+variant: []
 ---
-
 # Passé simple
 
 ## Швидка відповідь

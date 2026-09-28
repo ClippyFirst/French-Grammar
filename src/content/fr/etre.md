@@ -4,9 +4,9 @@ title_fr: "Le verbe être"
 description_uk: "Основні значення être, його форми та роль як допоміжного дієслова; без спрощення допоміжного вибору до списку «дієслів руху»."
 category: verbs
 order: 24
-prerequisites:
+prerequisites: []
   - present
-related:
+related: []
   - avoir
   - aller
   - faire
@@ -15,15 +15,15 @@ related:
   - accord
   - passive
   - pronominal-verbs
-contrast:
+contrast: []
   - avoir
-next:
+next: []
   - passe-compose
-aliases:
+aliases: []
   - être
   - etre
   - verbe être
-tags:
+tags: []
   - дієслова
   - être
   - etre
@@ -32,18 +32,19 @@ tags:
 level: A1
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue"
 reviewed_at: "2026-09-25"
 formula: true
 toc: true
 canonical_ids: ["FR-298"]
+featured: false
+variant: []
 ---
-
 # Дієслово être
 
 ## Швидко

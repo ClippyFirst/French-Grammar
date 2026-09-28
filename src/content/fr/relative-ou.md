@@ -5,12 +5,12 @@ slug: relative-ou
 title_uk: "Où як відносний займенник"
 title_fr: "Où comme pronom relatif"
 description_uk: "Довідник про où у відносних конструкціях місця й часу та його відмінність від qui, que й lequel."
-canonical_ids:
+canonical_ids: []
   - FR-498
-prerequisites:
+prerequisites: []
   - relative-pronouns
   - subordination
-related:
+related: []
   - relative-pronouns
   - relative-qui
   - relative-que
@@ -19,19 +19,24 @@ related:
 level: REFERENCE
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "French Grammar and Usage, 5th ed. (2025)"
 reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+order: 100
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Où як відносний займенник
 
 У відносній конструкції **où** пов'язує антецедент із типовим значенням **місця** або **часу**. Вибір *où* визначається структурою relative, а не просто українським перекладом «де» чи «коли».

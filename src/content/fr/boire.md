@@ -4,20 +4,20 @@ title_fr: "Le verbe boire"
 description_uk: "Довідник про boire: основні форми, чергування основи, керування та participe passé."
 category: verbs
 order: 37
-canonical_ids:
+canonical_ids: []
   - FR-312
-prerequisites:
+prerequisites: []
   - present
   - verb-groups
-related:
+related: []
   - prendre
   - voir-croire
   - passe-compose
-next:
+next: []
   - defective-verbs
-aliases:
+aliases: []
   - boire
-tags:
+tags: []
   - дієслова
   - III група
   - boire
@@ -25,18 +25,20 @@ tags:
 level: A2
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 contrastive_uk: low
 status: review
-sources:
+sources: []
   - "Dictionnaire de l’Académie française, 9e édition — boire"
   - "Grevisse et Goosse, Le Bon Usage, 17e éd."
 reviewed_at: "2026-09-25"
 formula: true
 toc: true
+featured: false
+contrast: []
+variant: []
 ---
-
 # Boire
 
 ## Швидко

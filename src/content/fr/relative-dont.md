@@ -5,12 +5,12 @@ slug: relative-dont
 title_uk: "Dont як відносний займенник"
 title_fr: "Dont comme pronom relatif"
 description_uk: "Системний довідник про dont: залежність із de, дієслова, іменники, прикметники та відмінність від que і прийменникових конструкцій."
-canonical_ids:
+canonical_ids: []
   - FR-497
-prerequisites:
+prerequisites: []
   - relative-pronouns
   - subordination
-related:
+related: []
   - relative-pronouns
   - relative-que
   - relative-lequel
@@ -19,19 +19,24 @@ related:
 level: REFERENCE
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "French Grammar and Usage, 5th ed. (2025)"
 reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+order: 100
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Dont як відносний займенник
 
 **Dont** — відносний займенник, який пов'язує антецедент із компонентом, що у вихідній конструкції залежить від **de**. Це може бути залежність від дієслова, іменника або прикметника. Тому *dont* не варто перекладати одним українським словом: його вибір визначає французьке керування.

@@ -5,25 +5,25 @@ description_uk: "Як французька будує висловлення б�
 category: discourse
 order: 734
 
-prerequisites:
+prerequisites: []
   - phrase-enonce
   - ellipsis
   - word-order
-related:
+related: []
   - address-interjections
   - exclamatives
   - questions
   - spoken-french
   - prosody
-contrast:
+contrast: []
   - subject-predicate-object
-next:
+next: []
   - extraction
-aliases:
+aliases: []
   - nominal utterances
   - verbless utterances
   - énoncés averbaux
-tags:
+tags: []
   - еліпсис
   - бездієслівні висловлення
   - усне мовлення
@@ -32,14 +32,16 @@ depth: high
 register: neutral
 variety: [FR]
 status: review
-sources:
+sources: []
   - "Grande Grammaire du français — énoncé, syntaxe et oral"
   - "French Grammar and Usage, 5th ed. (2025)"
 formula: false
 toc: true
 featured: false
+contrastive_uk: none
+canonical_ids: []
+variant: []
 ---
-
 # Бездієслівні, номінальні та еліптичні висловлення
 
 ## Швидка відповідь

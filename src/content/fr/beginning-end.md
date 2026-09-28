@@ -3,24 +3,31 @@ title_uk: "Початок і кінець дії"
 title_fr: "Le début et la fin de l'action"
 description_uk: "Французькі конструкції *commencer à*, *continuer à/de*, *finir de*, *arrêter de* та *cesser de* задають різні межі дії."
 category: tense-aspect
-canonical_ids:
+canonical_ids: []
   - FR-594
 level: B2
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "French Grammar and Usage, 5th ed. (2025)"
 reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+order: 100
+prerequisites: []
+related: []
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Початок і кінець дії
 
 ## Швидка відповідь

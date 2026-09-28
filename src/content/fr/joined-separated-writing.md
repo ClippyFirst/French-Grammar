@@ -12,15 +12,20 @@ register: neutral
 variety: ["FR"]
 status: review
 contrastive_uk: high
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "French Grammar and Usage, 5th ed. (2025)"
 reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+order: 100
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Злитий і роздільний запис
 
 Французька графіка розрізняє **суцільне написання, дефіс і пробіл**. Це не просто три способи оформити одну й ту саму конструкцію: вибір може бути частиною лексикалізації або граматичної структури.

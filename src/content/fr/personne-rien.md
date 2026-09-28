@@ -16,8 +16,14 @@ reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+order: 100
+contrastive_uk: none
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # personne і rien
 
 **Personne** стосується людей, а **rien** — речей, явищ або ситуацій. У заперечних конструкціях вони часто функціонують як негативні займенники.

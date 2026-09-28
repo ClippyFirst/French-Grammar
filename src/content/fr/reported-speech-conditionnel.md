@@ -1,5 +1,5 @@
 ---
-canonical_ids:
+canonical_ids: []
   - "FR-618"
 title_uk: "Conditionnel у непрямій мові"
 title_fr: "Le conditionnel dans le discours indirect"
@@ -14,15 +14,20 @@ register: neutral
 variety: ["FR"]
 status: review
 contrastive_uk: high
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "French Grammar and Usage, 5th ed. (2025)"
 reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+order: 100
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Conditionnel у непрямій мові
 
 Conditionnel у непрямій мові часто передає **майбутнє з минулої точки відліку** (*futur dans le passé*). Це одна з найважливіших функцій у reported speech.

@@ -5,30 +5,35 @@ slug: restriction-clauses
 title_uk: "Підрядні обмеження"
 title_fr: "Les propositions de restriction"
 description_uk: "Довідкова стаття про підрядні обмеження у сучасній французькій."
-canonical_ids:
+canonical_ids: []
   - FR-487
-prerequisites:
+prerequisites: []
   - subordination
-related:
+related: []
   - complex-sentences
   - subordination
   - sentence-structure
 level: REFERENCE
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue"
   - "Académie française — La terminologie de la langue française: https://www.academie-francaise.fr/la-terminologie-de-la-langue-francaise"
 reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+order: 100
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Підрядні обмеження
 
 Конструкції обмеження (*restriction*) звужують обсяг твердження: щось справджується **лише в певних межах**, **за винятком певної умови** або **настільки, наскільки** це дозволяє контекст.

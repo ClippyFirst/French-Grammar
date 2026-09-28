@@ -10,15 +10,22 @@ register: neutral
 variety: ["FR"]
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "French Grammar and Usage, 5th ed. (2025)"
 reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+order: 100
+prerequisites: []
+related: []
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Субстантивація
 
 **Субстантивація** — уживання іншої частини мови або форми в ролі іменника. У французькій це може бути лексикалізований іменник або контекстне субстантивоване вживання прикметника, числівника, інфінітива чи іншої одиниці.

@@ -16,15 +16,16 @@ register: neutral
 variety: ["FR"]
 status: review
 contrastive_uk: high
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "French Grammar and Usage, 5th ed. (2025)"
   - "Académie française — Questions de langue"
 formula: true
 toc: true
 featured: false
+order: 100
+variant: []
 ---
-
 ## Швидка відповідь
 
 Після французького дієслова інфінітив може стояти **без прийменника**, після **à**, після **de** або в іншій прийменниковій конструкції. Вибір визначається лексичною валентністю дієслова та конкретною синтаксичною моделлю, а не українським перекладом.

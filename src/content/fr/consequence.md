@@ -5,30 +5,35 @@ slug: consequence
 title_uk: "Наслідок: exprimer la conséquence"
 title_fr: "Exprimer la conséquence"
 description_uk: "Довідкова стаття про наслідок: exprimer la conséquence у сучасній французькій."
-canonical_ids:
+canonical_ids: []
   - FR-479
-prerequisites:
+prerequisites: []
   - phrase-enonce
   - sentence-structure
-related:
+related: []
   - complex-sentences
   - coordination
   - subordination
 level: REFERENCE
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 contrastive_uk: medium
 status: review
-sources:
+sources: []
   - "Académie française — La terminologie de la langue française: https://www.academie-francaise.fr/la-terminologie-de-la-langue-francaise"
 reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+order: 100
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Наслідок: exprimer la conséquence
 
 **Conséquence** описує результат або наслідок того, що було сказано раніше. У французькій його можна виражати сполучниками, корелятивними конструкціями та прислівниковими словами.

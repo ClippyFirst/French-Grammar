@@ -10,15 +10,22 @@ register: neutral
 variety: ["FR"]
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "French Grammar and Usage, 5th ed. (2025)"
 reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+order: 100
+prerequisites: []
+related: []
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Регулярна множина іменників
 
 Найпоширеніша модель французької множини — додавання **-s** до письмової форми однини.

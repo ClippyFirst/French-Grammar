@@ -4,26 +4,26 @@ title_fr: "Le complément d’objet direct et les pronoms COD"
 description_uk: "Як визначати COD, вибирати прямий об’єктний займенник та ставити його в реченні, зокрема в складених часах, запереченні й конструкціях з інфінітивом."
 category: pronouns
 order: 1
-prerequisites:
+prerequisites: []
   - pronouns-subject
   - prepositions-basics
-related:
+related: []
   - pronouns-coi
   - pronoun-order
   - y-en
   - passe-compose
   - imperatif
   - accord
-contrast:
+contrast: []
   - pronouns-coi
-next:
+next: []
   - pronouns-coi
-aliases:
+aliases: []
   - pronoms COD
   - complément d’objet direct
   - direct object pronouns
   - COD pronouns
-tags:
+tags: []
   - займенники
   - COD
   - прямий додаток
@@ -31,18 +31,19 @@ tags:
 level: A2
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue"
 reviewed_at: "2026-09-25"
 formula: true
 toc: true
 canonical_ids: ["FR-150"]
+featured: false
+variant: []
 ---
-
 # COD і прямі об’єктні займенники
 
 ## Швидка відповідь

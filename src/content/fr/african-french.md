@@ -12,12 +12,20 @@ contrastive_uk: high
 formula: false
 toc: true
 featured: false
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "French Grammar and Usage, 5th ed. (2025)"
 reviewed_at: "2026-09-26"
+order: 100
+depth: medium
+prerequisites: []
+related: []
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 ## Швидка відповідь
 
 «Французька франкомовної Африки» не є однією однорідною граматичною системою. Французька функціонує в багатьох країнах і спільнотах, часто в багатомовних умовах, тому конкретну рису треба прив'язувати до території, спільноти, жанру та ситуації.

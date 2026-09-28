@@ -5,30 +5,35 @@ slug: concession
 title_uk: "Уступка: exprimer la concession"
 title_fr: "Exprimer la concession"
 description_uk: "Довідкова стаття про уступка: exprimer la concession у сучасній французькій."
-canonical_ids:
+canonical_ids: []
   - FR-484
-prerequisites:
+prerequisites: []
   - phrase-enonce
   - sentence-structure
-related:
+related: []
   - complex-sentences
   - coordination
   - subordination
 level: REFERENCE
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 contrastive_uk: medium
 status: review
-sources:
+sources: []
   - "Académie française — La terminologie de la langue française: https://www.academie-francaise.fr/la-terminologie-de-la-langue-francaise"
 reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+order: 100
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Уступка: exprimer la concession
 
 **Concession** показує, що певний факт створює очікування одного результату, але фактичний результат інший.

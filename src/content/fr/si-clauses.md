@@ -4,19 +4,19 @@ title_fr: "Les phrases conditionnelles avec si"
 description_uk: "Повний довідник про умовні конструкції з si: відкриті умови, гіпотези, нереалізоване минуле, змішані моделі та альтернативні способи вираження умови."
 category: complex
 order: 115
-canonical_ids:
+canonical_ids: []
   - FR-375
   - FR-376
   - FR-377
   - FR-378
   - FR-379
-prerequisites:
+prerequisites: []
   - present
   - imparfait
   - plus-que-parfait
   - conditionnel-present
   - conditionnel-passe
-related:
+related: []
   - conditionnel-present
   - conditionnel-passe
   - imparfait
@@ -26,10 +26,10 @@ related:
   - futur-proche
   - indirect-speech
   - questions
-contrast:
+contrast: []
   - indirect-speech
   - conditionnel-passe
-next:
+next: []
   - conditionnel-present
 aliases: ["si-clauses", "phrases conditionnelles", "phrases avec si", "умовні речення"]
 tags: [si, умовні речення, conditionnel, imparfait, plus-que-parfait, умова, гіпотеза]
@@ -39,14 +39,14 @@ register: neutral
 variety: [FR]
 status: review
 contrastive_uk: high
-sources:
+sources: []
   - "Académie française — Questions de langue"
   - "Siepmann, D. et al., A comprehensive grammar of spoken and written French (2025)"
 formula: false
 toc: true
 featured: false
+variant: []
 ---
-
 # Умовні конструкції з **si**
 
 Французькі умовні конструкції не зводяться до однієї таблиці «перший / другий / третій тип». Важливо розрізняти:

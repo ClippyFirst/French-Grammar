@@ -4,45 +4,46 @@ title_fr: "Les verbes en -ir, -oir et -re"
 description_uk: "Практичний довідник про основні моделі дієслів на -ir, -oir та -re та межі класифікації за інфінітивом."
 category: verbs
 order: 41
-canonical_ids:
+canonical_ids: []
   - FR-314
-prerequisites:
+prerequisites: []
   - verb-groups
   - present
-related:
+related: []
   - venir-tenir
   - prendre
   - mettre
   - voir-croire
   - boire
   - irregular-verbs
-contrast:
+contrast: []
   - verb-groups
-next:
+next: []
   - infinitive
-aliases:
+aliases: []
   - verbs in -ir
   - verbs in -oir
   - verbs in -re
-tags:
+tags: []
   - дієслова
   - III група
   - морфологія
 level: A2
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 contrastive_uk: medium
 status: review
-sources:
+sources: []
   - "Dictionnaire de l’Académie française, 9e édition — Conjugaison"
   - "Grevisse et Goosse, Le Bon Usage, 17e éd."
 reviewed_at: "2026-09-25"
 formula: true
 toc: true
+featured: false
+variant: []
 ---
-
 # Дієслова на -ir, -oir та -re
 
 ## Швидко

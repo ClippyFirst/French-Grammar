@@ -12,15 +12,20 @@ register: neutral
 variety: ["FR"]
 status: review
 contrastive_uk: high
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "French Grammar and Usage, 5th ed. (2025)"
 reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+order: 100
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Schwa / e caduc
 
 **Schwa** /ə/, традиційно *e caduc*, — голосний, який у французькій має нестабільну реалізацію. У частині позицій він вимовляється, а в інших може випадати без зміни орфографії.

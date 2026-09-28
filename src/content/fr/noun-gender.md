@@ -4,23 +4,23 @@ title_fr: "Le genre des noms"
 description_uk: "Чоловічий і жіночий рід французьких іменників: як його визначати, як вивчати та де межі словотвірних підказок."
 category: nouns
 order: 10
-prerequisites:
+prerequisites: []
   - determiners
-related:
+related: []
   - gender-patterns
   - singular-plural
   - accord
   - articles-definite
   - articles-indefinite
-contrast:
+contrast: []
   - gender-patterns
-next:
+next: []
   - singular-plural
-aliases:
+aliases: []
   - genre des noms
   - masculine feminine nouns
   - masculin féminin
-tags:
+tags: []
   - рід
   - іменник
   - masculin
@@ -28,18 +28,19 @@ tags:
 level: A1
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Académie française — La langue française: https://www.academie-francaise.fr/"
 reviewed_at: "2026-09-25"
 formula: false
 toc: true
 canonical_ids: ["FR-059", "FR-060"]
+featured: false
+variant: []
 ---
-
 # Рід французьких іменників
 
 ## Швидка відповідь

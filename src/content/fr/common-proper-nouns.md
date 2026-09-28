@@ -10,15 +10,22 @@ register: neutral
 variety: ["FR"]
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "Académie française — Questions de langue"
 reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+order: 100
+prerequisites: []
+related: []
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Загальні та власні іменники
 
 Французький іменник може називати клас предметів або істот (*ville, étudiant, rivière*) або конкретний індивідуальний референт (*Paris, Marie, la Seine*). Перше — **nom commun**, друге — **nom propre**. Розмежування важливе не лише для написання великої літери: воно впливає на референцію, вибір детермінатива та спосіб, у який мовець подає назву.

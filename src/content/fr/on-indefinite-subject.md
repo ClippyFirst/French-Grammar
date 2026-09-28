@@ -16,8 +16,14 @@ reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+order: 100
+contrastive_uk: none
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # on як неозначений суб'єкт
 
 **On** — особовий займенник із формою третьої особи однини, який може мати кілька значень.

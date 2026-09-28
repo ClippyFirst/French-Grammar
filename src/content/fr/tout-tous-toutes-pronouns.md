@@ -16,8 +16,14 @@ reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+order: 100
+contrastive_uk: none
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # tout, tous, toutes як займенники
 
 Форми **tout, tous, toutes** можуть замінювати іменну групу або позначати сукупність.

@@ -12,12 +12,21 @@ contrastive_uk: high
 formula: true
 toc: true
 featured: false
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "French Grammar and Usage, 5th ed. (2025)"
 reviewed_at: "2026-09-26"
+order: 100
+depth: medium
+canonical_ids: []
+prerequisites: []
+related: []
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Складні дієслівні вирази та вербальні перифрази
 
 Французька використовує не лише прості синтетичні форми дієслова. Значна частина часових, аспектуальних, фазових і модальних значень виражається конструкціями, де особово відмінюваний компонент поєднується з інфінітивом, дієприкметниковою формою або іншою вербальною частиною.

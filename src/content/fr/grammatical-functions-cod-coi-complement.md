@@ -14,8 +14,16 @@ reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+order: 100
+canonical_ids: []
+prerequisites: []
+related: []
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Граматичні функції COD, COI та complément
 
 У французькому описі **complément** — широке поняття для залежного компонента, тоді як **COD** (*complément d'objet direct*) і **COI** (*complément d'objet indirect*) позначають конкретні об'єктні функції.

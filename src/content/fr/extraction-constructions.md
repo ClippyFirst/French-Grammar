@@ -1,5 +1,5 @@
 ---
-canonical_ids:
+canonical_ids: []
   - "FR-735"
 title_uk: "Екстракція та синтаксичні залежності на відстані"
 title_fr: "Extraction et dépendances à longue distance"
@@ -7,28 +7,28 @@ description_uk: "Системний довідник про винесення �
 category: complex
 order: 735
 
-prerequisites:
+prerequisites: []
   - word-order
   - questions
   - relative-clauses
   - information-structure
-related:
+related: []
   - long-distance-dependencies
   - grammatical-ambiguity
   - ambiguous-attachment
   - relative-pronouns
   - multiple-embedding
   - scope-negation-quantifiers
-contrast:
+contrast: []
   - long-distance-dependencies
   - information-structure
-next:
+next: []
   - long-distance-dependencies
-aliases:
+aliases: []
   - extraction
   - extraction constructions
   - dépendance à longue distance
-tags:
+tags: []
   - syntax
   - extraction
   - relatives
@@ -37,18 +37,19 @@ tags:
 level: C1
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 contrastive_uk: medium
 status: review
-sources:
+sources: []
   - "Grande Grammaire du français — extraction, relatives, interrogatives et constructions clivées"
   - "The Syntax of French — extraction and constituent structure"
 reviewed_at: "2026-09-26"
 formula: true
 toc: true
+featured: false
+variant: []
 ---
-
 # Екстракція та синтаксичні залежності на відстані
 
 ## Швидка відповідь

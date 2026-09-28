@@ -4,37 +4,37 @@ title_fr: "Le ne explétif"
 description_uk: "Довідник про ne explétif після craindre, avant que та інших конструкцій, його необов’язковість і відмінність від звичайного заперечення."
 category: negation
 order: 421
-prerequisites:
+prerequisites: []
   - negation
   - subjonctif
   - temporal-conjunctions
-related:
+related: []
   - negation
   - subjonctif
   - temporal-conjunctions
   - indirect-speech
-contrast:
+contrast: []
   - negation
-next:
+next: []
   - subjonctif
 aliases: ["ne explétif", "explétif ne", "пояснювальне ne"]
 tags: [ne explétif, заперечення, subjonctif, craindre, avant que]
 level: B2
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 status: review
 contrastive_uk: high
-sources:
+sources: []
   - "Académie française — Questions de langue"
   - "Académie française — « Je crains qu’il ne mente »"
 formula: false
 toc: true
 featured: false
 canonical_ids: ["FR-421"]
+variant: []
 ---
-
 # Ne explétif
 
 ## Швидка відповідь

@@ -4,20 +4,20 @@ title_fr: "Le futur proche"
 description_uk: "Форма aller + infinitif, її значення, часові межі, намір, прогноз, заперечення та контраст із futur simple."
 category: tenses
 order: 50
-canonical_ids:
+canonical_ids: []
   - FR-361
   - FR-362
-prerequisites:
+prerequisites: []
   - present
   - aller
-related:
+related: []
   - futur-simple
   - futur-anterieur
   - imperatif
   - negation
-contrast:
+contrast: []
   - futur-simple
-next:
+next: []
   - futur-simple
 aliases: ["futur proche", "найближче майбутнє"]
 tags: [futur proche, aller, infinitif, майбутнє, намір, прогноз]
@@ -31,8 +31,8 @@ sources: ["Académie française — Questions de langue"]
 formula: true
 toc: true
 featured: false
+variant: []
 ---
-
 # Futur proche
 
 ## Швидка відповідь

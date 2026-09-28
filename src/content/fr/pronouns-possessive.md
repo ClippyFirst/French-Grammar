@@ -4,7 +4,7 @@ title_fr: "Les pronoms possessifs"
 description_uk: "Система le mien, la mienne, les miens тощо: узгодження з референтом, відмінність від присвійних визначників та контраст з українською."
 category: pronouns
 order: 13
-related:
+related: []
   - pronouns-demonstrative
   - pronouns-cod
   - pronoun-order
@@ -15,11 +15,18 @@ register: neutral
 variety: [FR]
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Académie française, Questions de langue"
 canonical_ids: ["FR-186", "FR-187"]
+formula: false
+toc: true
+featured: false
+prerequisites: []
+contrast: []
+next: []
+variant: []
+aliases: []
 ---
-
 # Присвійні займенники
 
 ## Швидко

@@ -1,5 +1,5 @@
 ---
-canonical_ids:
+canonical_ids: []
   - "FR-724"
 title_uk: "Суб'єкт інфінітива та контроль"
 title_fr: "Le sujet de l'infinitif et les relations de contrôle"
@@ -19,14 +19,14 @@ register: neutral
 variety: ["FR"]
 status: review
 contrastive_uk: high
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "French Grammar and Usage, 5th ed. (2025)"
 formula: false
 toc: true
 featured: false
+variant: []
 ---
-
 ## Швидка відповідь
 
 Інфінітивна конструкція може мати:

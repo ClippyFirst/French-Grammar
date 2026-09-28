@@ -16,8 +16,14 @@ reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+order: 100
+contrastive_uk: none
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # en: основні функції
 
 **En** — клитичний займенник із кількома пов'язаними функціями. Він може замінювати групи з *de*, виражати кількісний компонент або позначати походження.

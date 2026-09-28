@@ -4,11 +4,11 @@ title_fr: "L’ordre des pronoms compléments"
 description_uk: "Фіксований порядок me/te/se, le/la/les, lui/leur, y, en; особливості складених часів, інфінітива та impératif."
 category: pronouns
 order: 60
-prerequisites:
+prerequisites: []
   - pronouns-cod
   - pronouns-coi
   - y-en
-related:
+related: []
   - pronouns-infinitive
   - infinitive
   - imperatif
@@ -20,15 +20,18 @@ register: neutral
 variety: [FR]
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Académie française, Questions de langue"
 reviewed_at: "2026-09-25"
 formula: true
 toc: true
 featured: false
 canonical_ids: ["FR-154", "FR-155", "FR-156", "FR-157", "FR-158", "FR-159", "FR-160", "FR-161", "FR-162", "FR-163"]
+contrast: []
+next: []
+variant: []
+aliases: []
 ---
-
 # Порядок об’єктних займенників
 
 ## Базова схема

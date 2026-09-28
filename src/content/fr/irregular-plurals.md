@@ -4,34 +4,38 @@ title_fr: "Les pluriels irréguliers et variables des noms"
 description_uk: "Системний довідник про множину іменників поза простим додаванням -s: -al, -ail, -eau, -eu, -ou, подвійні форми та лексичні винятки."
 category: nouns
 order: 69
-prerequisites:
+prerequisites: []
   - singular-plural
   - noun-gender
-related:
+related: []
   - compound-nouns
   - accord
   - articles-definite
-contrast:
+contrast: []
   - singular-plural
-next:
+next: []
   - accord
 level: B1
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 status: review
 contrastive_uk: medium
-sources:
+sources: []
   - "Académie française — Questions de langue"
   - "Grevisse et Goosse — Le Bon Usage"
-tags:
+tags: []
   - plural
   - irregular-plurals
   - nouns
 canonical_ids: ["FR-069", "FR-070"]
+formula: false
+toc: true
+featured: false
+variant: []
+aliases: []
 ---
-
 ## Швидка відповідь
 
 Базова французька модель множини — **додавання -s**:

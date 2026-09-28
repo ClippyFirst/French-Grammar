@@ -4,36 +4,40 @@ title_fr: "Le h muet et le h aspiré"
 description_uk: "Функціональна різниця між h muet та h aspiré: елізія, liaison, визначення типу h за словником і важливі винятки."
 category: fundamentals
 order: 34
-prerequisites:
+prerequisites: []
   - elision
   - liaison
-related:
+related: []
   - enchainement
   - reading-rules
   - punctuation
-contrast:
+contrast: []
   - elision
   - liaison
-next:
+next: []
   - accents
 level: A2
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 status: review
 contrastive_uk: high
-sources:
+sources: []
   - "Académie française — Questions de langue"
   - "Académie française — Dictionnaire"
-tags:
+tags: []
   - h-muet
   - h-aspire
   - elision
   - liaison
 canonical_ids: ["FR-033", "FR-034"]
+formula: false
+toc: true
+featured: false
+variant: []
+aliases: []
 ---
-
 ## Швидка відповідь
 
 У сучасній французькій **h на початку слова не позначає окремого звука [h]**. Але орфографічне *h* може мати дві різні граматико-фонологічні функції:

@@ -4,10 +4,10 @@ title_fr: "Les règles de lecture du français"
 description_uk: "Системний довідник про зв’язок французького написання й вимови: графеми, голосні та приголосні, склад, schwa, кінцеві літери, типові відповідності та межі правил."
 category: fundamentals
 order: 2
-prerequisites:
+prerequisites: []
   - alphabet
   - accents
-related:
+related: []
   - accents
   - h-muet-aspire
   - liaison
@@ -20,11 +20,11 @@ related:
   - schwa
   - silent-final-vowels
   - silent-final-consonants
-aliases:
+aliases: []
   - "règles de lecture"
   - "читання французькою"
   - "французька вимова і написання"
-tags:
+tags: []
   - reading
   - pronunciation
   - orthography
@@ -35,19 +35,22 @@ tags:
 level: A1
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 status: review
 contrastive_uk: high
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "Le Bon Usage, 17e éd."
 reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+canonical_ids: []
+contrast: []
+next: []
+variant: []
 ---
-
 # Правила читання французькою
 
 Французьке написання не є фонетичною транскрипцією: **одна літера не обов’язково відповідає одному звуку**, а один звук може передаватися кількома різними написаннями. Тому читати французьке слово потрібно не «літера за літерою», а через **графеми та їхнє оточення**.

@@ -17,13 +17,14 @@ register: neutral
 variety: [FR]
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Académie française — Dictionnaire de l'Académie française, 9e éd."
 reviewed_at: "2026-09-25"
 formula: true
 toc: true
+featured: false
+variant: []
 ---
-
 # Participe passé
 
 ## Швидка відповідь

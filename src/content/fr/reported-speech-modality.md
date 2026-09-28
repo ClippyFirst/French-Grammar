@@ -12,15 +12,20 @@ register: neutral
 variety: ["FR"]
 status: review
 contrastive_uk: high
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "French Grammar and Usage, 5th ed. (2025)"
 reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+order: 100
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Узгодження модальності
 
 Передавання модальності в непрямій мові потребує окремого аналізу. Автор переказу має відтворити не лише факт, а й ступінь упевненості, можливість, необхідність, бажання або оцінку мовця.

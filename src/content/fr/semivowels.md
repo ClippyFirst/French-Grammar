@@ -12,15 +12,20 @@ register: neutral
 variety: ["FR"]
 status: review
 contrastive_uk: high
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "French Grammar and Usage, 5th ed. (2025)"
 reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+order: 100
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Напівголосні та напівприголосні
 
 Французькі **напівголосні / напівприголосні** (*semi-voyelles / semi-consonnes*) — це /j/, /w/ та /ɥ/. Вони мають артикуляційні властивості, близькі до відповідних голосних, але в складі функціонують як периферійні елементи навколо голосного ядра.

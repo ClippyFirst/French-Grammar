@@ -2,7 +2,7 @@
 title_uk: "Passé composé / imparfait ↔ український доконаний / недоконаний вид"
 title_fr: "Le passé composé et l'imparfait face à l'aspect ukrainien"
 description_uk: "Контрастивний довідник про passé composé та imparfait і способи передавання завершеності, фону, тривалості та повторюваності українським видом і часом."
-canonical_ids:
+canonical_ids: []
   - "FR-706"
   - "FR-346"
 level: B2
@@ -14,12 +14,20 @@ contrastive_uk: high
 formula: false
 toc: true
 featured: false
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "French Grammar and Usage, 5th ed. (2025)"
 reviewed_at: "2026-09-26"
+order: 100
+depth: medium
+prerequisites: []
+related: []
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Passé composé / imparfait ↔ український доконаний / недоконаний вид
 
 ## Швидка відповідь

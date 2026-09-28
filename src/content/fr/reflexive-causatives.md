@@ -15,14 +15,16 @@ register: neutral
 variety: ["FR"]
 status: review
 contrastive_uk: high
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "French Grammar and Usage, 5th ed. (2025)"
 formula: false
 toc: true
 featured: false
+variant: []
+aliases: []
+tags: []
 ---
-
 ## Швидка відповідь
 
 У каузативній конструкції **faire + infinitif** зовнішній суб'єкт є каузатором, а учасник інфінітивної дії належить до внутрішнього предиката.

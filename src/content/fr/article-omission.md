@@ -4,28 +4,28 @@ title_fr: "L’absence d’article"
 description_uk: "Системний довідник про середовища без артикля: власні назви, професія та статус після être, назви мов, сталі прийменникові конструкції, заголовковий стиль, кількісні моделі та межі нульового визначника."
 category: nouns
 order: 80
-prerequisites:
+prerequisites: []
   - articles-definite
   - articles-indefinite
   - articles-partitive
-related:
+related: []
   - contracted-articles
   - articles-after-negation
   - articles-with-quantities
   - capitalization
   - geographical-names
-contrast:
+contrast: []
   - articles-definite
   - articles-indefinite
-next:
+next: []
   - articles-after-negation
-aliases:
+aliases: []
   - zero article
   - zero determiner
   - absence d’article
   - article omission
   - нульовий артикль
-tags:
+tags: []
   - артикль
   - нульовий артикль
   - визначники
@@ -37,7 +37,7 @@ register: neutral
 variety: [FR]
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "Académie française — La grammaire et l’infini (2024)"
   - "French Grammar and Usage, 5th ed. (2025)"
@@ -46,8 +46,8 @@ formula: true
 toc: true
 featured: false
 canonical_ids: ["FR-083", "FR-089", "FR-092", "FR-093", "FR-094"]
+variant: []
 ---
-
 # Відсутність артикля
 
 ## Швидка відповідь

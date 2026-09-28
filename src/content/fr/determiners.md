@@ -4,10 +4,10 @@ title_fr: "Le déterminant"
 description_uk: "Базова модель французької іменникової групи: déterminant, іменник та прикметники; відмінність déterminant від pronom."
 category: nouns
 order: 20
-prerequisites:
+prerequisites: []
   - noun-gender
   - singular-plural
-related:
+related: []
   - articles-definite
   - articles-indefinite
   - articles-partitive
@@ -16,20 +16,20 @@ related:
   - pronouns-demonstrative
   - pronouns-possessive
   - quantifiers
-contrast:
+contrast: []
   - articles-definite
   - articles-indefinite
   - pronouns-demonstrative
   - pronouns-possessive
-next:
+next: []
   - articles-definite
-aliases:
+aliases: []
   - déterminant
   - determiner
   - French determiners
   - déterminants
   - déterminant vs pronom
-tags:
+tags: []
   - déterminant
   - визначник
   - артикль
@@ -37,19 +37,19 @@ tags:
 level: A1
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Académie française — La grammaire et l’infini (2024): https://www.academie-francaise.fr/la-grammaire-et-linfini"
 reviewed_at: "2026-09-25"
 formula: true
 toc: true
 featured: true
 canonical_ids: ["FR-079", "FR-112"]
+variant: []
 ---
-
 # Déterminant
 
 ## Швидка відповідь

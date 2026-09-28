@@ -4,42 +4,42 @@ title_fr: "Le futur dans le passé"
 description_uk: "Системний довідник про майбутню щодо минулого подію, що виражається формами conditionnel présent, особливо в непрямій мові."
 category: tenses
 order: 362
-canonical_ids:
+canonical_ids: []
   - FR-365
   - FR-366
-prerequisites:
+prerequisites: []
   - futur-simple
   - conditionnel-present
   - indirect-speech
   - imparfait
-related:
+related: []
   - conditionnel-present
   - conditionnel-passe
   - indirect-speech
   - futur-simple
   - plus-que-parfait
-contrast:
+contrast: []
   - futur-simple
   - conditionnel-present
-next:
+next: []
   - indirect-speech
 aliases: ["futur du passé", "futur dans le passé", "майбутнє в минулому"]
 tags: [futur dans le passé, conditionnel, непряма мова, узгодження часів]
 level: B2
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 status: review
 contrastive_uk: high
-sources:
+sources: []
   - "Académie française — « Je pensais que je viendrai »"
   - "Académie française — « Il disait qu’il viendra »"
 formula: false
 toc: true
 featured: false
+variant: []
 ---
-
 # Futur dans le passé
 
 ## Швидка відповідь

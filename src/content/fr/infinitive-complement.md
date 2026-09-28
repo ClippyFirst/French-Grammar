@@ -16,7 +16,7 @@ register: neutral
 variety: ["FR"]
 status: review
 contrastive_uk: high
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "French Grammar and Usage, 5th ed. (2025)"
   - "Académie française — Questions de langue"
@@ -24,8 +24,9 @@ formula: true
 toc: true
 featured: false
 
+order: 100
+variant: []
 ---
-
 ## Швидка відповідь
 
 **Інфінітив може бути доповненням** до дієслова, прикметника, іменника або цілої предикативної конструкції. Він називає дію без вираження особи, числа чи часу самим інфінітивом: *Je veux partir* «Я хочу піти», *Il est difficile de comprendre* «Важко зрозуміти», *la décision de partir* «рішення піти».

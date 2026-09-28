@@ -5,12 +5,12 @@ slug: relative-qui
 title_uk: "Qui як відносний займенник"
 title_fr: "Qui comme pronom relatif"
 description_uk: "Системний довідник про qui як відносний займенник: функція підмета, прийменникові конструкції, люди й предмети та контраст з que."
-canonical_ids:
+canonical_ids: []
   - FR-495
-prerequisites:
+prerequisites: []
   - relative-pronouns
   - subordination
-related:
+related: []
   - relative-pronouns
   - relative-que
   - relative-dont
@@ -19,19 +19,24 @@ related:
 level: REFERENCE
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "French Grammar and Usage, 5th ed. (2025)"
 reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+order: 100
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Qui як відносний займенник
 
 **Qui** як відносний займенник (*pronom relatif*) вводить відносне речення і в базовій конструкції без прийменника виконує функцію **підмета**. Вибір *qui* визначається не українським перекладом «який/яка», а роллю антецедента всередині французької relative.

@@ -5,26 +5,26 @@ description_uk: "Як займенники, прислівники та часо
 category: sentences
 order: 736
 canonical_ids: ["FR-736"]
-prerequisites:
+prerequisites: []
   - pronouns-personal
   - adverbs
   - word-order
-related:
+related: []
   - pronouns-toniques
   - interrogative-adverbs
   - passe-compose
   - present
   - futur-simple
   - indirect-speech
-contrast:
+contrast: []
   - phrase-enonce
-next:
+next: []
   - indirect-speech
-aliases:
+aliases: []
   - déixis
   - expressions déictiques
   - deixis
-tags:
+tags: []
   - deixis
   - je
   - ici
@@ -32,17 +32,18 @@ tags:
 level: B2
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Grande Grammaire du français — L’ancrage des énoncés dans l’énonciation"
 reviewed_at: "2026-09-25"
 formula: false
 toc: true
+featured: false
+variant: []
 ---
-
 # Дейксис
 
 ## Швидка відповідь

@@ -5,23 +5,23 @@ description_uk: "Системний довідник про gérondif: en + part
 category: syntax
 canonical_ids: [FR-319, FR-517, FR-518, FR-519, FR-520, FR-523]
 order: 29
-prerequisites:
+prerequisites: []
   - present
   - infinitive
-related:
+related: []
   - passe-compose
   - participe-present
   - temporal-conjunctions
   - si-clauses
-contrast:
+contrast: []
   - infinitive
-next:
+next: []
   - temporal-conjunctions
-aliases:
+aliases: []
   - gérondif
   - gerund
   - герундій
-tags:
+tags: []
   - gérondif
   - en
   - participe présent
@@ -32,14 +32,14 @@ register: neutral
 variety: [FR]
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue"
 reviewed_at: "2026-09-25"
 formula: true
 toc: true
 featured: false
+variant: []
 ---
-
 # Gérondif
 
 ## Швидка відповідь

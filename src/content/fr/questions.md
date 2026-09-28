@@ -4,13 +4,13 @@ title_fr: "La phrase interrogative"
 description_uk: "Повна система прямих і непрямих питань: інтонація, est-ce que, інверсія, t euphonique, qui/que/quoi, quel/lequel, interrogative adverbs, прийменники, жива французька та риторичні питання."
 category: questions
 order: 10
-canonical_ids:
-prerequisites:
+canonical_ids: []
+prerequisites: []
   - present
   - pronouns-subject
   - pronouns-cod
   - pronouns-coi
-related:
+related: []
   - negation
   - determiners-interrogative
   - interrogative-adverbs
@@ -18,18 +18,18 @@ related:
   - indirect-speech
   - punctuation
   - prosody
-contrast:
+contrast: []
   - indirect-speech
-next:
+next: []
   - indirect-speech
-aliases:
+aliases: []
   - interrogation
   - phrase interrogative
   - questions en français
   - question directe
   - question indirecte
   - est-ce que
-tags:
+tags: []
   - питання
   - interrogation
   - est-ce que
@@ -48,11 +48,11 @@ tags:
 level: A1
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue"
   - "Académie française — Interrogative directe sans inversion : Vous allez où ?: https://www.academie-francaise.fr/interrogative-directe-sans-inversion-vous-allez-ou"
   - "Académie française — Interrogative indirecte avec inversion du sujet: https://www.academie-francaise.fr/interrogative-indirecte-avec-inversion-du-sujet"
@@ -62,8 +62,9 @@ sources:
 reviewed_at: "2026-09-25"
 formula: true
 toc: true
+featured: false
+variant: []
 ---
-
 # Питання
 
 ## Швидка відповідь

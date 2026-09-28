@@ -17,8 +17,13 @@ reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+order: 100
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Присвійні детермінативи
 
 Французькі присвійні детермінативи виражають зв'язок між референтом і власником/пов'язаною особою: **mon, ma, mes; ton, ta, tes; son, sa, ses; notre, nos; votre, vos; leur, leurs**.

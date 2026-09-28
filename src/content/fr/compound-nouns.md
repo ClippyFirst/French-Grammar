@@ -16,7 +16,7 @@ register: neutral
 variety: [FR]
 status: review
 contrastive_uk: medium
-sources:
+sources: []
   - "Académie française — Questions de langue: genre des noms composés"
   - "Académie française — Rectifications de l’orthographe de 1990"
 reviewed_at: "2026-09-25"
@@ -24,8 +24,8 @@ formula: true
 toc: true
 featured: false
 canonical_ids: ["FR-071", "FR-072"]
+variant: []
 ---
-
 # Складні іменники
 
 ## Швидка відповідь

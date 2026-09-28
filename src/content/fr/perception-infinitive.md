@@ -5,24 +5,24 @@ description_uk: "Voir, entendre, écouter, regarder та інші дієслов
 category: complex
 order: 721
 
-prerequisites:
+prerequisites: []
   - infinitive
   - pronouns-cod
   - relative-pronouns
-related:
+related: []
   - voir-croire
   - infinitive-after-verb
   - accord
   - pronouns-infinitive
   - subordination
-contrast:
+contrast: []
   - infinitive-control
-next:
+next: []
   - faire-infinitive
-aliases:
+aliases: []
   - perception + infinitif
   - verbes de perception
-tags:
+tags: []
   - сприйняття
   - інфінітив
   - voir
@@ -33,15 +33,16 @@ register: neutral
 variety: [FR]
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Grande Grammaire du français — constructions verbales"
   - "French Grammar and Usage, 5th ed. (2025)"
   - "Dictionnaire de l’Académie française — voir, entendre"
 formula: true
 toc: true
 featured: false
+canonical_ids: []
+variant: []
 ---
-
 # Дієслова сприйняття + інфінітив
 
 ## Швидка відповідь

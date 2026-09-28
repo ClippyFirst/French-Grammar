@@ -2,7 +2,7 @@
 title_uk: "Непряме питання"
 title_fr: "La question indirecte"
 description_uk: "Непрямі питання у французькій: питання з si, питальними словами, порядком слів, займенниками та часовою перспективою."
-canonical_ids:
+canonical_ids: []
   - "FR-612"
 level: B1
 category: questions
@@ -13,12 +13,20 @@ contrastive_uk: high
 formula: true
 toc: true
 featured: false
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "French Grammar and Usage, 5th ed. (2025)"
 reviewed_at: "2026-09-26"
+order: 100
+depth: medium
+prerequisites: []
+related: []
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Непряме питання
 
 ## Швидка відповідь

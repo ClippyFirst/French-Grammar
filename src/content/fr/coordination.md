@@ -4,7 +4,7 @@ title_fr: "La coordination et les phrases coordonnées"
 description_uk: "Системний довідник про сурядність, складносурядні конструкції, сурядні сполучники та безсполучникове поєднання."
 category: syntax
 order: 2
-canonical_ids:
+canonical_ids: []
   - "FR-463"
   - "FR-464"
   - "FR-465"
@@ -17,12 +17,12 @@ canonical_ids:
   - "FR-472"
   - "FR-473"
   - "FR-474"
-prerequisites:
+prerequisites: []
   - sentence-structure
   - questions
   - negation
   - information-structure
-related:
+related: []
   - complex-sentences
   - temporal-conjunctions
   - subjonctif
@@ -32,11 +32,11 @@ related:
 level: B1
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Académie française — Mais où est donc Ornicar ?: https://www.academie-francaise.fr/mais-ou-est-donc-ornicar"
   - "Académie française — « Car » en début de phrase: https://www.academie-francaise.fr/car-en-debut-de-phrase"
   - "Académie française — Car en effet: https://www.academie-francaise.fr/car-en-effet"
@@ -47,8 +47,13 @@ sources:
 reviewed_at: "2026-09-25"
 formula: true
 toc: true
+featured: false
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Сурядність і сурядні речення у французькій мові
 
 ## Швидка відповідь

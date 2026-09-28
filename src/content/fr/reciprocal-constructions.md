@@ -15,14 +15,16 @@ register: neutral
 variety: ["FR"]
 status: review
 contrastive_uk: high
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "French Grammar and Usage, 5th ed. (2025)"
 formula: false
 toc: true
 featured: false
+variant: []
+aliases: []
+tags: []
 ---
-
 ## Швидка відповідь
 
 **Взаємність** означає, що учасники ситуації спрямовують дію один на одного: A → B і B → A. Французька часто виражає це займенниковою формою, але **se саме по собі не означає «один одного»**.

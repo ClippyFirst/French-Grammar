@@ -15,8 +15,15 @@ reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+order: 100
+prerequisites: []
+related: []
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Німі кінцеві приголосні
 
 У французькій багато кінцевих приголосних не вимовляються:

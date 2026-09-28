@@ -4,16 +4,28 @@ title_fr: "La ponctuation"
 description_uk: "Французька пунктуація має свої особливості: інтерробанг, пропошн-експонanski, дводкові кутовкі лапки."
 category: fundamentals
 order: 8
-related:
+related: []
   - fundamentals/capitalization
   - fundamentals/accents
-tags:
+tags: []
   - punctuation
   - typography
   - fundamentals
 canonical_ids: ["FR-049"]
+depth: medium
+status: draft
+contrastive_uk: none
+formula: false
+toc: true
+featured: false
+prerequisites: []
+contrast: []
+next: []
+variant: []
+aliases: []
+variety: []
+sources: []
 ---
-
 ## Швидко
 
 Французька пунктуація базується на **десятковому дусі** (десяткова крапка). Вона використовує **додаткові пробіли** навколо деяких знаків і **кутові лапки** для подання цитат.

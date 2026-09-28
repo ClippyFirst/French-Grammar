@@ -10,15 +10,22 @@ register: neutral
 variety: ["FR"]
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "French Grammar and Usage, 5th ed. (2025)"
 reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+order: 100
+prerequisites: []
+related: []
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Власні назви людей
 
 Французькі власні назви людей зазвичай функціонують як індивідуальні позначення без артикля: *Marie arrive*, *Paul travaille*. Але в певних конструкціях перед ім'ям можуть з'являтися детермінативи або інші елементи з окремою прагматичною функцією.

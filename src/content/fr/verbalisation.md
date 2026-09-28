@@ -12,12 +12,20 @@ contrastive_uk: high
 formula: false
 toc: true
 featured: false
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "French Grammar and Usage, 5th ed. (2025)"
 reviewed_at: "2026-09-26"
+order: 100
+depth: medium
+prerequisites: []
+related: []
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Verbalisation
 
 **Verbalisation** — утворення дієслівної лексичної одиниці від іншої основи або перехід одиниці до дієслівного використання. Французька використовує суфіксацію, префіксацію та інші моделі для створення нових дієслів.

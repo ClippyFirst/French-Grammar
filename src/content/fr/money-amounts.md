@@ -3,7 +3,7 @@ title_uk: "Грошові суми"
 title_fr: "Les sommes d'argent"
 description_uk: "Ціни, суми, валюти, десяткові значення та великі грошові величини у французькій."
 category: numbers
-canonical_ids:
+canonical_ids: []
   - FR-585
 level: B1
 depth: high
@@ -11,14 +11,22 @@ register: neutral
 variety: [FR]
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "Académie française — Questions de langue"
 reviewed_at: "2026-09-26"
 formula: true
 toc: true
+order: 100
+featured: false
+prerequisites: []
+related: []
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Грошові суми
 
 ## Швидка відповідь

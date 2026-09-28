@@ -4,24 +4,24 @@ title_fr: "Le complément d’objet indirect et les pronoms COI"
 description_uk: "Як розпізнати COI, вибрати lui/leur та відрізнити їх від COD, y і наголошених займенників через керування французького дієслова."
 category: pronouns
 order: 2
-prerequisites:
+prerequisites: []
   - pronouns-cod
   - prepositions-a
-related:
+related: []
   - pronoun-order
   - y-en
   - accord
   - prepositions-a
-contrast:
+contrast: []
   - pronouns-cod
-next:
+next: []
   - pronoun-order
-aliases:
+aliases: []
   - pronoms COI
   - complément d’objet indirect
   - indirect object pronouns
   - lui leur
-tags:
+tags: []
   - займенники
   - COI
   - непрямий додаток
@@ -30,18 +30,19 @@ tags:
 level: A2
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue"
 reviewed_at: "2026-09-25"
 formula: true
 toc: true
 canonical_ids: ["FR-151", "FR-152", "FR-153"]
+featured: false
+variant: []
 ---
-
 # COI і непрямі об’єктні займенники
 
 ## Швидка відповідь

@@ -17,15 +17,15 @@ register: formal
 variety: ["FR"]
 status: review
 contrastive_uk: medium
-sources:
+sources: []
   - "Académie française — Questions de langue"
   - "Grande Grammaire du français"
   - "French Grammar and Usage, 5th ed. (2025)"
 formula: true
 toc: true
 featured: false
+variant: []
 ---
-
 ## Швидка відповідь
 
 Інверсія дієслова й підмета у французькій не обмежується прямими питаннями. Вона трапляється, зокрема, у:

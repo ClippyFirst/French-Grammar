@@ -4,11 +4,11 @@ title_fr: "Le conditionnel présent"
 description_uk: "Повний довідник про conditionnel présent: утворення від основи futur simple, значення гіпотези, наслідку, ввічливості, бажання та майбутнього в минулому, а також контраст з futur, imparfait і conditionnel passé."
 category: moods
 order: 110
-canonical_ids:
+canonical_ids: []
   - FR-367
   - FR-368
   - FR-369
-related:
+related: []
   - futur-dans-passe
   - si-clauses
   - conditionnel-passe
@@ -22,10 +22,17 @@ register: neutral
 variety: [FR]
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Académie française, Questions de langue"
+formula: false
+toc: true
+featured: false
+prerequisites: []
+contrast: []
+next: []
+variant: []
+aliases: []
 ---
-
 # **Conditionnel présent**
 
 **Conditionnel présent** — форма, яка може виражати гіпотезу, наслідок умови, ввічливе прохання, бажання, пораду або майбутню подію, розглянуту з минулої точки відліку.

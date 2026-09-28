@@ -4,18 +4,18 @@ title_fr: "Les présentatifs en français : c'est, ce sont, il y a, voici et voi
 description_uk: "Системний довідник про présentatifs: c'est / ce sont, il y a, voici / voilà та пов'язані конструкції; їхню структуру, узгодження, значення, регістр і відмінності від il est / elle est."
 category: syntax
 order: 1
-canonical_ids:
+canonical_ids: []
   - "FR-451"
   - "FR-452"
   - "FR-453"
   - "FR-455"
   - "FR-456"
-prerequisites:
+prerequisites: []
   - sentence-structure
   - word-order
   - pronouns-subject
   - articles-definite
-related:
+related: []
   - sentence-structure
   - word-order
   - information-structure
@@ -26,11 +26,11 @@ related:
 level: A2
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Académie française — C’est / ce sont: https://www.academie-francaise.fr/questions-de-langue"
   - "Académie française — Il est, c’est un: https://www.academie-francaise.fr/il-est-cest-un-0"
   - "Académie française — Voilà: https://www.academie-francaise.fr/voila"
@@ -40,8 +40,13 @@ sources:
 reviewed_at: "2026-09-25"
 formula: true
 toc: true
+featured: false
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # C'est, ce sont, il y a, voici та voilà
 
 Французькі **présentatifs** — це конструкції, за допомогою яких мовець представляє, ідентифікує, вводить або вказує на особу, предмет, ситуацію чи інформацію.

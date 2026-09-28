@@ -3,23 +3,31 @@ title_uk: "Дроби"
 title_fr: "Les fractions"
 description_uk: "Утворення й уживання французьких дробів, конструкції demi, tiers, quart та дробові групи з de."
 category: numbers
-canonical_ids:
+canonical_ids: []
   - FR-579
 level: B1
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "Académie française — Questions de langue"
 reviewed_at: "2026-09-26"
 formula: true
 toc: true
+order: 100
+featured: false
+prerequisites: []
+related: []
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Дроби
 
 Французькі дроби (*fractions*) виражають частину цілого або співвідношення між числовими величинами. У мовленні вони можуть називатися словами або передаватися цифровим записом.

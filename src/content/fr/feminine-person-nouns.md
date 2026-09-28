@@ -12,12 +12,20 @@ contrastive_uk: high
 formula: false
 toc: true
 featured: false
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "French Grammar and Usage, 5th ed. (2025)"
 reviewed_at: "2026-09-26"
+order: 100
+depth: medium
+prerequisites: []
+related: []
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Жіночі форми назв осіб
 
 Французька активно використовує **гендерно марковані назви осіб**, і для багатьох професій, посад та занять існують окремі жіночі форми. Їх потрібно відрізняти від механічного додавання закінчення: французька має кілька історично сформованих моделей, а деякі назви допускають паралельні варіанти.

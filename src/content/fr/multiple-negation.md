@@ -15,14 +15,16 @@ register: neutral
 variety: ["FR"]
 status: review
 contrastive_uk: high
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "Académie française — Questions de langue"
 formula: false
 toc: true
 featured: false
+variant: []
+aliases: []
+tags: []
 ---
-
 ## Швидка відповідь
 
 Кілька негативних елементів у французькому реченні **не означають автоматичного скасування заперечення**.

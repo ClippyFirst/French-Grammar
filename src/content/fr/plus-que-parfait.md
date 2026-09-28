@@ -4,10 +4,10 @@ title_fr: "Le plus-que-parfait"
 description_uk: "Формування plus-que-parfait та його функція для позначення ситуації, що передує іншій минулій точці відліку."
 category: tenses
 order: 40
-canonical_ids:
+canonical_ids: []
   - FR-347
   - FR-348
-related:
+related: []
   - passe-compose
   - imparfait
   - conditionnel-passe
@@ -18,10 +18,17 @@ register: neutral
 variety: [FR]
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Académie française, Questions de langue"
+formula: false
+toc: true
+featured: false
+prerequisites: []
+contrast: []
+next: []
+variant: []
+aliases: []
 ---
-
 # Plus-que-parfait
 
 ## Швидко

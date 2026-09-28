@@ -16,15 +16,15 @@ register: neutral
 variety: [FR]
 status: review
 contrastive_uk: high
-sources:
+sources: []
   - "Académie française — Questions de langue"
 reviewed_at: "2026-09-25"
 formula: true
 toc: true
 featured: true
 canonical_ids: ["FR-237"]
+variant: []
 ---
-
 # Французькі прийменники
 
 ## Швидка відповідь

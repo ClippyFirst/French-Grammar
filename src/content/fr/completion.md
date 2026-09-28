@@ -3,24 +3,31 @@ title_uk: "Завершеність дії"
 title_fr: "L'accomplissement et l'achèvement"
 description_uk: "Французька передає завершеність не однією універсальною формою, а поєднанням часу, лексики та контексту."
 category: tense-aspect
-canonical_ids:
+canonical_ids: []
   - FR-591
 level: B2
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "French Grammar and Usage, 5th ed. (2025)"
 reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+order: 100
+prerequisites: []
+related: []
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Завершеність дії
 
 ## Швидка відповідь

@@ -12,12 +12,20 @@ contrastive_uk: high
 formula: true
 toc: true
 featured: false
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "French Grammar and Usage, 5th ed. (2025)"
 reviewed_at: "2026-09-26"
+order: 100
+depth: medium
+prerequisites: []
+related: []
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Ад'єктивація у французькій
 
 **Ад'єктивація (adjectivisation)** — це процес, унаслідок якого мовна одиниця набуває властивостей або синтаксичної функції прикметника. Для французької важливо не змішувати щонайменше три різні явища:

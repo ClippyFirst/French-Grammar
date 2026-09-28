@@ -5,30 +5,35 @@ slug: subject-predicate-object
 title_uk: "Базовий порядок: підмет + дієслово + додаток"
 title_fr: "Ordre de base : sujet + verbe + complément"
 description_uk: "Довідкова стаття про базовий порядок: підмет + дієслово + додаток у сучасній французькій."
-canonical_ids:
+canonical_ids: []
   - FR-009
-prerequisites:
+prerequisites: []
   - phrase-enonce
   - sentence-structure
-related:
+related: []
   - complex-sentences
   - coordination
   - subordination
 level: REFERENCE
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 contrastive_uk: medium
 status: review
-sources:
+sources: []
   - "Académie française — La terminologie de la langue française: https://www.academie-francaise.fr/la-terminologie-de-la-langue-francaise"
 reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+order: 100
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Базовий порядок: підмет + дієслово + додаток
 
 Французьке речення часто будується навколо послідовності **sujet + verbe + complément**. Це не означає, що всі речення мають саме три компоненти, але для нейтрального розповідного речення така модель є головною опорою.

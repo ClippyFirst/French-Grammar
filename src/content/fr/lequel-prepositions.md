@@ -5,32 +5,37 @@ slug: lequel-prepositions
 title_uk: "Lequel після прийменника"
 title_fr: "Lequel après une préposition"
 description_uk: "Довідкова стаття про lequel після прийменника у французькій."
-canonical_ids:
+canonical_ids: []
   - FR-203
   - FR-500
-prerequisites:
+prerequisites: []
   - relative-pronouns
   - subordination
-related:
+related: []
   - relative-pronouns
   - subordination
   - sentence-structure
 level: REFERENCE
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue"
   - "Académie française — La terminologie de la langue française: https://www.academie-francaise.fr/la-terminologie-de-la-langue-francaise"
 reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+order: 100
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Lequel після прийменника
 
 Після багатьох прийменників **lequel / laquelle / lesquels / lesquelles** утворює відносну конструкцію з предметним або абстрактним antecedent.

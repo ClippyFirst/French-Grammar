@@ -16,15 +16,16 @@ register: neutral
 variety: ["FR"]
 status: review
 contrastive_uk: high
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "French Grammar and Usage, 5th ed. (2025)"
   - "Académie française — Questions de langue"
 formula: true
 toc: true
 featured: false
+order: 100
+variant: []
 ---
-
 ## Швидка відповідь
 
 Інфінітив може залежати від прийменника. Найважливіші моделі:

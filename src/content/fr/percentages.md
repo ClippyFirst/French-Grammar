@@ -3,23 +3,31 @@ title_uk: "Відсотки"
 title_fr: "Les pourcentages"
 description_uk: "Вираження відсотків, конструкції pour cent / %, групи з de та узгодження присудка."
 category: numbers
-canonical_ids:
+canonical_ids: []
   - FR-580
 level: B1
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "Académie française — Questions de langue"
 reviewed_at: "2026-09-26"
 formula: true
 toc: true
+order: 100
+featured: false
+prerequisites: []
+related: []
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Відсотки
 
 Відсотки (*pourcentages*) виражають частку від ста. У французькій їх можна подавати цифровим знаком **%** або словами **pour cent**. Після відсоткової величини часто стоїть **de + іменникова група**: *20 % des étudiants*.

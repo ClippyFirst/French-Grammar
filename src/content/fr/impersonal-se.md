@@ -12,7 +12,7 @@ register: neutral
 variety: ["FR"]
 status: review
 contrastive_uk: high
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "French Grammar and Usage, 5th ed. (2025)"
   - "Académie française — Questions de langue"
@@ -20,8 +20,13 @@ reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+order: 100
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 ## Швидка відповідь
 
 Конструкції з **se** можуть подавати дію без називання конкретного агента або виражати узагальнену характеристику: *Ce livre se vend bien* — «Ця книга добре продається». Але *se* не є автоматично «безособовим»: у *Paul se lave* воно рефлексивне.

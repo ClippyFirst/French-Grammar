@@ -4,44 +4,44 @@ title_fr: "L’élision"
 description_uk: "Коли французьке слово втрачає кінцеву голосну перед наступним голосним звуком або h muet і записується з апострофом."
 category: orthography
 order: 41
-prerequisites:
+prerequisites: []
   - h-muet-aspire
   - accents
-related:
+related: []
   - liaison
   - enchainement
   - negation
   - questions
   - punctuation
-contrast:
+contrast: []
   - h-muet-aspire
   - liaison
-next:
+next: []
   - punctuation
-aliases:
+aliases: []
   - élision
   - elision
   - апостроф у французькій
-tags:
+tags: []
   - élision
   - апостроф
   - орфографія
 level: A1
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 status: review
 contrastive_uk: high
-sources:
+sources: []
   - "Académie française — L’élision"
 reviewed_at: "2026-09-25"
 formula: true
 toc: true
 featured: false
 canonical_ids: ["FR-032"]
+variant: []
 ---
-
 # Élision
 
 ## Швидка відповідь

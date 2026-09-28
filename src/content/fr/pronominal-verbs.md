@@ -5,12 +5,12 @@ description_uk: "Системний довідник про se-конструк�
 category: verbs
 canonical_ids: [FR-320]
 order: 70
-prerequisites:
+prerequisites: []
   - pronouns-personal
   - pronouns-cod
   - pronouns-coi
   - present
-related:
+related: []
   - pronoun-order
   - accord
   - passe-compose
@@ -18,18 +18,18 @@ related:
   - imperatif
   - prepositions-a
   - prepositions-de
-contrast:
+contrast: []
   - pronouns-cod
   - pronouns-coi
-next:
+next: []
   - passe-compose
   - accord
-aliases:
+aliases: []
   - verbes pronominaux
   - pronominal verbs
   - reflexive verbs
   - verbe pronominal
-tags:
+tags: []
   - дієслова
   - прономінальні-дієслова
   - se
@@ -38,17 +38,18 @@ tags:
 level: A2
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Académie française — Questions de langue: Pronominaux (verbes, accord du participe passé): https://www.academie-francaise.fr/questions-de-langue"
 reviewed_at: "2026-09-25"
 formula: true
 toc: true
+featured: false
+variant: []
 ---
-
 # Прономінальні дієслова
 
 ## Швидка відповідь

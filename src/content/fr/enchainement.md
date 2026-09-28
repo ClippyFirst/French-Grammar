@@ -16,15 +16,15 @@ register: neutral
 variety: [FR]
 status: review
 contrastive_uk: medium
-sources:
+sources: []
   - "Grande Grammaire du français — forme sonore des énoncés"
 reviewed_at: "2026-09-25"
 formula: true
 toc: true
 featured: false
 canonical_ids: ["FR-031"]
+variant: []
 ---
-
 # Enchaînement
 
 ## Швидка відповідь

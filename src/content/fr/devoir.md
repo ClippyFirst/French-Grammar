@@ -4,25 +4,25 @@ title_fr: "Le verbe devoir"
 description_uk: "Довідник про devoir: обов'язок, необхідність, очікуваність і модальність припущення, включно з conditionnel."
 category: verbs
 order: 28
-canonical_ids:
+canonical_ids: []
   - FR-303
-prerequisites:
+prerequisites: []
   - present
   - infinitive
-related:
+related: []
   - pouvoir
   - vouloir
   - conditionnel-present
   - futur-simple
   - negation
-contrast:
+contrast: []
   - pouvoir
-next:
+next: []
   - vouloir
-aliases:
+aliases: []
   - devoir
   - devoir + infinitif
-tags:
+tags: []
   - дієслова
   - модальність
   - обов'язок
@@ -30,19 +30,20 @@ tags:
 level: A2
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Dictionnaire de l’Académie française, 9e édition — devoir"
   - "Grevisse et Goosse, Le Bon Usage, 17e éd."
   - "French Grammar and Usage, 5th ed. (2025)"
 reviewed_at: "2026-09-25"
 formula: true
 toc: true
+featured: false
+variant: []
 ---
-
 # Devoir
 
 ## Швидко

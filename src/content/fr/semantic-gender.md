@@ -9,15 +9,23 @@ register: neutral
 variety: ["FR"]
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "French Grammar and Usage, 5th ed. (2025)"
 reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+order: 100
+canonical_ids: []
+prerequisites: []
+related: []
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Семантичний і граматичний рід
 
 У французькій граматичний рід і семантична стать референта можуть взаємодіяти, але це не тотожні поняття. Для неживих іменників рід є граматичною властивістю; для назв осіб він часто корелює зі статтю, але може виражатися самим іменником або лише його оточенням.

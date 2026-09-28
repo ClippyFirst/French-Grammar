@@ -1,5 +1,5 @@
 ---
-canonical_ids:
+canonical_ids: []
   - "FR-615"
 title_uk: "Заміна особових займенників"
 title_fr: "Le changement des pronoms au discours indirect"
@@ -14,15 +14,20 @@ register: neutral
 variety: ["FR"]
 status: review
 contrastive_uk: high
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "French Grammar and Usage, 5th ed. (2025)"
 reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+order: 100
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Заміна особових займенників
 
 У непрямій мові особові та присвійні форми можуть змінюватися, бо змінюється учасник, від чийого імені будується речення. Граматичний принцип — не «після *il a dit* завжди міняємо *je* на *il*», а відновлення референта.

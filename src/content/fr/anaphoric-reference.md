@@ -2,7 +2,7 @@
 title_uk: "Анафорична референція"
 title_fr: "La référence anaphorique"
 description_uk: "Довідниковий опис теми анафорична референція у французькому дискурсі."
-canonical_ids:
+canonical_ids: []
   - "FR-631"
 level: B2
 category: discourse
@@ -13,12 +13,20 @@ contrastive_uk: high
 formula: true
 toc: true
 featured: false
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "French Grammar and Usage, 5th ed. (2025)"
 reviewed_at: "2026-09-26"
+order: 100
+depth: medium
+prerequisites: []
+related: []
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Анафорична референція
 
 **Анафорична референція** виникає, коли форма відсилає до вже згаданого або доступного з контексту референта: *Marie est arrivée. Elle s'est assise.* — *elle* відсилає до *Marie*.

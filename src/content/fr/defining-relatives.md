@@ -5,31 +5,36 @@ slug: defining-relatives
 title_uk: "Визначальні відносні речення"
 title_fr: "Les relatives déterminatives"
 description_uk: "Довідкова стаття про визначальні відносні речення у французькій."
-canonical_ids:
+canonical_ids: []
   - FR-493
-prerequisites:
+prerequisites: []
   - relative-pronouns
   - subordination
-related:
+related: []
   - relative-pronouns
   - subordination
   - sentence-structure
 level: REFERENCE
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue"
   - "Académie française — La terminologie de la langue française: https://www.academie-francaise.fr/la-terminologie-de-la-langue-francaise"
 reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+order: 100
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Визначальні відносні речення
 
 Визначальна relative (*relative déterminative*) допомагає встановити, **про який саме референт** ідеться. Без неї іменна група може бути недостатньо конкретною в даному контексті.

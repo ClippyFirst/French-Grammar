@@ -4,19 +4,28 @@ title_fr: "Les articles partitifs — page héritée"
 description_uk: "Застаріла сторінка. Актуальний системний довідник див. у articles-partitive."
 category: nouns
 order: 999
-related:
+related: []
   - articles-partitive
 status: deprecated
 level: A1
 depth: short
 register: neutral
-variety:
+variety: []
   - FR
 contrastive_uk: low
-sources:
+sources: []
   - "Legacy content retained only for migration compatibility."
+formula: false
+toc: true
+featured: false
+canonical_ids: []
+prerequisites: []
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 
 ## Швидко
 

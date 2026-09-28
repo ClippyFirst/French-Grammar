@@ -17,14 +17,14 @@ register: neutral
 variety: ["FR"]
 status: review
 contrastive_uk: medium
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "French Grammar and Usage, 5th ed. (2025)"
 formula: false
 toc: true
 featured: false
+variant: []
 ---
-
 ## Швидка відповідь
 
 **Дефективне дієслово** має парадигму, яка не заповнюється всіма теоретично можливими формами або має дуже обмежене фактичне вживання.

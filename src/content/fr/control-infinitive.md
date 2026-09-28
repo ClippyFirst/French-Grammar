@@ -12,12 +12,21 @@ contrastive_uk: high
 formula: true
 toc: true
 featured: false
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "French Grammar and Usage, 5th ed. (2025)"
 reviewed_at: "2026-09-26"
+order: 100
+depth: medium
+canonical_ids: []
+prerequisites: []
+related: []
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Суб'єкт інфінітивної конструкції та контроль
 
 Французький інфінітив не має особових закінчень, які прямо показували б особу виконавця. Тому під час аналізу конструкції **X + infinitif** треба встановити, хто є семантичним суб'єктом інфінітивної події. У частині конструкцій цей учасник збігається з підметом головного дієслова; в інших він виражений окремим іменником або займенником.

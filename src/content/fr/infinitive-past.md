@@ -16,7 +16,7 @@ register: neutral
 variety: ["FR"]
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Académie française — Dictionnaire de l’Académie française, 9e éd."
   - "Grande Grammaire du français"
   - "French Grammar and Usage, 5th ed. (2025)"
@@ -24,8 +24,9 @@ reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+order: 100
+variant: []
 ---
-
 ## Швидка відповідь
 
 **Infinitif passé** — складена неособова форма:

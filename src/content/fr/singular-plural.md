@@ -4,22 +4,22 @@ title_fr: "Le singulier et le pluriel des noms"
 description_uk: "Як утворюється множина французьких іменників, які закінчення не змінюються на письмі та які моделі потребують окремого вивчення."
 category: nouns
 order: 30
-prerequisites:
+prerequisites: []
   - noun-gender
   - determiners
-related:
+related: []
   - irregular-plurals
   - articles-with-quantities
   - accord
-contrast:
+contrast: []
   - noun-gender
-next:
+next: []
   - irregular-plurals
-aliases:
+aliases: []
   - singulier pluriel
   - plural of nouns
   - French plural
-tags:
+tags: []
   - множина
   - однина
   - іменник
@@ -27,17 +27,19 @@ tags:
 level: A1
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue"
 reviewed_at: "2026-09-25"
 formula: true
 toc: true
+featured: false
+canonical_ids: []
+variant: []
 ---
-
 # Однина та множина іменників
 
 ## Швидка відповідь

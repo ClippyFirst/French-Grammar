@@ -15,14 +15,16 @@ register: neutral
 variety: ["FR"]
 status: review
 contrastive_uk: medium
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "French Grammar and Usage, 5th ed. (2025)"
 formula: false
 toc: true
 featured: false
+variant: []
+aliases: []
+tags: []
 ---
-
 ## Швидка відповідь
 
 **Синтаксичне приєднання (attachment)** — це зв'язок залежного компонента з тим вузлом структури, до якого він належить. Неоднозначне приєднання виникає, коли поверхнева послідовність слів допускає щонайменше два структурно правдоподібні зв'язки.

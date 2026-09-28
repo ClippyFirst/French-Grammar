@@ -17,8 +17,13 @@ reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+order: 100
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Функції прикметника
 
 Французький прикметник (*adjectif*) може виконувати різні синтаксичні функції. Найважливіші — **атрибутивна** та **предикативна**.

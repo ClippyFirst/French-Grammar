@@ -13,12 +13,20 @@ contrastive_uk: high
 formula: true
 toc: true
 featured: false
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "French Grammar and Usage, 5th ed. (2025)"
 reviewed_at: "2026-09-26"
+order: 100
+depth: medium
+prerequisites: []
+related: []
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Дієслова сприйняття: інфінітив чи підрядне речення
 
 Після *voir, entendre, regarder, écouter, sentir* французька може використовувати інфінітив або підрядне речення. Вибір змінює синтаксичну організацію події.

@@ -12,15 +12,20 @@ register: neutral
 variety: ["FR"]
 status: review
 contrastive_uk: high
-sources:
+sources: []
   - "French Grammar and Usage, 5th ed. (2025)"
   - "Grande Grammaire du français"
 reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+order: 100
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Тире, дефіс і типографічні знаки
 
 Французька типографія розрізняє **trait d'union** та **tiret**. Вони не є взаємозамінними, хоча на екрані їх часто помилково використовують як один знак.

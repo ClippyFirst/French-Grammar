@@ -4,39 +4,40 @@ title_fr: "La phrase complexe"
 description_uk: "Системний довідник про структуру складного речення, сурядність, підрядність, сполучники та розподіл граматичних функцій."
 category: complex
 order: 472
-prerequisites:
+prerequisites: []
   - word-order
   - questions
   - temporal-conjunctions
   - subordination
-related:
+related: []
   - relative-clauses
   - indirect-speech
   - si-clauses
   - subjonctif
   - temporal-conjunctions
   - punctuation
-contrast:
+contrast: []
   - word-order
-next:
+next: []
   - relative-clauses
 aliases: ["phrase complexe", "complex sentence", "складне речення"]
 tags: [складне речення, сурядність, підрядність, proposition, conjonction]
 level: B1
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 status: review
 contrastive_uk: high
-sources:
+sources: []
   - "Académie française — Dictionnaire de l’Académie française"
 formula: false
 toc: true
 featured: false
 
+canonical_ids: []
+variant: []
 ---
-
 # Складні речення
 
 ## Швидка відповідь

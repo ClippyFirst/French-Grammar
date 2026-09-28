@@ -4,37 +4,37 @@ title_fr: "La liaison"
 description_uk: "Системний довідник про liaison: коли кінцевий приголосний, який зазвичай не вимовляється переходить до наступного слова, коли зв'язок обов'язковий, можливий або заборонений."
 category: phonology
 order: 30
-prerequisites:
+prerequisites: []
   - reading-rules
   - h-muet-aspire
   - enchainement
-related:
+related: []
   - enchainement
   - h-muet-aspire
   - elision
   - pronoun-order
   - articles-definite
-contrast:
+contrast: []
   - enchainement
   - h-muet-aspire
-next:
+next: []
   - enchainement
-aliases:
+aliases: []
   - liaison
   - ліація
   - ліазон
-tags:
+tags: []
   - liaison
   - вимова
   - зв'язне мовлення
 level: A2
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 status: review
 contrastive_uk: high
-sources:
+sources: []
   - "Académie française — Questions de langue: Liaisons"
   - "Académie française — Le haricot ou l’haricot ?"
 reviewed_at: "2026-09-25"
@@ -42,8 +42,8 @@ formula: true
 toc: true
 featured: false
 canonical_ids: ["FR-030"]
+variant: []
 ---
-
 # Liaison
 
 ## Швидка відповідь

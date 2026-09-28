@@ -1,5 +1,5 @@
 ---
-canonical_ids:
+canonical_ids: []
   - "FR-561"
 title_uk: "plus que / moins que / aussi ... que: порівняльні конструкції"
 title_fr: "plus que / moins que / aussi ... que : les constructions comparatives"
@@ -14,12 +14,20 @@ contrastive_uk: high
 formula: true
 toc: true
 featured: false
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "French Grammar and Usage, 5th ed. (2025)"
 reviewed_at: "2026-09-26"
+order: 100
+depth: medium
+prerequisites: []
+related: []
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 ## Швидка відповідь
 
 **Plus que**, **moins que** та **aussi ... que** утворюють порівняльні конструкції, але форма залежить від того, що порівнюється.

@@ -5,30 +5,35 @@ slug: manner-clauses
 title_uk: "Підрядні способу дії"
 title_fr: "Les propositions de manière"
 description_uk: "Довідкова стаття про підрядні способу дії у сучасній французькій."
-canonical_ids:
+canonical_ids: []
   - FR-486
-prerequisites:
+prerequisites: []
   - subordination
-related:
+related: []
   - complex-sentences
   - subordination
   - sentence-structure
 level: REFERENCE
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue"
   - "Académie française — La terminologie de la langue française: https://www.academie-francaise.fr/la-terminologie-de-la-langue-francaise"
 reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+order: 100
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Підрядні способу дії
 
 Підрядні способу (*propositions de manière*) описують, **як саме** відбувається дія або яким способом реалізується ситуація.

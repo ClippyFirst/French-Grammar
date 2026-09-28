@@ -4,26 +4,26 @@ title_fr: "Voir et croire"
 description_uk: "Порівняння voir і croire: форми, керування, основні значення та конструкції з à, en і que."
 category: verbs
 order: 35
-canonical_ids:
+canonical_ids: []
   - FR-310
-prerequisites:
+prerequisites: []
   - present
   - verb-groups
-related:
+related: []
   - savoir
   - connaitre
   - prendre
   - indirect-speech
   - prepositions-a
-contrast:
+contrast: []
   - savoir
-next:
+next: []
   - dire-lire-ecrire
-aliases:
+aliases: []
   - voir
   - croire
   - voir / croire
-tags:
+tags: []
   - дієслова
   - III група
   - voir
@@ -32,18 +32,19 @@ tags:
 level: A2
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 contrastive_uk: medium
 status: review
-sources:
+sources: []
   - "Dictionnaire de l’Académie française, 9e édition — voir / croire"
   - "Grevisse et Goosse, Le Bon Usage, 17e éd."
 reviewed_at: "2026-09-25"
 formula: true
 toc: true
+featured: false
+variant: []
 ---
-
 # Voir і croire
 
 ## Швидко

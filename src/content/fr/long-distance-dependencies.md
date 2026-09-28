@@ -15,14 +15,16 @@ register: neutral
 variety: ["FR"]
 status: review
 contrastive_uk: medium
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "French Grammar and Usage, 5th ed. (2025)"
 formula: false
 toc: true
 featured: false
+variant: []
+aliases: []
+tags: []
 ---
-
 ## Швидка відповідь
 
 **Далека залежність** виникає, коли компонент і його синтаксичний партнер розділені словами, словосполученнями або цілими підрядними частинами.

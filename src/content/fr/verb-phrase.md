@@ -4,28 +4,28 @@ title_fr: "Le groupe verbal"
 description_uk: "Структура дієслівної групи у французькій: дієслово, допоміжні та модальні елементи, додатки й інші залежні компоненти."
 category: syntax
 order: 7
-canonical_ids:
+canonical_ids: []
   - FR-007
-prerequisites:
+prerequisites: []
   - parts-of-speech
   - form-function-meaning
   - noun-phrase
-related:
+related: []
   - verb-groups
   - verb-valency
   - transitivity
   - pronoun-order
   - complex-sentences
   - sentence-structure
-contrast:
+contrast: []
   - noun-phrase
-next:
+next: []
   - prepositional-phrase
-aliases:
+aliases: []
   - verb phrase
   - groupe verbal
   - GV
-tags:
+tags: []
   - дієслівна група
   - groupe verbal
   - GV
@@ -33,18 +33,18 @@ tags:
 level: REFERENCE
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 contrastive_uk: medium
 status: review
-sources:
+sources: []
   - "Académie française — La terminologie de la langue française: https://www.academie-francaise.fr/la-terminologie-de-la-langue-francaise"
 reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+variant: []
 ---
-
 # Дієслівна група: groupe verbal
 
 ## Швидка відповідь

@@ -5,9 +5,9 @@ description_uk: "Системний довідник про французьки
 category: verbs
 canonical_ids: ["FR-315", "FR-516"]
 order: 28
-prerequisites:
+prerequisites: []
   - present
-related:
+related: []
   - pronouns-infinitive
   - pronominal-verbs
   - faire
@@ -15,17 +15,17 @@ related:
   - prepositions-a
   - prepositions-de
   - pronoun-order
-contrast:
+contrast: []
   - present
   - pronoun-order
-next:
+next: []
   - pronouns-infinitive
   - pronominal-verbs
-aliases:
+aliases: []
   - infinitif
   - infinitive
   - інфінітив
-tags:
+tags: []
   - infinitif
   - інфінітив
   - дієслова
@@ -37,7 +37,7 @@ register: neutral
 variety: [FR]
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue"
   - "Académie française — Être intéressé à + infinitif: https://www.academie-francaise.fr/etre-interesse-infinitif"
   - "Académie française — Tant qu’à faire: https://www.academie-francaise.fr/france"
@@ -47,8 +47,8 @@ reviewed_at: "2026-09-25"
 formula: true
 toc: true
 featured: false
+variant: []
 ---
-
 # Інфінітив
 
 ## Швидка відповідь

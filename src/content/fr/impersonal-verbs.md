@@ -3,17 +3,17 @@ title_uk: "Безособові конструкції у французькій
 title_fr: "Les constructions impersonnelles"
 description_uk: "Системний довідник про формальне il, il y a, il faut, il semble, il paraît, il est + adjectif, безособове se та інші безособові конструкції."
 category: verbs
-canonical_ids:
+canonical_ids: []
   - "FR-542"
   - "FR-544"
   - "FR-321"
 order: 82
-prerequisites:
+prerequisites: []
   - present
   - etre
   - avoir
   - infinitive
-related:
+related: []
   - passive
   - subjonctif
   - infinitive
@@ -21,12 +21,12 @@ related:
   - pronominal-verbs
   - sentence-structure
   - present
-contrast:
+contrast: []
   - pronouns-subject
   - passive
-next:
+next: []
   - accord
-aliases:
+aliases: []
   - constructions impersonnelles
   - verbes impersonnels
   - il y a
@@ -35,7 +35,7 @@ aliases:
   - il paraît
   - il est + adjectif
   - impersonal il
-tags:
+tags: []
   - безособові конструкції
   - il y a
   - il faut
@@ -46,18 +46,19 @@ tags:
   - безособове se
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue"
   - "Cambridge University Press — Advanced French Grammar: https://www.cambridge.org/core/books/advanced-french-grammar/43D68AA9110EE9C87998795C352E594C"
 reviewed_at: "2026-09-26"
 formula: true
 toc: true
+featured: false
+variant: []
 ---
-
 # Безособові конструкції
 
 ## Швидка відповідь

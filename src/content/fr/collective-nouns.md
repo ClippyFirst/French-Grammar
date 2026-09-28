@@ -10,15 +10,22 @@ register: neutral
 variety: ["FR"]
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "French Grammar and Usage, 5th ed. (2025)"
 reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+order: 100
+prerequisites: []
+related: []
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Колективні іменники
 
 Колективний іменник називає групу або сукупність, концептуалізовану як одну одиницю: *groupe, équipe, famille, foule, majorité*. Він може створювати окремі питання узгодження, але не всі конструкції з *de + nom* є колективними.

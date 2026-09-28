@@ -15,14 +15,16 @@ register: neutral
 variety: ["FR"]
 status: review
 contrastive_uk: high
-sources:
+sources: []
   - "Académie française — Questions de langue"
   - "Grande Grammaire du français"
 formula: false
 toc: true
 featured: false
+variant: []
+aliases: []
+tags: []
 ---
-
 ## Швидка відповідь
 
 Відстань між формою та її контролером не змінює правила узгодження. Якщо між підметом і присудком, іменником та прикметником або антецедентом і participe passé стоять інші групи, потрібно спочатку відновити синтаксичну залежність, а вже потім визначати рід і число.

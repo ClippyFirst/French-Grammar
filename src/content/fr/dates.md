@@ -3,23 +3,31 @@ title_uk: "Дати"
 title_fr: "Les dates"
 description_uk: "Французькі календарні дати: le, premier, кількісні числівники, місяці, роки та цифрові формати."
 category: numbers
-canonical_ids:
+canonical_ids: []
   - FR-581
 level: B1
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "Académie française — Questions de langue"
 reviewed_at: "2026-09-26"
 formula: true
 toc: true
+order: 100
+featured: false
+prerequisites: []
+related: []
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Дати
 
 Французька дата зазвичай будується як **le + день + місяць + рік**. Ключова особливість — **premier** використовується для першого дня місяця, тоді як інші дні називаються кількісними числівниками.

@@ -4,25 +4,25 @@ title_fr: "Les quantificateurs"
 description_uk: "Як кількісні слова й конструкції поєднуються з іменником, як працює de/d’ та коли можлива конструкція de + les."
 category: nouns
 order: 14
-prerequisites:
+prerequisites: []
   - singular-plural
   - articles-indefinite
-related:
+related: []
   - articles-with-quantities
   - articles-partitive
   - articles-after-negation
-contrast:
+contrast: []
   - articles-with-quantities
-next:
+next: []
   - articles-with-quantities
-aliases:
+aliases: []
   - quantifiers
   - quantificateurs
   - beaucoup de
   - peu de
   - trop de
   - assez de
-tags:
+tags: []
   - кількість
   - quantificateur
   - beaucoup de
@@ -32,18 +32,19 @@ tags:
 level: A2
 depth: medium
 register: neutral
-variety:
+variety: []
   - FR
 contrastive_uk: medium
 status: review
-sources:
+sources: []
   - "Académie française — La grammaire et l’infini (2024): https://www.academie-francaise.fr/la-grammaire-et-linfini"
 reviewed_at: "2026-09-25"
 formula: true
 toc: true
 canonical_ids: ["FR-111"]
+featured: false
+variant: []
 ---
-
 # Кількісні звороти
 
 ## Швидка відповідь

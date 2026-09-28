@@ -7,8 +7,20 @@ order: 1
 related: [prepositions-de, prepositions-place, prepositions-time, pronouns-coi, pronoun-order, contracted-articles]
 tags: [прийменники, à, керування, COD, COI]
 canonical_ids: ["FR-238"]
+depth: medium
+status: draft
+contrastive_uk: none
+formula: false
+toc: true
+featured: false
+prerequisites: []
+contrast: []
+next: []
+variant: []
+aliases: []
+variety: []
+sources: []
 ---
-
 # Прийменник **à**
 
 ## 1. Головна ідея

@@ -2,7 +2,7 @@
 title_uk: "Непрямий наказ і прохання"
 title_fr: "L'ordre et la demande au discours indirect"
 description_uk: "Передавання наказів, прохань і розпоряджень через непряму мову: infinitif, de + infinitif та que + subjonctif залежно від конструкції."
-canonical_ids:
+canonical_ids: []
   - "FR-613"
 level: B1
 category: indirect
@@ -13,12 +13,20 @@ contrastive_uk: high
 formula: true
 toc: true
 featured: false
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "French Grammar and Usage, 5th ed. (2025)"
 reviewed_at: "2026-09-26"
+order: 100
+depth: medium
+prerequisites: []
+related: []
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Непрямий наказ і прохання
 
 ## Швидка відповідь

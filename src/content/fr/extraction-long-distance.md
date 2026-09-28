@@ -12,12 +12,21 @@ contrastive_uk: high
 formula: true
 toc: true
 featured: false
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "French Grammar and Usage, 5th ed. (2025)"
 reviewed_at: "2026-09-26"
+order: 100
+depth: medium
+canonical_ids: []
+prerequisites: []
+related: []
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Екстракція та залежності на відстані
 
 У французьких питальних, відносних та cleft-конструкціях елемент може бути винесений у позицію, віддалену від тієї синтаксичної позиції, з якою він пов'язаний за змістом.

@@ -5,12 +5,12 @@ description_uk: "Непряма мова у французькій: твердж
 category: indirect
 order: 10
 canonical_ids: []
-prerequisites:
+prerequisites: []
   - present
   - passe-compose
   - imparfait
   - questions
-related:
+related: []
   - questions
   - negation
   - present
@@ -20,10 +20,10 @@ related:
   - conditionnel-present
   - conditionnel-passe
   - subjonctif
-contrast:
+contrast: []
   - questions
   - si-clauses
-next:
+next: []
   - conditionnel-present
 aliases: ["discours indirect", "непряма мова", "concordance des temps"]
 tags: [discours indirect, непряма мова, concordance des temps, непряме питання]
@@ -32,7 +32,7 @@ register: neutral
 variety: [FR]
 status: review
 contrastive_uk: high
-sources:
+sources: []
   - "Académie française — Il disait qu’il viendra: https://www.academie-francaise.fr/il-disait-quil-viendra"
   - "Académie française — Interrogative indirecte avec inversion du sujet: https://www.academie-francaise.fr/interrogative-indirecte-avec-inversion-du-sujet"
   - "Académie française — Je ne sais pas lequel est-ce: https://www.academie-francaise.fr/je-ne-sais-pas-lequel-est-ce-pour-je-ne-sais-pas-lequel-cest"
@@ -41,8 +41,8 @@ sources:
 formula: false
 toc: true
 featured: false
+variant: []
 ---
-
 # Непряма мова та передавання висловлювань у французькій
 
 ## Швидко

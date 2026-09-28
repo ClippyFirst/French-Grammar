@@ -11,15 +11,21 @@ register: neutral
 variety: ["FR"]
 status: review
 contrastive_uk: high
-sources:
+sources: []
   - "French Grammar and Usage, 5th ed. (2025)"
   - "Grande Grammaire du français"
 reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+order: 100
+canonical_ids: []
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Великі літери
 
 У французькій великі літери мають власні орфографічні правила. Вони не збігаються з українськими в кожній категорії, особливо щодо назв мов, національностей, днів тижня та місяців.

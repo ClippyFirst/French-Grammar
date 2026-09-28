@@ -2,7 +2,7 @@
 title_uk: "Повторення та дислокація підмета"
 title_fr: "Répétition et dislocation du sujet"
 description_uk: "Дислокація і повторне вираження суб'єкта у французькій, особливо в усному мовленні та інформаційній структурі."
-canonical_ids:
+canonical_ids: []
   - "FR-649"
 level: B2
 category: syntax
@@ -13,12 +13,20 @@ contrastive_uk: high
 formula: true
 toc: true
 featured: false
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "French Grammar and Usage, 5th ed. (2025)"
 reviewed_at: "2026-09-26"
+order: 100
+depth: medium
+prerequisites: []
+related: []
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Повторення та дислокація підмета
 
 ## Швидка відповідь

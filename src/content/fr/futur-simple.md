@@ -4,13 +4,13 @@ title_fr: "Le futur simple"
 description_uk: "Системний довідник futur simple: утворення, часові та модальні значення, умовні конструкції та контраст із futur proche."
 category: tenses
 order: 5
-canonical_ids:
+canonical_ids: []
   - FR-356
   - FR-357
   - FR-358
   - FR-359
   - FR-360
-related:
+related: []
   - present
   - passe-compose
   - conditionnel-present
@@ -21,10 +21,17 @@ register: neutral
 variety: [FR]
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Académie française, Questions de langue"
+formula: false
+toc: true
+featured: false
+prerequisites: []
+contrast: []
+next: []
+variant: []
+aliases: []
 ---
-
 # Futur simple
 
 ## Швидко

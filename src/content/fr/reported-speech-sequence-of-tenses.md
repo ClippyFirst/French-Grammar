@@ -12,15 +12,20 @@ register: neutral
 variety: ["FR"]
 status: review
 contrastive_uk: high
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "French Grammar and Usage, 5th ed. (2025)"
 reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+order: 100
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Узгодження часів у непрямій мові
 
 У непрямій мові *concordance des temps* описує співвідношення часів між дієсловом введення та переданим висловлюванням. Це не механічна заміна кожного часу на один наперед визначений.

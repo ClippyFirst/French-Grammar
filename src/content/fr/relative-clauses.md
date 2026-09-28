@@ -4,32 +4,32 @@ title_fr: "La proposition subordonnée relative"
 description_uk: "Системний довідник про будову відносних підрядних, антецедент, визначальні й пояснювальні relatives, референт відносного елемента та конструкції з кількома можливими antecedents."
 category: complex
 order: 492
-prerequisites:
+prerequisites: []
   - relative-pronouns
   - pronouns-subject
   - pronouns-cod
-related:
+related: []
   - relative-pronouns
   - subjonctif
   - punctuation
   - word-order
   - information-structure
   - sentence-structure
-contrast:
+contrast: []
   - relative-pronouns
   - ambiguous-attachment
-next:
+next: []
   - subjonctif
 aliases: ["proposition subordonnée relative", "relative clause", "відносна підрядна", "antécédent", "référent"]
 tags: [відносні речення, relative, antécédent, référent, qui, que, dont, où, lequel, antecedents]
 level: B1
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 status: review
 contrastive_uk: high
-sources:
+sources: []
   - "Académie française — Lequel employé sans être accordé — https://www.academie-francaise.fr/lequel-employe-sans-etre-accorde"
   - "Académie française — Dont — https://www.academie-francaise.fr/dont"
   - "Académie française — C’est dans cet hôpital où il travaille ou C’est dans cet hôpital qu’il travaille ? — https://www.academie-francaise.fr/cest-dans-cet-hopital-ou-il-travaille-ou-cest-dans-cet-hopital-quil-travaille"
@@ -38,8 +38,9 @@ sources:
 formula: false
 toc: true
 featured: false
+canonical_ids: []
+variant: []
 ---
-
 # Відносні підрядні речення
 
 ## Швидка відповідь

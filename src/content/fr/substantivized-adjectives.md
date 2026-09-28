@@ -16,8 +16,14 @@ reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+order: 100
+contrastive_uk: none
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Субстантивовані прикметники
 
 **Субстантивація** прикметника означає, що прикметникова форма функціонує як центр іменної групи або як іменний референт.

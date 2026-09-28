@@ -4,22 +4,22 @@ title_fr: "La place de l’adjectif"
 description_uk: "Коли прикметник стоїть після іменника, коли перед ним і як позиція може змінювати значення або інтерпретацію."
 category: adjectives
 order: 20
-prerequisites:
+prerequisites: []
   - noun-gender
   - accord
-related:
+related: []
   - comparative-superlative
   - gender-patterns
   - articles-definite
-contrast:
+contrast: []
   - accord
-next:
+next: []
   - comparative-superlative
-aliases:
+aliases: []
   - place de l’adjectif
   - adjective position
   - adjective placement
-tags:
+tags: []
   - прикметник
   - позиція
   - postposition
@@ -27,18 +27,19 @@ tags:
 level: A2
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue"
 reviewed_at: "2026-09-25"
 formula: true
 toc: true
 canonical_ids: ["FR-119", "FR-120", "FR-121", "FR-122", "FR-123", "FR-124", "FR-125", "FR-126"]
+featured: false
+variant: []
 ---
-
 # Позиція прикметника
 
 ## Швидка відповідь

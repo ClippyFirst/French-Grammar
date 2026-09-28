@@ -4,15 +4,27 @@ title_fr: "Les articles contractés"
 description_uk: "Злиття à/de з le/les: au, aux, du, des; як не плутати їх із партитивним du/de la та неозначеним des."
 category: nouns
 order: 60
-related:
+related: []
   - articles-definite
   - articles-partitive
   - prepositions-a
   - prepositions-de
 tags: [артикль, au, aux, du, des, à, de]
 canonical_ids: ["FR-095"]
+depth: medium
+status: draft
+contrastive_uk: none
+formula: false
+toc: true
+featured: false
+prerequisites: []
+contrast: []
+next: []
+variant: []
+aliases: []
+variety: []
+sources: []
 ---
-
 # Злиті форми à/de + визначений артикль
 
 ## Форми

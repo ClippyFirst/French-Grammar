@@ -4,29 +4,29 @@ title_fr: "Les déterminants indéfinis"
 description_uk: "Система неозначених визначників перед іменником: кількість, розподіл, невизначеність і заперечення; контраст із відповідними займенниками."
 category: nouns
 order: 102
-prerequisites:
+prerequisites: []
   - determiners
   - noun-gender
   - singular-plural
-related:
+related: []
   - quantifiers
   - pronouns-indefinite
   - articles-indefinite
   - articles-after-negation
   - articles-with-quantities
-contrast:
+contrast: []
   - pronouns-indefinite
   - quantifiers
-next:
+next: []
   - pronouns-indefinite
-aliases:
+aliases: []
   - déterminants indéfinis
   - chaque
   - quelques
   - plusieurs
   - certains
   - aucun
-tags:
+tags: []
   - déterminants indéfinis
   - chaque
   - plusieurs
@@ -35,18 +35,19 @@ tags:
 level: A2
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue"
 reviewed_at: "2026-09-25"
 formula: true
 toc: true
 canonical_ids: ["FR-101", "FR-102", "FR-103", "FR-104", "FR-105", "FR-106", "FR-107", "FR-108", "FR-109"]
+featured: false
+variant: []
 ---
-
 # Неозначені визначники
 
 ## Швидка відповідь

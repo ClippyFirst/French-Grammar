@@ -12,13 +12,21 @@ contrastive_uk: high
 formula: true
 toc: true
 featured: false
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "Le Bon Usage"
   - "Académie française — Questions de langue"
 reviewed_at: "2026-09-26"
+order: 100
+depth: medium
+prerequisites: []
+related: []
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Діакритичні знаки французької
 
 Французька орфографія використовує кілька діакритичних знаків, які не можна звести до одного правила «акцент змінює вимову». Частина з них справді кодує фонетичну інформацію, частина розрізняє граматично або лексично різні форми, а частина зберігає історичну чи морфологічну інформацію.

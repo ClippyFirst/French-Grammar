@@ -4,27 +4,27 @@ title_fr: "Les pronoms toniques"
 description_uk: "Системний довідник про наголошені особові займенники, їхні синтаксичні позиції, прийменники, зіставлення, конструкції c’est та контраст із ненаголошеними займенниками."
 category: pronouns
 order: 145
-prerequisites:
+prerequisites: []
   - pronouns-personal
   - pronouns-subject
-related:
+related: []
   - pronouns-cod
   - pronouns-coi
   - pronoun-order
   - pronouns-demonstrative
   - questions
   - pronominal-verbs
-contrast:
+contrast: []
   - pronouns-cod
   - pronouns-coi
-next:
+next: []
   - pronoun-order
-aliases:
+aliases: []
   - pronoms toniques
   - pronoms disjoints
   - stressed pronouns
   - moi toi lui elle nous vous eux elles
-tags:
+tags: []
   - наголошені займенники
   - тонічні займенники
   - pronoms toniques
@@ -32,18 +32,19 @@ tags:
 level: A1
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue"
 reviewed_at: "2026-09-25"
 formula: true
 toc: true
 canonical_ids: ["FR-144", "FR-145"]
+featured: false
+variant: []
 ---
-
 # Наголошені особові займенники
 
 ## Швидка відповідь

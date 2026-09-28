@@ -4,25 +4,25 @@ title_fr: "Venir et tenir"
 description_uk: "Порівняння venir і tenir та їхніх похідних: основи, чергування, форми та допоміжне дієслово."
 category: verbs
 order: 32
-canonical_ids:
+canonical_ids: []
   - FR-307
-prerequisites:
+prerequisites: []
   - present
   - verb-groups
-related:
+related: []
   - verb-orthographic-alternations
   - passe-compose
   - futur-simple
   - pouvoir
-contrast:
+contrast: []
   - aller
-next:
+next: []
   - prendre
-aliases:
+aliases: []
   - venir
   - tenir
   - venir / tenir
-tags:
+tags: []
   - дієслова
   - III група
   - морфологія
@@ -31,19 +31,20 @@ tags:
 level: A2
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 contrastive_uk: medium
 status: review
-sources:
+sources: []
   - "Dictionnaire de l’Académie française, 9e édition — venir / tenir"
   - "Académie française — Questions de langue: conjugaison des verbes irréguliers"
   - "Grevisse et Goosse, Le Bon Usage, 17e éd."
 reviewed_at: "2026-09-25"
 formula: true
 toc: true
+featured: false
+variant: []
 ---
-
 # Venir і tenir
 
 ## Швидко

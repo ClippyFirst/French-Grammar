@@ -4,43 +4,44 @@ title_fr: "Le verbe savoir"
 description_uk: "Довідник про savoir: знання факту, уміння, savoir-faire та відмінність від connaître і pouvoir."
 category: verbs
 order: 30
-canonical_ids:
+canonical_ids: []
   - FR-305
-prerequisites:
+prerequisites: []
   - present
   - infinitive
-related:
+related: []
   - pouvoir
   - connaitre
   - questions
   - indirect-speech
-contrast:
+contrast: []
   - connaitre
   - pouvoir
-next:
+next: []
   - connaitre
-aliases:
+aliases: []
   - savoir
   - savoir + infinitif
-tags:
+tags: []
   - дієслова
   - знання
   - уміння
 level: A2
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Dictionnaire de l’Académie française, 9e édition — savoir"
   - "Grevisse et Goosse, Le Bon Usage, 17e éd."
 reviewed_at: "2026-09-25"
 formula: true
 toc: true
+featured: false
+variant: []
 ---
-
 # Savoir
 
 ## Швидко

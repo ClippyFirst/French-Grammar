@@ -3,23 +3,31 @@ title_uk: "Порядкові числівники"
 title_fr: "Les nombres ordinaux"
 description_uk: "Порядкові числівники позначають місце або послідовність: premier, deuxième, troisième тощо."
 category: numbers
-canonical_ids:
+canonical_ids: []
   - FR-576
 level: B1
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "Académie française — Questions de langue"
 reviewed_at: "2026-09-26"
 formula: true
 toc: true
+order: 100
+featured: false
+prerequisites: []
+related: []
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Порядкові числівники
 
 Порядкові числівники (*nombres ordinaux*) позначають місце елемента в послідовності: *premier, deuxième, troisième, quatrième*. У граматичній структурі вони поводяться переважно як прикметники: узгоджуються за родом, коли мають окрему форму, і входять до іменникової групи разом із детермінативом.

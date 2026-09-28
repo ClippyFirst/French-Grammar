@@ -12,15 +12,20 @@ register: neutral
 variety: ["FR"]
 status: review
 contrastive_uk: high
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "French Grammar and Usage, 5th ed. (2025)"
 reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+order: 100
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Інтонаційні контури
 
 **Інтонація** організує висоту голосу в часі та допомагає слухачеві інтерпретувати тип і структуру висловлення. У французькій вона взаємодіє з синтаксисом, інформаційною структурою та просодичним групуванням.

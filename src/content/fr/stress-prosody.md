@@ -12,15 +12,20 @@ register: neutral
 variety: ["FR"]
 status: review
 contrastive_uk: high
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "French Grammar and Usage, 5th ed. (2025)"
 reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+order: 100
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Наголос і фразова просодія
 
 Французьку часто називають мовою з «наголосом на останньому складі», але це надто грубе формулювання. Для сучасного опису важливіше поняття **групи наголосу / ритмічної групи** та фразової просодії.

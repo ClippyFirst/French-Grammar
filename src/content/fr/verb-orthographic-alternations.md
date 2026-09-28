@@ -5,33 +5,37 @@ description_uk: "Системний довідник про зміни напи�
 category: verbs
 canonical_ids: ["FR-297"]
 order: 297
-prerequisites:
+prerequisites: []
   - present
   - infinitive
-related:
+related: []
   - verb-groups
   - imperatif
   - reading-rules
   - accents
-contrast:
+contrast: []
   - present
-next:
+next: []
   - passe-compose
 level: B1
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 status: review
 contrastive_uk: medium
-sources:
+sources: []
   - "Académie française — Questions de langue"
-tags:
+tags: []
   - conjugation
   - orthography
   - alternations
+formula: false
+toc: true
+featured: false
+variant: []
+aliases: []
 ---
-
 ## Швидка відповідь
 
 У французьких дієсловах зміна написання основи часто потрібна **не для зміни граматичного значення**, а для збереження очікуваної вимови.

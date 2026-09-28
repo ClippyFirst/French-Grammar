@@ -16,8 +16,14 @@ reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+order: 100
+contrastive_uk: none
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # y та en у живій мові
 
 *y* та *en* дуже часті в усному французькому, але їхня реальна поведінка залежить від темпу, регістру та конструкції.

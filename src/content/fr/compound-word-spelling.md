@@ -12,15 +12,20 @@ register: neutral
 variety: ["FR"]
 status: review
 contrastive_uk: high
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "French Grammar and Usage, 5th ed. (2025)"
 reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+order: 100
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Складні слова та їх написання
 
 **Складне слово** (*mot composé*) утворюється з кількох лексичних компонентів, які функціонують як одна лексична одиниця. Його не слід автоматично ототожнювати з будь-якою групою слів.

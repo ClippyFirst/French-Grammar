@@ -16,8 +16,14 @@ reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+order: 100
+contrastive_uk: none
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # y / en з інфінітивом
 
 У конструкціях із двома дієсловами *y* та *en* можуть бути пов'язані з інфінітивною групою. Їхня позиція залежить від синтаксичної структури.

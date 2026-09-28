@@ -5,23 +5,23 @@ description_uk: "Системний довідник екстракційних 
 category: syntax
 order: 735
 
-prerequisites:
+prerequisites: []
   - questions
   - relative-pronouns
   - word-order
   - complex-sentences
-related:
+related: []
   - long-distance-dependencies
   - relative-pronouns
   - questions
   - exclamatives
   - cleft
   - comparatives
-aliases:
+aliases: []
   - extraction
   - extraction constructions
   - long-distance extraction
-tags:
+tags: []
   - екстракція
   - синтаксис
   - залежність
@@ -30,14 +30,18 @@ depth: high
 register: neutral
 variety: [FR]
 status: review
-sources:
+sources: []
   - "Grande Grammaire du français — extraction et constructions syntaxiques"
   - "French Grammar and Usage, 5th ed. (2025)"
 formula: true
 toc: true
 featured: false
+contrastive_uk: none
+canonical_ids: []
+contrast: []
+next: []
+variant: []
 ---
-
 # Екстракція та залежності на відстані
 
 ## Швидка відповідь

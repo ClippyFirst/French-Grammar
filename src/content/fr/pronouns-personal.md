@@ -4,27 +4,27 @@ title_fr: "Les pronoms personnels"
 description_uk: "Система особових займенників: підметові, клитичні додаткові та наголошені форми; on, nous, tu, vous і контрасти функцій."
 category: pronouns
 order: 8
-prerequisites:
+prerequisites: []
   - pronouns-subject
   - pronouns-cod
   - pronouns-coi
-related:
+related: []
   - pronouns-toniques
   - pronoun-order
   - pronominal-verbs
   - questions
   - indirect-speech
-contrast:
+contrast: []
   - pronouns-cod
   - pronouns-coi
   - pronouns-subject
-next:
+next: []
   - pronoun-order
-aliases:
+aliases: []
   - pronoms personnels
   - personal pronouns
   - особові займенники
-tags:
+tags: []
   - займенники
   - особові-займенники
   - pronoms-personnels
@@ -33,18 +33,19 @@ tags:
 level: A1
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue"
 reviewed_at: "2026-09-25"
 formula: true
 toc: true
 canonical_ids: ["FR-139", "FR-140", "FR-141", "FR-142", "FR-143", "FR-146", "FR-147", "FR-148", "FR-149"]
+featured: false
+variant: []
 ---
-
 # Особові займенники
 
 ## Швидко

@@ -2,7 +2,7 @@
 title_uk: "Дискурсивні частки"
 title_fr: "Les particules discursives"
 description_uk: "Системний довідник про дискурсивні частки французької: функції, контекст, усність, регістр і відмежування від конекторів."
-canonical_ids:
+canonical_ids: []
   - "FR-637"
 level: B2
 category: discourse
@@ -13,12 +13,20 @@ contrastive_uk: high
 formula: true
 toc: true
 featured: false
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "French Grammar and Usage, 5th ed. (2025)"
 reviewed_at: "2026-09-26"
+order: 100
+depth: medium
+prerequisites: []
+related: []
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Дискурсивні частки
 
 ## Швидка відповідь

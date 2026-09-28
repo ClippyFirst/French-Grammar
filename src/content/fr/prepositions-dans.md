@@ -7,8 +7,20 @@ order: 22
 related: ["prepositions-a", "prepositions-de", "prepositions-en"]
 tags: ["препозиции", "данс", "місце", "час", "всередині", "французька-граматика"]
 canonical_ids: ["FR-243"]
+depth: medium
+status: draft
+contrastive_uk: none
+formula: false
+toc: true
+featured: false
+prerequisites: []
+contrast: []
+next: []
+variant: []
+aliases: []
+variety: []
+sources: []
 ---
-
 # 🎯 Прийменник DANS у французькій мові
 
 ## 📌 Швидко

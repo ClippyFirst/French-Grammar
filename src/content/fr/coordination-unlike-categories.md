@@ -15,14 +15,16 @@ register: neutral
 variety: ["FR"]
 status: review
 contrastive_uk: medium
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "French Grammar and Usage, 5th ed. (2025)"
 formula: false
 toc: true
 featured: false
+variant: []
+aliases: []
+tags: []
 ---
-
 ## Швидка відповідь
 
 Сурядність об'єднує компоненти за допомогою *et, ou, mais, ni* та інших конекторів. Компоненти не завжди мають однакову морфологічну форму, але зазвичай виконують сумісну синтаксичну або дискурсивну функцію.

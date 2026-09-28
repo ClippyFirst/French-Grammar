@@ -16,7 +16,7 @@ register: neutral
 variety: ["FR"]
 status: review
 contrastive_uk: high
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "French Grammar and Usage, 5th ed. (2025)"
   - "Académie française — Questions de langue"
@@ -24,8 +24,9 @@ formula: true
 toc: true
 featured: false
 
+order: 100
+variant: []
 ---
-
 ## Швидка відповідь
 
 **Інфінітивна підрядність** — це синтаксична організація, у якій інфінітивна група виконує роль, подібну до підрядної предикації, але не має особової форми дієслова.

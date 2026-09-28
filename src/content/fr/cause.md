@@ -5,30 +5,35 @@ slug: cause
 title_uk: "Причина: exprimer la cause"
 title_fr: "Exprimer la cause"
 description_uk: "Довідкова стаття про причина: exprimer la cause у сучасній французькій."
-canonical_ids:
+canonical_ids: []
   - FR-478
-prerequisites:
+prerequisites: []
   - phrase-enonce
   - sentence-structure
-related:
+related: []
   - complex-sentences
   - coordination
   - subordination
 level: REFERENCE
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 contrastive_uk: medium
 status: review
-sources:
+sources: []
   - "Académie française — La terminologie de la langue française: https://www.academie-francaise.fr/la-terminologie-de-la-langue-francaise"
 reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+order: 100
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Причина: exprimer la cause
 
 Французька має кілька способів виразити **причину**. Вибір конструкції залежить від того, чи причина подається як нейтральне пояснення, наслідок оцінки мовця, причина дії, причина стану або зв'язок між двома реченнями.

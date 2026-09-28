@@ -4,13 +4,13 @@ title_fr: "La subordination et les propositions subordonnées"
 description_uk: "Системний довідник про підрядність, типи підрядних конструкцій, відносні, умовні, причинні, наслідкові, цільові, протиставні, допустові та часові підрядні речення."
 category: complex
 order: 475
-prerequisites:
+prerequisites: []
   - sentence-structure
   - coordination
   - subjonctif
   - si-clauses
   - relative-clauses
-related:
+related: []
   - complex-sentences
   - coordination
   - relative-clauses
@@ -20,15 +20,15 @@ related:
   - temporal-conjunctions
   - conditionnel-present
   - conditionnel-passe
-contrast:
+contrast: []
   - coordination
   - indirect-speech
   - information-structure
-aliases:
+aliases: []
   - "subordination"
   - "propositions subordonnées"
   - "підрядні речення"
-tags:
+tags: []
   - підрядність
   - підрядні речення
   - subordination
@@ -36,11 +36,11 @@ tags:
   - conjonction
 status: review
 register: neutral
-variety:
+variety: []
   - FR
 contrastive_uk: high
 depth: high
-sources:
+sources: []
   - "Académie française — Que pour tandis que: https://www.academie-francaise.fr/que-pour-tandis-que"
   - "Académie française — Omission de la conjonction que: https://www.academie-francaise.fr/omission-de-la-conjonction-que"
   - "Académie française — À cause que: https://www.academie-francaise.fr/cause-que"
@@ -51,8 +51,11 @@ sources:
 formula: true
 toc: true
 reviewed_at: "2026-09-26"
+featured: false
+canonical_ids: []
+next: []
+variant: []
 ---
-
 # Підрядність і підрядні речення у французькій мові
 
 ## Швидко

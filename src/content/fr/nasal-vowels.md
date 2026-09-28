@@ -12,15 +12,20 @@ register: neutral
 variety: ["FR"]
 status: review
 contrastive_uk: high
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "French Grammar and Usage, 5th ed. (2025)"
 reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+order: 100
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Носові голосні
 
 Французькі **носові голосні** (*voyelles nasales*) вимовляються з опусканням м'якого піднебіння, завдяки чому повітря проходить і через ротову, і через носову порожнину. Для україномовного учня головна проблема полягає не в самому механізмі, а в тому, що французьке написання часто містить **голосну + n/m**, хоча ця n/m не обов'язково вимовляється як окремий приголосний.

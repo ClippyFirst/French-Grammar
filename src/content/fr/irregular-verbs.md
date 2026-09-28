@@ -4,12 +4,12 @@ title_fr: "Les principaux verbes irréguliers"
 description_uk: "Системний огляд нерегулярних дієслів французької: типи нерегулярності, підмоделі та стратегія запам'ятовування."
 category: verbs
 order: 40
-canonical_ids:
+canonical_ids: []
   - FR-313
-prerequisites:
+prerequisites: []
   - verb-groups
   - present
-related:
+related: []
   - pouvoir
   - devoir
   - vouloir
@@ -22,33 +22,34 @@ related:
   - dire-lire-ecrire
   - boire
   - defective-verbs
-contrast:
+contrast: []
   - verb-groups
-next:
+next: []
   - infinitive
-aliases:
+aliases: []
   - irregular verbs
   - verbes irréguliers
-tags:
+tags: []
   - дієслова
   - нерегулярні дієслова
   - дієвідміна
 level: A2
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 contrastive_uk: medium
 status: review
-sources:
+sources: []
   - "Dictionnaire de l’Académie française, 9e édition — Conjugaison"
   - "Grevisse et Goosse, Le Bon Usage, 17e éd."
   - "French Grammar and Usage, 5th ed. (2025)"
 reviewed_at: "2026-09-25"
 formula: true
 toc: true
+featured: false
+variant: []
 ---
-
 # Основні нерегулярні дієслова
 
 ## Швидко

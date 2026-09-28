@@ -4,16 +4,28 @@ title_fr: "La majuscule"
 description_uk: "У французькій капіталізація застосовується згідно з чіткими правилами: імена, назви, дні тижня, мови."
 category: fundamentals
 order: 9
-related:
+related: []
   - fundamentals/punctuation
   - fundamentals/accents
-tags:
+tags: []
   - capitalization
   - spelling
   - fundamentals
 canonical_ids: ["FR-048"]
+depth: medium
+status: draft
+contrastive_uk: none
+formula: false
+toc: true
+featured: false
+prerequisites: []
+contrast: []
+next: []
+variant: []
+aliases: []
+variety: []
+sources: []
 ---
-
 ## Швидко
 
 У французькій **не кожне** слово, що означає важливість у реченні, не капіталізується. Капіталізація застосовується **тільки** для:

@@ -1,5 +1,5 @@
 ---
-canonical_ids:
+canonical_ids: []
   - "FR-644"
 title_uk: "Випадіння ne"
 title_fr: "La chute de ne"
@@ -14,15 +14,20 @@ register: neutral
 variety: ["FR"]
 status: review
 contrastive_uk: high
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "French Grammar and Usage, 5th ed. (2025)"
 reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+order: 100
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Випадіння ne
 
 В усному французькому *ne* у запереченні часто не вимовляється, особливо в неформальному спонтанному мовленні. У нейтральному відредагованому письмі стандартна модель зберігає *ne*.

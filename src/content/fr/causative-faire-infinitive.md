@@ -17,14 +17,14 @@ register: neutral
 variety: ["FR"]
 status: review
 contrastive_uk: high
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "Académie française — Questions de langue"
 formula: true
 toc: true
 featured: false
+variant: []
 ---
-
 ## Швидка відповідь
 
 Конструкція **faire + infinitif** означає, що суб'єкт *faire* спричиняє або організовує виконання іншої дії:

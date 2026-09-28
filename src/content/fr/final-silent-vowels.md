@@ -15,8 +15,15 @@ reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+order: 100
+prerequisites: []
+related: []
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Німі кінцеві голосні
 
 Французьке написання часто зберігає кінцеві голосні, які не мають окремої вимови. Найважливіший випадок — кінцеве *e* в багатьох словах.

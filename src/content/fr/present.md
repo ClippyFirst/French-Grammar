@@ -4,7 +4,7 @@ title_fr: "Le présent de l’indicatif"
 description_uk: "Системний довідник про утворення présent de l’indicatif і його основні значення: актуальна дія, звичка, загальна істина, майбутнє, історичний présent та прогресивна конструкція."
 category: tenses
 order: 10
-canonical_ids:
+canonical_ids: []
   - FR-330
   - FR-331
   - FR-332
@@ -12,12 +12,12 @@ canonical_ids:
   - FR-334
   - FR-335
   - FR-336
-prerequisites:
+prerequisites: []
   - etre
   - avoir
   - verb-groups
   - verb-orthographic-alternations
-related:
+related: []
   - passe-compose
   - imparfait
   - futur-simple
@@ -25,15 +25,15 @@ related:
   - verbal-periphrases
   - verb-groups
   - verb-orthographic-alternations
-contrast:
+contrast: []
   - passe-compose-vs-imparfait
-next:
+next: []
   - passe-compose
-aliases:
+aliases: []
   - présent
   - présent de l’indicatif
   - present tense
-tags:
+tags: []
   - présent
   - теперішній час
   - indicatif
@@ -41,18 +41,19 @@ tags:
 level: A1
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Académie française — Questions de langue"
   - "Grevisse et Goosse, Le Bon Usage, 17e éd."
 reviewed_at: "2026-09-25"
 formula: true
 toc: true
+featured: false
+variant: []
 ---
-
 # Présent de l’indicatif
 
 ## Швидка відповідь

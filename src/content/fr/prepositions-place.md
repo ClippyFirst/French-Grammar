@@ -16,15 +16,15 @@ register: neutral
 variety: [FR]
 status: review
 contrastive_uk: high
-sources:
+sources: []
   - "Académie française — Questions de langue"
 reviewed_at: "2026-09-25"
 formula: true
 toc: true
 featured: false
 canonical_ids: ["FR-260"]
+variant: []
 ---
-
 # Прийменники місця й напрямку
 
 ## Швидка відповідь

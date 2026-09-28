@@ -5,25 +5,25 @@ description_uk: "Основні моделі французьких окличн
 category: questions
 order: 11
 canonical_ids: ["FR-439", "FR-440", "FR-729"]
-prerequisites:
+prerequisites: []
   - questions
   - determiners-interrogative
   - word-order
-related:
+related: []
   - interrogative-adverbs
   - indirect-speech
   - punctuation
   - word-order
   - complex-sentences
-contrast:
+contrast: []
   - questions
-next:
+next: []
   - word-order
-aliases:
+aliases: []
   - exclamation
   - exclamative
   - phrase exclamative
-tags:
+tags: []
   - exclamation
   - quel
   - comme
@@ -31,18 +31,19 @@ tags:
 level: A2
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Académie française — Questions de langue"
   - "Grande Grammaire du français — types de phrases"
 reviewed_at: "2026-09-25"
 formula: true
 toc: true
+featured: false
+variant: []
 ---
-
 # Окличні конструкції
 
 ## Швидка відповідь

@@ -12,12 +12,20 @@ contrastive_uk: high
 formula: false
 toc: true
 featured: false
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "French Grammar and Usage, 5th ed. (2025)"
 reviewed_at: "2026-09-26"
+order: 100
+depth: medium
+prerequisites: []
+related: []
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 ## Швидка відповідь
 
 У французькій не всюди використовують однакові назви десятків. У французькій Франції базові форми — *soixante-dix* (70), *quatre-vingts* (80) і *quatre-vingt-dix* (90). У частині франкомовних регіонів, особливо у Швейцарії та Бельгії, поширені *septante* (70) і *nonante* (90); *huitante* (80) має вужче географічне поширення, зокрема в частині Швейцарії.

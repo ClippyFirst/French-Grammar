@@ -12,15 +12,20 @@ register: neutral
 variety: ["FR"]
 status: review
 contrastive_uk: high
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "French Grammar and Usage, 5th ed. (2025)"
 reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+order: 100
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Відкриті та закриті голосні
 
 У французькій опозиція **відкритий / закритий** описує насамперед якість голосного: наскільки відкритим є положення ротової порожнини під час його вимови. Це не те саме, що українське протиставлення «наголошений / ненаголошений» і не просте правило про те, яка саме буква стоїть у слові.

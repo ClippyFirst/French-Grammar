@@ -4,34 +4,38 @@ title_fr: "Les régularités du genre des noms"
 description_uk: "Як використовувати словотвірні та формальні ознаки для ймовірного визначення роду іменника — без перетворення суфіксів на абсолютні правила."
 category: nouns
 order: 61
-prerequisites:
+prerequisites: []
   - noun-gender
   - articles-definite
-related:
+related: []
   - irregular-plurals
   - accord
   - determiners
-contrast:
+contrast: []
   - noun-gender
-next:
+next: []
   - adjective-position
 level: B1
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 status: review
 contrastive_uk: high
-sources:
+sources: []
   - "Académie française — Questions de langue"
   - "Grevisse et Goosse — Le Bon Usage"
-tags:
+tags: []
   - noun-gender
   - gender-patterns
   - morphology
 canonical_ids: ["FR-061"]
+formula: false
+toc: true
+featured: false
+variant: []
+aliases: []
 ---
-
 ## Швидка відповідь
 
 У французькій **рід іменника треба вивчати разом з іменником**, бажано з артиклем: *le problème*, *la décision*. Суфікси та інші формальні ознаки можуть суттєво підвищити ймовірність правильної відповіді, але вони не утворюють безвиняткової системи.

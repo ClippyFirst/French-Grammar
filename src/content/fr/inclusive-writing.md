@@ -17,7 +17,7 @@ register: written
 variety: ["FR"]
 status: review
 contrastive_uk: medium
-sources:
+sources: []
   - "Légifrance — Circulaire du 21 novembre 2017"
   - "Ministère de l'Éducation nationale — Règles de féminisation et pratiques d'enseignement (2021)"
   - "Académie française — Déclaration sur l'écriture dite inclusive (2017)"
@@ -25,8 +25,8 @@ sources:
 formula: false
 toc: true
 featured: false
+variant: []
 ---
-
 ## Швидка відповідь
 
 **Écriture inclusive** — не одна граматична конструкція, а сукупність письмових практик, які прагнуть зробити гендерну репрезентацію видимішою. До них можуть належати фемінізація назв осіб, парні форми та графічні засоби на кшталт *point médian*.

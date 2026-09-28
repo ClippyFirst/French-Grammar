@@ -4,22 +4,22 @@ title_fr: "Le futur antérieur"
 description_uk: "Системний довідник про futur antérieur: форма, передування майбутній точці, завершення до дедлайну, модальне припущення про минуле та контрасти з іншими часами."
 category: tenses
 order: 60
-canonical_ids:
+canonical_ids: []
   - FR-363
   - FR-364
-prerequisites:
+prerequisites: []
   - futur-simple
   - passe-compose
-related:
+related: []
   - futur-simple
   - passe-compose
   - plus-que-parfait
   - futur-proche
   - si-clauses
   - temporal-conjunctions
-contrast:
+contrast: []
   - plus-que-parfait
-next:
+next: []
   - si-clauses
 aliases: ["futur antérieur", "future perfect"]
 tags: [futur antérieur, futur, передування, завершеність, дедлайн, припущення]
@@ -33,8 +33,8 @@ sources: ["Académie française — Questions de langue"]
 formula: true
 toc: true
 featured: false
+variant: []
 ---
-
 # Futur antérieur
 
 ## Швидка відповідь

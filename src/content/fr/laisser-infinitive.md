@@ -18,14 +18,14 @@ register: neutral
 variety: ["FR"]
 status: review
 contrastive_uk: high
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "Académie française — Questions de langue"
 formula: true
 toc: true
 featured: false
+variant: []
 ---
-
 ## Швидка відповідь
 
 **laisser + infinitif** описує дозвіл, допущення або невтручання щодо іншої дії:

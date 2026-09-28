@@ -4,26 +4,26 @@ title_fr: "Mot, forme fléchie et lemme"
 description_uk: "Як розрізняти слово як лексичну одиницю, конкретну словоформу та лему в описі французької граматики."
 category: fundamentals
 order: 3
-canonical_ids:
+canonical_ids: []
   - FR-003
-prerequisites:
+prerequisites: []
   - parts-of-speech
   - form-function-meaning
-related:
+related: []
   - verb-groups
   - irregular-verbs
   - gender-patterns
   - irregular-plurals
-contrast:
+contrast: []
   - morpheme-stem-ending
-next:
+next: []
   - morpheme-stem-ending
-aliases:
+aliases: []
   - word form lemma
   - mot forme fléchie lemme
   - lemme
   - forme fléchie
-tags:
+tags: []
   - слово
   - словоформа
   - лема
@@ -31,19 +31,19 @@ tags:
 level: REFERENCE
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 contrastive_uk: medium
 status: review
-sources:
+sources: []
   - "CNRTL — Lemme: https://www.cnrtl.fr/definition/lemme"
   - "CNRTL — Dictionnaire: https://www.cnrtl.fr/"
 reviewed_at: "2026-09-26"
 formula: false
 toc: true
 featured: false
+variant: []
 ---
-
 # Слово, словоформа та лема
 
 ## Швидка відповідь

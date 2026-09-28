@@ -4,10 +4,10 @@ title_fr: "L’article défini"
 description_uk: "Як французький визначений артикль виражає ідентифікованість, загальне значення, унікальність та інші типові значення."
 category: nouns
 order: 30
-prerequisites:
+prerequisites: []
   - noun-gender
   - singular-plural
-related:
+related: []
   - articles-indefinite
   - articles-partitive
   - article-omission
@@ -15,17 +15,17 @@ related:
   - elision
   - articles-after-negation
   - articles-with-quantities
-contrast:
+contrast: []
   - articles-indefinite
   - articles-partitive
-next:
+next: []
   - contracted-articles
-aliases:
+aliases: []
   - definite article
   - article défini
   - le la les
   - l’article défini
-tags:
+tags: []
   - артикль
   - le
   - la
@@ -35,19 +35,19 @@ tags:
 level: A1
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Académie française — La grammaire et l’infini (2024): https://www.academie-francaise.fr/la-grammaire-et-linfini"
 reviewed_at: "2026-09-25"
 formula: true
 toc: true
 featured: true
 canonical_ids: ["FR-080", "FR-084", "FR-085", "FR-086", "FR-091"]
+variant: []
 ---
-
 # Визначений артикль
 
 ## Швидка відповідь

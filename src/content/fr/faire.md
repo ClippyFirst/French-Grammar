@@ -4,23 +4,23 @@ title_fr: "Le verbe faire"
 description_uk: "Системний довідник про faire: основні значення, погода, faire + nom, сталі конструкції, faire + infinitif та форми."
 category: verbs
 order: 27
-prerequisites:
+prerequisites: []
   - present
-related:
+related: []
   - avoir
   - aller
   - infinitive
   - passive
   - pronominal-verbs
-contrast:
+contrast: []
   - avoir
-next:
+next: []
   - present
-aliases:
+aliases: []
   - faire
   - faire + infinitif
   - faire beau
-tags:
+tags: []
   - faire
   - дієслова
   - дія
@@ -32,15 +32,15 @@ register: neutral
 variety: [FR]
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue"
 reviewed_at: "2026-09-25"
 formula: true
 toc: true
 featured: false
 canonical_ids: ["FR-301"]
+variant: []
 ---
-
 # Faire
 
 ## Швидка відповідь

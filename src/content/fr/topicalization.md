@@ -2,7 +2,7 @@
 title_uk: "Топікалізація: тематизація компонентів у французькому реченні"
 title_fr: "La topicalisation"
 description_uk: "Системний довідник про тематизацію, ліве винесення, рамкові компоненти, дизлокацію та відмінність між топіком і синтаксичною функцією."
-canonical_ids:
+canonical_ids: []
   - "FR-628"
 level: B2
 category: discourse
@@ -13,12 +13,20 @@ contrastive_uk: high
 formula: true
 toc: true
 featured: false
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "French Grammar and Usage, 5th ed. (2025)"
 reviewed_at: "2026-09-26"
+order: 100
+depth: medium
+prerequisites: []
+related: []
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Топікалізація
 
 ## Швидка відповідь

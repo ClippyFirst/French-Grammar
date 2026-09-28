@@ -17,15 +17,16 @@ register: neutral
 variety: ["FR"]
 status: review
 contrastive_uk: medium
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "French Grammar and Usage, 5th ed. (2025)"
   - "Académie française — Questions de langue"
 formula: true
 toc: true
 featured: false
+canonical_ids: []
+variant: []
 ---
-
 ## Швидка відповідь
 
 Дієслова сприйняття можуть поєднуватися з інфінітивом:

@@ -4,25 +4,25 @@ title_fr: "Forme, fonction et sens"
 description_uk: "Три різні рівні граматичного опису французької: форма, синтаксична функція та значення, з практичними мінімальними парами."
 category: fundamentals
 order: 2
-canonical_ids:
+canonical_ids: []
   - FR-002
-prerequisites:
+prerequisites: []
   - parts-of-speech
-related:
+related: []
   - noun-gender
   - sentence-structure
   - word-order
   - transitivity
   - verb-valency
-contrast:
+contrast: []
   - parts-of-speech
-next:
+next: []
   - word-lemma
-aliases:
+aliases: []
   - form function meaning
   - forme fonction sens
   - nature et fonction
-tags:
+tags: []
   - форма
   - функція
   - значення
@@ -32,18 +32,18 @@ tags:
 level: REFERENCE
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Académie française — La terminologie de la langue française: https://www.academie-francaise.fr/la-terminologie-de-la-langue-francaise"
 reviewed_at: "2026-09-26"
 formula: false
 toc: true
 featured: false
+variant: []
 ---
-
 # Форма, функція та значення
 
 ## Швидка відповідь

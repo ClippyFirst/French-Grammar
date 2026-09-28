@@ -5,30 +5,35 @@ slug: mood-selection-subordinate
 title_uk: "Вибір способу в підрядному реченні"
 title_fr: "Le choix du mode dans les subordonnées"
 description_uk: "Довідкова стаття про вибір способу в підрядному реченні у сучасній французькій."
-canonical_ids:
+canonical_ids: []
   - FR-490
-prerequisites:
+prerequisites: []
   - subordination
-related:
+related: []
   - complex-sentences
   - subordination
   - sentence-structure
 level: REFERENCE
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue"
   - "Académie française — La terminologie de la langue française: https://www.academie-francaise.fr/la-terminologie-de-la-langue-francaise"
 reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+order: 100
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Вибір способу в підрядному реченні
 
 Вибір **indicatif, subjonctif** або інших форм не можна звести до перекладу одного українського слова. Важливі тип підрядної конструкції, значення головного предиката, оцінка, волевиявлення, заперечення та сполучник.

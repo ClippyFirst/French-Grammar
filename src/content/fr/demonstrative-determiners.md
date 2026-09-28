@@ -17,8 +17,13 @@ reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+order: 100
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Вказівні детермінативи
 
 Французькі вказівні детермінативи — **ce, cet, cette, ces**. Вони супроводжують іменник і допомагають ідентифікувати або виділити референт.

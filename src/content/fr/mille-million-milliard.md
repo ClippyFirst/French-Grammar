@@ -3,23 +3,31 @@ title_uk: "Mille, million, milliard"
 title_fr: "Mille, million et milliard"
 description_uk: "Mille, million і milliard поводяться по-різному: *mille* є незмінним числівниковим елементом, тоді як *million* і *milliard* — іменники."
 category: numbers
-canonical_ids:
+canonical_ids: []
   - FR-578
 level: B1
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "Académie française — Questions de langue"
 reviewed_at: "2026-09-26"
 formula: true
 toc: true
+order: 100
+featured: false
+prerequisites: []
+related: []
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Mille, million, milliard
 
 ## Швидка відповідь

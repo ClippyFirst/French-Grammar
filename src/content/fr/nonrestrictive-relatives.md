@@ -5,31 +5,36 @@ slug: nonrestrictive-relatives
 title_uk: "Пояснювальні відносні речення"
 title_fr: "Les relatives explicatives"
 description_uk: "Довідкова стаття про пояснювальні відносні речення у французькій."
-canonical_ids:
+canonical_ids: []
   - FR-494
-prerequisites:
+prerequisites: []
   - relative-pronouns
   - subordination
-related:
+related: []
   - relative-pronouns
   - subordination
   - sentence-structure
 level: REFERENCE
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue"
   - "Académie française — La terminologie de la langue française: https://www.academie-francaise.fr/la-terminologie-de-la-langue-francaise"
 reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+order: 100
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Пояснювальні відносні речення
 
 Пояснювальна relative (*relative explicative*) додає інформацію до вже ідентифікованого референта. Вона не є необхідною для визначення того, про кого або про що говориться.

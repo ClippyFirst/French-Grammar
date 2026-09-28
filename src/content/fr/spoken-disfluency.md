@@ -1,5 +1,5 @@
 ---
-canonical_ids:
+canonical_ids: []
   - "FR-740"
 title_uk: "Вагання, самокорекція та переривання в усному мовленні"
 title_fr: "Hésitations, auto-corrections et interruptions dans l’oral"
@@ -7,27 +7,27 @@ description_uk: "Вагання, повтори, reformulation, self-repair і �
 category: discourse
 order: 740
 
-prerequisites:
+prerequisites: []
   - spoken-french
   - discourse
   - ellipsis
-related:
+related: []
   - address-interjections
   - prosody
   - phrase-enonce
   - nominal-utterances
   - written-spoken-contrast
   - fillers
-contrast:
+contrast: []
   - standard-written-french
-next:
+next: []
   - prosody
-aliases:
+aliases: []
   - hesitation
   - self-correction
   - repair
   - disfluency
-tags:
+tags: []
   - усне мовлення
   - вагання
   - самокорекція
@@ -37,14 +37,15 @@ depth: high
 register: spoken
 variety: [FR]
 status: review
-sources:
+sources: []
   - "Grande Grammaire du français — oral, énoncé et organisation du discours"
   - "French Grammar and Usage, 5th ed. (2025)"
 formula: false
 toc: true
 featured: false
+contrastive_uk: none
+variant: []
 ---
-
 # Вагання, самокорекція та переривання в усному мовленні
 
 ## Швидка відповідь

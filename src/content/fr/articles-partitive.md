@@ -4,26 +4,26 @@ title_fr: "L’article partitif"
 description_uk: "Як французький партитивний артикль виражає невизначену кількість речовини або абстрактної субстанції та чим він відрізняється від du/des = de + le/les."
 category: nouns
 order: 50
-prerequisites:
+prerequisites: []
   - noun-gender
   - singular-plural
-related:
+related: []
   - articles-definite
   - articles-indefinite
   - articles-with-quantities
   - articles-after-negation
   - contracted-articles
-contrast:
+contrast: []
   - articles-definite
   - articles-indefinite
-next:
+next: []
   - articles-with-quantities
-aliases:
+aliases: []
   - partitive article
   - article partitif
   - du de la de l’
   - partitif
-tags:
+tags: []
   - артикль
   - partitif
   - du
@@ -33,18 +33,19 @@ tags:
 level: A2
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Académie française — La grammaire et l’infini (2024): https://www.academie-francaise.fr/la-grammaire-et-linfini"
 reviewed_at: "2026-09-25"
 formula: true
 toc: true
 canonical_ids: ["FR-082"]
+featured: false
+variant: []
 ---
-
 # Частковий артикль
 
 ## Швидка відповідь

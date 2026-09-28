@@ -5,24 +5,24 @@ description_uk: "Довідковий огляд звертань, інтер'є
 category: spoken
 order: 737
 canonical_ids: ["FR-737", "FR-738"]
-prerequisites:
+prerequisites: []
   - questions
   - phrase-enonce
-related:
+related: []
   - pronouns-toniques
   - questions
   - punctuation
   - complex-sentences
   - deixis
-contrast:
+contrast: []
   - questions
-next:
+next: []
   - word-order
-aliases:
+aliases: []
   - termes d’adresse
   - interjections
   - particules discursives
-tags:
+tags: []
   - address
   - interjection
   - discourse particles
@@ -30,17 +30,18 @@ tags:
 level: B2
 depth: high
 register: spoken
-variety:
+variety: []
   - FR
 contrastive_uk: medium
 status: review
-sources:
+sources: []
   - "Grande Grammaire du français — termes d’adresse, interjections et particules de discours"
 reviewed_at: "2026-09-25"
 formula: false
 toc: true
+featured: false
+variant: []
 ---
-
 # Звертання, інтер'єкції та дискурсивні частки
 
 ## Швидка відповідь

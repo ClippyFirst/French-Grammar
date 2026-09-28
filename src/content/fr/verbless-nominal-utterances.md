@@ -12,12 +12,21 @@ contrastive_uk: high
 formula: true
 toc: true
 featured: false
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "French Grammar and Usage, 5th ed. (2025)"
 reviewed_at: "2026-09-26"
+order: 100
+depth: medium
+canonical_ids: []
+prerequisites: []
+related: []
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Бездієслівні, номінальні та еліптичні висловлення
 
 Французькі висловлення не завжди містять особову дієслівну форму. Номінальні та еліптичні моделі особливо природні в діалогах, написах, заголовках, реакціях і коротких відповідях.

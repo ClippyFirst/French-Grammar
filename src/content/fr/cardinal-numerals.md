@@ -3,23 +3,31 @@ title_uk: "Кількісні числівники"
 title_fr: "Les nombres cardinaux"
 description_uk: "Система французьких кількісних числівників: утворення, написання, вживання в кількісних групах, датах, віці, часі та інших форматах."
 category: numbers
-canonical_ids:
+canonical_ids: []
   - FR-575
 level: B1
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Grande Grammaire du français"
   - "Académie française — Questions de langue"
 reviewed_at: "2026-09-26"
 formula: true
 toc: true
+order: 100
+featured: false
+prerequisites: []
+related: []
+contrast: []
+next: []
+variant: []
+aliases: []
+tags: []
 ---
-
 # Кількісні числівники
 
 Кількісні числівники (*nombres cardinaux*) називають число або точну кількість: *un, deux, trois, vingt, cent, mille*. Вони можуть бути частиною іменникової групи, самостійно замінювати вже зрозумілу кількісну групу або входити до спеціальних форматів — дат, часу, віку, адрес, телефонних номерів.

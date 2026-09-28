@@ -4,25 +4,25 @@ title_fr: "Le verbe prendre"
 description_uk: "Довідник про prendre: основні значення, чергування основ, конструкції та похідні дієслова."
 category: verbs
 order: 33
-canonical_ids:
+canonical_ids: []
   - FR-308
-prerequisites:
+prerequisites: []
   - present
   - verb-groups
-related:
+related: []
   - mettre
   - voir-croire
   - pronouns-cod
   - prepositions-a
   - passe-compose
-contrast:
+contrast: []
   - boire
-next:
+next: []
   - mettre
-aliases:
+aliases: []
   - prendre
   - prendre + COD
-tags:
+tags: []
   - дієслова
   - III група
   - prendre
@@ -30,18 +30,19 @@ tags:
 level: A2
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 contrastive_uk: medium
 status: review
-sources:
+sources: []
   - "Dictionnaire de l’Académie française, 9e édition — prendre"
   - "Grevisse et Goosse, Le Bon Usage, 17e éd."
 reviewed_at: "2026-09-25"
 formula: true
 toc: true
+featured: false
+variant: []
 ---
-
 # Prendre
 
 ## Швидко

@@ -5,21 +5,21 @@ description_uk: "Системний довідник інверсії підме
 category: syntax
 order: 730
 
-prerequisites:
+prerequisites: []
   - questions
   - pronouns-subject
   - word-order
-related:
+related: []
   - questions
   - indirect-speech
   - exclamatives
   - extraction
   - punctuation
-aliases:
+aliases: []
   - inversion du sujet
   - inversion
   - subject inversion
-tags:
+tags: []
   - інверсія
   - підмет
   - питання
@@ -29,15 +29,19 @@ depth: high
 register: formal
 variety: [FR]
 status: review
-sources:
+sources: []
   - "Grande Grammaire du français — ordre des mots et types de phrases"
   - "French Grammar and Usage, 5th ed. (2025)"
   - "Académie française — Questions de langue"
 formula: true
 toc: true
 featured: false
+contrastive_uk: none
+canonical_ids: []
+contrast: []
+next: []
+variant: []
 ---
-
 # Інверсія поза звичайними питаннями так/ні
 
 ## Швидка відповідь

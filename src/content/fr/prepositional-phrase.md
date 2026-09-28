@@ -4,28 +4,28 @@ title_fr: "Le groupe prépositionnel"
 description_uk: "Будова й функції прийменникових груп у французькій: прийменник, його залежний компонент та місце в більших конструкціях."
 category: syntax
 order: 8
-canonical_ids:
+canonical_ids: []
   - FR-008
-prerequisites:
+prerequisites: []
   - parts-of-speech
   - phrase-enonce
   - noun-phrase
-related:
+related: []
   - prepositions-basics
   - prepositions-a
   - prepositions-de
   - verbs-prepositions
   - verb-valency
   - noun-phrase
-contrast:
+contrast: []
   - verb-phrase
-next:
+next: []
   - sentence-structure
-aliases:
+aliases: []
   - prepositional phrase
   - groupe prépositionnel
   - GP
-tags:
+tags: []
   - прийменникова група
   - groupe prépositionnel
   - GP
@@ -33,18 +33,18 @@ tags:
 level: REFERENCE
 depth: high
 register: neutral
-variety:
+variety: []
   - FR
 contrastive_uk: high
 status: review
-sources:
+sources: []
   - "Académie française — La terminologie de la langue française: https://www.academie-francaise.fr/la-terminologie-de-la-langue-francaise"
 reviewed_at: "2026-09-26"
 formula: true
 toc: true
 featured: false
+variant: []
 ---
-
 # Прийменникова група: groupe prépositionnel
 
 ## Швидка відповідь
