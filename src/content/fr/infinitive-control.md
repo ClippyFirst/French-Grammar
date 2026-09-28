@@ -4,7 +4,7 @@ title_fr: "Le sujet de l'infinitif et les relations de contrôle"
 description_uk: "Як визначати суб'єкта інфінітива, коли він спільний із головним реченням, виражений окремо або відновлюється з конструкції."
 category: sentences
 order: 724
-canonical_ids: ["FR-724"]
+
 prerequisites: ["infinitive", "complex-sentences", "word-order"]
 related: ["perception-verbs-infinitive", "causative-faire-infinitive", "laisser-infinitive", "infinitive"]
 contrast: ["relative-clauses", "indirect-speech"]
