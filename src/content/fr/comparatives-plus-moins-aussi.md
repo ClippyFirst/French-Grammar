@@ -2,7 +2,7 @@
 title_uk: "plus / moins / aussi: базова система порівняння"
 title_fr: "plus / moins / aussi : le système de base de la comparaison"
 description_uk: "Системна довідка про plus, moins, aussi та їхнє розмежування з autant у порівнянні ознаки, кількості й міри дії."
-canonical_ids: ["FR-560"]
+canonical_ids: ["FR-560", "FR-132"]
 level: B1
 category: comparison
 register: neutral
