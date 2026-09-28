@@ -1,4 +1,6 @@
 ---
+canonical_ids:
+  - "FR-731"
 title_uk: "Avoir beau + infinitif: уступальна конструкція"
 title_fr: "Avoir beau + infinitif : la construction concessive"
 description_uk: "Avoir beau + infinitif: уступальна конструкція. Довідкова стаття про конструкцію та її контраст з українською."
