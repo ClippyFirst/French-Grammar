@@ -1,27 +1,27 @@
 # French Grammar — full QA report
 
-Started: 2026-09-28T14:01:32.627Z
+Started: 2026-09-28T14:04:47.036Z
 Repository: ClippyFirst/French-Grammar
 Working directory: F:\GitHub\Grammars\French Grammar
 ## test
 
 Command: C:\Program Files\nodejs\node.exe --test
-Started: 2026-09-28T14:01:32.630Z
-✔ parseCanonicalIds extracts canonical IDs from frontmatter (2.1959ms)
-✔ parseCanonicalIds also extracts inline arrays (0.2544ms)
-✔ auditCanonicalCoverage reports missing, invalid and duplicate mappings (1.4619ms)
-✔ auditCanonicalCoverage detects duplicate catalog IDs and duplicate IDs inside one file (0.2671ms)
-✔ auditCanonicalCoverage reports canonical mappings on deprecated files (0.1996ms)
-✔ parseStatus normalizes legacy status values (0.4689ms)
-✔ auditCanonicalCoverage detects a non-contiguous canonical catalog (0.3858ms)
-✔ parseCatalogIds ignores historical audit bullet lists outside the live catalog (0.5826ms)
-✔ relatedFor resolves a plain canonical slug (3.3852ms)
-✔ relatedFor preserves category/slug references for legacy content (0.271ms)
-✔ relatedFor does not silently resolve an ambiguous plain slug (0.2683ms)
-✔ canonicalCategory normalizes legacy site categories (0.2874ms)
-✔ slugFromId normalizes extension and nested IDs (0.168ms)
-✔ navigation helpers group legacy categories under canonical sections (0.3833ms)
-✔ category catalog and layers stay in sync (0.205ms)
+Started: 2026-09-28T14:04:47.038Z
+✔ parseCanonicalIds extracts canonical IDs from frontmatter (3.945ms)
+✔ parseCanonicalIds also extracts inline arrays (0.5193ms)
+✔ auditCanonicalCoverage reports missing, invalid and duplicate mappings (2.5101ms)
+✔ auditCanonicalCoverage detects duplicate catalog IDs and duplicate IDs inside one file (0.5227ms)
+✔ auditCanonicalCoverage reports canonical mappings on deprecated files (0.4349ms)
+✔ parseStatus normalizes legacy status values (0.5689ms)
+✔ auditCanonicalCoverage detects a non-contiguous canonical catalog (0.3652ms)
+✔ parseCatalogIds ignores historical audit bullet lists outside the live catalog (0.6393ms)
+✔ relatedFor resolves a plain canonical slug (4.9911ms)
+✔ relatedFor preserves category/slug references for legacy content (0.5167ms)
+✔ relatedFor does not silently resolve an ambiguous plain slug (0.3787ms)
+✔ canonicalCategory normalizes legacy site categories (0.5861ms)
+✔ slugFromId normalizes extension and nested IDs (0.3041ms)
+✔ navigation helpers group legacy categories under canonical sections (0.9581ms)
+✔ category catalog and layers stay in sync (0.9209ms)
 ℹ tests 15
 ℹ suites 0
 ℹ pass 15
@@ -29,16 +29,16 @@ Started: 2026-09-28T14:01:32.630Z
 ℹ cancelled 0
 ℹ skipped 0
 ℹ todo 0
-ℹ duration_ms 282.5835
+ℹ duration_ms 346.4928
 
-Finished: 2026-09-28T14:01:33.019Z
+Finished: 2026-09-28T14:04:47.507Z
 Exit code: 0
 Signal: none
-Duration: 0.4s
+Duration: 0.5s
 ## audit:canonical
 
 Command: C:\Program Files\nodejs\node.exe scripts/audit-canonical-coverage.mjs
-Started: 2026-09-28T14:01:33.020Z
+Started: 2026-09-28T14:04:47.507Z
 # Canonical coverage audit
 
 - Catalog topics: 740
@@ -165,14 +165,14 @@ Started: 2026-09-28T14:01:33.020Z
 - FR-735: src/content/fr/extraction-constructions.md, src/content/fr/extraction.md
 - FR-740: src/content/fr/hesitation-self-correction.md, src/content/fr/spoken-disfluency.md
 
-Finished: 2026-09-28T14:01:33.287Z
+Finished: 2026-09-28T14:04:47.759Z
 Exit code: 0
 Signal: none
 Duration: 0.3s
 ## audit:site-categories
 
 Command: C:\Program Files\nodejs\node.exe scripts/audit-site-categories.mjs --strict
-Started: 2026-09-28T14:01:33.287Z
+Started: 2026-09-28T14:04:47.759Z
 === FRENCH-GRAMMAR SITE CATEGORY AUDIT ===
 
 Files: 593
@@ -534,451 +534,36 @@ Duplicate generated routes: 0
 --- Duplicate generated routes ---
 —
 
-Finished: 2026-09-28T14:01:33.560Z
+Finished: 2026-09-28T14:04:48.003Z
 Exit code: 0
 Signal: none
-Duration: 0.3s
+Duration: 0.2s
 ## audit:content-schema
 
 Command: C:\Program Files\nodejs\node.exe scripts/audit-content-schema.mjs
-Started: 2026-09-28T14:01:33.560Z
+Started: 2026-09-28T14:04:48.003Z
 === FRENCH-GRAMMAR CONTENT SCHEMA SHAPE AUDIT ===
 
 Files scanned: 593
-Issues: 416
+Issues: 0
 
-- src/content/fr/a-condition-que.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/a-moins-que.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/a-vs-de.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/abstract-concrete-nouns.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/accents.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/address-interjections.md:7 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/adjectival-suffixation.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/adjective-agreement.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/adjective-feminine-formation.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/adjective-functions.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/adjective-government.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/adjective-irregular-feminine.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/adjective-irregular-plural.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/adjective-position.md:39 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/adjectivisation.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/adverb-position.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/adverbs.md:36 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/african-french.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/agreement-government.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/agreement-intervening-phrases.md:7 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/aller.md:45 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/alors-que-tandis-que.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/alphabet.md:13 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/ambiguous-attachment.md:7 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/apostrophe.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/approximate-quantity-agreement.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/approximate-quantity.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/article-abstract-concepts.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/article-omission.md:48 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/article-vs-zero-ukrainian.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/articles-after-negation.md:44 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/articles-definite.md:48 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/articles-indefinite.md:44 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/articles-partitive.md:45 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/articles-with-quantities.md:43 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/au-point-que-tellement-que.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/aucun-aucune-pronoun.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/auquel-auquels.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/autant-beaucoup-peu-de.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/autant-davantage.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/avant-que-jusqua-ce-que.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/avec-sans.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/avoir-beau.md:7 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/avoir.md:47 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/basic-word-order.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/because-since-car.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/belgian-french.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/bien-que-quoique.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/body-parts-definite-contrast.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/capital-letters.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/capitalization.md:14 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/causative-faire-infinitive.md:7 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/ce-a-quoi-sur-quoi.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/ce-ceci-cela-ca.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/ce-dont.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/ce-qui-ce-que-ce-dont-ce-a-quoi.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/ce-qui-ce-que-relative.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/ceci-cela-ca-pronouns.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/celui-celle-ceux-celles.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/celui-ci-celui-la.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/chacun-chacune.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/chez.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/circumstantial-position.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/clitic-case-contrast.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/cod-before-avoir.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/cod-coi-case.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/cod-coi-cc-position.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/cod-coi-complements.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/cod-coi-valence.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/collective-nouns-agreement.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/collective-nouns.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/colour-adjectives.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/combien.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/comme-conjunction.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/comment.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/common-proper-nouns.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/comparative-que.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/comparatives-plus-moins-aussi.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/complex-agreement.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/complex-sentence-punctuation.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/complex-sentences.md:37 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/complex-verbal-expressions.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/compound-adjectives-agreement.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/compound-nouns.md:26 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/compound-subject-agreement.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/compound-word-spelling.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/compound-words.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/concessive-avoir-beau.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/conditionnel-contrast.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/conjunction-phrases.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/connectors-written.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/consonant-doubling.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/contracted-articles.md:13 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/control-infinitive.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/conversion-substantivation.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/coordinating-conjunctions.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/coordination-basic.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/coordination-unlike-categories.md:7 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/countability-mass.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/dash-hyphen-typography.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/de-a-compound-constructions.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/de-nombreux-de-nombreuses.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/de-sorte-que.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/defective-verbs.md:7 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/defining-explanatory-relatives.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/definiteness-context-ukrainian.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/definiteness-indefiniteness.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/deixis.md:7 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/demonstrative-determiners.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/demonstrative-pronouns.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/derivational-productivity.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/determiner-agreement.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/determiners-indefinite.md:47 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/determiners-interrogative.md:44 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/determiners.md:50 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/devant-derriere.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/dictionary-pronunciation.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/direct-indirect-speech-punctuation.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/dislocation.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/dont.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/double-negation.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/duquel-desquels.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/elision.md:42 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/ellipsis.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/elliptical-utterances.md:7 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/en-de-chose.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/en-functions.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/en-partitive.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/en-quantity.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/en-vs-dans.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/enchainement.md:25 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/entre-parmi.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/est-ce-que.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/etre.md:44 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/exclamatives.md:7 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/extraction-constructions.md:7 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/extraction-long-distance.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/extraction.md:7 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/faire-infinitive.md:7 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/faire.md:41 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/feminine-person-nouns.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/final-silent-consonants.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/final-silent-vowels.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/first-group-er.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/focus.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/fr-gender-vs-ukrainian-gender.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/french-quotes-spaces.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/french-r.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/gender-markers-orthography.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/gender-patterns.md:32 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/geographical-names.md:15 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/grammatical-ambiguity.md:7 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/grammatical-endings-plural-pronunciation.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/grammatical-functions-cod-coi-complement.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/grammatical-gender-number.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/grammatical-homophones.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/grapheme-phoneme.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/h-muet-aspire.md:34 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/hesitation-self-correction.md:7 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/hyphen.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/il-est-adjectif.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/il-faut.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/il-parait.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/il-semble.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/il-y-a.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/imperatif-contrast.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/impersonal-accord.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/impersonal-alternatives.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/impersonal-il.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/impersonal-se.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/inclusive-writing.md:7 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/indefinite-pronouns.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/indefinite-quantity.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/indirect-questions.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/infinitive-after-adjective.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/infinitive-after-preposition.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/infinitive-after-verb.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/infinitive-complement.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/infinitive-control.md:7 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/infinitive-different-subjects.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/infinitive-past.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/infinitive-shared-subject.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/infinitive-subordination.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/infinitive.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/information-structure.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/interrogative-adverbs.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/intonation-contours.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/inversion-outside-questions.md:7 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/inversion-questions.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/inversion.md:7 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/irregular-gender.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/irregular-plurals.md:32 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/joined-separated-writing.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/laisser-infinitive.md:7 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/lequel-agreement.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/lequel-laquelle-lesquels-lesquelles.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/lexicalized-se.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/liaison.md:44 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/loanword-gender.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/loanword-pronunciation.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/loanwords-grammatical-adaptation.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/long-distance-dependencies.md:7 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/mass-count-nouns.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/measure-intensity.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/meilleur-mieux.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/movement-infinitive.md:7 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/movement-verbs-infinitive.md:7 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/multiple-embedding.md:7 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/multiple-negation.md:7 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/multiple-questions.md:7 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/narrative-temporal-perspective.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/nasal-vowels.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/ne-deletion.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/ne-expletif.md:35 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/ne-que.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/ne-without-pas.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/negation-clitics.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/negation-compound-tenses.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/negation-imperative.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/negation-infinitive.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/negation-ne-aucun.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/negation-ne-jamais.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/negation-ne-nul.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/negation-ne-pas.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/negation-ne-personne.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/negation-ne-plus.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/negation-ne-rien.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/negation-scope.md:7 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/negation.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/negative-determiners.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/negative-pronouns.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/neologism-variation.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/nested-complement-clauses.md:7 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/nested-relative-clauses.md:7 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/ni-ni.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/nominal-predicate.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/nominal-suffixation.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/nominal-utterances.md:7 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/nominalisation.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/norm-vs-variation.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/noun-gender.md:40 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/noun-government.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/noun-group-expansion.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/noun-number.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/null-subject-contrast.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/number-markers-orthography.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/number-quantifier-agreement.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/object-pronoun-position.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/on-indefinite-subject.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/open-closed-vowels.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/oral-syntax.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/orthographic-homonymy.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/orthographic-reform-1990.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/orthographic-variation.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/ou-interrogative.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/ou-relatif.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/par.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/participle-infinitive-agreement.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/passe-compose-vs-aspect.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/passive.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/past-participle-avoir-agreement.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/past-participle-etre-agreement.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/past-tense-aspectual-values.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/percentage-agreement.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/perception-infinitive-complement.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/perception-infinitive.md:7 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/perception-verbs-infinitive.md:7 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/person-gender.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/personne-rien.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/pire-plus-mauvais.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/plusieurs-certains-autres.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/possession-body-clothes.md:7 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/possession-body-parts-clothes.md:7 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/possessive-determiners.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/pour-que-afin-que.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/pour-vs-par.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/pour.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/pourquoi.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/pourvu-que.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/prefixation.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/preposition-infinitive.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/prepositional-que-clauses.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/prepositions-a.md:9 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/prepositions-after-adjectives.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/prepositions-after-nouns.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/prepositions-after-verbs.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/prepositions-basics.md:25 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/prepositions-cities.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/prepositions-countries.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/prepositions-dans.md:9 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/prepositions-de.md:9 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/prepositions-en.md:9 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/prepositions-place.md:25 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/prepositions-time.md:13 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/prepositions-vs-cases.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/previous-cod.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/profession-gender.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/pronominal-agreement.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/pronominal-participle-agreement.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/pronominal-verbs-types.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/pronoun-order.md:29 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/pronoun-vs-determiner-indefinite.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/pronouns-cod.md:43 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/pronouns-coi.md:42 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/pronouns-personal.md:45 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/pronouns-possessive.md:15 → variety → expected array, found scalar: FR
-- src/content/fr/pronouns-possessive.md:20 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/pronouns-toniques.md:44 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/proper-person-names.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/prosody.md:7 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/punctuation.md:14 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/quand.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/quantifier-article.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/quantifier-scope.md:7 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/quantifiers.md:44 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/quantity-agreement.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/que-conjunction.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/que-interrogatif.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/quebec-french.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/quel-lequel.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/quelquun-quelque-chose.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/questions-intonation.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/questions-prepositions.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/qui-interrogatif.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/qui-que-quoi-questions.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/qui-que-subject-object.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/quoi-interrogatif.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/quoting.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/radical-termination.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/reciprocal-constructions.md:7 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/reciprocal-se.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/reflexive-causatives.md:7 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/reflexive-pronouns.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/regional-numerals.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/regional-oral-forms.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/regional-prepositions.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/regional-pronouns.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/regional-syntax.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/register-variation-parameters.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/register-variation.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/regular-plural.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/relative-after-compound-prepositions.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/relative-pronouns.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/relative-referent.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/reported-speech-conditionnel.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/reported-speech-modality.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/reported-speech-place-markers.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/reported-speech-pronoun-shift.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/reported-speech-sequence-of-tenses.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/reported-speech-time-markers.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/rhetorical-questions.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/rien-personne-subject.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/sans-que.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/schwa-e-caduc.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/schwa.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/scope-interpretation.md:7 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/second-group-ir.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/semantic-gender.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/semivowels.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/si-conjunction.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/silent-final-consonants.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/silent-final-vowels.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/spoken-disfluency.md:7 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/spoken-disfluency.md:34 → depth → invalid value: reference
-- src/content/fr/spoken-ne-dropping.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/spoken-questions.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/standard-french-france.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/standard-regional-nonstandard.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/stress-prosody.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/structural-ambiguity.md:7 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/subject-predicate.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/subject-verb-agreement.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/subjonctif-contrast.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/subordinate-after-adjective.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/subordinate-after-noun.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/subordinate-after-verb.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/subordinating-conjunctions.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/substantivation-noun.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/substantivized-adjectives.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/suffisamment-de.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/superlative-le-plus-moins.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/sur-sous.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/svo-word-order.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/swiss-french.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/syllable-structure.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/t-euphonique.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/tellement-tant-de.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/tense-aspect-mood-modality.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/tense-vs-aspect-ukrainian.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/theme-rheme.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/third-group.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/tout-tous-toutes-pronouns.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/traditional-reformed-spelling.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/trop-assez-de.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/up-other-prepositions.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/variation-vs-error.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/verb-endings-pronunciation.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/verb-government.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/verb-group-expansion.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/verb-morphophonology.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/verb-orthographic-alternations.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/verb-types.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/verb-valency.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/verbalisation.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/verbless-nominal-utterances.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/vers-envers.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/vowels-consonants.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/word-order-contrast.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/y-a-chose.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/y-en-cod-coi.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/y-en-combination.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/y-en-contrast.md:5 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/y-en-infinitive.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/y-en-spoken.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/y-functions.md:6 → canonical_ids → canonical_ids must contain only FR-### values
-- src/content/fr/y-location.md:6 → canonical_ids → canonical_ids must contain only FR-### values
+—
 
-Finished: 2026-09-28T14:01:33.869Z
-Exit code: 1
+Finished: 2026-09-28T14:04:48.269Z
+Exit code: 0
 Signal: none
 Duration: 0.3s
 ## audit:canonical:matrix
 
 Command: C:\Program Files\nodejs\node.exe scripts/generate-canonical-matrix.mjs
-Started: 2026-09-28T14:01:33.870Z
+Started: 2026-09-28T14:04:48.269Z
 Wrote F:\GitHub\Grammars\French Grammar\docs\canonical_topic_article_matrix.md
 
-Finished: 2026-09-28T14:01:34.091Z
+Finished: 2026-09-28T14:04:48.534Z
 Exit code: 0
 Signal: none
-Duration: 0.2s
+Duration: 0.3s
 ## build
 
 Command: npm.cmd run build
-Started: 2026-09-28T14:01:34.091Z
+Started: 2026-09-28T14:04:48.534Z
