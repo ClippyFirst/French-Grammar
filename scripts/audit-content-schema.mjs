@@ -37,14 +37,37 @@ function parseFrontmatter(source) {
   }
   const match = source.match(/^---\r?\n([\s\S]*?)\r?\n---(?:\r?\n|$)/);
   if (!match) return { error: 'missing closing ---' };
+
   const lines = match[1].split(/\r?\n/);
   const fields = new Map();
+
   for (let i = 0; i < lines.length; i += 1) {
     const line = lines[i];
     const m = line.match(/^([A-Za-z_][A-Za-z0-9_-]*):(?:[ \t]*(.*))?$/);
     if (!m) continue;
-    fields.set(m[1], { value: (m[2] ?? '').trim(), lineNo: i + 2 });
+
+    const field = m[1];
+    let value = (m[2] ?? '').trim();
+    const lineNo = i + 2;
+
+    // Support YAML block sequences such as:
+    // variety:
+    //   - FR
+    //   - QC
+    if (value === '' && i + 1 < lines.length && /^\s+-\s+/.test(lines[i + 1])) {
+      const items = [];
+      let j = i + 1;
+      while (j < lines.length && /^\s+-\s+/.test(lines[j])) {
+        items.push(lines[j].replace(/^\s+-\s+/, '').trim());
+        j += 1;
+      }
+      value = '[' + items.join(', ') + ']';
+      i = j - 1;
+    }
+
+    fields.set(field, { value, lineNo });
   }
+
   return { fields };
 }
 
@@ -55,6 +78,17 @@ function classify(value) {
   if (/^-?(?:0|[1-9]\d*)(?:\.\d+)?$/.test(value)) return 'number';
   if (/^(?:null|~)$/.test(value)) return 'null';
   return 'scalar';
+}
+
+function unquote(value) {
+  return value.replace(/^(['"])(.*)\1$/, '$2');
+}
+
+function validCanonicalIds(value) {
+  if (!/^\[.*\]$/.test(value)) return false;
+  const inner = value.slice(1, -1).trim();
+  if (inner === '') return true;
+  return inner.split(',').every((item) => /^\s*(['"])?FR-\d{3}\1\s*$/.test(item));
 }
 
 const files = collect(contentDir);
@@ -83,8 +117,7 @@ for (const file of files) {
       if (type === 'scalar' || type === 'number' || type === 'boolean' || type === 'null') {
         issues.push({ path: display, line: meta.lineNo, field, problem: 'expected array, found ' + type + ': ' + meta.value });
       }
-      if (field === 'canonical_ids' && type === 'array' &&
-          !/^\[(?:\s*FR-\d{3}\s*(?:,\s*FR-\d{3}\s*)*)?\]$/.test(meta.value)) {
+      if (field === 'canonical_ids' && type === 'array' && !validCanonicalIds(meta.value)) {
         issues.push({ path: display, line: meta.lineNo, field, problem: 'canonical_ids must contain only FR-### values' });
       }
       continue;
@@ -101,7 +134,7 @@ for (const file of files) {
     }
 
     if (enums[field] && type !== 'empty') {
-      const value = meta.value.replace(/^(['"])(.*)\1$/, '$2');
+      const value = unquote(meta.value);
       if (!enums[field].has(value)) {
         issues.push({ path: display, line: meta.lineNo, field, problem: 'invalid value: ' + meta.value });
       }
