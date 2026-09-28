@@ -5,16 +5,6 @@ description_uk: "Непряма мова у французькій: твердж
 category: indirect
 order: 10
 canonical_ids:
-  - "FR-485"
-  - "FR-486"
-  - "FR-487"
-  - "FR-488"
-  - "FR-489"
-  - "FR-490"
-  - "FR-491"
-  - "FR-492"
-  - "FR-493"
-  - "FR-494"
 prerequisites:
   - present
   - passe-compose
