@@ -1,0 +1,87 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import SearchControl from '../components/SearchControl.astro';
+import { categories, canonicalCategory } from '../data/categories.mjs';
+import { slugFromId } from '../lib/pages.mjs';
+import { searchTopics } from '../utils/search.mjs';
+
+const entries = await getCollection('fr');
+const topicNumber = new Map();
+for (const category of categories) {
+  entries.filter((entry) => canonicalCategory(entry.data.category) === category.key).sort((a, b) => a.data.order - b.data.order).forEach((entry, index) => topicNumber.set(entry.id, index + 1));
+}
+const catalog = entries.map((entry) => ({
+  id: entry.id, slug: slugFromId(entry.id), titleUk: entry.data.title_uk, titleFr: entry.data.title_fr,
+  summary: entry.data.description_uk, aliases: entry.data.aliases ?? [], tags: entry.data.tags ?? [],
+  category: canonicalCategory(entry.data.category), code: String(topicNumber.get(entry.id) ?? 0).padStart(3, '0'),
+  level: entry.data.level, featured: entry.data.featured,
+  href: '/fr/' + canonicalCategory(entry.data.category) + '/' + slugFromId(entry.id) + '/',
+}));
+const initialQuery = Astro.url.searchParams.get('q')?.trim() ?? '';
+const initialHits = searchTopics(initialQuery, catalog, 30);
+---
+
+<Base>
+  <Fragment slot="head">
+    <title>Пошук — Французька граматика</title>
+    <meta name="description" content="Пошук по темах французької граматики для україномовних." />
+    <link rel="canonical" href={Astro.url.pathname} />
+  </Fragment>
+  <Header slot="header" />
+  <Footer slot="footer" />
+  <article class="prose"><div class="container container-search">
+    <header class="directory-head"><div class="section-label">ПОШУК</div><h1>Знайти тему</h1>
+      <p class="lead">Шукайте українською або французькою: <em>теперішній час</em>, <em>présent</em>, <em>subjonctif</em> чи <em>«подобається»</em>.</p>
+    </header>
+    <div class="search-interface" id="search-interface">
+      <SearchControl id="search-input" action="/search/" value={initialQuery} label="ПОШУК ПО ТЕМАХ" hint="Назва теми, французький термін, українське формулювання, псевдонім або тег." />
+      <p class="search-results-status" id="search-results-status" aria-live="polite"></p>
+      <ol class="search-results" id="search-results">
+        {initialHits.map(({ topic }) => <li class="search-result"><a class="search-result-link" href={topic.href}>
+          <span class="search-result-code">{topic.code}</span>
+          <span class="search-result-copy"><strong>{topic.titleUk}</strong><em>{topic.titleFr}</em><small>{topic.summary}</small></span>
+          <span class="search-result-meta">{topic.featured && <span class="search-result-popular">● рекомендовано</span>}{topic.level && <span class="level-badge">{topic.level}</span>}</span>
+          <span class="search-result-arrow" aria-hidden="true">→</span>
+        </a></li>)}
+      </ol>
+    </div>
+  </div></article>
+</Base>
+
+<script is:inline define:vars={{ catalog }}>
+  const topics = catalog;
+  function fold(value) { return String(value).toLocaleLowerCase('uk').normalize('NFD').replace(/\p{M}/gu, '').replace(/[-’'`]/g, ' ').replace(/\s+/g, ' ').trim(); }
+  function tokens(value) { return fold(value).split(' ').filter((token) => token.length > 0); }
+  function searchTopicsClient(query, limit) {
+    const q = fold(query); if (!q) return []; const qTokens = tokens(query); const hits = [];
+    topics.forEach((topic) => {
+      const fields = [fold(topic.titleUk), fold(topic.titleFr)], id = fold(topic.id), slug = fold(topic.slug), summary = fold(topic.summary), aliases = topic.aliases.map(fold), tags = topic.tags.map(fold);
+      let score = 0;
+      if (fields.some((x) => x === q) || id === q) score = 100;
+      else if (fields.some((x) => x.startsWith(q))) score = 88;
+      else if (aliases.some((x) => x === q || x.startsWith(q))) score = 84;
+      else if (fields.some((x) => x.includes(q))) score = 76;
+      else if (aliases.some((x) => x.includes(q))) score = 68;
+      else if (tags.some((x) => x === q || x.includes(q))) score = 62;
+      else if (id.includes(q) || slug.includes(q)) score = 60;
+      else if (summary.includes(q)) score = 48;
+      else { const blob = [...fields, id, slug, summary, ...aliases, ...tags].join(' '); const matched = qTokens.filter((token) => token.length > 1 && blob.includes(token)).length; if (!matched) return; score = 30 + matched * 8; }
+      if (topic.featured) score += 2; hits.push({ topic, score });
+    });
+    return hits.sort((a, b) => b.score - a.score || a.topic.titleUk.localeCompare(b.topic.titleUk, 'uk')).slice(0, limit);
+  }
+  function esc(value) { return String(value).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;').replace(/'/g, '&#039;'); }
+  function render(query, updateUrl) {
+    const input = document.getElementById('search-input'), results = document.getElementById('search-results'), status = document.getElementById('search-results-status'); if (!input || !results || !status) return;
+    const clean = query.trim();
+    if (updateUrl) { const url = new URL(window.location.href); if (clean) url.searchParams.set('q', clean); else url.searchParams.delete('q'); window.history.replaceState({}, '', url); }
+    if (!clean) { results.innerHTML = ''; status.textContent = 'Введіть слово або фразу для пошуку.'; return; }
+    const hits = searchTopicsClient(clean, 30); status.textContent = hits.length ? 'ЗНАЙДЕНО — ' + hits.length : 'НІЧОГО НЕ ЗНАЙДЕНО ДЛЯ «' + clean + '»';
+    results.innerHTML = hits.map(({ topic }) => '<li class="search-result"><a class="search-result-link" href="' + esc(topic.href) + '"><span class="search-result-code">' + esc(topic.code) + '</span><span class="search-result-copy"><strong>' + esc(topic.titleUk) + '</strong><em>' + esc(topic.titleFr) + '</em><small>' + esc(topic.summary) + '</small></span><span class="search-result-arrow" aria-hidden="true">→</span></a></li>').join('');
+  }
+  const input = document.getElementById('search-input'); if (input) input.addEventListener('input', () => render(input.value, true));
+  if (input?.value) render(input.value, false); else document.getElementById('search-results-status').textContent = 'Введіть слово або фразу для пошуку.';
+</script>
