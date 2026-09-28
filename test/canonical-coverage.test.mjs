@@ -14,7 +14,17 @@ canonical_ids:
   assert.deepEqual(parseCanonicalIds(source), ['FR-001', 'FR-014']);
 });
 
-test('parseCanonicalIds also extracts quoted multiline IDs', () => {\n  const source = `---\ncanonical_ids:\n  - "FR-451"\n  - 'FR-452'\n---\n`;\n  assert.deepEqual(parseCanonicalIds(source), ['FR-451', 'FR-452']);\n});\n\ntest('parseCanonicalIds also extracts inline arrays', () => {
+test('parseCanonicalIds also extracts quoted multiline IDs', () => {
+  const source = `---
+canonical_ids:
+  - "FR-451"
+  - 'FR-452'
+---
+`;
+  assert.deepEqual(parseCanonicalIds(source), ['FR-451', 'FR-452']);
+});
+
+test('parseCanonicalIds also extracts inline arrays', () => {
   const source = `---
 canonical_ids: ["FR-439", "FR-440"]
 ---
@@ -36,7 +46,6 @@ test('auditCanonicalCoverage reports missing, invalid and duplicate mappings', (
   assert.deepEqual(result.duplicates, [{ id: 'FR-001', paths: ['a.md', 'b.md'] }]);
   assert.equal(result.coveredCount, 1);
 });
-
 
 test('auditCanonicalCoverage detects duplicate catalog IDs and duplicate IDs inside one file', () => {
   const result = auditCanonicalCoverage({
@@ -61,7 +70,6 @@ test('auditCanonicalCoverage reports canonical mappings on deprecated files', ()
   assert.deepEqual(result.deprecatedMappings, [{ id: 'FR-001', paths: ['legacy.md'] }]);
 });
 
-
 test('parseStatus normalizes legacy status values', () => {
   assert.equal(parseStatus('status: REVIEW'), 'review');
   assert.equal(parseStatus('status: DONE'), 'release-ready');
@@ -76,7 +84,6 @@ test('auditCanonicalCoverage detects a non-contiguous canonical catalog', () => 
 
   assert.deepEqual(result.catalogGaps, ['FR-002']);
 });
-
 
 test('parseCatalogIds ignores historical audit bullet lists outside the live catalog', () => {
   const source = [
