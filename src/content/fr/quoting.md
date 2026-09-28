@@ -3,7 +3,7 @@ title_uk: "Цитування"
 title_fr: "La citation"
 description_uk: "Як французькою вводити, оформлювати й граматично інтегрувати дослівні цитати в нейтральному та формальному письмі."
 category: "Синтаксис"
-canonical_ids: ["FR-610"]
+
 prerequisites: ["indirect-speech"]
 related: ["direct-speech", "quoting"]
 level: B2
