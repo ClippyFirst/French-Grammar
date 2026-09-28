@@ -1,4 +1,6 @@
 ---
+canonical_ids:
+  - "FR-618"
 title_uk: "Conditionnel у непрямій мові"
 title_fr: "Le conditionnel dans le discours indirect"
 description_uk: "Функції conditionnel для майбутнього в минулому та передавання майбутньої дії з минулої точки відліку."
