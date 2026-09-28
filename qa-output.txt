@@ -1,28 +1,28 @@
 # French Grammar — full QA report
 
-Started: 2026-09-28T14:15:43.485Z
+Started: 2026-09-28T14:23:10.348Z
 Repository: ClippyFirst/French-Grammar
 Working directory: F:\GitHub\Grammars\French Grammar
 ## test
 
 Command: C:\Program Files\nodejs\node.exe --test
-Started: 2026-09-28T14:15:43.488Z
-✔ parseCanonicalIds extracts canonical IDs from frontmatter (2.2503ms)
-✔ parseCanonicalIds also extracts quoted multiline IDs (0.3124ms)
-✔ parseCanonicalIds also extracts inline arrays (0.3185ms)
-✔ auditCanonicalCoverage reports missing, invalid and duplicate mappings (1.0715ms)
-✔ auditCanonicalCoverage detects duplicate catalog IDs and duplicate IDs inside one file (0.5719ms)
-✔ auditCanonicalCoverage reports canonical mappings on deprecated files (0.2406ms)
-✔ parseStatus normalizes legacy status values (0.3486ms)
-✔ auditCanonicalCoverage detects a non-contiguous canonical catalog (0.202ms)
-✔ parseCatalogIds ignores historical audit bullet lists outside the live catalog (0.4308ms)
-✔ relatedFor resolves a plain canonical slug (3.6259ms)
-✔ relatedFor preserves category/slug references for legacy content (0.5378ms)
-✔ relatedFor does not silently resolve an ambiguous plain slug (0.3034ms)
-✔ canonicalCategory normalizes legacy site categories (0.2296ms)
-✔ slugFromId normalizes extension and nested IDs (0.1928ms)
-✔ navigation helpers group legacy categories under canonical sections (0.4726ms)
-✔ category catalog and layers stay in sync (0.2429ms)
+Started: 2026-09-28T14:23:10.350Z
+✔ parseCanonicalIds extracts canonical IDs from frontmatter (2.745ms)
+✔ parseCanonicalIds also extracts quoted multiline IDs (0.3472ms)
+✔ parseCanonicalIds also extracts inline arrays (0.285ms)
+✔ auditCanonicalCoverage reports missing, invalid and duplicate mappings (0.9539ms)
+✔ auditCanonicalCoverage detects duplicate catalog IDs and duplicate IDs inside one file (0.3161ms)
+✔ auditCanonicalCoverage reports canonical mappings on deprecated files (0.221ms)
+✔ parseStatus normalizes legacy status values (0.5386ms)
+✔ auditCanonicalCoverage detects a non-contiguous canonical catalog (0.4663ms)
+✔ parseCatalogIds ignores historical audit bullet lists outside the live catalog (0.7068ms)
+✔ relatedFor resolves a plain canonical slug (3.9644ms)
+✔ relatedFor preserves category/slug references for legacy content (0.391ms)
+✔ relatedFor does not silently resolve an ambiguous plain slug (0.3354ms)
+✔ canonicalCategory normalizes legacy site categories (0.3932ms)
+✔ slugFromId normalizes extension and nested IDs (0.3277ms)
+✔ navigation helpers group legacy categories under canonical sections (1.0816ms)
+✔ category catalog and layers stay in sync (0.467ms)
 ℹ tests 16
 ℹ suites 0
 ℹ pass 16
@@ -30,55 +30,29 @@ Started: 2026-09-28T14:15:43.488Z
 ℹ cancelled 0
 ℹ skipped 0
 ℹ todo 0
-ℹ duration_ms 293.9216
+ℹ duration_ms 323.5333
 
-Finished: 2026-09-28T14:15:43.890Z
+Finished: 2026-09-28T14:23:10.789Z
 Exit code: 0
 Signal: none
 Duration: 0.4s
 ## audit:canonical
 
 Command: C:\Program Files\nodejs\node.exe scripts/audit-canonical-coverage.mjs
-Started: 2026-09-28T14:15:43.890Z
+Started: 2026-09-28T14:23:10.789Z
 # Canonical coverage audit
 
 - Catalog topics: 740
 - Canonical sequence gaps: 0
-- Covered topics: 716
-- Coverage: 96.8%
-- Missing topics: 24
+- Covered topics: 740
+- Coverage: 100.0%
+- Missing topics: 0
 - Invalid IDs: 0
-- Duplicate mappings: 109
+- Duplicate mappings: 110
 - Duplicate catalog IDs: 0
 - Duplicate IDs inside files: 0
 - Deprecated-file mappings: 0
 - Files without explicit canonical IDs: 15
-
-## Missing
-- FR-114
-- FR-115
-- FR-130
-- FR-131
-- FR-132
-- FR-133
-- FR-134
-- FR-135
-- FR-136
-- FR-137
-- FR-138
-- FR-515
-- FR-524
-- FR-525
-- FR-526
-- FR-527
-- FR-528
-- FR-529
-- FR-530
-- FR-531
-- FR-532
-- FR-533
-- FR-651
-- FR-728
 
 ## Duplicate mappings
 - FR-010: src/content/fr/cod-coi-complements.md, src/content/fr/grammatical-functions-cod-coi-complement.md
@@ -102,6 +76,7 @@ Started: 2026-09-28T14:15:43.890Z
 - FR-040: src/content/fr/dictionary-pronunciation.md, src/content/fr/reading-rules.md
 - FR-048: src/content/fr/capital-letters.md, src/content/fr/capitalization.md
 - FR-060: src/content/fr/noun-gender.md, src/content/fr/semantic-gender.md
+- FR-138: src/content/fr/numeral-adjectives.md, src/content/fr/ordinal-numerals.md
 - FR-144: src/content/fr/pronouns-personal.md, src/content/fr/pronouns-toniques.md
 - FR-145: src/content/fr/pronouns-personal.md, src/content/fr/pronouns-toniques.md
 - FR-424: src/content/fr/questions-intonation.md, src/content/fr/questions.md
@@ -191,21 +166,21 @@ Started: 2026-09-28T14:15:43.890Z
 - FR-735: src/content/fr/extraction-constructions.md, src/content/fr/extraction.md
 - FR-740: src/content/fr/hesitation-self-correction.md, src/content/fr/spoken-disfluency.md
 
-Finished: 2026-09-28T14:15:44.184Z
+Finished: 2026-09-28T14:23:11.062Z
 Exit code: 0
 Signal: none
 Duration: 0.3s
 ## audit:site-categories
 
 Command: C:\Program Files\nodejs\node.exe scripts/audit-site-categories.mjs --strict
-Started: 2026-09-28T14:15:44.184Z
+Started: 2026-09-28T14:23:11.063Z
 === FRENCH-GRAMMAR SITE CATEGORY AUDIT ===
 
-Files: 593
+Files: 595
 Known canonical categories: 33
 Missing category: 0
 Unknown category: 0
-Legacy categories normalized: 341
+Legacy categories normalized: 342
 Duplicate generated routes: 0
 
 --- Missing category ---
@@ -404,6 +379,7 @@ Duplicate generated routes: 0
 - src/content/fr/number-formats.md → numbers → quantification
 - src/content/fr/number-markers-orthography.md → Орфографія та ортотипографія → orthography
 - src/content/fr/number-quantifier-agreement.md → Узгодження → agreement
+- src/content/fr/numeral-adjectives.md → numbers → quantification
 - src/content/fr/object-pronoun-position.md → Структура речення → sentences
 - src/content/fr/on-indefinite-subject.md → Вказівні, присвійні та неозначені займенники → pronouns
 - src/content/fr/open-closed-vowels.md → Фонологія, графіка і вимова → phonology
@@ -560,36 +536,36 @@ Duplicate generated routes: 0
 --- Duplicate generated routes ---
 —
 
-Finished: 2026-09-28T14:15:44.443Z
+Finished: 2026-09-28T14:23:11.374Z
 Exit code: 0
 Signal: none
 Duration: 0.3s
 ## audit:content-schema
 
 Command: C:\Program Files\nodejs\node.exe scripts/audit-content-schema.mjs
-Started: 2026-09-28T14:15:44.444Z
+Started: 2026-09-28T14:23:11.375Z
 === FRENCH-GRAMMAR CONTENT SCHEMA SHAPE AUDIT ===
 
-Files scanned: 593
+Files scanned: 595
 Issues: 0
 
 —
 
-Finished: 2026-09-28T14:15:44.733Z
+Finished: 2026-09-28T14:23:11.685Z
 Exit code: 0
 Signal: none
 Duration: 0.3s
 ## audit:canonical:matrix
 
 Command: C:\Program Files\nodejs\node.exe scripts/generate-canonical-matrix.mjs
-Started: 2026-09-28T14:15:44.733Z
+Started: 2026-09-28T14:23:11.685Z
 Wrote F:\GitHub\Grammars\French Grammar\docs\canonical_topic_article_matrix.md
 
-Finished: 2026-09-28T14:15:44.985Z
+Finished: 2026-09-28T14:23:11.923Z
 Exit code: 0
 Signal: none
-Duration: 0.3s
+Duration: 0.2s
 ## build
 
 Command: npm.cmd run build
-Started: 2026-09-28T14:15:44.985Z
+Started: 2026-09-28T14:23:11.923Z

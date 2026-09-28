@@ -8,10 +8,10 @@
 | Метрика | Значення |
 |---|---:|
 | Канонічних тем | 740 |
-| Тем із хоча б однією статтею | 716 |
-| Покриття | 96.8% |
-| Тем без статті | 24 |
-| Тем із кількома статтями | 109 |
+| Тем із хоча б однією статтею | 740 |
+| Покриття | 100.0% |
+| Тем без статті | 0 |
+| Тем із кількома статтями | 110 |
 | Тем, прив’язаних до deprecated-файла | 0 |
 
 ## Матриця
@@ -131,8 +131,8 @@
 | `FR-111` | [Кількісні звороти: beaucoup de, peu de, trop de, assez de](../content/fr/quantifiers.md) |
 | `FR-112` | [Déterminant: що це і чим він відрізняється від займенника](../content/fr/determiners.md) |
 | `FR-113` | [Функції прикметника](../content/fr/adjective-functions.md) |
-| `FR-114` | — |
-| `FR-115` | — |
+| `FR-114` | [Узгодження прикметника у французькій: рід, число, позиція та складні випадки](../content/fr/adjective-agreement.md) |
+| `FR-115` | [Узгодження прикметника у французькій: рід, число, позиція та складні випадки](../content/fr/adjective-agreement.md) |
 | `FR-116` | [Утворення жіночого роду прикметників](../content/fr/adjective-feminine-formation.md) |
 | `FR-117` | [Нерегулярні жіночі форми прикметників](../content/fr/adjective-irregular-feminine.md) |
 | `FR-118` | [Нерегулярні множини прикметників](../content/fr/adjective-irregular-plural.md) |
@@ -147,15 +147,15 @@
 | `FR-127` | [Назви кольорів як прикметники](../content/fr/colour-adjectives.md) |
 | `FR-128` | [Складені прикметники та їх узгодження](../content/fr/compound-adjectives-agreement.md) |
 | `FR-129` | [Субстантивовані прикметники](../content/fr/substantivized-adjectives.md) |
-| `FR-130` | — |
-| `FR-131` | — |
-| `FR-132` | — |
-| `FR-133` | — |
-| `FR-134` | — |
-| `FR-135` | — |
-| `FR-136` | — |
-| `FR-137` | — |
-| `FR-138` | — |
+| `FR-130` | [Порівняльний і найвищий ступінь](../content/fr/comparative-superlative.md) |
+| `FR-131` | [le plus / le moins: найвищий ступінь](../content/fr/superlative-le-plus-moins.md) |
+| `FR-132` | [plus / moins / aussi: базова система порівняння](../content/fr/comparatives-plus-moins-aussi.md) |
+| `FR-133` | [meilleur / mieux: прикметникове та прислівникове порівняння](../content/fr/meilleur-mieux.md) |
+| `FR-134` | [pire / plus mauvais: порівняння mauvais](../content/fr/pire-plus-mauvais.md) |
+| `FR-135` | [Міра та інтенсивність: très, assez, trop, tellement, si](../content/fr/measure-intensity.md) |
+| `FR-136` | [tout + adjectif: інтенсивність, узгодження та конструкції](../content/fr/tout-adjective.md) |
+| `FR-137` | [Підрядні порівняння](../content/fr/comparison-clauses.md) |
+| `FR-138` | [Числівникові та порядкові прикметники](../content/fr/numeral-adjectives.md)<br>[Порядкові числівники](../content/fr/ordinal-numerals.md) |
 | `FR-139` | [Особові займенники: система](../content/fr/pronouns-personal.md) |
 | `FR-140` | [Особові займенники: система](../content/fr/pronouns-personal.md) |
 | `FR-141` | [Особові займенники: система](../content/fr/pronouns-personal.md) |
@@ -532,7 +532,7 @@
 | `FR-512` | [Інфінітив зі спільним суб’єктом](../content/fr/infinitive-shared-subject.md) |
 | `FR-513` | [Інфінітив із різними суб’єктами](../content/fr/infinitive-different-subjects.md) |
 | `FR-514` | [Faire + infinitif: каузативна конструкція](../content/fr/causative-faire-infinitive.md) |
-| `FR-515` | — |
+| `FR-515` | [Laisser + infinitif: дозволова конструкція](../content/fr/laisser-infinitive.md) |
 | `FR-516` | [Інфінітив: форма, керування та основні конструкції](../content/fr/infinitive.md) |
 | `FR-517` | [Gérondif: одночасність, спосіб та умова](../content/fr/gerondif.md) |
 | `FR-518` | [Gérondif: одночасність, спосіб та умова](../content/fr/gerondif.md) |
@@ -541,16 +541,16 @@
 | `FR-521` | [Participe présent: форма, вживання та відмінність від gérondif](../content/fr/participe-present.md) |
 | `FR-522` | [Participe présent: форма, вживання та відмінність від gérondif](../content/fr/participe-present.md) |
 | `FR-523` | [Gérondif: одночасність, спосіб та умова](../content/fr/gerondif.md) |
-| `FR-524` | — |
-| `FR-525` | — |
-| `FR-526` | — |
-| `FR-527` | — |
-| `FR-528` | — |
-| `FR-529` | — |
-| `FR-530` | — |
-| `FR-531` | — |
-| `FR-532` | — |
-| `FR-533` | — |
+| `FR-524` | [Французький пасив ↔ українські пасивні та безособові альтернативи](../content/fr/passive.md) |
+| `FR-525` | [Французький пасив ↔ українські пасивні та безособові альтернативи](../content/fr/passive.md) |
+| `FR-526` | [Французький пасив ↔ українські пасивні та безособові альтернативи](../content/fr/passive.md) |
+| `FR-527` | [Французький пасив ↔ українські пасивні та безособові альтернативи](../content/fr/passive.md) |
+| `FR-528` | [Французький пасив ↔ українські пасивні та безособові альтернативи](../content/fr/passive.md) |
+| `FR-529` | [Французький пасив ↔ українські пасивні та безособові альтернативи](../content/fr/passive.md) |
+| `FR-530` | [Безособове se та узагальнені se-конструкції](../content/fr/impersonal-se.md) |
+| `FR-531` | [on як неозначений суб'єкт](../content/fr/on-indefinite-subject.md) |
+| `FR-532` | [Faire + infinitif: каузативна конструкція](../content/fr/causative-faire-infinitive.md) |
+| `FR-533` | [Faire + infinitif: каузативна конструкція](../content/fr/causative-faire-infinitive.md) |
 | `FR-534` | [Laisser + infinitif: дозволова конструкція](../content/fr/laisser-infinitive.md) |
 | `FR-535` | [Faire + infinitif: каузативна конструкція](../content/fr/causative-faire-infinitive.md) |
 | `FR-536` | [Il y a: безособова конструкція існування](../content/fr/il-y-a.md)<br>[Безособові конструкції у французькій: il y a, il faut, il semble та інші моделі](../content/fr/impersonal-verbs.md) |
@@ -668,7 +668,7 @@
 | `FR-648` | [On у живій мові](../content/fr/on-spoken.md) |
 | `FR-649` | [Повторення та дислокація підмета](../content/fr/subject-dislocation.md) |
 | `FR-650` | [Частки та fillers](../content/fr/fillers.md) |
-| `FR-651` | — |
+| `FR-651` | [Усна французька ↔ українські усні синтаксичні моделі](../content/fr/oral-syntax.md) |
 | `FR-652` | [Written ↔ spoken contrasts](../content/fr/written-spoken-contrast.md) |
 | `FR-653` | [Граматична варіантність у сучасному вжитку](../content/fr/grammatical-variation.md) |
 | `FR-654` | [Стандартна французька Франції](../content/fr/standard-french-france.md) |
@@ -745,7 +745,7 @@
 | `FR-725` | [Неповні дієслівні парадигми](../content/fr/defective-verbs.md) |
 | `FR-726` | [Присвійність, означений артикль і частини тіла](../content/fr/body-parts-definite-contrast.md)<br>[Присвійність, означений артикль, частини тіла та одяг](../content/fr/possession-body-clothes.md)<br>[Присвійність, артикль і частини тіла та одяг](../content/fr/possession-body-parts-clothes.md) |
 | `FR-727` | [Присвійність, означений артикль, частини тіла та одяг](../content/fr/possession-body-clothes.md)<br>[Присвійність, артикль і частини тіла та одяг](../content/fr/possession-body-parts-clothes.md) |
-| `FR-728` | — |
+| `FR-728` | [Французькі interrogatives ↔ українські способи формування питань](../content/fr/interrogative-adverbs.md) |
 | `FR-729` | [Окличні конструкції у французькій](../content/fr/exclamatives.md) |
 | `FR-730` | [Інверсія поза звичайними питаннями](../content/fr/inversion-outside-questions.md)<br>[Інверсія поза звичайними питаннями так/ні](../content/fr/inversion.md) |
 | `FR-731` | [Конструкція avoir beau + інфінітив](../content/fr/avoir-beau.md)<br>[Avoir beau + infinitif: уступальна конструкція](../content/fr/concessive-avoir-beau.md) |
@@ -761,30 +761,7 @@
 
 ## Missing
 
-- `FR-114`
-- `FR-115`
-- `FR-130`
-- `FR-131`
-- `FR-132`
-- `FR-133`
-- `FR-134`
-- `FR-135`
-- `FR-136`
-- `FR-137`
-- `FR-138`
-- `FR-515`
-- `FR-524`
-- `FR-525`
-- `FR-526`
-- `FR-527`
-- `FR-528`
-- `FR-529`
-- `FR-530`
-- `FR-531`
-- `FR-532`
-- `FR-533`
-- `FR-651`
-- `FR-728`
+—
 
 ## Duplicate mappings
 
@@ -809,6 +786,7 @@
 - `FR-040` → `dictionary-pronunciation`, `reading-rules`
 - `FR-048` → `capital-letters`, `capitalization`
 - `FR-060` → `noun-gender`, `semantic-gender`
+- `FR-138` → `numeral-adjectives`, `ordinal-numerals`
 - `FR-144` → `pronouns-personal`, `pronouns-toniques`
 - `FR-145` → `pronouns-personal`, `pronouns-toniques`
 - `FR-424` → `questions-intonation`, `questions`
