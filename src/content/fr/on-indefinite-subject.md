@@ -3,7 +3,7 @@ title_uk: "on як неозначений суб'єкт"
 title_fr: "On comme sujet indéfini"
 description_uk: "Різні значення on: неозначений суб'єкт, загальна людина, розмовне nous та контекстне узгодження."
 category: "Вказівні, присвійні та неозначені займенники"
-canonical_ids: ["FR-194"]
+canonical_ids: ["FR-194", "FR-531"]
 prerequisites: ["FR-139", "FR-188"]
 related: ["FR-142", "FR-195", "FR-196"]
 level: A2
