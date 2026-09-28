@@ -7,6 +7,7 @@ title_fr: "Les propositions comparatives"
 description_uk: "Довідкова стаття про підрядні порівняння у сучасній французькій."
 canonical_ids:
   - FR-485
+  - "FR-137"
 prerequisites:
   - subordination
 related:
