@@ -4,7 +4,6 @@ title_fr: "La proposition subordonnée relative"
 description_uk: "Системний довідник про будову відносних підрядних, антецедент, визначальні й пояснювальні relatives, референт відносного елемента та конструкції з кількома можливими antecedents."
 category: complex
 order: 492
-canonical_ids: [FR-492, FR-493, FR-494, FR-505, FR-506]
 prerequisites:
   - relative-pronouns
   - pronouns-subject
