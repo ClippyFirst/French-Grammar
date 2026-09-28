@@ -1,0 +1,53 @@
+---
+interface Props {
+  id: string;
+  action: string;
+  placeholder?: string;
+  value?: string;
+  hint?: string;
+  label?: string;
+  compact?: boolean;
+}
+const {
+  id,
+  action,
+  placeholder = 'présent, «подобається», subjonctif, conditionnel…',
+  value = '',
+  hint = 'Шукайте українською, французькою або за граматичним терміном.',
+  label = 'ПОШУК',
+  compact = false,
+} = Astro.props;
+---
+<form class:list={['search-control', { 'search-control--compact': compact }]} action={action} method="get" role="search">
+  <div class="search-control-head">
+    <span>{label}</span>
+    <span class="search-control-languages">UA · FR</span>
+  </div>
+  <div class="search-control-row">
+    <span class="search-control-glyph" aria-hidden="true">⌕</span>
+    <label class="visually-hidden" for={id}>Пошук по французькій граматиці</label>
+    <input id={id} name="q" type="search" value={value} placeholder={placeholder} autocomplete="off" spellcheck="false" />
+    <button class="search-control-submit" type="submit" aria-label="Виконати пошук"><span aria-hidden="true">→</span></button>
+  </div>
+  <div class="search-control-foot"><span>{hint}</span><kbd aria-label="Гаряча клавіша пошуку">/</kbd></div>
+</form>
+<script define:vars={{ id }}>
+  const input = document.getElementById(id);
+  const form = input?.closest('form');
+  form?.addEventListener('submit', (event) => {
+    if (!input || !form) return;
+    const query = input.value.trim();
+    if (!query) return;
+    event.preventDefault();
+    const url = new URL(form.action, window.location.href);
+    url.searchParams.set('q', query);
+    window.location.assign(url.toString());
+  });
+  document.addEventListener('keydown', (event) => {
+    if (event.key !== '/' || event.ctrlKey || event.metaKey || event.altKey) return;
+    const target = event.target;
+    if (target instanceof HTMLInputElement || target instanceof HTMLTextAreaElement || target instanceof HTMLSelectElement || (target instanceof HTMLElement && target.isContentEditable)) return;
+    event.preventDefault();
+    input?.focus();
+  });
+</script>
