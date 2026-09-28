@@ -6,15 +6,15 @@ import { fileURLToPath } from 'node:url';
 const root = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const reportPath = resolve(root, 'qa-output.txt');
 
-const STAGE_TIMEOUT_MS = 10 * 60 * 1000;
+const STAGE_TIMEOUT_MS = 5 * 60 * 1000;
 
 const stages = [
-  ['test', 'test'],
-  ['audit:canonical', 'audit:canonical'],
-  ['audit:site-categories', 'audit:site-categories'],
-  ['audit:content-schema', 'audit:content-schema'],
-  ['audit:canonical:matrix', 'audit:canonical:matrix'],
-  ['build', 'build'],
+  ['test', process.execPath, ['--test']],
+  ['audit:canonical', process.execPath, ['scripts/audit-canonical-coverage.mjs']],
+  ['audit:site-categories', process.execPath, ['scripts/audit-site-categories.mjs', '--strict']],
+  ['audit:content-schema', process.execPath, ['scripts/audit-content-schema.mjs']],
+  ['audit:canonical:matrix', process.execPath, ['scripts/generate-canonical-matrix.mjs']],
+  ['build', process.platform === 'win32' ? 'npm.cmd' : 'npm', ['run', 'build']],
 ];
 
 writeFileSync(
@@ -30,11 +30,10 @@ writeFileSync(
   'utf8',
 );
 
-function runStage(label, script) {
+function runStage(label, command, args) {
   return new Promise((resolveStage) => {
     let settled = false;
     let timedOut = false;
-    const npm = process.platform === 'win32' ? 'npm.cmd' : 'npm';
     const started = Date.now();
 
     appendFileSync(
@@ -42,7 +41,7 @@ function runStage(label, script) {
       [
         `## ${label}`,
         '',
-        `Command: npm run ${script}`,
+        `Command: ${command} ${args.join(' ')}`,
         `Started: ${new Date().toISOString()}`,
         '',
       ].join('\n'),
@@ -51,7 +50,7 @@ function runStage(label, script) {
 
     console.log(`QA: starting ${label}...`);
 
-    const child = spawn(npm, ['run', script], {
+    const child = spawn(command, args, {
       cwd: root,
       env: process.env,
       stdio: ['ignore', 'pipe', 'pipe'],
@@ -104,8 +103,8 @@ function runStage(label, script) {
 }
 
 const results = [];
-for (const [label, script] of stages) {
-  results.push(await runStage(label, script));
+for (const [label, command, args] of stages) {
+  results.push(await runStage(label, command, args));
 }
 
 const passed = results.filter((result) => result.code === 0).length;
