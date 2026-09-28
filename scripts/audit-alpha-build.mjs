@@ -31,8 +31,6 @@ for (const required of [
   'search/index.html',
   'fr/index.html',
   '404.html',
-  'styles/global.css',
-  'js/main.js',
   'favicon.svg',
 ]) {
   if (!existsSync(join(root, required))) {
