@@ -1,6 +1,7 @@
 // Офіційні граматичні теми для підготовки до НМТ та ЄВІ з французької мови.
-// Labels зберігаються французькою, щоб вони відповідали формулюванням програм.
-// exam: 'both' означає, що тема прямо входить до обох переліків.
+// Формулювання зберігаються французькою; exam позначає пряме входження
+// конкретної підтемы до відповідної програми.
+// Для ЄВІ ширші офіційні блоки зіставляються з конкретними статтями довідника.
 
 export const examSections = [
   {
@@ -9,7 +10,7 @@ export const examSections = [
     topics: [
       ['Les articles indéfinis, définis et partitifs', 'Article', 'both'],
       ["L'article zéro", 'Article', 'nmt'],
-      ["L'accord : le masculin et le féminin, le singulier et le pluriel", 'Nom', 'both'],
+      ["L'accord : le masculin et le féminin, le singulier et le pluriel", 'Nom / Adjectif', 'both'],
       ['Les comparatifs du nom', 'Nom', 'nmt'],
       ['Les pronoms sujets', 'Pronom', 'both'],
       ['Les pronoms toniques', 'Pronom', 'both'],
@@ -22,7 +23,6 @@ export const examSections = [
       ['Les doubles pronoms', 'Pronom', 'nmt'],
       ['Les adjectifs possessifs', 'Adjectif', 'both'],
       ['Les adjectifs démonstratifs', 'Adjectif', 'both'],
-      ["L'accord : le masculin et le féminin, le singulier et le pluriel", 'Adjectif', 'both'],
       ["Les comparatifs de l'adjectif", 'Adjectif', 'nmt'],
       ['Les nombres cardinaux et ordinaux', 'Nombre', 'both'],
     ],
@@ -33,25 +33,25 @@ export const examSections = [
     topics: [
       ["Le présent de l'indicatif", 'Verbe', 'both'],
       ["L'impératif", 'Verbe', 'both'],
-      ['La négation', 'Verbe', 'nmt'],
-      ["L'interrogation", 'Verbe', 'nmt'],
+      ['La négation', 'Verbe', 'both'],
+      ["L'interrogation", 'Verbe', 'both'],
       ['Le futur proche', 'Verbe', 'nmt'],
       ['Le passé récent', 'Verbe', 'nmt'],
-      ['Le passé composé', 'Verbe', 'nmt'],
-      ["L'imparfait", 'Verbe', 'nmt'],
-      ["Le passé composé opposé à l'imparfait", 'Verbe', 'nmt'],
-      ['Le plus-que-parfait', 'Verbe', 'nmt'],
-      ['Le futur simple', 'Verbe', 'nmt'],
-      ['Le futur antérieur', 'Verbe', 'nmt'],
-      ['Le conditionnel présent', 'Verbe', 'nmt'],
-      ['Le conditionnel passé', 'Verbe', 'nmt'],
+      ['Le passé composé', 'Verbe', 'both'],
+      ["L'imparfait", 'Verbe', 'both'],
+      ["Le passé composé opposé à l'imparfait", 'Verbe', 'both'],
+      ['Le plus-que-parfait', 'Verbe', 'both'],
+      ['Le futur simple', 'Verbe', 'both'],
+      ['Le futur antérieur', 'Verbe', 'both'],
+      ['Le conditionnel présent', 'Verbe', 'both'],
+      ['Le conditionnel passé', 'Verbe', 'both'],
       ['Le futur dans le passé', 'Verbe', 'nmt'],
       ['Le passif', 'Verbe', 'both'],
       ['Le subjonctif', 'Verbe', 'both'],
       ['Le gérondif', 'Verbe', 'both'],
-      ['Le participe présent et passé', 'Verbe', 'nmt'],
-      ['La concordance des temps', 'Verbe', 'nmt'],
-      ['La concordance des temps dans le discours indirect', 'Verbe', 'nmt'],
+      ['Le participe présent et passé', 'Verbe', 'both'],
+      ['La concordance des temps', 'Verbe', 'both'],
+      ['La concordance des temps dans le discours indirect', 'Verbe', 'both'],
       ['Les verbes prépositionnels', 'Verbe', 'nmt'],
       ['Les formes impersonnelles', 'Verbe', 'nmt'],
       ["L'infinitif", 'Verbe', 'nmt'],
@@ -67,7 +67,7 @@ export const examSections = [
       ['Les adverbes de temps', 'Adverbe', 'both'],
       ['Les adverbes d’intensité', 'Adverbe', 'nmt'],
       ['Les adverbes en -ment', 'Adverbe', 'both'],
-      ['Les degrés de comparaison de l’adverbe', 'Adverbe', 'both'],
+      ['Les degrés de comparaison de l’adverbe', 'Adverbe', 'evi'],
       ['Les prépositions de lieu', 'Préposition', 'both'],
       ['La situation dans l’espace', 'Préposition', 'nmt'],
       ['Les prépositions de temps', 'Préposition', 'both'],
