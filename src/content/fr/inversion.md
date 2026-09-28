@@ -4,7 +4,7 @@ title_fr: "L’inversion au-delà de l’interrogation ordinaire"
 description_uk: "Системний довідник інверсії підмета у французькій: питання, літературна інверсія, післятекстова інверсія та t euphonique."
 category: syntax
 order: 730
-canonical_ids: ["FR-730"]
+
 prerequisites:
   - questions
   - pronouns-subject
