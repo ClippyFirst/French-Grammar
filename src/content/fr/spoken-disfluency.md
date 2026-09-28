@@ -31,7 +31,7 @@ tags:
   - самокорекція
   - reformulation
 level: C1
-depth: reference
+depth: high
 register: spoken
 variety: [FR]
 status: review
