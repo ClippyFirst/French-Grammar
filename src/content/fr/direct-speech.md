@@ -2,8 +2,6 @@
 title_uk: "Пряма мова"
 title_fr: "Le discours direct"
 description_uk: "Як французька оформлює дослівно передане висловлення: авторські слова, цитату, часову перспективу та межі між реплікою і рамкою."
-canonical_ids:
-  - "FR-609"
 level: B2
 category: indirect
 register: neutral
