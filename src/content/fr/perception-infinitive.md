@@ -4,7 +4,7 @@ title_fr: "Les verbes de perception suivis de l’infinitif"
 description_uk: "Voir, entendre, écouter, regarder та інші дієслова сприйняття: конструкції з infinitif, їхні учасники, порядок займенників і контраст із que + особова форма."
 category: complex
 order: 721
-canonical_ids: ["FR-721"]
+
 prerequisites:
   - infinitive
   - pronouns-cod
