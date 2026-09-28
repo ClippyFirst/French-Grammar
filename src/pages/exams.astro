@@ -106,13 +106,13 @@ const counts = {
           {section.topics.map(([title, category, exam]) => {
             const row = rows.find((item) => item.title === title);
             const topic = row?.topic;
-            const href = topic ? '/fr/' + topic.category + '/' + topic.slug + '/' : '/search/?q=' + encodeURIComponent(title);
+            const href = topic ? import.meta.env.BASE_URL + 'fr/' + topic.category + '/' + topic.slug + '/' : import.meta.env.BASE_URL + 'search/?q=' + encodeURIComponent(title);
             const badge = row?.exam ?? exam;
             const badgeLabel = badge === 'both' ? 'НМТ + ЄВІ' : badge === 'evi' ? 'ЄВІ' : 'НМТ';
             return (
               <a class="exam-topic" href={href}>
                 <span class="exam-topic-main">
-                  <span class="exam-topic-title">{title}</span>
+                  <span class="exam-topic-title"><span class="exam-topic-title-uk">{topic?.titleUk ?? title}</span><span class="exam-topic-title-fr">{topic?.titleFr ?? title}</span></span>
                   <span class="exam-topic-meta">{({Article:'Артикль',Nom:'Іменник',Pronom:'Займенник',Adjectif:'Прикметник',Nombre:'Числівник',Verbe:'Дієслово',Adverbe:'Прислівник',Préposition:'Прийменник',Restriction:'Обмеження','La condition':'Умова','L’hypothèse':'Гіпотеза','Le regret':'Шкода / нереальна умова',Phrase:'Речення',Conjonction:'Сполучник'})[category] ?? category} · {category}</span>
                 </span>
                 <span class="exam-topic-side">
