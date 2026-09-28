@@ -35,7 +35,7 @@ const crumbs = [
         const cat = categories.find((c) => c.key === s.id.replace('h-', ''));
         return (
           <section class="category-section" aria-labelledby={s.id}>
-            <h2 id={s.id}><a href={'/fr/' + cat.key + '/'}>{cat.uk}</a></h2>
+            <h2 id={s.id}><a href={'/fr/' + cat.key + '/'}><span class="category-title-uk">{cat.uk}</span><span class="category-title-fr">{cat.fr}</span></a></h2>
             <p class="category-description">
               {cat.description}
             </p>
@@ -53,3 +53,8 @@ const crumbs = [
     </div>
   </article>
 </Base>
+
+<style>
+.category-title-uk { display:block; }
+.category-title-fr { display:block; margin-top:.15rem; font-size:.58em; font-weight:500; font-style:italic; color:var(--text-muted); }
+</style>
