@@ -3,7 +3,7 @@ title_uk: "Узгодження прикметника у французькій
 title_fr: "L’accord de l’adjectif"
 description_uk: "Системний довідник про узгодження французького прикметника з означуваним елементом: рід, число, координовані іменники, предикативні конструкції, займенники, незмінні форми та межі узгодження."
 category: agreement
-canonical_ids: ["FR-550"]
+canonical_ids: ["FR-550", "FR-114", "FR-115"]
 prerequisites: ["noun-adjective"]
 related: ["subject-verb-agreement", "participle-agreement", "adjective-position"]
 level: B2
