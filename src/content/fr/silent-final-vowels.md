@@ -3,7 +3,6 @@ title_uk: "Німі кінцеві голосні"
 title_fr: "Voyelles finales muettes"
 description_uk: "Німі кінцеві голосні у французькому написанні, їхня роль у формах слів та взаємодія з вимовою і liaison."
 category: "Фонологія, графіка і вимова"
-canonical_ids: ["FR-028"]
 prerequisites: ["FR-024", "FR-027"]
 related: ["FR-029", "FR-030", "FR-032", "FR-036"]
 level: A2
