@@ -3,45 +3,21 @@ title_uk: "Порівняльний і найвищий ступінь"
 title_fr: "Le comparatif et le superlatif"
 description_uk: "Система порівняння у французькій: plus, moins, aussi, autant, meilleur, mieux, pire, plus mauvais та superlatif."
 category: adjectives
-canonical_ids: []
-  - "FR-560"
-  - "FR-130"
+canonical_ids: ["FR-560", "FR-130"]
 order: 130
-prerequisites: []
-  - adjective-position
-  - adverbs
-related: []
-  - adjective-position
-  - adverbs
-  - accord
-  - word-order
-contrast: []
-  - adverbs
-next: []
-  - word-order
-aliases: []
-  - comparatif
-  - superlatif
-  - comparatif de supériorité
-  - comparatif d'égalité
-  - comparatif d'infériorité
-tags: []
-  - порівняння
-  - comparatif
-  - superlatif
-  - meilleur
-  - mieux
-  - pire
-  - plus mauvais
+prerequisites: [adjective-position, adverbs]
+related: [adjective-position, adverbs, accord, word-order]
+contrast: [adverbs]
+next: [word-order]
+aliases: [comparatif, superlatif, comparatif de supériorité, comparatif d'égalité, comparatif d'infériorité]
+tags: [порівняння, comparatif, superlatif, meilleur, mieux, pire, plus mauvais]
 level: A2
 depth: high
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 status: review
 contrastive_uk: high
-sources: []
-  - "Académie française — Questions de langue"
+sources: ["Académie française — Questions de langue"]
 reviewed_at: "2026-09-25"
 formula: true
 toc: true

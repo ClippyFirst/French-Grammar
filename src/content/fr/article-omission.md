@@ -4,43 +4,19 @@ title_fr: "L’absence d’article"
 description_uk: "Системний довідник про середовища без артикля: власні назви, професія та статус після être, назви мов, сталі прийменникові конструкції, заголовковий стиль, кількісні моделі та межі нульового визначника."
 category: nouns
 order: 80
-prerequisites: []
-  - articles-definite
-  - articles-indefinite
-  - articles-partitive
-related: []
-  - contracted-articles
-  - articles-after-negation
-  - articles-with-quantities
-  - capitalization
-  - geographical-names
-contrast: []
-  - articles-definite
-  - articles-indefinite
-next: []
-  - articles-after-negation
-aliases: []
-  - zero article
-  - zero determiner
-  - absence d’article
-  - article omission
-  - нульовий артикль
-tags: []
-  - артикль
-  - нульовий артикль
-  - визначники
-  - професія
-  - власні назви
+prerequisites: [articles-definite, articles-indefinite, articles-partitive]
+related: [contracted-articles, articles-after-negation, articles-with-quantities, capitalization, geographical-names]
+contrast: [articles-definite, articles-indefinite]
+next: [articles-after-negation]
+aliases: [zero article, zero determiner, absence d’article, article omission, нульовий артикль]
+tags: [артикль, нульовий артикль, визначники, професія, власні назви]
 level: B1
 depth: high
 register: neutral
 variety: [FR]
 contrastive_uk: high
 status: review
-sources: []
-  - "Grande Grammaire du français"
-  - "Académie française — La grammaire et l’infini (2024)"
-  - "French Grammar and Usage, 5th ed. (2025)"
+sources: ["Grande Grammaire du français", "Académie française — La grammaire et l’infini (2024)", "French Grammar and Usage, 5th ed. (2025)"]
 reviewed_at: "2026-09-26"
 formula: true
 toc: true

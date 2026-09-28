@@ -4,46 +4,19 @@ title_fr: "Les pronoms indéfinis"
 description_uk: "Система неозначених займенників і займенникових конструкцій: особи, предмети, кількість, розподіл, заперечення та взаємозв’язок із déterminants."
 category: pronouns
 order: 188
-prerequisites: []
-  - pronouns-personal
-  - determiners
-  - negation
-related: []
-  - quantifiers
-  - pronouns-demonstrative
-  - pronouns-possessive
-  - questions
-  - pronoun-order
-  - articles-indefinite
-contrast: []
-  - determiners
-  - negation
-next: []
-  - negation
-aliases: []
-  - pronoms indéfinis
-  - quelqu’un
-  - personne
-  - quelque chose
-  - rien
-  - chacun
-  - aucun
-  - plusieurs
-tags: []
-  - неозначені займенники
-  - quelqu’un
-  - personne
-  - rien
-  - chacun
+prerequisites: [pronouns-personal, determiners, negation]
+related: [quantifiers, pronouns-demonstrative, pronouns-possessive, questions, pronoun-order, articles-indefinite]
+contrast: [determiners, negation]
+next: [negation]
+aliases: [pronoms indéfinis, quelqu’un, personne, quelque chose, rien, chacun, aucun, plusieurs]
+tags: [неозначені займенники, quelqu’un, personne, rien, chacun]
 level: A2
 depth: high
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 contrastive_uk: high
 status: review
-sources: []
-  - "Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue"
+sources: ["Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue"]
 reviewed_at: "2026-09-25"
 formula: true
 toc: true

@@ -2,21 +2,17 @@
 title_uk: "Модальність необхідності"
 title_fr: "modality necessity"
 description_uk: "Необхідність виражається через *devoir*, *falloir*, *être nécessaire* та інші конструкції."
-canonical_ids: []
-  - FR-603
+canonical_ids: [FR-603]
 level: B2
 category: modality
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 status: review
 contrastive_uk: high
 formula: true
 toc: true
 featured: false
-sources: []
-  - "Grande Grammaire du français"
-  - "French Grammar and Usage, 5th ed. (2025)"
+sources: ["Grande Grammaire du français", "French Grammar and Usage, 5th ed. (2025)"]
 reviewed_at: "2026-09-26"
 order: 100
 depth: medium

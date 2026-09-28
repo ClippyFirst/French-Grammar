@@ -4,31 +4,18 @@ title_fr: "Les régularités du genre des noms"
 description_uk: "Як використовувати словотвірні та формальні ознаки для ймовірного визначення роду іменника — без перетворення суфіксів на абсолютні правила."
 category: nouns
 order: 61
-prerequisites: []
-  - noun-gender
-  - articles-definite
-related: []
-  - irregular-plurals
-  - accord
-  - determiners
-contrast: []
-  - noun-gender
-next: []
-  - adjective-position
+prerequisites: [noun-gender, articles-definite]
+related: [irregular-plurals, accord, determiners]
+contrast: [noun-gender]
+next: [adjective-position]
 level: B1
 depth: high
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 status: review
 contrastive_uk: high
-sources: []
-  - "Académie française — Questions de langue"
-  - "Grevisse et Goosse — Le Bon Usage"
-tags: []
-  - noun-gender
-  - gender-patterns
-  - morphology
+sources: ["Académie française — Questions de langue", "Grevisse et Goosse — Le Bon Usage"]
+tags: [noun-gender, gender-patterns, morphology]
 canonical_ids: ["FR-061"]
 formula: false
 toc: true

@@ -4,23 +4,10 @@ title_fr: "Les conjonctions temporelles"
 description_uk: "Системний довідник про quand, lorsque, dès que, aussitôt que, pendant que, avant que, après que та depuis que з урахуванням часової перспективи."
 category: conjunctions
 order: 40
-prerequisites: []
-  - present
-  - questions
-related: []
-  - ne-expletif
-  - futur-simple
-  - futur-anterieur
-  - imparfait
-  - passe-compose
-  - plus-que-parfait
-  - subjonctif
-  - si-clauses
-  - prepositions-time
-contrast: []
-  - si-clauses
-next: []
-  - subjonctif
+prerequisites: [present, questions]
+related: [ne-expletif, futur-simple, futur-anterieur, imparfait, passe-compose, plus-que-parfait, subjonctif, si-clauses, prepositions-time]
+contrast: [si-clauses]
+next: [subjonctif]
 aliases: ["conjonctions temporelles", "часові сполучники"]
 tags: [часові сполучники, quand, lorsque, dès que, avant que, après que, depuis que]
 level: B1

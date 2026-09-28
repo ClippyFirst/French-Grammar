@@ -4,46 +4,20 @@ title_fr: "Les principaux verbes irréguliers"
 description_uk: "Системний огляд нерегулярних дієслів французької: типи нерегулярності, підмоделі та стратегія запам'ятовування."
 category: verbs
 order: 40
-canonical_ids: []
-  - FR-313
-prerequisites: []
-  - verb-groups
-  - present
-related: []
-  - pouvoir
-  - devoir
-  - vouloir
-  - savoir
-  - connaitre
-  - venir-tenir
-  - prendre
-  - mettre
-  - voir-croire
-  - dire-lire-ecrire
-  - boire
-  - defective-verbs
-contrast: []
-  - verb-groups
-next: []
-  - infinitive
-aliases: []
-  - irregular verbs
-  - verbes irréguliers
-tags: []
-  - дієслова
-  - нерегулярні дієслова
-  - дієвідміна
+canonical_ids: [FR-313]
+prerequisites: [verb-groups, present]
+related: [pouvoir, devoir, vouloir, savoir, connaitre, venir-tenir, prendre, mettre, voir-croire, dire-lire-ecrire, boire, defective-verbs]
+contrast: [verb-groups]
+next: [infinitive]
+aliases: [irregular verbs, verbes irréguliers]
+tags: [дієслова, нерегулярні дієслова, дієвідміна]
 level: A2
 depth: high
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 contrastive_uk: medium
 status: review
-sources: []
-  - "Dictionnaire de l’Académie française, 9e édition — Conjugaison"
-  - "Grevisse et Goosse, Le Bon Usage, 17e éd."
-  - "French Grammar and Usage, 5th ed. (2025)"
+sources: ["Dictionnaire de l’Académie française, 9e édition — Conjugaison", "Grevisse et Goosse, Le Bon Usage, 17e éd.", "French Grammar and Usage, 5th ed. (2025)"]
 reviewed_at: "2026-09-25"
 formula: true
 toc: true

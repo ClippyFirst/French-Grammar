@@ -5,35 +5,19 @@ description_uk: "Концесивна конструкція avoir beau + infini
 category: complex
 order: 731
 
-prerequisites: []
-  - infinitive
-  - complex-sentences
-related: []
-  - subjonctif
-  - temporal-conjunctions
-  - verbal-periphrases
-  - word-order
-contrast: []
-  - si-clauses
-next: []
-  - complex-sentences
-aliases: []
-  - avoir beau
-  - avoir beau + infinitif
-tags: []
-  - concession
-  - infinitif
-  - avoir beau
+prerequisites: [infinitive, complex-sentences]
+related: [subjonctif, temporal-conjunctions, verbal-periphrases, word-order]
+contrast: [si-clauses]
+next: [complex-sentences]
+aliases: [avoir beau, avoir beau + infinitif]
+tags: [concession, infinitif, avoir beau]
 level: B2
 depth: high
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 contrastive_uk: high
 status: review
-sources: []
-  - "Grande Grammaire du français — constructions verbales"
-  - "Académie française — Questions de langue"
+sources: ["Grande Grammaire du français — constructions verbales", "Académie française — Questions de langue"]
 reviewed_at: "2026-09-25"
 formula: true
 toc: true

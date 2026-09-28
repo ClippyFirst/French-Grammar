@@ -2,8 +2,7 @@
 title_uk: "Частки та fillers"
 title_fr: "Particules discursives et fillers"
 description_uk: "Дискурсивні частки, заповнювачі пауз і короткі елементи усного французького, які організовують взаємодію та планування висловлення."
-canonical_ids: []
-  - "FR-650"
+canonical_ids: ["FR-650"]
 level: B2
 category: discourse
 register: spoken
@@ -13,9 +12,7 @@ contrastive_uk: high
 formula: true
 toc: true
 featured: false
-sources: []
-  - "Grande Grammaire du français"
-  - "French Grammar and Usage, 5th ed. (2025)"
+sources: ["Grande Grammaire du français", "French Grammar and Usage, 5th ed. (2025)"]
 reviewed_at: "2026-09-26"
 order: 100
 depth: medium

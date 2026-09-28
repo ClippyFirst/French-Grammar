@@ -4,40 +4,19 @@ title_fr: "Les pronoms toniques"
 description_uk: "Системний довідник про наголошені особові займенники, їхні синтаксичні позиції, прийменники, зіставлення, конструкції c’est та контраст із ненаголошеними займенниками."
 category: pronouns
 order: 145
-prerequisites: []
-  - pronouns-personal
-  - pronouns-subject
-related: []
-  - pronouns-cod
-  - pronouns-coi
-  - pronoun-order
-  - pronouns-demonstrative
-  - questions
-  - pronominal-verbs
-contrast: []
-  - pronouns-cod
-  - pronouns-coi
-next: []
-  - pronoun-order
-aliases: []
-  - pronoms toniques
-  - pronoms disjoints
-  - stressed pronouns
-  - moi toi lui elle nous vous eux elles
-tags: []
-  - наголошені займенники
-  - тонічні займенники
-  - pronoms toniques
-  - pronoms disjoints
+prerequisites: [pronouns-personal, pronouns-subject]
+related: [pronouns-cod, pronouns-coi, pronoun-order, pronouns-demonstrative, questions, pronominal-verbs]
+contrast: [pronouns-cod, pronouns-coi]
+next: [pronoun-order]
+aliases: [pronoms toniques, pronoms disjoints, stressed pronouns, moi toi lui elle nous vous eux elles]
+tags: [наголошені займенники, тонічні займенники, pronoms toniques, pronoms disjoints]
 level: A1
 depth: high
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 contrastive_uk: high
 status: review
-sources: []
-  - "Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue"
+sources: ["Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue"]
 reviewed_at: "2026-09-25"
 formula: true
 toc: true

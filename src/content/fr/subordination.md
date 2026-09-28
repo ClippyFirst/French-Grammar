@@ -4,50 +4,17 @@ title_fr: "La subordination et les propositions subordonnées"
 description_uk: "Системний довідник про підрядність, типи підрядних конструкцій, відносні, умовні, причинні, наслідкові, цільові, протиставні, допустові та часові підрядні речення."
 category: complex
 order: 475
-prerequisites: []
-  - sentence-structure
-  - coordination
-  - subjonctif
-  - si-clauses
-  - relative-clauses
-related: []
-  - complex-sentences
-  - coordination
-  - relative-clauses
-  - relative-pronouns
-  - si-clauses
-  - subjonctif
-  - temporal-conjunctions
-  - conditionnel-present
-  - conditionnel-passe
-contrast: []
-  - coordination
-  - indirect-speech
-  - information-structure
-aliases: []
-  - "subordination"
-  - "propositions subordonnées"
-  - "підрядні речення"
-tags: []
-  - підрядність
-  - підрядні речення
-  - subordination
-  - proposition subordonnée
-  - conjonction
+prerequisites: [sentence-structure, coordination, subjonctif, si-clauses, relative-clauses]
+related: [complex-sentences, coordination, relative-clauses, relative-pronouns, si-clauses, subjonctif, temporal-conjunctions, conditionnel-present, conditionnel-passe]
+contrast: [coordination, indirect-speech, information-structure]
+aliases: ["subordination", "propositions subordonnées", "підрядні речення"]
+tags: [підрядність, підрядні речення, subordination, proposition subordonnée, conjonction]
 status: review
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 contrastive_uk: high
 depth: high
-sources: []
-  - "Académie française — Que pour tandis que: https://www.academie-francaise.fr/que-pour-tandis-que"
-  - "Académie française — Omission de la conjonction que: https://www.academie-francaise.fr/omission-de-la-conjonction-que"
-  - "Académie française — À cause que: https://www.academie-francaise.fr/cause-que"
-  - "Académie française — De sorte à ce que: https://www.academie-francaise.fr/de-sorte-ce-que"
-  - "Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue"
-  - "Cambridge University Press — Advanced French Grammar: https://www.cambridge.org/core/books/advanced-french-grammar/9D8C9E5C6A0B9E8C1B3E0B9D2E2C8B4B"
-  - "Cambridge University Press — Advanced French Grammar index: https://assets.cambridge.org/97805214/82288/index/9780521482288_index.pdf"
+sources: ["Académie française — Que pour tandis que: https://www.academie-francaise.fr/que-pour-tandis-que", "Académie française — Omission de la conjonction que: https://www.academie-francaise.fr/omission-de-la-conjonction-que", "Académie française — À cause que: https://www.academie-francaise.fr/cause-que", "Académie française — De sorte à ce que: https://www.academie-francaise.fr/de-sorte-ce-que", "Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue", "Cambridge University Press — Advanced French Grammar: https://www.cambridge.org/core/books/advanced-french-grammar/9D8C9E5C6A0B9E8C1B3E0B9D2E2C8B4B", "Cambridge University Press — Advanced French Grammar index: https://assets.cambridge.org/97805214/82288/index/9780521482288_index.pdf"]
 formula: true
 toc: true
 reviewed_at: "2026-09-26"

@@ -17,8 +17,7 @@ register: neutral
 variety: [FR]
 contrastive_uk: high
 status: review
-sources: []
-  - "Grevisse et Goosse, Le Bon Usage, 17e éd."
+sources: ["Grevisse et Goosse, Le Bon Usage, 17e éd."]
 reviewed_at: "2026-09-25"
 formula: true
 toc: true

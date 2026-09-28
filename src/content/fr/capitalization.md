@@ -4,13 +4,8 @@ title_fr: "La majuscule"
 description_uk: "У французькій капіталізація застосовується згідно з чіткими правилами: імена, назви, дні тижня, мови."
 category: fundamentals
 order: 9
-related: []
-  - fundamentals/punctuation
-  - fundamentals/accents
-tags: []
-  - capitalization
-  - spelling
-  - fundamentals
+related: [fundamentals/punctuation, fundamentals/accents]
+tags: [capitalization, spelling, fundamentals]
 canonical_ids: ["FR-048"]
 depth: medium
 status: draft

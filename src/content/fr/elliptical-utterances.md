@@ -5,41 +5,19 @@ description_uk: "Довідник про бездієслівні, номіна�
 category: sentences
 order: 734
 canonical_ids: ["FR-734"]
-prerequisites: []
-  - phrase-enonce
-  - complex-sentences
-  - word-order
-related: []
-  - phrase-enonce
-  - information-structure
-  - coordination
-  - questions
-  - address-interjections
-  - spoken
-contrast: []
-  - complex-sentences
-next: []
-  - information-structure
-aliases: []
-  - énoncé nominal
-  - énoncé non verbal
-  - phrase elliptique
-  - ellipse
-tags: []
-  - ellipsis
-  - non-verbal utterances
-  - nominal utterances
-  - spoken French
+prerequisites: [phrase-enonce, complex-sentences, word-order]
+related: [phrase-enonce, information-structure, coordination, questions, address-interjections, spoken]
+contrast: [complex-sentences]
+next: [information-structure]
+aliases: [énoncé nominal, énoncé non verbal, phrase elliptique, ellipse]
+tags: [ellipsis, non-verbal utterances, nominal utterances, spoken French]
 level: B2
 depth: high
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 contrastive_uk: medium
 status: review
-sources: []
-  - "Grande Grammaire du français — phrase, énoncé et constructions non verbales"
-  - "The Syntax of French — sentence structure and ellipsis"
+sources: ["Grande Grammaire du français — phrase, énoncé et constructions non verbales", "The Syntax of French — sentence structure and ellipsis"]
 reviewed_at: "2026-09-26"
 formula: false
 toc: true

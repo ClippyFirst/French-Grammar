@@ -5,27 +5,16 @@ slug: relative-ou
 title_uk: "Où як відносний займенник"
 title_fr: "Où comme pronom relatif"
 description_uk: "Довідник про où у відносних конструкціях місця й часу та його відмінність від qui, que й lequel."
-canonical_ids: []
-  - FR-498
-prerequisites: []
-  - relative-pronouns
-  - subordination
-related: []
-  - relative-pronouns
-  - relative-qui
-  - relative-que
-  - relative-lequel
-  - relative-prepositional-government
+canonical_ids: [FR-498]
+prerequisites: [relative-pronouns, subordination]
+related: [relative-pronouns, relative-qui, relative-que, relative-lequel, relative-prepositional-government]
 level: REFERENCE
 depth: high
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 contrastive_uk: high
 status: review
-sources: []
-  - "Grande Grammaire du français"
-  - "French Grammar and Usage, 5th ed. (2025)"
+sources: ["Grande Grammaire du français", "French Grammar and Usage, 5th ed. (2025)"]
 reviewed_at: "2026-09-26"
 formula: true
 toc: true

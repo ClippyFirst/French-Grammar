@@ -1,6 +1,5 @@
 ---
-canonical_ids: []
-  - "FR-615"
+canonical_ids: ["FR-615"]
 title_uk: "Заміна особових займенників"
 title_fr: "Le changement des pronoms au discours indirect"
 description_uk: "Як змінюються je, tu, nous, vous та присвійні форми при зміні точки відліку в непрямій мові."
@@ -14,9 +13,7 @@ register: neutral
 variety: ["FR"]
 status: review
 contrastive_uk: high
-sources: []
-  - "Grande Grammaire du français"
-  - "French Grammar and Usage, 5th ed. (2025)"
+sources: ["Grande Grammaire du français", "French Grammar and Usage, 5th ed. (2025)"]
 reviewed_at: "2026-09-26"
 formula: true
 toc: true

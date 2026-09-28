@@ -17,11 +17,7 @@ register: written
 variety: ["FR"]
 status: review
 contrastive_uk: medium
-sources: []
-  - "Légifrance — Circulaire du 21 novembre 2017"
-  - "Ministère de l'Éducation nationale — Règles de féminisation et pratiques d'enseignement (2021)"
-  - "Académie française — Déclaration sur l'écriture dite inclusive (2017)"
-  - "Académie française — Communiqué du 9 janvier 2026"
+sources: ["Légifrance — Circulaire du 21 novembre 2017", "Ministère de l'Éducation nationale — Règles de féminisation et pratiques d'enseignement (2021)", "Académie française — Déclaration sur l'écriture dite inclusive (2017)", "Académie française — Communiqué du 9 janvier 2026"]
 formula: false
 toc: true
 featured: false

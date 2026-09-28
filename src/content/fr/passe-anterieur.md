@@ -4,33 +4,20 @@ title_fr: "Le passé antérieur"
 description_uk: "Довідник про passé antérieur, його утворення з avoir/être та функцію для події, що передує іншій події, вираженій passé simple."
 category: tenses
 order: 351
-canonical_ids: []
-  - FR-351
-  - FR-352
-prerequisites: []
-  - passe-simple
-  - passe-compose
-  - avoir
-  - etre
-related: []
-  - passe-simple
-  - plus-que-parfait
-  - imparfait
-contrast: []
-  - passe-simple
-next: []
-  - passe-simple
+canonical_ids: [FR-351, FR-352]
+prerequisites: [passe-simple, passe-compose, avoir, etre]
+related: [passe-simple, plus-que-parfait, imparfait]
+contrast: [passe-simple]
+next: [passe-simple]
 aliases: ["passé antérieur", "передминулий літературний час"]
 tags: [passé antérieur, passé simple, писемний наратив, передування]
 level: C1
 depth: high
 register: literary
-variety: []
-  - FR
+variety: [FR]
 status: review
 contrastive_uk: high
-sources: []
-  - "Académie française — La conjugaison"
+sources: ["Académie française — La conjugaison"]
 formula: true
 toc: true
 featured: false

@@ -3,18 +3,14 @@ title_uk: "Попередність у французькій: часові ві
 title_fr: "L'antériorité en français"
 description_uk: "Системний довідник про вираження попередності щодо минулої, теперішньої або майбутньої точки відліку: avant, plus-que-parfait, futur antérieur, avoir/être + participe passé та часові підрядні речення."
 category: tense-aspect
-canonical_ids: []
-  - FR-598
+canonical_ids: [FR-598]
 level: B2
 depth: high
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 contrastive_uk: high
 status: review
-sources: []
-  - "Grande Grammaire du français"
-  - "French Grammar and Usage, 5th ed. (2025)"
+sources: ["Grande Grammaire du français", "French Grammar and Usage, 5th ed. (2025)"]
 reviewed_at: "2026-09-26"
 formula: true
 toc: true

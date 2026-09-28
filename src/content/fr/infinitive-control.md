@@ -1,6 +1,5 @@
 ---
-canonical_ids: []
-  - "FR-724"
+canonical_ids: ["FR-724"]
 title_uk: "Суб'єкт інфінітива та контроль"
 title_fr: "Le sujet de l'infinitif et les relations de contrôle"
 description_uk: "Як визначати суб'єкта інфінітива, коли він спільний із головним реченням, виражений окремо або відновлюється з конструкції."
@@ -19,9 +18,7 @@ register: neutral
 variety: ["FR"]
 status: review
 contrastive_uk: high
-sources: []
-  - "Grande Grammaire du français"
-  - "French Grammar and Usage, 5th ed. (2025)"
+sources: ["Grande Grammaire du français", "French Grammar and Usage, 5th ed. (2025)"]
 formula: false
 toc: true
 featured: false

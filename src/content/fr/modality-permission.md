@@ -2,21 +2,17 @@
 title_uk: "Модальність дозволу"
 title_fr: "modality permission"
 description_uk: "Дозвіл виражається *pouvoir*, *permettre de*, *autoriser à* та відповідними контекстами."
-canonical_ids: []
-  - FR-607
+canonical_ids: [FR-607]
 level: B2
 category: modality
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 status: review
 contrastive_uk: high
 formula: true
 toc: true
 featured: false
-sources: []
-  - "Grande Grammaire du français"
-  - "French Grammar and Usage, 5th ed. (2025)"
+sources: ["Grande Grammaire du français", "French Grammar and Usage, 5th ed. (2025)"]
 reviewed_at: "2026-09-26"
 order: 100
 depth: medium

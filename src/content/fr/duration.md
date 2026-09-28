@@ -3,18 +3,14 @@ title_uk: "Тривалість"
 title_fr: "La durée"
 description_uk: "Як виражати тривалість французькою: pendant, depuis, en, pour, de... à..., jusqu'à та часові іменникові групи."
 category: numbers
-canonical_ids: []
-  - FR-583
+canonical_ids: [FR-583]
 level: B1
 depth: high
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 contrastive_uk: high
 status: review
-sources: []
-  - "Grande Grammaire du français"
-  - "Académie française — Questions de langue"
+sources: ["Grande Grammaire du français", "Académie française — Questions de langue"]
 reviewed_at: "2026-09-26"
 formula: true
 toc: true

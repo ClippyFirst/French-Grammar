@@ -5,60 +5,19 @@ description_uk: "Повна система прямих і непрямих пи
 category: questions
 order: 10
 canonical_ids: []
-prerequisites: []
-  - present
-  - pronouns-subject
-  - pronouns-cod
-  - pronouns-coi
-related: []
-  - negation
-  - determiners-interrogative
-  - interrogative-adverbs
-  - relative-pronouns
-  - indirect-speech
-  - punctuation
-  - prosody
-contrast: []
-  - indirect-speech
-next: []
-  - indirect-speech
-aliases: []
-  - interrogation
-  - phrase interrogative
-  - questions en français
-  - question directe
-  - question indirecte
-  - est-ce que
-tags: []
-  - питання
-  - interrogation
-  - est-ce que
-  - інверсія
-  - t euphonique
-  - qui
-  - que
-  - quoi
-  - quel
-  - lequel
-  - combien
-  - comment
-  - pourquoi
-  - quand
-  - où
+prerequisites: [present, pronouns-subject, pronouns-cod, pronouns-coi]
+related: [negation, determiners-interrogative, interrogative-adverbs, relative-pronouns, indirect-speech, punctuation, prosody]
+contrast: [indirect-speech]
+next: [indirect-speech]
+aliases: [interrogation, phrase interrogative, questions en français, question directe, question indirecte, est-ce que]
+tags: [питання, interrogation, est-ce que, інверсія, t euphonique, qui, que, quoi, quel, lequel, combien, comment, pourquoi, quand, où]
 level: A1
 depth: high
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 contrastive_uk: high
 status: review
-sources: []
-  - "Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue"
-  - "Académie française — Interrogative directe sans inversion : Vous allez où ?: https://www.academie-francaise.fr/interrogative-directe-sans-inversion-vous-allez-ou"
-  - "Académie française — Interrogative indirecte avec inversion du sujet: https://www.academie-francaise.fr/interrogative-indirecte-avec-inversion-du-sujet"
-  - "Académie française — Il va-t-être: https://www.academie-francaise.fr/il-va-t-etre"
-  - "Académie française — Pourquoi et Pour quoi: https://www.academie-francaise.fr/pourquoi-et-pour-quoi"
-  - "Larousse — est-ce que: https://www.larousse.fr/dictionnaires/francais/est-ce_que/31160"
+sources: ["Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue", "Académie française — Interrogative directe sans inversion : Vous allez où ?: https://www.academie-francaise.fr/interrogative-directe-sans-inversion-vous-allez-ou", "Académie française — Interrogative indirecte avec inversion du sujet: https://www.academie-francaise.fr/interrogative-indirecte-avec-inversion-du-sujet", "Académie française — Il va-t-être: https://www.academie-francaise.fr/il-va-t-etre", "Académie française — Pourquoi et Pour quoi: https://www.academie-francaise.fr/pourquoi-et-pour-quoi", "Larousse — est-ce que: https://www.larousse.fr/dictionnaires/francais/est-ce_que/31160"]
 reviewed_at: "2026-09-25"
 formula: true
 toc: true

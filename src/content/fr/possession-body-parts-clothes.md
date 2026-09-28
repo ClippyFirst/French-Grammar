@@ -5,38 +5,19 @@ description_uk: "Коли французька використовує озна
 category: nouns
 order: 81
 
-prerequisites: []
-  - articles-definite
-  - pronouns-possessive
-  - pronominal-verbs
-related: []
-  - article-omission
-  - accord
-  - pronominal-participe-agreement
-  - pronouns-personal
-contrast: []
-  - articles-definite
-next: []
-  - accord
-aliases: []
-  - body parts possessives
-  - parties du corps
-  - vêtements et possession
-tags: []
-  - possession
-  - parties du corps
-  - vêtements
-  - article défini
+prerequisites: [articles-definite, pronouns-possessive, pronominal-verbs]
+related: [article-omission, accord, pronominal-participe-agreement, pronouns-personal]
+contrast: [articles-definite]
+next: [accord]
+aliases: [body parts possessives, parties du corps, vêtements et possession]
+tags: [possession, parties du corps, vêtements, article défini]
 level: B1
 depth: high
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 contrastive_uk: high
 status: review
-sources: []
-  - "Académie française — Dictionnaire, entrée son"
-  - "Grande Grammaire du français — détermination et groupes nominaux"
+sources: ["Académie française — Dictionnaire, entrée son", "Grande Grammaire du français — détermination et groupes nominaux"]
 reviewed_at: "2026-09-25"
 formula: true
 toc: true

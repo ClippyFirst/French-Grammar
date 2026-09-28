@@ -4,58 +4,20 @@ title_fr: "L’impératif et les constructions injonctives"
 description_uk: "Повний довідник про impératif présent: утворення, ствердний і заперечний порядок, займенники, дефіси, нерегулярні форми, наказ, прохання, пораду та альтернативи прямому impératif."
 category: moods
 order: 40
-canonical_ids: []
-  - FR-396
-  - FR-397
-  - FR-398
-  - FR-399
-  - FR-400
-  - FR-401
-  - FR-402
-  - FR-403
-  - FR-404
-prerequisites: []
-  - present
-  - pronoun-order
-  - subjonctif
-related: []
-  - negation
-  - pronoun-order
-  - present
-  - subjonctif
-  - complex-sentences
-contrast: []
-  - present
-  - subjonctif
-  - infinitive
-next: []
-  - negation
-aliases: []
-  - impératif
-  - impératif présent
-  - наказовий спосіб
-  - ordre
-  - injonction
-tags: []
-  - impératif
-  - наказовий спосіб
-  - наказ
-  - прохання
-  - порада
-  - займенники
-  - veuillez
-  - injonction
+canonical_ids: [FR-396, FR-397, FR-398, FR-399, FR-400, FR-401, FR-402, FR-403, FR-404]
+prerequisites: [present, pronoun-order, subjonctif]
+related: [negation, pronoun-order, present, subjonctif, complex-sentences]
+contrast: [present, subjonctif, infinitive]
+next: [negation]
+aliases: [impératif, impératif présent, наказовий спосіб, ordre, injonction]
+tags: [impératif, наказовий спосіб, наказ, прохання, порада, займенники, veuillez, injonction]
 level: A2
 depth: high
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 status: review
 contrastive_uk: high
-sources: []
-  - "Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue"
-  - "Académie française — Le trait d’union: https://www.academie-francaise.fr/le-trait-dunion"
-  - "Cambridge University Press — A Reference Grammar of Modern French, imperative and pronouns"
+sources: ["Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue", "Académie française — Le trait d’union: https://www.academie-francaise.fr/le-trait-dunion", "Cambridge University Press — A Reference Grammar of Modern French, imperative and pronouns"]
 reviewed_at: "2026-09-25"
 formula: true
 toc: true

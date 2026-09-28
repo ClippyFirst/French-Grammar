@@ -3,18 +3,14 @@ title_uk: "Година"
 title_fr: "L'heure"
 description_uk: "Позначення моменту й поточного часу французькою: il est, à + heure, хвилини, midi, minuit та формати 12/24 години."
 category: numbers
-canonical_ids: []
-  - FR-582
+canonical_ids: [FR-582]
 level: B1
 depth: high
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 contrastive_uk: high
 status: review
-sources: []
-  - "Grande Grammaire du français"
-  - "Académie française — Questions de langue"
+sources: ["Grande Grammaire du français", "Académie française — Questions de langue"]
 reviewed_at: "2026-09-26"
 formula: true
 toc: true

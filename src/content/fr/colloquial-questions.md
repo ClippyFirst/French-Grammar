@@ -2,8 +2,7 @@
 title_uk: "Розмовні питання"
 title_fr: "Les questions à l'oral familier"
 description_uk: "Як формуються питання в сучасній розмовній французькій та чим вони відрізняються від формальних і писемних моделей."
-canonical_ids: []
-  - "FR-646"
+canonical_ids: ["FR-646"]
 level: B1
 category: syntax
 register: informal
@@ -13,9 +12,7 @@ contrastive_uk: high
 formula: true
 toc: true
 featured: false
-sources: []
-  - "Grande Grammaire du français"
-  - "French Grammar and Usage, 5th ed. (2025)"
+sources: ["Grande Grammaire du français", "French Grammar and Usage, 5th ed. (2025)"]
 reviewed_at: "2026-09-26"
 order: 100
 depth: medium

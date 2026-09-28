@@ -2,8 +2,7 @@
 title_uk: "Інверсія як інформаційна структура"
 title_fr: "L'inversion et la structure informationnelle"
 description_uk: "Непитальна інверсія у французькій: V–S порядок, введення нової інформації, рамка, стиль і відмінність від питальної інверсії."
-canonical_ids: []
-  - "FR-629"
+canonical_ids: ["FR-629"]
 level: B2
 category: discourse
 register: neutral
@@ -13,9 +12,7 @@ contrastive_uk: high
 formula: true
 toc: true
 featured: false
-sources: []
-  - "Grande Grammaire du français"
-  - "French Grammar and Usage, 5th ed. (2025)"
+sources: ["Grande Grammaire du français", "French Grammar and Usage, 5th ed. (2025)"]
 reviewed_at: "2026-09-26"
 order: 100
 depth: medium

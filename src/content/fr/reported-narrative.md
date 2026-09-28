@@ -2,8 +2,7 @@
 title_uk: "Непряма розповідь"
 title_fr: "Le discours indirect narratif"
 description_uk: "Передавання тверджень і розповідей через підрядну конструкцію: інтеграція висловлення в авторське речення, займенники, дейксис і часову перспективу."
-canonical_ids: []
-  - "FR-611"
+canonical_ids: ["FR-611"]
 level: B2
 category: indirect
 register: neutral
@@ -13,9 +12,7 @@ contrastive_uk: high
 formula: true
 toc: true
 featured: false
-sources: []
-  - "Grande Grammaire du français"
-  - "French Grammar and Usage, 5th ed. (2025)"
+sources: ["Grande Grammaire du français", "French Grammar and Usage, 5th ed. (2025)"]
 reviewed_at: "2026-09-26"
 order: 100
 depth: medium

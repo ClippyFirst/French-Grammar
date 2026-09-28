@@ -2,8 +2,7 @@
 title_uk: "Неформальний регістр"
 title_fr: "Le registre informel"
 description_uk: "Як описувати неформальний французький, розмовні скорочення та межу між варіантністю й помилкою."
-canonical_ids: []
-  - "FR-642"
+canonical_ids: ["FR-642"]
 level: B2
 category: register
 register: neutral
@@ -13,9 +12,7 @@ contrastive_uk: high
 formula: true
 toc: true
 featured: false
-sources: []
-  - "Grande Grammaire du français"
-  - "French Grammar and Usage, 5th ed. (2025)"
+sources: ["Grande Grammaire du français", "French Grammar and Usage, 5th ed. (2025)"]
 reviewed_at: "2026-09-26"
 order: 100
 depth: medium

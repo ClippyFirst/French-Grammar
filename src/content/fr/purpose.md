@@ -5,25 +5,16 @@ slug: purpose
 title_uk: "Мета: exprimer le but"
 title_fr: "Exprimer le but"
 description_uk: "Довідкова стаття про способи вираження мети у сучасній французькій."
-canonical_ids: []
-  - FR-480
-prerequisites: []
-  - phrase-enonce
-  - sentence-structure
-related: []
-  - complex-sentences
-  - subordination
-  - infinitive
-  - subjunctive
+canonical_ids: [FR-480]
+prerequisites: [phrase-enonce, sentence-structure]
+related: [complex-sentences, subordination, infinitive, subjunctive]
 level: REFERENCE
 depth: high
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 contrastive_uk: medium
 status: review
-sources: []
-  - "Académie française — La terminologie de la langue française: https://www.academie-francaise.fr/la-terminologie-de-la-langue-francaise"
+sources: ["Académie française — La terminologie de la langue française: https://www.academie-francaise.fr/la-terminologie-de-la-langue-francaise"]
 reviewed_at: "2026-09-26"
 formula: true
 toc: true

@@ -1,6 +1,5 @@
 ---
-canonical_ids: []
-  - "FR-616"
+canonical_ids: ["FR-616"]
 title_uk: "Заміна часових маркерів"
 title_fr: "Le changement des marqueurs temporels"
 description_uk: "Відповідники aujourd’hui, demain, hier, maintenant та інших часових маркерів після переходу до непрямої мови."
@@ -14,9 +13,7 @@ register: neutral
 variety: ["FR"]
 status: review
 contrastive_uk: high
-sources: []
-  - "Grande Grammaire du français"
-  - "French Grammar and Usage, 5th ed. (2025)"
+sources: ["Grande Grammaire du français", "French Grammar and Usage, 5th ed. (2025)"]
 reviewed_at: "2026-09-26"
 formula: true
 toc: true

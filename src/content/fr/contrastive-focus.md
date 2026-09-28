@@ -2,8 +2,7 @@
 title_uk: "Контрастивний фокус: протиставлення, корекція та альтернативи"
 title_fr: "Le focus contrastif"
 description_uk: "Довідник про контрастивний фокус, явні й неявні альтернативи, корекцію та французькі засоби виділення."
-canonical_ids: []
-  - "FR-623"
+canonical_ids: ["FR-623"]
 level: B2
 category: discourse
 register: neutral
@@ -13,9 +12,7 @@ contrastive_uk: high
 formula: true
 toc: true
 featured: false
-sources: []
-  - "Grande Grammaire du français"
-  - "French Grammar and Usage, 5th ed. (2025)"
+sources: ["Grande Grammaire du français", "French Grammar and Usage, 5th ed. (2025)"]
 reviewed_at: "2026-09-26"
 order: 100
 depth: medium

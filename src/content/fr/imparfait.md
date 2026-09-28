@@ -4,39 +4,20 @@ title_fr: "L’imparfait"
 description_uk: "Утворення imparfait та його значення: фон, стан, звичка, повторюваність, процес і гіпотетичні умови."
 category: tenses
 order: 30
-canonical_ids: []
-  - FR-344
-  - FR-345
-prerequisites: []
-  - present
-related: []
-  - passe-simple
-  - passe-compose
-  - passe-compose-vs-imparfait
-  - plus-que-parfait
-  - conditionnel-present
-contrast: []
-  - passe-compose
-next: []
-  - passe-compose-vs-imparfait
-aliases: []
-  - imparfait
-  - French imperfect
-  - imperfect tense
-tags: []
-  - imparfait
-  - минулий час
-  - фон
-  - звичка
+canonical_ids: [FR-344, FR-345]
+prerequisites: [present]
+related: [passe-simple, passe-compose, passe-compose-vs-imparfait, plus-que-parfait, conditionnel-present]
+contrast: [passe-compose]
+next: [passe-compose-vs-imparfait]
+aliases: [imparfait, French imperfect, imperfect tense]
+tags: [imparfait, минулий час, фон, звичка]
 level: A2
 depth: high
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 contrastive_uk: high
 status: review
-sources: []
-  - "Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue"
+sources: ["Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue"]
 reviewed_at: "2026-09-25"
 formula: true
 toc: true

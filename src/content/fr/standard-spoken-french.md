@@ -2,8 +2,7 @@
 title_uk: "Стандартна усна французька"
 title_fr: "Le français parlé standard"
 description_uk: "Як описувати сучасну стандартну усну французьку без змішування норми, розмовності, регіональності та письмової мови."
-canonical_ids: []
-  - "FR-639"
+canonical_ids: ["FR-639"]
 level: B2
 category: register
 register: neutral
@@ -13,9 +12,7 @@ contrastive_uk: high
 formula: true
 toc: true
 featured: false
-sources: []
-  - "Grande Grammaire du français"
-  - "French Grammar and Usage, 5th ed. (2025)"
+sources: ["Grande Grammaire du français", "French Grammar and Usage, 5th ed. (2025)"]
 reviewed_at: "2026-09-26"
 order: 100
 depth: medium

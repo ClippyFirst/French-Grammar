@@ -17,8 +17,7 @@ register: neutral
 variety: [FR]
 contrastive_uk: high
 status: review
-sources: []
-  - "French Grammar and Usage, 5th ed. (2025)"
+sources: ["French Grammar and Usage, 5th ed. (2025)"]
 reviewed_at: "2026-09-25"
 formula: true
 toc: true

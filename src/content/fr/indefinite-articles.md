@@ -4,17 +4,14 @@ title_fr: "Les articles indéfinis — page héritée"
 description_uk: "Застаріла сторінка. Актуальний системний довідник див. у articles-indefinite."
 category: nouns
 order: 999
-related: []
-  - articles-indefinite
+related: [articles-indefinite]
 status: deprecated
 level: A1
 depth: short
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 contrastive_uk: low
-sources: []
-  - "Legacy content retained only for migration compatibility."
+sources: ["Legacy content retained only for migration compatibility."]
 formula: false
 toc: true
 featured: false
@@ -26,7 +23,6 @@ variant: []
 aliases: []
 tags: []
 ---
-
 ## Швидко
 
 **Неозначний артикл** (*un*, *une*, *des*) вказує на:

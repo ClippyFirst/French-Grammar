@@ -4,36 +4,19 @@ title_fr: "Les pronoms personnels sujets"
 description_uk: "je, tu, il/elle/on, nous, vous, ils/elles: значення, узгодження, on vs nous, tu/vous та вимоги до явного підмета."
 category: pronouns
 order: 10
-prerequisites: []
-  - pronouns-personal
-related: []
-  - present
-  - questions
-  - indirect-speech
-  - accord
-contrast: []
-  - pronouns-personal
-next: []
-  - present
-aliases: []
-  - pronoms sujets
-  - subject pronouns
-tags: []
-  - займенники
-  - підмет
-  - on
-  - nous
-  - tu
-  - vous
+prerequisites: [pronouns-personal]
+related: [present, questions, indirect-speech, accord]
+contrast: [pronouns-personal]
+next: [present]
+aliases: [pronoms sujets, subject pronouns]
+tags: [займенники, підмет, on, nous, tu, vous]
 level: A1
 depth: high
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 contrastive_uk: high
 status: review
-sources: []
-  - "Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue"
+sources: ["Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue"]
 reviewed_at: "2026-09-25"
 formula: true
 toc: true

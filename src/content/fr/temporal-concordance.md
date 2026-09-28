@@ -2,21 +2,17 @@
 title_uk: "Temporal concordance"
 title_fr: "temporal concordance"
 description_uk: "Temporal concordance охоплює часові відношення між подіями незалежно від механічного перекладу форм української мови."
-canonical_ids: []
-  - FR-601
+canonical_ids: [FR-601]
 level: B2
 category: modality
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 status: review
 contrastive_uk: high
 formula: true
 toc: true
 featured: false
-sources: []
-  - "Grande Grammaire du français"
-  - "French Grammar and Usage, 5th ed. (2025)"
+sources: ["Grande Grammaire du français", "French Grammar and Usage, 5th ed. (2025)"]
 reviewed_at: "2026-09-26"
 order: 100
 depth: medium

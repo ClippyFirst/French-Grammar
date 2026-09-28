@@ -4,41 +4,20 @@ title_fr: "Les classes grammaticales"
 description_uk: "Система частин мови французької: як розрізняти граматичний клас слова, його форму, функцію та роль у реченні."
 category: fundamentals
 order: 1
-canonical_ids: []
-  - FR-001
+canonical_ids: [FR-001]
 prerequisites: []
-related: []
-  - FR-002
-  - FR-003
-  - FR-005
-  - FR-006
-  - FR-007
-  - FR-008
-contrast: []
-  - FR-002
-next: []
-  - FR-002
-aliases: []
-  - parts of speech
-  - grammatical classes
-  - classes grammaticales
-  - nature des mots
-  - parties du discours
-tags: []
-  - частини мови
-  - граматичний клас
-  - nature
-  - classe grammaticale
+related: [FR-002, FR-003, FR-005, FR-006, FR-007, FR-008]
+contrast: [FR-002]
+next: [FR-002]
+aliases: [parts of speech, grammatical classes, classes grammaticales, nature des mots, parties du discours]
+tags: [частини мови, граматичний клас, nature, classe grammaticale]
 level: REFERENCE
 depth: high
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 contrastive_uk: medium
 status: review
-sources: []
-  - "Académie française — La terminologie de la langue française: https://www.academie-francaise.fr/la-terminologie-de-la-langue-francaise"
-  - "CNRTL — Dictionnaire de la langue française: https://www.cnrtl.fr/"
+sources: ["Académie française — La terminologie de la langue française: https://www.academie-francaise.fr/la-terminologie-de-la-langue-francaise", "CNRTL — Dictionnaire de la langue française: https://www.cnrtl.fr/"]
 reviewed_at: "2026-09-26"
 formula: false
 toc: true

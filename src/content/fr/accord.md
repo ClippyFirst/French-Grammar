@@ -3,51 +3,20 @@ title_uk: "Узгодження у французькій: підмет, при�
 title_fr: "L'accord en français"
 description_uk: "Системний довідник про узгодження підмета й дієслова, прикметників, детермінативів та participe passé з être, avoir і займенниковими дієсловами."
 category: agreement
-canonical_ids: []
-  - "FR-553"
+canonical_ids: ["FR-553"]
 order: 23
-prerequisites: []
-  - noun-gender
-  - singular-plural
-  - pronouns-subject
-  - pronouns-cod
-  - pronominal-verbs
-related: []
-  - adjective-position
-  - passe-compose
-  - relative-pronouns
-  - pronominal-participe-agreement
-  - sentence-structure
-  - passive
-contrast: []
-  - pronouns-coi
-  - pronominal-verbs
-next: []
-  - passe-compose
-aliases: []
-  - accord
-  - accord grammatical
-  - accord sujet-verbe
-  - accord de l'adjectif
-  - accord du participe passé
-tags: []
-  - узгодження
-  - accord
-  - sujet-verbe
-  - adjectif
-  - participe passé
-  - COD
-  - COI
+prerequisites: [noun-gender, singular-plural, pronouns-subject, pronouns-cod, pronominal-verbs]
+related: [adjective-position, passe-compose, relative-pronouns, pronominal-participe-agreement, sentence-structure, passive]
+contrast: [pronouns-coi, pronominal-verbs]
+next: [passe-compose]
+aliases: [accord, accord grammatical, accord sujet-verbe, accord de l'adjectif, accord du participe passé]
+tags: [узгодження, accord, sujet-verbe, adjectif, participe passé, COD, COI]
 depth: high
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 contrastive_uk: high
 status: review
-sources: []
-  - "Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue"
-  - "Académie française — Exemples de remarques normatives: https://www.academie-francaise.fr/le-dictionnaire-la-9e-edition/exemples-de-remarques-normatives"
-  - "Cambridge University Press — Advanced French Grammar: https://www.cambridge.org/core/books/advanced-french-grammar/43D68AA9110EE9C87998795C352E594C"
+sources: ["Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue", "Académie française — Exemples de remarques normatives: https://www.academie-francaise.fr/le-dictionnaire-la-9e-edition/exemples-de-remarques-normatives", "Cambridge University Press — Advanced French Grammar: https://www.cambridge.org/core/books/advanced-french-grammar/43D68AA9110EE9C87998795C352E594C"]
 reviewed_at: "2026-09-26"
 formula: true
 toc: true

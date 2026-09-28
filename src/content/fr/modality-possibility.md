@@ -2,21 +2,17 @@
 title_uk: "Модальність можливості"
 title_fr: "modality possibility"
 description_uk: "Можливість виражається через *pouvoir*, модальні прислівники, конструкції й контекст."
-canonical_ids: []
-  - FR-602
+canonical_ids: [FR-602]
 level: B2
 category: modality
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 status: review
 contrastive_uk: high
 formula: true
 toc: true
 featured: false
-sources: []
-  - "Grande Grammaire du français"
-  - "French Grammar and Usage, 5th ed. (2025)"
+sources: ["Grande Grammaire du français", "French Grammar and Usage, 5th ed. (2025)"]
 reviewed_at: "2026-09-26"
 order: 100
 depth: medium

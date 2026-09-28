@@ -2,8 +2,7 @@
 title_uk: "Нейтральний регістр"
 title_fr: "Le registre neutre"
 description_uk: "Як розуміти нейтральний французький регістр і не плутати його з письмовою нормою або абсолютною відсутністю варіантності."
-canonical_ids: []
-  - "FR-640"
+canonical_ids: ["FR-640"]
 level: B1
 category: register
 register: neutral
@@ -13,9 +12,7 @@ contrastive_uk: high
 formula: true
 toc: true
 featured: false
-sources: []
-  - "Grande Grammaire du français"
-  - "French Grammar and Usage, 5th ed. (2025)"
+sources: ["Grande Grammaire du français", "French Grammar and Usage, 5th ed. (2025)"]
 reviewed_at: "2026-09-26"
 order: 100
 depth: medium

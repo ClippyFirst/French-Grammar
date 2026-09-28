@@ -3,18 +3,14 @@ title_uk: "Тривалість дії"
 title_fr: "La durée de l'action"
 description_uk: "Тривалість дії описує часову протяжність ситуації; її слід відрізняти від простого позначення часу, необхідного для завершення."
 category: tense-aspect
-canonical_ids: []
-  - FR-592
+canonical_ids: [FR-592]
 level: B2
 depth: high
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 contrastive_uk: high
 status: review
-sources: []
-  - "Grande Grammaire du français"
-  - "French Grammar and Usage, 5th ed. (2025)"
+sources: ["Grande Grammaire du français", "French Grammar and Usage, 5th ed. (2025)"]
 reviewed_at: "2026-09-26"
 formula: true
 toc: true

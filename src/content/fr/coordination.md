@@ -4,46 +4,16 @@ title_fr: "La coordination et les phrases coordonnées"
 description_uk: "Системний довідник про сурядність, складносурядні конструкції, сурядні сполучники та безсполучникове поєднання."
 category: syntax
 order: 2
-canonical_ids: []
-  - "FR-463"
-  - "FR-464"
-  - "FR-465"
-  - "FR-466"
-  - "FR-467"
-  - "FR-468"
-  - "FR-469"
-  - "FR-470"
-  - "FR-471"
-  - "FR-472"
-  - "FR-473"
-  - "FR-474"
-prerequisites: []
-  - sentence-structure
-  - questions
-  - negation
-  - information-structure
-related: []
-  - complex-sentences
-  - temporal-conjunctions
-  - subjonctif
-  - si-clauses
-  - relative-clauses
-  - information-structure
+canonical_ids: ["FR-463", "FR-464", "FR-465", "FR-466", "FR-467", "FR-468", "FR-469", "FR-470", "FR-471", "FR-472", "FR-473", "FR-474"]
+prerequisites: [sentence-structure, questions, negation, information-structure]
+related: [complex-sentences, temporal-conjunctions, subjonctif, si-clauses, relative-clauses, information-structure]
 level: B1
 depth: high
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 contrastive_uk: high
 status: review
-sources: []
-  - "Académie française — Mais où est donc Ornicar ?: https://www.academie-francaise.fr/mais-ou-est-donc-ornicar"
-  - "Académie française — « Car » en début de phrase: https://www.academie-francaise.fr/car-en-debut-de-phrase"
-  - "Académie française — Car en effet: https://www.academie-francaise.fr/car-en-effet"
-  - "Académie française — Sauf que au sens de Mais: https://www.academie-francaise.fr/sauf-que-au-sens-de-mais"
-  - "Cambridge University Press — Advanced French Grammar, Chapter 40: https://www.cambridge.org/core/books/abs/advanced-french-grammar/coordination-and-juxtaposition/53B349AFDBB7F4A2D536B9BBCC4C7294"
-  - "Cambridge University Press — A Student Grammar of French, Chapter 12 contents: https://assets.cambridge.org/97805215/47628/frontmatter/9780521547628_frontmatter.pdf"
-  - "Larousse — coordination: https://www.larousse.fr/dictionnaires/junior/coordination/4210"
+sources: ["Académie française — Mais où est donc Ornicar ?: https://www.academie-francaise.fr/mais-ou-est-donc-ornicar", "Académie française — « Car » en début de phrase: https://www.academie-francaise.fr/car-en-debut-de-phrase", "Académie française — Car en effet: https://www.academie-francaise.fr/car-en-effet", "Académie française — Sauf que au sens de Mais: https://www.academie-francaise.fr/sauf-que-au-sens-de-mais", "Cambridge University Press — Advanced French Grammar, Chapter 40: https://www.cambridge.org/core/books/abs/advanced-french-grammar/coordination-and-juxtaposition/53B349AFDBB7F4A2D536B9BBCC4C7294", "Cambridge University Press — A Student Grammar of French, Chapter 12 contents: https://assets.cambridge.org/97805215/47628/frontmatter/9780521547628_frontmatter.pdf", "Larousse — coordination: https://www.larousse.fr/dictionnaires/junior/coordination/4210"]
 reviewed_at: "2026-09-25"
 formula: true
 toc: true

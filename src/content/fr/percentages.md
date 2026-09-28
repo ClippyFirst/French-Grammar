@@ -3,18 +3,14 @@ title_uk: "Відсотки"
 title_fr: "Les pourcentages"
 description_uk: "Вираження відсотків, конструкції pour cent / %, групи з de та узгодження присудка."
 category: numbers
-canonical_ids: []
-  - FR-580
+canonical_ids: [FR-580]
 level: B1
 depth: high
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 contrastive_uk: high
 status: review
-sources: []
-  - "Grande Grammaire du français"
-  - "Académie française — Questions de langue"
+sources: ["Grande Grammaire du français", "Académie française — Questions de langue"]
 reviewed_at: "2026-09-26"
 formula: true
 toc: true

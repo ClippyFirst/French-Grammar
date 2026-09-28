@@ -15,8 +15,7 @@ register: neutral
 variety: ["FR"]
 status: review
 contrastive_uk: medium
-sources: []
-  - "Grande Grammaire du français"
+sources: ["Grande Grammaire du français"]
 formula: false
 toc: true
 featured: false

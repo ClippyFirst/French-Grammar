@@ -4,48 +4,20 @@ title_fr: "Les périphrases verbales et constructions verbales complexes"
 description_uk: "Системний довідник конструкцій із двома дієсловами: aller, venir de, être en train de, modalні та інші перифрази."
 category: verbs
 order: 292
-canonical_ids: []
-  - FR-719
-  - FR-337
-  - FR-338
-  - FR-339
-  - FR-340
-prerequisites: []
-  - infinitive
-  - present
-  - futur-proche
-related: []
-  - pronouns-infinitive
-  - gerondif
-  - participe-present
-  - passe-compose
-  - conditionnel-present
-  - subjonctif
-  - pronominal-verbs
-contrast: []
-  - infinitive
-next: []
-  - pronouns-infinitive
-aliases: []
-  - périphrases verbales
-  - constructions verbales
-  - semi-auxiliaires
-tags: []
-  - périphrase
-  - infinitif
-  - aller
-  - venir de
-  - être en train de
+canonical_ids: [FR-719, FR-337, FR-338, FR-339, FR-340]
+prerequisites: [infinitive, present, futur-proche]
+related: [pronouns-infinitive, gerondif, participe-present, passe-compose, conditionnel-present, subjonctif, pronominal-verbs]
+contrast: [infinitive]
+next: [pronouns-infinitive]
+aliases: [périphrases verbales, constructions verbales, semi-auxiliaires]
+tags: [périphrase, infinitif, aller, venir de, être en train de]
 level: B2
 depth: high
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 contrastive_uk: high
 status: review
-sources: []
-  - "Grande Grammaire du français — chapitre sur les constructions verbales et périphrases"
-  - "Académie française — Questions de langue"
+sources: ["Grande Grammaire du français — chapitre sur les constructions verbales et périphrases", "Académie française — Questions de langue"]
 reviewed_at: "2026-09-25"
 formula: true
 toc: true

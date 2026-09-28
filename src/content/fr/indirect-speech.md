@@ -5,26 +5,10 @@ description_uk: "Непряма мова у французькій: твердж
 category: indirect
 order: 10
 canonical_ids: []
-prerequisites: []
-  - present
-  - passe-compose
-  - imparfait
-  - questions
-related: []
-  - questions
-  - negation
-  - present
-  - passe-compose
-  - imparfait
-  - plus-que-parfait
-  - conditionnel-present
-  - conditionnel-passe
-  - subjonctif
-contrast: []
-  - questions
-  - si-clauses
-next: []
-  - conditionnel-present
+prerequisites: [present, passe-compose, imparfait, questions]
+related: [questions, negation, present, passe-compose, imparfait, plus-que-parfait, conditionnel-present, conditionnel-passe, subjonctif]
+contrast: [questions, si-clauses]
+next: [conditionnel-present]
 aliases: ["discours indirect", "непряма мова", "concordance des temps"]
 tags: [discours indirect, непряма мова, concordance des temps, непряме питання]
 depth: high
@@ -32,12 +16,7 @@ register: neutral
 variety: [FR]
 status: review
 contrastive_uk: high
-sources: []
-  - "Académie française — Il disait qu’il viendra: https://www.academie-francaise.fr/il-disait-quil-viendra"
-  - "Académie française — Interrogative indirecte avec inversion du sujet: https://www.academie-francaise.fr/interrogative-indirecte-avec-inversion-du-sujet"
-  - "Académie française — Je ne sais pas lequel est-ce: https://www.academie-francaise.fr/je-ne-sais-pas-lequel-est-ce-pour-je-ne-sais-pas-lequel-cest"
-  - "Cambridge University Press — Advanced French Grammar, Chapter 41 Reported speech: https://www.cambridge.org/core/books/advanced-french-grammar/reported-speech/000F3F0B128DC7BB3E04D0DA471F8374"
-  - "Cambridge University Press — Advanced French Grammar index: https://assets.cambridge.org/97805214/82288/index/9780521482288_index.pdf"
+sources: ["Académie française — Il disait qu’il viendra: https://www.academie-francaise.fr/il-disait-quil-viendra", "Académie française — Interrogative indirecte avec inversion du sujet: https://www.academie-francaise.fr/interrogative-indirecte-avec-inversion-du-sujet", "Académie française — Je ne sais pas lequel est-ce: https://www.academie-francaise.fr/je-ne-sais-pas-lequel-est-ce-pour-je-ne-sais-pas-lequel-cest", "Cambridge University Press — Advanced French Grammar, Chapter 41 Reported speech: https://www.cambridge.org/core/books/advanced-french-grammar/reported-speech/000F3F0B128DC7BB3E04D0DA471F8374", "Cambridge University Press — Advanced French Grammar index: https://assets.cambridge.org/97805214/82288/index/9780521482288_index.pdf"]
 formula: false
 toc: true
 featured: false

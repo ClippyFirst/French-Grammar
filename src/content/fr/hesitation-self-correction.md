@@ -5,43 +5,19 @@ description_uk: "Довідник про вагання, самокорекці�
 category: spoken
 order: 740
 
-prerequisites: []
-  - phrase-enonce
-  - address-interjections
-  - prosody
-  - word-order
-related: []
-  - prosody
-  - phrase-enonce
-  - address-interjections
-  - information-structure
-  - elliptical-utterances
-  - negation
-contrast: []
-  - word-order
-next: []
-  - prosody
-aliases: []
-  - hésitation
-  - auto-correction
-  - disfluences
-  - self-repair
-tags: []
-  - spoken French
-  - hesitation
-  - self-correction
-  - repair
-  - discourse
+prerequisites: [phrase-enonce, address-interjections, prosody, word-order]
+related: [prosody, phrase-enonce, address-interjections, information-structure, elliptical-utterances, negation]
+contrast: [word-order]
+next: [prosody]
+aliases: [hésitation, auto-correction, disfluences, self-repair]
+tags: [spoken French, hesitation, self-correction, repair, discourse]
 level: C1
 depth: high
 register: spoken
-variety: []
-  - FR
+variety: [FR]
 contrastive_uk: medium
 status: review
-sources: []
-  - "Grande Grammaire du français — oral, hésitations, reprises et auto-corrections"
-  - "A comprehensive grammar of spoken and written French — spoken interaction and discourse"
+sources: ["Grande Grammaire du français — oral, hésitations, reprises et auto-corrections", "A comprehensive grammar of spoken and written French — spoken interaction and discourse"]
 reviewed_at: "2026-09-26"
 formula: false
 toc: true

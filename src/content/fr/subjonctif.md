@@ -4,68 +4,20 @@ title_fr: "Le subjonctif"
 description_uk: "Системний довідник про subjonctif présent і passé: утворення, керування, волю, емоцію, оцінку, сумнів, сполучники, відносні речення та вибір між subjonctif і indicatif."
 category: moods
 order: 70
-canonical_ids: []
-  - FR-380
-  - FR-381
-  - FR-382
-  - FR-383
-  - FR-384
-  - FR-385
-  - FR-386
-  - FR-387
-  - FR-388
-  - FR-389
-  - FR-390
-  - FR-391
-  - FR-392
-  - FR-393
-  - FR-394
-  - FR-395
-prerequisites: []
-  - present
-  - complex-sentences
-  - verbs-prepositions
-related: []
-  - conditionnel-present
-  - si-clauses
-  - negation
-  - questions
-  - relative-clauses
-  - temporal-conjunctions
-  - infinitive
-contrast: []
-  - conditionnel-present
-  - present
-  - passe-compose
-next: []
-  - imperative
-aliases: []
-  - subjonctif
-  - subjunctive
-  - subjonctif présent
-  - subjonctif passé
-  - підрядний спосіб
-tags: []
-  - subjonctif
-  - підрядний спосіб
-  - que
-  - indicatif
-  - mood
-  - mode
+canonical_ids: [FR-380, FR-381, FR-382, FR-383, FR-384, FR-385, FR-386, FR-387, FR-388, FR-389, FR-390, FR-391, FR-392, FR-393, FR-394, FR-395]
+prerequisites: [present, complex-sentences, verbs-prepositions]
+related: [conditionnel-present, si-clauses, negation, questions, relative-clauses, temporal-conjunctions, infinitive]
+contrast: [conditionnel-present, present, passe-compose]
+next: [imperative]
+aliases: [subjonctif, subjunctive, subjonctif présent, subjonctif passé, підрядний спосіб]
+tags: [subjonctif, підрядний спосіб, que, indicatif, mood, mode]
 level: B2
 depth: high
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 contrastive_uk: high
 status: review
-sources: []
-  - "Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue"
-  - "Académie française — Subordonnée relative : indicatif ou subjonctif ?: https://www.academie-francaise.fr/questions-de-langue"
-  - "Académie française — Faire que… suivi de l’indicatif ou du subjonctif ?: https://www.academie-francaise.fr/faire-que-suivi-de-lindicatif-ou-du-subjonctif"
-  - "Cambridge University Press — Advanced French Grammar, chapter 12, The subjunctive: https://www.cambridge.org/core/books/abs/advanced-french-grammar/subjunctive/F4848117266566BC4BC3DEDCF5131C12"
-  - "Kanwit, M. & Arnold, M. C. (2025) — Lexical effects on mood interpretation in French adverbial clauses: https://www.cambridge.org/core/product/22DAFECFE470080FF9E776EFB8CF6E2E"
-  - "Oxford Academic (2025) — Lexical structure and subjunctive selection: https://academic.oup.com/book/61369/chapter-abstract/532888758"
+sources: ["Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue", "Académie française — Subordonnée relative : indicatif ou subjonctif ?: https://www.academie-francaise.fr/questions-de-langue", "Académie française — Faire que… suivi de l’indicatif ou du subjonctif ?: https://www.academie-francaise.fr/faire-que-suivi-de-lindicatif-ou-du-subjonctif", "Cambridge University Press — Advanced French Grammar, chapter 12, The subjunctive: https://www.cambridge.org/core/books/abs/advanced-french-grammar/subjunctive/F4848117266566BC4BC3DEDCF5131C12", "Kanwit, M. & Arnold, M. C. (2025) — Lexical effects on mood interpretation in French adverbial clauses: https://www.cambridge.org/core/product/22DAFECFE470080FF9E776EFB8CF6E2E", "Oxford Academic (2025) — Lexical structure and subjunctive selection: https://academic.oup.com/book/61369/chapter-abstract/532888758"]
 reviewed_at: "2026-09-25"
 formula: true
 toc: true

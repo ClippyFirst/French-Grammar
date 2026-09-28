@@ -5,31 +5,15 @@ description_uk: "Системний довідник про базовий по�
 category: syntax
 order: 1
 canonical_ids: []
-prerequisites: []
-  - pronouns-subject
-  - negation
-  - questions
-  - pronoun-order
-related: []
-  - presentatives
-  - information-structure
-  - dislocation
-  - relative-clauses
-  - adverbs
-  - prepositions-basics
+prerequisites: [pronouns-subject, negation, questions, pronoun-order]
+related: [presentatives, information-structure, dislocation, relative-clauses, adverbs, prepositions-basics]
 level: A2
 depth: high
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 contrastive_uk: high
 status: review
-sources: []
-  - "Académie française — La terminologie de la langue française: https://www.academie-francaise.fr/la-terminologie-de-la-langue-francaise"
-  - "Cambridge University Press — The Syntax of French, Paul Rowlett: https://www.cambridge.org/core/books/syntax-of-french/5A83D2F22296F2A584757EE7FC1CC0C9"
-  - "Cambridge University Press — French: A Linguistic Introduction, table of contents: https://assets.cambridge.org/97805218/21445/toc/9780521821445_toc.pdf"
-  - "Lingolia — Sentence Structure in French: https://francais.lingolia.com/en/grammar/sentence-structure"
-  - "Cambridge University Press — Some quantitative aspects of written and spoken French based on syntactically annotated corpora: https://www.cambridge.org/core/journals/journal-of-french-language-studies/article/abs/some-quantitative-aspects-of-written-and-spoken-french-based-on-syntactically-annotated-corpora/0B6C5B319507A0E3D495BFF18649A889"
+sources: ["Académie française — La terminologie de la langue française: https://www.academie-francaise.fr/la-terminologie-de-la-langue-francaise", "Cambridge University Press — The Syntax of French, Paul Rowlett: https://www.cambridge.org/core/books/syntax-of-french/5A83D2F22296F2A584757EE7FC1CC0C9", "Cambridge University Press — French: A Linguistic Introduction, table of contents: https://assets.cambridge.org/97805218/21445/toc/9780521821445_toc.pdf", "Lingolia — Sentence Structure in French: https://francais.lingolia.com/en/grammar/sentence-structure", "Cambridge University Press — Some quantitative aspects of written and spoken French based on syntactically annotated corpora: https://www.cambridge.org/core/journals/journal-of-french-language-studies/article/abs/some-quantitative-aspects-of-written-and-spoken-french-based-on-syntactically-annotated-corpora/0B6C5B319507A0E3D495BFF18649A889"]
 reviewed_at: "2026-09-25"
 formula: true
 toc: true

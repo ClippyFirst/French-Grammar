@@ -4,34 +4,18 @@ title_fr: "Les groupes et les classes de verbes"
 description_uk: "Як розрізняти I, II та III групи дієслів і чому поділ на групи не замінює вивчення конкретних моделей."
 category: verbs
 order: 291
-prerequisites: []
-  - infinitive
-  - present
-related: []
-  - verb-orthographic-alternations
-  - etre
-  - avoir
-  - aller
-  - faire
-  - passe-compose
-contrast: []
-  - present
-next: []
-  - verb-orthographic-alternations
+prerequisites: [infinitive, present]
+related: [verb-orthographic-alternations, etre, avoir, aller, faire, passe-compose]
+contrast: [present]
+next: [verb-orthographic-alternations]
 level: A2
 depth: high
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 status: review
 contrastive_uk: medium
-sources: []
-  - "Académie française — Conjugaison"
-tags: []
-  - verbs
-  - conjugation
-  - groups
-  - morphology
+sources: ["Académie française — Conjugaison"]
+tags: [verbs, conjugation, groups, morphology]
 formula: false
 toc: true
 featured: false

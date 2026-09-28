@@ -1,6 +1,5 @@
 ---
-canonical_ids: []
-  - "FR-618"
+canonical_ids: ["FR-618"]
 title_uk: "Conditionnel у непрямій мові"
 title_fr: "Le conditionnel dans le discours indirect"
 description_uk: "Функції conditionnel для майбутнього в минулому та передавання майбутньої дії з минулої точки відліку."
@@ -14,9 +13,7 @@ register: neutral
 variety: ["FR"]
 status: review
 contrastive_uk: high
-sources: []
-  - "Grande Grammaire du français"
-  - "French Grammar and Usage, 5th ed. (2025)"
+sources: ["Grande Grammaire du français", "French Grammar and Usage, 5th ed. (2025)"]
 reviewed_at: "2026-09-26"
 formula: true
 toc: true

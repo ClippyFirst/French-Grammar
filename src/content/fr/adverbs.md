@@ -4,19 +4,10 @@ title_fr: "Les adverbes"
 description_uk: "Системний довідник про французькі прислівники: класи, творення на -ment, ступінь, частотність, час і місце, дискурсивні функції, сферу дії та позицію в простому й складеному реченні."
 category: adverbs
 order: 215
-prerequisites: []
-  - adjective-position
-  - present
-related: []
-  - word-order
-  - questions
-  - negation
-  - temporal-conjunctions
-  - superlative-le-plus-moins
-contrast: []
-  - adjective-position
-next: []
-  - word-order
+prerequisites: [adjective-position, present]
+related: [word-order, questions, negation, temporal-conjunctions, superlative-le-plus-moins]
+contrast: [adjective-position]
+next: [word-order]
 aliases: ["adverbes", "прислівники", "French adverbs"]
 tags: [прислівники, -ment, позиція прислівника, частотність, місце, час, міра]
 level: B1
@@ -25,10 +16,7 @@ register: neutral
 variety: [FR]
 status: review
 contrastive_uk: high
-sources: []
-  - "Académie française — Dictionnaire de l’Académie française"
-  - "Grande Grammaire du français"
-  - "French Grammar and Usage, 5th ed. (2025)"
+sources: ["Académie française — Dictionnaire de l’Académie française", "Grande Grammaire du français", "French Grammar and Usage, 5th ed. (2025)"]
 reviewed_at: "2026-09-26"
 formula: true
 toc: true

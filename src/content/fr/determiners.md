@@ -4,45 +4,19 @@ title_fr: "Le déterminant"
 description_uk: "Базова модель французької іменникової групи: déterminant, іменник та прикметники; відмінність déterminant від pronom."
 category: nouns
 order: 20
-prerequisites: []
-  - noun-gender
-  - singular-plural
-related: []
-  - articles-definite
-  - articles-indefinite
-  - articles-partitive
-  - determiners-interrogative
-  - determiners-indefinite
-  - pronouns-demonstrative
-  - pronouns-possessive
-  - quantifiers
-contrast: []
-  - articles-definite
-  - articles-indefinite
-  - pronouns-demonstrative
-  - pronouns-possessive
-next: []
-  - articles-definite
-aliases: []
-  - déterminant
-  - determiner
-  - French determiners
-  - déterminants
-  - déterminant vs pronom
-tags: []
-  - déterminant
-  - визначник
-  - артикль
-  - займенник
+prerequisites: [noun-gender, singular-plural]
+related: [articles-definite, articles-indefinite, articles-partitive, determiners-interrogative, determiners-indefinite, pronouns-demonstrative, pronouns-possessive, quantifiers]
+contrast: [articles-definite, articles-indefinite, pronouns-demonstrative, pronouns-possessive]
+next: [articles-definite]
+aliases: [déterminant, determiner, French determiners, déterminants, déterminant vs pronom]
+tags: [déterminant, визначник, артикль, займенник]
 level: A1
 depth: high
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 contrastive_uk: high
 status: review
-sources: []
-  - "Académie française — La grammaire et l’infini (2024): https://www.academie-francaise.fr/la-grammaire-et-linfini"
+sources: ["Académie française — La grammaire et l’infini (2024): https://www.academie-francaise.fr/la-grammaire-et-linfini"]
 reviewed_at: "2026-09-25"
 formula: true
 toc: true

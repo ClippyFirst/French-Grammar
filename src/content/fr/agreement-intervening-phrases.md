@@ -15,9 +15,7 @@ register: neutral
 variety: ["FR"]
 status: review
 contrastive_uk: high
-sources: []
-  - "Académie française — Questions de langue"
-  - "Grande Grammaire du français"
+sources: ["Académie française — Questions de langue", "Grande Grammaire du français"]
 formula: false
 toc: true
 featured: false

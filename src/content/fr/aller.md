@@ -4,40 +4,19 @@ title_fr: "Le verbe aller"
 description_uk: "Системний довідник про aller: рух, стани, futur proche, прийменникове керування, форми та допоміжне être."
 category: verbs
 order: 26
-prerequisites: []
-  - present
-  - etre
-related: []
-  - avoir
-  - futur-proche
-  - passe-compose
-  - prepositions-a
-  - y-en
-  - imperatif
-contrast: []
-  - etre
-  - futur-simple
-next: []
-  - futur-proche
-aliases: []
-  - aller
-  - aller à
-  - aller + infinitif
-tags: []
-  - aller
-  - дієслова
-  - рух
-  - futur proche
-  - être
+prerequisites: [present, etre]
+related: [avoir, futur-proche, passe-compose, prepositions-a, y-en, imperatif]
+contrast: [etre, futur-simple]
+next: [futur-proche]
+aliases: [aller, aller à, aller + infinitif]
+tags: [aller, дієслова, рух, futur proche, être]
 level: A1
 depth: high
 register: neutral
 variety: [FR]
 contrastive_uk: high
 status: review
-sources: []
-  - "Académie française — Aller : quel groupe de verbes ?: https://www.academie-francaise.fr/vas-tu-aller-ou-nous-irons"
-  - "Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue"
+sources: ["Académie française — Aller : quel groupe de verbes ?: https://www.academie-francaise.fr/vas-tu-aller-ou-nous-irons", "Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue"]
 reviewed_at: "2026-09-25"
 formula: true
 toc: true

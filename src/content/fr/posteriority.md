@@ -3,18 +3,14 @@ title_uk: "Наступність"
 title_fr: "La postériorité"
 description_uk: "Наступність показує, що ситуація відбувається після заданої точки відліку, у тому числі в конструкції «майбутнє в минулому»."
 category: tense-aspect
-canonical_ids: []
-  - FR-599
+canonical_ids: [FR-599]
 level: B2
 depth: high
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 contrastive_uk: high
 status: review
-sources: []
-  - "Grande Grammaire du français"
-  - "French Grammar and Usage, 5th ed. (2025)"
+sources: ["Grande Grammaire du français", "French Grammar and Usage, 5th ed. (2025)"]
 reviewed_at: "2026-09-26"
 formula: true
 toc: true

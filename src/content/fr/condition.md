@@ -5,24 +5,16 @@ slug: condition
 title_uk: "Умова: exprimer la condition"
 title_fr: "Exprimer la condition"
 description_uk: "Довідкова стаття про умова: exprimer la condition у сучасній французькій."
-canonical_ids: []
-  - FR-481
-prerequisites: []
-  - phrase-enonce
-  - sentence-structure
-related: []
-  - complex-sentences
-  - coordination
-  - subordination
+canonical_ids: [FR-481]
+prerequisites: [phrase-enonce, sentence-structure]
+related: [complex-sentences, coordination, subordination]
 level: REFERENCE
 depth: high
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 contrastive_uk: medium
 status: review
-sources: []
-  - "Académie française — La terminologie de la langue française: https://www.academie-francaise.fr/la-terminologie-de-la-langue-francaise"
+sources: ["Académie française — La terminologie de la langue française: https://www.academie-francaise.fr/la-terminologie-de-la-langue-francaise"]
 reviewed_at: "2026-09-26"
 formula: true
 toc: true

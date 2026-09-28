@@ -4,40 +4,19 @@ title_fr: "Les déterminants interrogatifs et exclamatifs"
 description_uk: "Як quel та його форми узгоджуються з іменником і працюють у питальних та окличних іменникових групах."
 category: nouns
 order: 100
-prerequisites: []
-  - determiners
-  - noun-gender
-  - singular-plural
-  - questions
-related: []
-  - pronouns-demonstrative
-  - articles-definite
-  - articles-indefinite
-  - adjective-position
-contrast: []
-  - questions
-  - pronouns-demonstrative
-next: []
-  - questions
-aliases: []
-  - déterminants interrogatifs
-  - déterminants exclamatifs
-  - quel quelle quels quelles
-  - quel
-tags: []
-  - déterminant interrogatif
-  - déterminant exclamatif
-  - quel
-  - quelle
+prerequisites: [determiners, noun-gender, singular-plural, questions]
+related: [pronouns-demonstrative, articles-definite, articles-indefinite, adjective-position]
+contrast: [questions, pronouns-demonstrative]
+next: [questions]
+aliases: [déterminants interrogatifs, déterminants exclamatifs, quel quelle quels quelles, quel]
+tags: [déterminant interrogatif, déterminant exclamatif, quel, quelle]
 level: A1
 depth: high
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 contrastive_uk: high
 status: review
-sources: []
-  - "Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue"
+sources: ["Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue"]
 reviewed_at: "2026-09-25"
 formula: true
 toc: true

@@ -4,37 +4,19 @@ title_fr: "La proposition subordonnée relative"
 description_uk: "Системний довідник про будову відносних підрядних, антецедент, визначальні й пояснювальні relatives, референт відносного елемента та конструкції з кількома можливими antecedents."
 category: complex
 order: 492
-prerequisites: []
-  - relative-pronouns
-  - pronouns-subject
-  - pronouns-cod
-related: []
-  - relative-pronouns
-  - subjonctif
-  - punctuation
-  - word-order
-  - information-structure
-  - sentence-structure
-contrast: []
-  - relative-pronouns
-  - ambiguous-attachment
-next: []
-  - subjonctif
+prerequisites: [relative-pronouns, pronouns-subject, pronouns-cod]
+related: [relative-pronouns, subjonctif, punctuation, word-order, information-structure, sentence-structure]
+contrast: [relative-pronouns, ambiguous-attachment]
+next: [subjonctif]
 aliases: ["proposition subordonnée relative", "relative clause", "відносна підрядна", "antécédent", "référent"]
 tags: [відносні речення, relative, antécédent, référent, qui, que, dont, où, lequel, antecedents]
 level: B1
 depth: high
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 status: review
 contrastive_uk: high
-sources: []
-  - "Académie française — Lequel employé sans être accordé — https://www.academie-francaise.fr/lequel-employe-sans-etre-accorde"
-  - "Académie française — Dont — https://www.academie-francaise.fr/dont"
-  - "Académie française — C’est dans cet hôpital où il travaille ou C’est dans cet hôpital qu’il travaille ? — https://www.academie-francaise.fr/cest-dans-cet-hopital-ou-il-travaille-ou-cest-dans-cet-hopital-quil-travaille"
-  - "Cambridge University Press — Advanced French Grammar, Chapter 32: Relative pronouns — https://www.cambridge.org/core/books/abs/advanced-french-grammar/relative-pronouns/627E28F6934A2676801A89E6A7159418"
-  - "Cambridge University Press — A Reference Grammar of French, Chapter 49: Relative pronouns — https://www.cambridge.org/core/books/reference-grammar-of-french/relative-pronounsles-pronoms-relatifs/690F750FA1717A5531B4638051ED7EBF"
+sources: ["Académie française — Lequel employé sans être accordé — https://www.academie-francaise.fr/lequel-employe-sans-etre-accorde", "Académie française — Dont — https://www.academie-francaise.fr/dont", "Académie française — C’est dans cet hôpital où il travaille ou C’est dans cet hôpital qu’il travaille ? — https://www.academie-francaise.fr/cest-dans-cet-hopital-ou-il-travaille-ou-cest-dans-cet-hopital-quil-travaille", "Cambridge University Press — Advanced French Grammar, Chapter 32: Relative pronouns — https://www.cambridge.org/core/books/abs/advanced-french-grammar/relative-pronouns/627E28F6934A2676801A89E6A7159418", "Cambridge University Press — A Reference Grammar of French, Chapter 49: Relative pronouns — https://www.cambridge.org/core/books/reference-grammar-of-french/relative-pronounsles-pronoms-relatifs/690F750FA1717A5531B4638051ED7EBF"]
 formula: false
 toc: true
 featured: false

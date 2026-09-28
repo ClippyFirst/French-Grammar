@@ -4,33 +4,11 @@ title_fr: "Les phrases conditionnelles avec si"
 description_uk: "Повний довідник про умовні конструкції з si: відкриті умови, гіпотези, нереалізоване минуле, змішані моделі та альтернативні способи вираження умови."
 category: complex
 order: 115
-canonical_ids: []
-  - FR-375
-  - FR-376
-  - FR-377
-  - FR-378
-  - FR-379
-prerequisites: []
-  - present
-  - imparfait
-  - plus-que-parfait
-  - conditionnel-present
-  - conditionnel-passe
-related: []
-  - conditionnel-present
-  - conditionnel-passe
-  - imparfait
-  - plus-que-parfait
-  - futur-simple
-  - futur-anterieur
-  - futur-proche
-  - indirect-speech
-  - questions
-contrast: []
-  - indirect-speech
-  - conditionnel-passe
-next: []
-  - conditionnel-present
+canonical_ids: [FR-375, FR-376, FR-377, FR-378, FR-379]
+prerequisites: [present, imparfait, plus-que-parfait, conditionnel-present, conditionnel-passe]
+related: [conditionnel-present, conditionnel-passe, imparfait, plus-que-parfait, futur-simple, futur-anterieur, futur-proche, indirect-speech, questions]
+contrast: [indirect-speech, conditionnel-passe]
+next: [conditionnel-present]
 aliases: ["si-clauses", "phrases conditionnelles", "phrases avec si", "умовні речення"]
 tags: [si, умовні речення, conditionnel, imparfait, plus-que-parfait, умова, гіпотеза]
 level: B1
@@ -39,9 +17,7 @@ register: neutral
 variety: [FR]
 status: review
 contrastive_uk: high
-sources: []
-  - "Académie française — Questions de langue"
-  - "Siepmann, D. et al., A comprehensive grammar of spoken and written French (2025)"
+sources: ["Académie française — Questions de langue", "Siepmann, D. et al., A comprehensive grammar of spoken and written French (2025)"]
 formula: false
 toc: true
 featured: false

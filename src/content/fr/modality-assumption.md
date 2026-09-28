@@ -2,21 +2,17 @@
 title_uk: "Модальність припущення"
 title_fr: "modality assumption"
 description_uk: "Припущення виражається модальними прислівниками, *devoir*, *sembler*, *paraître*, *probablement* та контекстом."
-canonical_ids: []
-  - FR-605
+canonical_ids: [FR-605]
 level: B2
 category: modality
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 status: review
 contrastive_uk: high
 formula: true
 toc: true
 featured: false
-sources: []
-  - "Grande Grammaire du français"
-  - "French Grammar and Usage, 5th ed. (2025)"
+sources: ["Grande Grammaire du français", "French Grammar and Usage, 5th ed. (2025)"]
 reviewed_at: "2026-09-26"
 order: 100
 depth: medium

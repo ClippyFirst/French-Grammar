@@ -3,18 +3,14 @@ title_uk: "Результативність"
 title_fr: "La résultativité"
 description_uk: "Результативність пов'язує подію з результатом або станом, що виник унаслідок цієї події."
 category: tense-aspect
-canonical_ids: []
-  - FR-596
+canonical_ids: [FR-596]
 level: B2
 depth: high
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 contrastive_uk: high
 status: review
-sources: []
-  - "Grande Grammaire du français"
-  - "French Grammar and Usage, 5th ed. (2025)"
+sources: ["Grande Grammaire du français", "French Grammar and Usage, 5th ed. (2025)"]
 reviewed_at: "2026-09-26"
 formula: true
 toc: true

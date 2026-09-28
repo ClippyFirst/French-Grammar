@@ -5,27 +5,16 @@ slug: relative-dont
 title_uk: "Dont як відносний займенник"
 title_fr: "Dont comme pronom relatif"
 description_uk: "Системний довідник про dont: залежність із de, дієслова, іменники, прикметники та відмінність від que і прийменникових конструкцій."
-canonical_ids: []
-  - FR-497
-prerequisites: []
-  - relative-pronouns
-  - subordination
-related: []
-  - relative-pronouns
-  - relative-que
-  - relative-lequel
-  - relative-prepositional-government
-  - verb-valency
+canonical_ids: [FR-497]
+prerequisites: [relative-pronouns, subordination]
+related: [relative-pronouns, relative-que, relative-lequel, relative-prepositional-government, verb-valency]
 level: REFERENCE
 depth: high
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 contrastive_uk: high
 status: review
-sources: []
-  - "Grande Grammaire du français"
-  - "French Grammar and Usage, 5th ed. (2025)"
+sources: ["Grande Grammaire du français", "French Grammar and Usage, 5th ed. (2025)"]
 reviewed_at: "2026-09-26"
 formula: true
 toc: true

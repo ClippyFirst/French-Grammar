@@ -16,8 +16,7 @@ register: neutral
 variety: [FR]
 status: review
 contrastive_uk: high
-sources: []
-  - "Académie française — Questions de langue"
+sources: ["Académie française — Questions de langue"]
 reviewed_at: "2026-09-25"
 formula: true
 toc: true

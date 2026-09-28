@@ -1,6 +1,5 @@
 ---
-canonical_ids: []
-  - "FR-731"
+canonical_ids: ["FR-731"]
 title_uk: "Avoir beau + infinitif: уступальна конструкція"
 title_fr: "Avoir beau + infinitif : la construction concessive"
 description_uk: "Avoir beau + infinitif: уступальна конструкція. Довідкова стаття про конструкцію та її контраст з українською."
@@ -14,9 +13,7 @@ contrastive_uk: high
 formula: true
 toc: true
 featured: false
-sources: []
-  - "Grande Grammaire du français"
-  - "French Grammar and Usage, 5th ed. (2025)"
+sources: ["Grande Grammaire du français", "French Grammar and Usage, 5th ed. (2025)"]
 reviewed_at: "2026-09-26"
 order: 100
 depth: medium

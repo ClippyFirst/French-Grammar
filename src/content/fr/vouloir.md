@@ -4,40 +4,20 @@ title_fr: "Le verbe vouloir"
 description_uk: "Системний довідник про vouloir: бажання, намір, волю, вимогу та ввічливі конструкції."
 category: verbs
 order: 29
-canonical_ids: []
-  - FR-304
-prerequisites: []
-  - present
-  - infinitive
-related: []
-  - pouvoir
-  - devoir
-  - conditionnel-present
-  - imperatif
-  - questions
-contrast: []
-  - pouvoir
-  - devoir
-next: []
-  - savoir
-aliases: []
-  - vouloir
-  - vouloir + infinitif
-tags: []
-  - дієслова
-  - воля
-  - бажання
-  - модальність
+canonical_ids: [FR-304]
+prerequisites: [present, infinitive]
+related: [pouvoir, devoir, conditionnel-present, imperatif, questions]
+contrast: [pouvoir, devoir]
+next: [savoir]
+aliases: [vouloir, vouloir + infinitif]
+tags: [дієслова, воля, бажання, модальність]
 level: A2
 depth: high
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 contrastive_uk: high
 status: review
-sources: []
-  - "Dictionnaire de l’Académie française, 9e édition — vouloir"
-  - "Grevisse et Goosse, Le Bon Usage, 17e éd."
+sources: ["Dictionnaire de l’Académie française, 9e édition — vouloir", "Grevisse et Goosse, Le Bon Usage, 17e éd."]
 reviewed_at: "2026-09-25"
 formula: true
 toc: true

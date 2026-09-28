@@ -3,18 +3,14 @@ title_uk: "Vingt і cent"
 title_fr: "Vingt et cent"
 description_uk: "Правила написання vingt і cent у складених числівниках, зокрема випадки з -s."
 category: numbers
-canonical_ids: []
-  - FR-577
+canonical_ids: [FR-577]
 level: B1
 depth: high
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 contrastive_uk: high
 status: review
-sources: []
-  - "Grande Grammaire du français"
-  - "Académie française — Questions de langue"
+sources: ["Grande Grammaire du français", "Académie française — Questions de langue"]
 reviewed_at: "2026-09-26"
 formula: true
 toc: true

@@ -4,44 +4,20 @@ title_fr: "Le groupe nominal"
 description_uk: "Будова французької іменної групи: детермінатив, ядро-іменник, прикметники, прийменникові та відносні модифікатори."
 category: syntax
 order: 6
-canonical_ids: []
-  - FR-006
-prerequisites: []
-  - parts-of-speech
-  - phrase-enonce
-  - articles-definite
-  - articles-indefinite
-related: []
-  - noun-gender
-  - singular-plural
-  - adjective-position
-  - relative-clauses
-  - possession-body-parts-clothes
-  - quantifiers
-contrast: []
-  - sentence-structure
-  - word-order
-next: []
-  - verb-phrase
-aliases: []
-  - noun phrase
-  - groupe nominal
-  - GN
-  - nominal group
-tags: []
-  - іменна група
-  - groupe nominal
-  - GN
-  - синтаксис
+canonical_ids: [FR-006]
+prerequisites: [parts-of-speech, phrase-enonce, articles-definite, articles-indefinite]
+related: [noun-gender, singular-plural, adjective-position, relative-clauses, possession-body-parts-clothes, quantifiers]
+contrast: [sentence-structure, word-order]
+next: [verb-phrase]
+aliases: [noun phrase, groupe nominal, GN, nominal group]
+tags: [іменна група, groupe nominal, GN, синтаксис]
 level: REFERENCE
 depth: high
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 contrastive_uk: medium
 status: review
-sources: []
-  - "Académie française — La terminologie de la langue française: https://www.academie-francaise.fr/la-terminologie-de-la-langue-francaise"
+sources: ["Académie française — La terminologie de la langue française: https://www.academie-francaise.fr/la-terminologie-de-la-langue-francaise"]
 reviewed_at: "2026-09-26"
 formula: true
 toc: true

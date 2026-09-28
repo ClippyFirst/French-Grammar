@@ -4,39 +4,19 @@ title_fr: "Les articles avec les quantités"
 description_uk: "Як поводяться артиклі після чисел і кількісних виразів та чому de і des не завжди є взаємозамінними."
 category: nouns
 order: 60
-prerequisites: []
-  - articles-indefinite
-  - articles-partitive
-  - quantifiers
-related: []
-  - articles-after-negation
-  - contracted-articles
-  - articles-definite
-contrast: []
-  - articles-indefinite
-  - articles-partitive
-next: []
-  - quantifiers
-aliases: []
-  - articles with quantities
-  - article with quantity
-  - de après quantité
-  - de + les
-tags: []
-  - артикль
-  - кількість
-  - de
-  - des
-  - кількісні конструкції
+prerequisites: [articles-indefinite, articles-partitive, quantifiers]
+related: [articles-after-negation, contracted-articles, articles-definite]
+contrast: [articles-indefinite, articles-partitive]
+next: [quantifiers]
+aliases: [articles with quantities, article with quantity, de après quantité, de + les]
+tags: [артикль, кількість, de, des, кількісні конструкції]
 level: A2
 depth: high
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 contrastive_uk: high
 status: review
-sources: []
-  - "Académie française — La grammaire et l’infini (2024): https://www.academie-francaise.fr/la-grammaire-et-linfini"
+sources: ["Académie française — La grammaire et l’infini (2024): https://www.academie-francaise.fr/la-grammaire-et-linfini"]
 reviewed_at: "2026-09-25"
 formula: true
 toc: true

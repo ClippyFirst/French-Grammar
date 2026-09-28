@@ -5,31 +5,18 @@ description_uk: "Системний довідник про зміни напи�
 category: verbs
 canonical_ids: ["FR-297"]
 order: 297
-prerequisites: []
-  - present
-  - infinitive
-related: []
-  - verb-groups
-  - imperatif
-  - reading-rules
-  - accents
-contrast: []
-  - present
-next: []
-  - passe-compose
+prerequisites: [present, infinitive]
+related: [verb-groups, imperatif, reading-rules, accents]
+contrast: [present]
+next: [passe-compose]
 level: B1
 depth: high
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 status: review
 contrastive_uk: medium
-sources: []
-  - "Académie française — Questions de langue"
-tags: []
-  - conjugation
-  - orthography
-  - alternations
+sources: ["Académie française — Questions de langue"]
+tags: [conjugation, orthography, alternations]
 formula: false
 toc: true
 featured: false

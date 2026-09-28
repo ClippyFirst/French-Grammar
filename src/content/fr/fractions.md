@@ -3,18 +3,14 @@ title_uk: "Дроби"
 title_fr: "Les fractions"
 description_uk: "Утворення й уживання французьких дробів, конструкції demi, tiers, quart та дробові групи з de."
 category: numbers
-canonical_ids: []
-  - FR-579
+canonical_ids: [FR-579]
 level: B1
 depth: high
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 contrastive_uk: high
 status: review
-sources: []
-  - "Grande Grammaire du français"
-  - "Académie française — Questions de langue"
+sources: ["Grande Grammaire du français", "Académie française — Questions de langue"]
 reviewed_at: "2026-09-26"
 formula: true
 toc: true

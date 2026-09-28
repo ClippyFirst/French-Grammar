@@ -3,18 +3,14 @@ title_uk: "Звичність"
 title_fr: "L'habitude"
 description_uk: "Звичність характеризує регулярну або типову поведінку; у минулому типовим засобом є *imparfait*, у теперішньому — *présent* із відповідним контекстом."
 category: tense-aspect
-canonical_ids: []
-  - FR-595
+canonical_ids: [FR-595]
 level: B2
 depth: high
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 contrastive_uk: high
 status: review
-sources: []
-  - "Grande Grammaire du français"
-  - "French Grammar and Usage, 5th ed. (2025)"
+sources: ["Grande Grammaire du français", "French Grammar and Usage, 5th ed. (2025)"]
 reviewed_at: "2026-09-26"
 formula: true
 toc: true

@@ -4,43 +4,20 @@ title_fr: "Morphème, radical et terminaison"
 description_uk: "Як аналізувати внутрішню будову французьких словоформ без плутанини між морфемою, основою, закінченням і фонетичною формою."
 category: fundamentals
 order: 4
-canonical_ids: []
-  - FR-004
-prerequisites: []
-  - word-lemma
-  - form-function-meaning
-related: []
-  - verb-groups
-  - verb-orthographic-alternations
-  - gender-patterns
-  - irregular-plurals
-contrast: []
-  - word-lemma
-next: []
-  - phrase-enonce
-aliases: []
-  - morpheme
-  - morphème
-  - radical
-  - stem
-  - termination
-  - terminaison
-tags: []
-  - морфема
-  - основа
-  - закінчення
-  - radical
-  - terminaison
+canonical_ids: [FR-004]
+prerequisites: [word-lemma, form-function-meaning]
+related: [verb-groups, verb-orthographic-alternations, gender-patterns, irregular-plurals]
+contrast: [word-lemma]
+next: [phrase-enonce]
+aliases: [morpheme, morphème, radical, stem, termination, terminaison]
+tags: [морфема, основа, закінчення, radical, terminaison]
 level: REFERENCE
 depth: high
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 contrastive_uk: medium
 status: review
-sources: []
-  - "CNRTL — Morphème: https://www.cnrtl.fr/definition/morpheme"
-  - "CNRTL — Dictionnaire de la langue française: https://www.cnrtl.fr/"
+sources: ["CNRTL — Morphème: https://www.cnrtl.fr/definition/morpheme", "CNRTL — Dictionnaire de la langue française: https://www.cnrtl.fr/"]
 reviewed_at: "2026-09-26"
 formula: true
 toc: true

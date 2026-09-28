@@ -16,9 +16,7 @@ register: neutral
 variety: [FR]
 status: review
 contrastive_uk: medium
-sources: []
-  - "Académie française — Questions de langue: genre des noms composés"
-  - "Académie française — Rectifications de l’orthographe de 1990"
+sources: ["Académie française — Questions de langue: genre des noms composés", "Académie française — Rectifications de l’orthographe de 1990"]
 reviewed_at: "2026-09-25"
 formula: true
 toc: true

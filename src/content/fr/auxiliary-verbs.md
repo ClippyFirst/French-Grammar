@@ -17,8 +17,7 @@ register: neutral
 variety: [FR]
 contrastive_uk: high
 status: review
-sources: []
-  - "Académie française — Dictionnaire de l'Académie française, 9e éd."
+sources: ["Académie française — Dictionnaire de l'Académie française, 9e éd."]
 reviewed_at: "2026-09-25"
 formula: true
 toc: true

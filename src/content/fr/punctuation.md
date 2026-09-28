@@ -4,13 +4,8 @@ title_fr: "La ponctuation"
 description_uk: "Французька пунктуація має свої особливості: інтерробанг, пропошн-експонanski, дводкові кутовкі лапки."
 category: fundamentals
 order: 8
-related: []
-  - fundamentals/capitalization
-  - fundamentals/accents
-tags: []
-  - punctuation
-  - typography
-  - fundamentals
+related: [fundamentals/capitalization, fundamentals/accents]
+tags: [punctuation, typography, fundamentals]
 canonical_ids: ["FR-049"]
 depth: medium
 status: draft

@@ -4,44 +4,17 @@ title_fr: "Les règles de lecture du français"
 description_uk: "Системний довідник про зв’язок французького написання й вимови: графеми, голосні та приголосні, склад, schwa, кінцеві літери, типові відповідності та межі правил."
 category: fundamentals
 order: 2
-prerequisites: []
-  - alphabet
-  - accents
-related: []
-  - accents
-  - h-muet-aspire
-  - liaison
-  - enchainement
-  - elision
-  - verb-orthographic-alternations
-  - present
-  - punctuation
-  - grapheme-phoneme
-  - schwa
-  - silent-final-vowels
-  - silent-final-consonants
-aliases: []
-  - "règles de lecture"
-  - "читання французькою"
-  - "французька вимова і написання"
-tags: []
-  - reading
-  - pronunciation
-  - orthography
-  - grapheme
-  - phoneme
-  - schwa
-  - silent letters
+prerequisites: [alphabet, accents]
+related: [accents, h-muet-aspire, liaison, enchainement, elision, verb-orthographic-alternations, present, punctuation, grapheme-phoneme, schwa, silent-final-vowels, silent-final-consonants]
+aliases: ["règles de lecture", "читання французькою", "французька вимова і написання"]
+tags: [reading, pronunciation, orthography, grapheme, phoneme, schwa, silent letters]
 level: A1
 depth: high
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 status: review
 contrastive_uk: high
-sources: []
-  - "Grande Grammaire du français"
-  - "Le Bon Usage, 17e éd."
+sources: ["Grande Grammaire du français", "Le Bon Usage, 17e éd."]
 reviewed_at: "2026-09-26"
 formula: true
 toc: true

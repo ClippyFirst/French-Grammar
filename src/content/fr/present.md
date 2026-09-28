@@ -4,50 +4,20 @@ title_fr: "Le présent de l’indicatif"
 description_uk: "Системний довідник про утворення présent de l’indicatif і його основні значення: актуальна дія, звичка, загальна істина, майбутнє, історичний présent та прогресивна конструкція."
 category: tenses
 order: 10
-canonical_ids: []
-  - FR-330
-  - FR-331
-  - FR-332
-  - FR-333
-  - FR-334
-  - FR-335
-  - FR-336
-prerequisites: []
-  - etre
-  - avoir
-  - verb-groups
-  - verb-orthographic-alternations
-related: []
-  - passe-compose
-  - imparfait
-  - futur-simple
-  - futur-proche
-  - verbal-periphrases
-  - verb-groups
-  - verb-orthographic-alternations
-contrast: []
-  - passe-compose-vs-imparfait
-next: []
-  - passe-compose
-aliases: []
-  - présent
-  - présent de l’indicatif
-  - present tense
-tags: []
-  - présent
-  - теперішній час
-  - indicatif
-  - часові значення
+canonical_ids: [FR-330, FR-331, FR-332, FR-333, FR-334, FR-335, FR-336]
+prerequisites: [etre, avoir, verb-groups, verb-orthographic-alternations]
+related: [passe-compose, imparfait, futur-simple, futur-proche, verbal-periphrases, verb-groups, verb-orthographic-alternations]
+contrast: [passe-compose-vs-imparfait]
+next: [passe-compose]
+aliases: [présent, présent de l’indicatif, present tense]
+tags: [présent, теперішній час, indicatif, часові значення]
 level: A1
 depth: high
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 contrastive_uk: high
 status: review
-sources: []
-  - "Académie française — Questions de langue"
-  - "Grevisse et Goosse, Le Bon Usage, 17e éd."
+sources: ["Académie française — Questions de langue", "Grevisse et Goosse, Le Bon Usage, 17e éd."]
 reviewed_at: "2026-09-25"
 formula: true
 toc: true

@@ -5,27 +5,16 @@ slug: relative-que
 title_uk: "Que як відносний займенник"
 title_fr: "Que comme pronom relatif"
 description_uk: "Системний довідник про que як відносний займенник: функція COD, узгодження participe passé та вибір між que, qui й dont."
-canonical_ids: []
-  - FR-496
-prerequisites: []
-  - relative-pronouns
-  - subordination
-related: []
-  - relative-pronouns
-  - relative-qui
-  - relative-dont
-  - past-participle-avoir-agreement
-  - relative-prepositional-government
+canonical_ids: [FR-496]
+prerequisites: [relative-pronouns, subordination]
+related: [relative-pronouns, relative-qui, relative-dont, past-participle-avoir-agreement, relative-prepositional-government]
 level: REFERENCE
 depth: high
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 contrastive_uk: high
 status: review
-sources: []
-  - "Grande Grammaire du français"
-  - "French Grammar and Usage, 5th ed. (2025)"
+sources: ["Grande Grammaire du français", "French Grammar and Usage, 5th ed. (2025)"]
 reviewed_at: "2026-09-26"
 formula: true
 toc: true

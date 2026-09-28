@@ -2,8 +2,7 @@
 title_uk: "Дискурсивні конектори"
 title_fr: "Les connecteurs discursifs"
 description_uk: "Довідник про французькі дискурсивні конектори: логічні відношення, позицію, регістр і відмінність від синтаксичних сполучників."
-canonical_ids: []
-  - "FR-636"
+canonical_ids: ["FR-636"]
 level: B2
 category: discourse
 register: neutral
@@ -13,9 +12,7 @@ contrastive_uk: high
 formula: true
 toc: true
 featured: false
-sources: []
-  - "Grande Grammaire du français"
-  - "French Grammar and Usage, 5th ed. (2025)"
+sources: ["Grande Grammaire du français", "French Grammar and Usage, 5th ed. (2025)"]
 reviewed_at: "2026-09-26"
 order: 100
 depth: medium

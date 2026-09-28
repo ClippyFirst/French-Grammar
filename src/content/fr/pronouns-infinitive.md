@@ -4,46 +4,19 @@ title_fr: "Les pronoms compléments avec l'infinitif"
 description_uk: "Позиція COD, COI, y та en у конструкціях із двома дієсловами, infinitif, faire/laisser та дієсловами сприйняття."
 category: pronouns
 order: 62
-prerequisites: []
-  - pronoun-order
-  - pronouns-cod
-  - pronouns-coi
-  - y-en
-  - infinitive
-related: []
-  - faire
-  - pronominal-verbs
-  - passe-compose
-  - negation
-  - imperatif
-  - word-order
-contrast: []
-  - pronoun-order
-  - infinitive
-next: []
-  - faire
-aliases: []
-  - pronouns with infinitive
-  - pronoms avec infinitif
-  - займенники з інфінітивом
-  - два дієслова і займенники
-tags: []
-  - займенники
-  - інфінітив
-  - COD
-  - COI
-  - y
-  - en
-  - faire
-  - laisser
+prerequisites: [pronoun-order, pronouns-cod, pronouns-coi, y-en, infinitive]
+related: [faire, pronominal-verbs, passe-compose, negation, imperatif, word-order]
+contrast: [pronoun-order, infinitive]
+next: [faire]
+aliases: [pronouns with infinitive, pronoms avec infinitif, займенники з інфінітивом, два дієслова і займенники]
+tags: [займенники, інфінітив, COD, COI, y, en, faire, laisser]
 level: B1
 depth: high
 register: neutral
 variety: [FR]
 status: review
 contrastive_uk: high
-sources: []
-  - "Académie française — Questions de langue"
+sources: ["Académie française — Questions de langue"]
 reviewed_at: "2026-09-25"
 formula: true
 toc: true

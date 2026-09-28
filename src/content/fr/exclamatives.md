@@ -5,39 +5,19 @@ description_uk: "Основні моделі французьких окличн
 category: questions
 order: 11
 canonical_ids: ["FR-439", "FR-440", "FR-729"]
-prerequisites: []
-  - questions
-  - determiners-interrogative
-  - word-order
-related: []
-  - interrogative-adverbs
-  - indirect-speech
-  - punctuation
-  - word-order
-  - complex-sentences
-contrast: []
-  - questions
-next: []
-  - word-order
-aliases: []
-  - exclamation
-  - exclamative
-  - phrase exclamative
-tags: []
-  - exclamation
-  - quel
-  - comme
-  - que
+prerequisites: [questions, determiners-interrogative, word-order]
+related: [interrogative-adverbs, indirect-speech, punctuation, word-order, complex-sentences]
+contrast: [questions]
+next: [word-order]
+aliases: [exclamation, exclamative, phrase exclamative]
+tags: [exclamation, quel, comme, que]
 level: A2
 depth: high
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 contrastive_uk: high
 status: review
-sources: []
-  - "Académie française — Questions de langue"
-  - "Grande Grammaire du français — types de phrases"
+sources: ["Académie française — Questions de langue", "Grande Grammaire du français — types de phrases"]
 reviewed_at: "2026-09-25"
 formula: true
 toc: true

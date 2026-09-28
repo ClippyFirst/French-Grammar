@@ -5,44 +5,19 @@ description_uk: "Системний довідник про французьки
 category: verbs
 canonical_ids: ["FR-315", "FR-516"]
 order: 28
-prerequisites: []
-  - present
-related: []
-  - pronouns-infinitive
-  - pronominal-verbs
-  - faire
-  - imperatif
-  - prepositions-a
-  - prepositions-de
-  - pronoun-order
-contrast: []
-  - present
-  - pronoun-order
-next: []
-  - pronouns-infinitive
-  - pronominal-verbs
-aliases: []
-  - infinitif
-  - infinitive
-  - інфінітив
-tags: []
-  - infinitif
-  - інфінітив
-  - дієслова
-  - faire
-  - прийменники
+prerequisites: [present]
+related: [pronouns-infinitive, pronominal-verbs, faire, imperatif, prepositions-a, prepositions-de, pronoun-order]
+contrast: [present, pronoun-order]
+next: [pronouns-infinitive, pronominal-verbs]
+aliases: [infinitif, infinitive, інфінітив]
+tags: [infinitif, інфінітив, дієслова, faire, прийменники]
 level: A2
 depth: high
 register: neutral
 variety: [FR]
 contrastive_uk: high
 status: review
-sources: []
-  - "Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue"
-  - "Académie française — Être intéressé à + infinitif: https://www.academie-francaise.fr/etre-interesse-infinitif"
-  - "Académie française — Tant qu’à faire: https://www.academie-francaise.fr/france"
-  - "Cambridge University Press — Foundations of French Syntax, Chapter 9: Infinitival clauses: https://www.cambridge.org/core/books/foundations-of-french-syntax/infinitival-clauses/2463E6BBDA2132245319D4A4FDA2F1A9"
-  - "Cambridge University Press — Advanced French Grammar, Chapter 15: Infinitive: https://www.cambridge.org/core/books/abs/advanced-french-grammar/infinitive/A854D0FDED68413068443A9CB6F69461"
+sources: ["Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue", "Académie française — Être intéressé à + infinitif: https://www.academie-francaise.fr/etre-interesse-infinitif", "Académie française — Tant qu’à faire: https://www.academie-francaise.fr/france", "Cambridge University Press — Foundations of French Syntax, Chapter 9: Infinitival clauses: https://www.cambridge.org/core/books/foundations-of-french-syntax/infinitival-clauses/2463E6BBDA2132245319D4A4FDA2F1A9", "Cambridge University Press — Advanced French Grammar, Chapter 15: Infinitive: https://www.cambridge.org/core/books/abs/advanced-french-grammar/infinitive/A854D0FDED68413068443A9CB6F69461"]
 reviewed_at: "2026-09-25"
 formula: true
 toc: true

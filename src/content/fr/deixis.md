@@ -5,39 +5,19 @@ description_uk: "Як займенники, прислівники та часо
 category: sentences
 order: 736
 canonical_ids: ["FR-736"]
-prerequisites: []
-  - pronouns-personal
-  - adverbs
-  - word-order
-related: []
-  - pronouns-toniques
-  - interrogative-adverbs
-  - passe-compose
-  - present
-  - futur-simple
-  - indirect-speech
-contrast: []
-  - phrase-enonce
-next: []
-  - indirect-speech
-aliases: []
-  - déixis
-  - expressions déictiques
-  - deixis
-tags: []
-  - deixis
-  - je
-  - ici
-  - maintenant
+prerequisites: [pronouns-personal, adverbs, word-order]
+related: [pronouns-toniques, interrogative-adverbs, passe-compose, present, futur-simple, indirect-speech]
+contrast: [phrase-enonce]
+next: [indirect-speech]
+aliases: [déixis, expressions déictiques, deixis]
+tags: [deixis, je, ici, maintenant]
 level: B2
 depth: high
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 contrastive_uk: high
 status: review
-sources: []
-  - "Grande Grammaire du français — L’ancrage des énoncés dans l’énonciation"
+sources: ["Grande Grammaire du français — L’ancrage des énoncés dans l’énonciation"]
 reviewed_at: "2026-09-25"
 formula: false
 toc: true

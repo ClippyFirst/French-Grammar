@@ -2,8 +2,7 @@
 title_uk: "Пунктуація цитування"
 title_fr: "La ponctuation de la citation"
 description_uk: "Пунктуація прямої мови й цитат у французькій: двокрапка, лапки, тире, авторські слова, пробіли та межі речення."
-canonical_ids: []
-  - "FR-620"
+canonical_ids: ["FR-620"]
 level: B2
 category: punctuation
 register: neutral
@@ -13,9 +12,7 @@ contrastive_uk: high
 formula: true
 toc: true
 featured: false
-sources: []
-  - "Grande Grammaire du français"
-  - "French Grammar and Usage, 5th ed. (2025)"
+sources: ["Grande Grammaire du français", "French Grammar and Usage, 5th ed. (2025)"]
 reviewed_at: "2026-09-26"
 order: 100
 depth: medium

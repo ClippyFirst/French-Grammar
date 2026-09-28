@@ -16,8 +16,7 @@ register: neutral
 variety: [FR]
 status: review
 contrastive_uk: medium
-sources: []
-  - "Grande Grammaire du français — forme sonore des énoncés"
+sources: ["Grande Grammaire du français — forme sonore des énoncés"]
 reviewed_at: "2026-09-25"
 formula: true
 toc: true

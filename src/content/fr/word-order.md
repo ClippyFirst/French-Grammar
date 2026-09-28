@@ -4,31 +4,19 @@ title_fr: "L’ordre des mots"
 description_uk: "Системний довідник про базовий порядок компонентів, позицію додатків, займенників, прислівників та інформаційне виділення."
 category: sentences
 order: 441
-prerequisites: []
-  - pronouns-personal
-  - pronoun-order
-  - present
-related: []
-  - questions
-  - negation
-  - relative-clauses
-  - adverbs
-  - pronouns-toniques
-contrast: []
-  - pronoun-order
-next: []
-  - complex-sentences
+prerequisites: [pronouns-personal, pronoun-order, present]
+related: [questions, negation, relative-clauses, adverbs, pronouns-toniques]
+contrast: [pronoun-order]
+next: [complex-sentences]
 aliases: ["ordre des mots", "word order", "порядок слів"]
 tags: [порядок слів, SVO, додаток, займенник, прислівник, інформаційна структура]
 level: B1
 depth: high
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 status: review
 contrastive_uk: high
-sources: []
-  - "Académie française — Dictionnaire de l’Académie française"
+sources: ["Académie française — Dictionnaire de l’Académie française"]
 formula: false
 toc: true
 featured: false

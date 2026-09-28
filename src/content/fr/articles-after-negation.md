@@ -4,40 +4,19 @@ title_fr: "Les articles après la négation"
 description_uk: "Як змінюються un, une, des і партитивний артикль у заперечних конструкціях та чому формула «pas = de» неповна."
 category: nouns
 order: 70
-prerequisites: []
-  - articles-definite
-  - articles-indefinite
-  - articles-partitive
-  - negation
-related: []
-  - articles-with-quantities
-  - article-omission
-contrast: []
-  - articles-definite
-  - articles-indefinite
-  - articles-partitive
-next: []
-  - articles-with-quantities
-aliases: []
-  - article after negation
-  - articles after negation
-  - de after pas
-  - de après la négation
-tags: []
-  - артикль
-  - заперечення
-  - de
-  - d’
-  - pas
+prerequisites: [articles-definite, articles-indefinite, articles-partitive, negation]
+related: [articles-with-quantities, article-omission]
+contrast: [articles-definite, articles-indefinite, articles-partitive]
+next: [articles-with-quantities]
+aliases: [article after negation, articles after negation, de after pas, de après la négation]
+tags: [артикль, заперечення, de, d’, pas]
 level: A2
 depth: high
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 contrastive_uk: high
 status: review
-sources: []
-  - "Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue"
+sources: ["Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue"]
 reviewed_at: "2026-09-25"
 formula: true
 toc: true

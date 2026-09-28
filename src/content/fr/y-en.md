@@ -4,40 +4,19 @@ title_fr: "Les pronoms y et en"
 description_uk: "Функції y та en: місце, à/de + групи, кількість, позиція в простих і складених конструкціях та наказовому способі."
 category: pronouns
 order: 50
-prerequisites: []
-  - pronouns-cod
-  - pronouns-coi
-  - prepositions-a
-  - prepositions-de
-related: []
-  - pronoun-order
-  - articles-partitive
-  - articles-with-quantities
-  - negation
-contrast: []
-  - pronouns-coi
-next: []
-  - pronoun-order
-aliases: []
-  - y
-  - en
-  - pronoms y en
-  - y et en
-tags: []
-  - y
-  - en
-  - займенники
-  - à
-  - de
+prerequisites: [pronouns-cod, pronouns-coi, prepositions-a, prepositions-de]
+related: [pronoun-order, articles-partitive, articles-with-quantities, negation]
+contrast: [pronouns-coi]
+next: [pronoun-order]
+aliases: [y, en, pronoms y en, y et en]
+tags: [y, en, займенники, à, de]
 level: A2
 depth: high
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 contrastive_uk: high
 status: review
-sources: []
-  - "Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue"
+sources: ["Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue"]
 reviewed_at: "2026-09-25"
 formula: true
 toc: true

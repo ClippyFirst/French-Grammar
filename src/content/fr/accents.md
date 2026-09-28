@@ -12,10 +12,7 @@ contrastive_uk: high
 formula: true
 toc: true
 featured: false
-sources: []
-  - "Grande Grammaire du français"
-  - "Le Bon Usage"
-  - "Académie française — Questions de langue"
+sources: ["Grande Grammaire du français", "Le Bon Usage", "Académie française — Questions de langue"]
 reviewed_at: "2026-09-26"
 order: 100
 depth: medium

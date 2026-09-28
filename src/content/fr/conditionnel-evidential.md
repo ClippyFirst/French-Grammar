@@ -2,21 +2,17 @@
 title_uk: "Евіденційна / дистанційна функція conditionnel"
 title_fr: "conditionnel evidential"
 description_uk: "Conditionnel може маркувати інформацію, яку мовець не подає як безпосередньо підтверджений факт, особливо в журналістському повідомленні."
-canonical_ids: []
-  - FR-608
+canonical_ids: [FR-608]
 level: B2
 category: modality
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 status: review
 contrastive_uk: high
 formula: true
 toc: true
 featured: false
-sources: []
-  - "Grande Grammaire du français"
-  - "French Grammar and Usage, 5th ed. (2025)"
+sources: ["Grande Grammaire du français", "French Grammar and Usage, 5th ed. (2025)"]
 reviewed_at: "2026-09-26"
 order: 100
 depth: medium

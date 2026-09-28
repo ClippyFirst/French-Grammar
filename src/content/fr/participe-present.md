@@ -5,35 +5,19 @@ description_uk: "Системний довідник про participe présent: 
 category: verbs
 canonical_ids: [FR-317, FR-521, FR-522]
 order: 30
-prerequisites: []
-  - present
-  - infinitive
-related: []
-  - gerondif
-  - accord
-  - adjective-position
-  - temporal-conjunctions
-contrast: []
-  - gerondif
-next: []
-  - gerondif
-aliases: []
-  - participe présent
-  - present participle
-  - дієприкметник теперішнього часу
-tags: []
-  - participe présent
-  - gérondif
-  - adjectif verbal
-  - дієслова
+prerequisites: [present, infinitive]
+related: [gerondif, accord, adjective-position, temporal-conjunctions]
+contrast: [gerondif]
+next: [gerondif]
+aliases: [participe présent, present participle, дієприкметник теперішнього часу]
+tags: [participe présent, gérondif, adjectif verbal, дієслова]
 level: B1
 depth: high
 register: neutral
 variety: [FR]
 contrastive_uk: high
 status: review
-sources: []
-  - "Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue"
+sources: ["Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue"]
 reviewed_at: "2026-09-25"
 formula: true
 toc: true

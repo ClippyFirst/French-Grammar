@@ -5,38 +5,19 @@ description_uk: "Фразова просодія, інтонація та наг
 category: fundamentals
 order: 739
 canonical_ids: ["FR-739"]
-prerequisites: []
-  - reading-rules
-  - questions
-  - word-order
-related: []
-  - exclamatives
-  - questions
-  - word-order
-  - phrase-enonce
-  - liaison
-contrast: []
-  - questions
-next: []
-  - word-order
-aliases: []
-  - prosodie
-  - intonation
-  - phrase accent
-tags: []
-  - prosody
-  - intonation
-  - focus
-  - rhythm
+prerequisites: [reading-rules, questions, word-order]
+related: [exclamatives, questions, word-order, phrase-enonce, liaison]
+contrast: [questions]
+next: [word-order]
+aliases: [prosodie, intonation, phrase accent]
+tags: [prosody, intonation, focus, rhythm]
 level: REFERENCE
 depth: high
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 contrastive_uk: medium
 status: review
-sources: []
-  - "Grande Grammaire du français — prosodie, forme sonore des énoncés et organisation du discours"
+sources: ["Grande Grammaire du français — prosodie, forme sonore des énoncés et organisation du discours"]
 reviewed_at: "2026-09-25"
 formula: false
 toc: true

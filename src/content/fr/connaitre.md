@@ -4,37 +4,20 @@ title_fr: "Le verbe connaître"
 description_uk: "Довідник про connaître та його відмінність від savoir: знайомство, обізнаність і знання об'єкта."
 category: verbs
 order: 31
-canonical_ids: []
-  - FR-306
-prerequisites: []
-  - present
-related: []
-  - savoir
-  - pronouns-cod
-  - prepositions-a
-contrast: []
-  - savoir
-next: []
-  - venir-tenir
-aliases: []
-  - connaître
-  - connaitre
-  - connaître quelqu’un
-tags: []
-  - дієслова
-  - savoir
-  - connaître
-  - керування
+canonical_ids: [FR-306]
+prerequisites: [present]
+related: [savoir, pronouns-cod, prepositions-a]
+contrast: [savoir]
+next: [venir-tenir]
+aliases: [connaître, connaitre, connaître quelqu’un]
+tags: [дієслова, savoir, connaître, керування]
 level: A2
 depth: high
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 contrastive_uk: high
 status: review
-sources: []
-  - "Dictionnaire de l’Académie française, 9e édition — connaître"
-  - "Grevisse et Goosse, Le Bon Usage, 17e éd."
+sources: ["Dictionnaire de l’Académie française, 9e édition — connaître", "Grevisse et Goosse, Le Bon Usage, 17e éd."]
 reviewed_at: "2026-09-25"
 formula: true
 toc: true

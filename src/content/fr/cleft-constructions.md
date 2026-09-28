@@ -2,8 +2,7 @@
 title_uk: "Розщеплені (cleft) конструкції"
 title_fr: "Les constructions clivées"
 description_uk: "Системний довідник про розщеплені конструкції c'est ... qui/que, їхню синтаксичну будову та інформаційну функцію."
-canonical_ids: []
-  - "FR-624"
+canonical_ids: ["FR-624"]
 level: B2
 category: discourse
 register: neutral
@@ -13,9 +12,7 @@ contrastive_uk: high
 formula: true
 toc: true
 featured: false
-sources: []
-  - "Grande Grammaire du français"
-  - "French Grammar and Usage, 5th ed. (2025)"
+sources: ["Grande Grammaire du français", "French Grammar and Usage, 5th ed. (2025)"]
 reviewed_at: "2026-09-26"
 order: 100
 depth: medium

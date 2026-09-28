@@ -3,18 +3,14 @@ title_uk: "Відмінність tense ↔ aspect"
 title_fr: "Temps verbal et aspect"
 description_uk: "Temps verbal відповідає передусім за граматичне часове розташування події, тоді як aspect описує спосіб її представлення: як завершену, тривалу, повторювану тощо."
 category: tense-aspect
-canonical_ids: []
-  - FR-590
+canonical_ids: [FR-590]
 level: B2
 depth: high
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 contrastive_uk: high
 status: review
-sources: []
-  - "Grande Grammaire du français"
-  - "French Grammar and Usage, 5th ed. (2025)"
+sources: ["Grande Grammaire du français", "French Grammar and Usage, 5th ed. (2025)"]
 reviewed_at: "2026-09-26"
 formula: true
 toc: true

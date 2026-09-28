@@ -4,45 +4,20 @@ title_fr: "Phrase, syntagme et énoncé"
 description_uk: "Як розрізняти syntagme, phrase, proposition та énoncé у французькому граматичному описі, не змішуючи синтаксис із комунікативною ситуацією."
 category: syntax
 order: 5
-canonical_ids: []
-  - FR-005
-  - FR-733
-prerequisites: []
-  - parts-of-speech
-  - form-function-meaning
-related: []
-  - sentence-structure
-  - word-order
-  - complex-sentences
-  - elliptical-utterances
-  - information-structure
-  - prosody
-contrast: []
-  - form-function-meaning
-next: []
-  - noun-phrase
-aliases: []
-  - phrase
-  - syntagme
-  - énoncé
-  - proposition
-  - phrase énoncé
-tags: []
-  - phrase
-  - syntagme
-  - énonце
-  - речення
-  - висловлення
+canonical_ids: [FR-005, FR-733]
+prerequisites: [parts-of-speech, form-function-meaning]
+related: [sentence-structure, word-order, complex-sentences, elliptical-utterances, information-structure, prosody]
+contrast: [form-function-meaning]
+next: [noun-phrase]
+aliases: [phrase, syntagme, énoncé, proposition, phrase énoncé]
+tags: [phrase, syntagme, énonце, речення, висловлення]
 level: REFERENCE
 depth: high
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 contrastive_uk: medium
 status: review
-sources: []
-  - "Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue"
-  - "CNRTL — Syntagme: https://www.cnrtl.fr/morphologie/syntagme"
+sources: ["Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue", "CNRTL — Syntagme: https://www.cnrtl.fr/morphologie/syntagme"]
 reviewed_at: "2026-09-26"
 formula: false
 toc: true

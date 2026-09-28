@@ -4,42 +4,19 @@ title_fr: "Le verbe avoir"
 description_uk: "Системний довідник про avoir: володіння, вік, стани, сталі конструкції, допоміжну функцію та контраст із être."
 category: verbs
 order: 25
-prerequisites: []
-  - present
-  - etre
-related: []
-  - passe-compose
-  - accord
-  - impersonal-verbs
-  - pronouns-cod
-  - articles-indefinite
-  - articles-partitive
-  - conditionnel-present
-contrast: []
-  - etre
-  - pronouns-personal
-next: []
-  - passe-compose
-aliases: []
-  - avoir
-  - avoir présent
-  - avoir comme auxiliaire
-tags: []
-  - avoir
-  - дієслова
-  - допоміжне дієслово
-  - володіння
-  - вік
-  - конструкції
+prerequisites: [present, etre]
+related: [passe-compose, accord, impersonal-verbs, pronouns-cod, articles-indefinite, articles-partitive, conditionnel-present]
+contrast: [etre, pronouns-personal]
+next: [passe-compose]
+aliases: [avoir, avoir présent, avoir comme auxiliaire]
+tags: [avoir, дієслова, допоміжне дієслово, володіння, вік, конструкції]
 level: A1
 depth: high
 register: neutral
 variety: [FR]
 contrastive_uk: high
 status: review
-sources: []
-  - "Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue"
-  - "Académie française — Maria K.: auxiliaire avoir et choix de l’auxiliaire: https://www.academie-francaise.fr/maria-k-allemagne"
+sources: ["Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue", "Académie française — Maria K.: auxiliaire avoir et choix de l’auxiliaire: https://www.academie-francaise.fr/maria-k-allemagne"]
 reviewed_at: "2026-09-25"
 formula: true
 toc: true

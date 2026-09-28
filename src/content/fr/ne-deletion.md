@@ -1,6 +1,5 @@
 ---
-canonical_ids: []
-  - "FR-644"
+canonical_ids: ["FR-644"]
 title_uk: "Випадіння ne"
 title_fr: "La chute de ne"
 description_uk: "Коли в усному французькому запереченні *ne* може випадати, як це пов’язано з регістром і чому це не тотожне нейтральній писемній нормі."
@@ -14,9 +13,7 @@ register: neutral
 variety: ["FR"]
 status: review
 contrastive_uk: high
-sources: []
-  - "Grande Grammaire du français"
-  - "French Grammar and Usage, 5th ed. (2025)"
+sources: ["Grande Grammaire du français", "French Grammar and Usage, 5th ed. (2025)"]
 reviewed_at: "2026-09-26"
 formula: true
 toc: true

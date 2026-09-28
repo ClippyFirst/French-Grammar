@@ -3,18 +3,14 @@ title_uk: "Порядкові числівники"
 title_fr: "Les nombres ordinaux"
 description_uk: "Порядкові числівники позначають місце або послідовність: premier, deuxième, troisième тощо."
 category: numbers
-canonical_ids: []
-  - FR-576
+canonical_ids: [FR-576]
 level: B1
 depth: high
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 contrastive_uk: high
 status: review
-sources: []
-  - "Grande Grammaire du français"
-  - "Académie française — Questions de langue"
+sources: ["Grande Grammaire du français", "Académie française — Questions de langue"]
 reviewed_at: "2026-09-26"
 formula: true
 toc: true

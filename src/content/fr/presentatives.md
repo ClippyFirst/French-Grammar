@@ -4,39 +4,16 @@ title_fr: "Les présentatifs en français : c'est, ce sont, il y a, voici et voi
 description_uk: "Системний довідник про présentatifs: c'est / ce sont, il y a, voici / voilà та пов'язані конструкції; їхню структуру, узгодження, значення, регістр і відмінності від il est / elle est."
 category: syntax
 order: 1
-canonical_ids: []
-  - "FR-451"
-  - "FR-452"
-  - "FR-453"
-  - "FR-455"
-  - "FR-456"
-prerequisites: []
-  - sentence-structure
-  - word-order
-  - pronouns-subject
-  - articles-definite
-related: []
-  - sentence-structure
-  - word-order
-  - information-structure
-  - phrase-enonce
-  - deixis
-  - sentence-structure
-  - questions
+canonical_ids: ["FR-451", "FR-452", "FR-453", "FR-455", "FR-456"]
+prerequisites: [sentence-structure, word-order, pronouns-subject, articles-definite]
+related: [sentence-structure, word-order, information-structure, phrase-enonce, deixis, sentence-structure, questions]
 level: A2
 depth: high
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 contrastive_uk: high
 status: review
-sources: []
-  - "Académie française — C’est / ce sont: https://www.academie-francaise.fr/questions-de-langue"
-  - "Académie française — Il est, c’est un: https://www.academie-francaise.fr/il-est-cest-un-0"
-  - "Académie française — Voilà: https://www.academie-francaise.fr/voila"
-  - "Académie française — C’est dans cet hôpital où il travaille...: https://www.academie-francaise.fr/cest-dans-cet-hopital-ou-il-travaille-ou-cest-dans-cet-hopital-quil-travaille"
-  - "Cambridge University Press — Advanced French Grammar, Chapter 35: https://www.cambridge.org/core/books/abs/advanced-french-grammar/cestil-est/641876B903010367670EC863F06C2866"
-  - "Larousse — ce, c': https://www.larousse.fr/dictionnaires/francais/ce/13946"
+sources: ["Académie française — C’est / ce sont: https://www.academie-francaise.fr/questions-de-langue", "Académie française — Il est, c’est un: https://www.academie-francaise.fr/il-est-cest-un-0", "Académie française — Voilà: https://www.academie-francaise.fr/voila", "Académie française — C’est dans cet hôpital où il travaille...: https://www.academie-francaise.fr/cest-dans-cet-hopital-ou-il-travaille-ou-cest-dans-cet-hopital-quil-travaille", "Cambridge University Press — Advanced French Grammar, Chapter 35: https://www.cambridge.org/core/books/abs/advanced-french-grammar/cestil-est/641876B903010367670EC863F06C2866", "Larousse — ce, c': https://www.larousse.fr/dictionnaires/francais/ce/13946"]
 reviewed_at: "2026-09-25"
 formula: true
 toc: true

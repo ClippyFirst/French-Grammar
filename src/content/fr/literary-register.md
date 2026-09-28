@@ -2,8 +2,7 @@
 title_uk: "Літературний регістр"
 title_fr: "Le registre littéraire"
 description_uk: "Синтаксичні, часові та стилістичні засоби літературного французького і їхні межі в сучасній мові."
-canonical_ids: []
-  - "FR-643"
+canonical_ids: ["FR-643"]
 level: C1
 category: register
 register: neutral
@@ -13,9 +12,7 @@ contrastive_uk: high
 formula: true
 toc: true
 featured: false
-sources: []
-  - "Grande Grammaire du français"
-  - "French Grammar and Usage, 5th ed. (2025)"
+sources: ["Grande Grammaire du français", "French Grammar and Usage, 5th ed. (2025)"]
 reviewed_at: "2026-09-26"
 order: 100
 depth: medium

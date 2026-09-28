@@ -4,40 +4,19 @@ title_fr: "Dire, lire et écrire"
 description_uk: "Порівняльний довідник про dire, lire та écrire: парадигми, participe passé, керування та типові форми."
 category: verbs
 order: 36
-canonical_ids: []
-  - FR-311
-prerequisites: []
-  - present
-  - verb-groups
-related: []
-  - indirect-speech
-  - questions
-  - pronouns-cod
-  - pronouns-coi
-  - passe-compose
-next: []
-  - boire
-aliases: []
-  - dire
-  - lire
-  - écrire
-  - dire / lire / écrire
-tags: []
-  - дієслова
-  - III група
-  - dire
-  - lire
-  - écrire
+canonical_ids: [FR-311]
+prerequisites: [present, verb-groups]
+related: [indirect-speech, questions, pronouns-cod, pronouns-coi, passe-compose]
+next: [boire]
+aliases: [dire, lire, écrire, dire / lire / écrire]
+tags: [дієслова, III група, dire, lire, écrire]
 level: A2
 depth: high
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 contrastive_uk: medium
 status: review
-sources: []
-  - "Dictionnaire de l’Académie française, 9e édition — dire / lire / écrire"
-  - "Grevisse et Goosse, Le Bon Usage, 17e éd."
+sources: ["Dictionnaire de l’Académie française, 9e édition — dire / lire / écrire", "Grevisse et Goosse, Le Bon Usage, 17e éd."]
 reviewed_at: "2026-09-25"
 formula: true
 toc: true

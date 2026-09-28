@@ -4,33 +4,18 @@ title_fr: "Le h muet et le h aspiré"
 description_uk: "Функціональна різниця між h muet та h aspiré: елізія, liaison, визначення типу h за словником і важливі винятки."
 category: fundamentals
 order: 34
-prerequisites: []
-  - elision
-  - liaison
-related: []
-  - enchainement
-  - reading-rules
-  - punctuation
-contrast: []
-  - elision
-  - liaison
-next: []
-  - accents
+prerequisites: [elision, liaison]
+related: [enchainement, reading-rules, punctuation]
+contrast: [elision, liaison]
+next: [accents]
 level: A2
 depth: high
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 status: review
 contrastive_uk: high
-sources: []
-  - "Académie française — Questions de langue"
-  - "Académie française — Dictionnaire"
-tags: []
-  - h-muet
-  - h-aspire
-  - elision
-  - liaison
+sources: ["Académie française — Questions de langue", "Académie française — Dictionnaire"]
+tags: [h-muet, h-aspire, elision, liaison]
 canonical_ids: ["FR-033", "FR-034"]
 formula: false
 toc: true

@@ -4,40 +4,19 @@ title_fr: "L’article indéfini"
 description_uk: "Як un, une, des вводять новий або неідентифікований референт, виражають одиничність і множинну невизначеність."
 category: nouns
 order: 40
-prerequisites: []
-  - noun-gender
-  - singular-plural
-related: []
-  - articles-definite
-  - articles-partitive
-  - articles-with-quantities
-  - article-omission
-  - articles-after-negation
-contrast: []
-  - articles-definite
-  - articles-partitive
-next: []
-  - articles-after-negation
-aliases: []
-  - indefinite article
-  - article indéfini
-  - un une des
-  - l’article indéfini
-tags: []
-  - артикль
-  - un
-  - une
-  - des
-  - невизначеність
+prerequisites: [noun-gender, singular-plural]
+related: [articles-definite, articles-partitive, articles-with-quantities, article-omission, articles-after-negation]
+contrast: [articles-definite, articles-partitive]
+next: [articles-after-negation]
+aliases: [indefinite article, article indéfini, un une des, l’article indéfini]
+tags: [артикль, un, une, des, невизначеність]
 level: A1
 depth: high
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 contrastive_uk: high
 status: review
-sources: []
-  - "Académie française — La grammaire et l’infini (2024): https://www.academie-francaise.fr/la-grammaire-et-linfini"
+sources: ["Académie française — La grammaire et l’infini (2024): https://www.academie-francaise.fr/la-grammaire-et-linfini"]
 reviewed_at: "2026-09-25"
 formula: true
 toc: true

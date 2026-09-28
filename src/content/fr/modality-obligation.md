@@ -2,21 +2,17 @@
 title_uk: "Модальність обов'язку"
 title_fr: "modality obligation"
 description_uk: "Обов'язок може виражатися особовим *devoir*, безособовим *falloir*, нормативними конструкціями та імперативом."
-canonical_ids: []
-  - FR-606
+canonical_ids: [FR-606]
 level: B2
 category: modality
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 status: review
 contrastive_uk: high
 formula: true
 toc: true
 featured: false
-sources: []
-  - "Grande Grammaire du français"
-  - "French Grammar and Usage, 5th ed. (2025)"
+sources: ["Grande Grammaire du français", "French Grammar and Usage, 5th ed. (2025)"]
 reviewed_at: "2026-09-26"
 order: 100
 depth: medium

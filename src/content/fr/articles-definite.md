@@ -4,43 +4,19 @@ title_fr: "L’article défini"
 description_uk: "Як французький визначений артикль виражає ідентифікованість, загальне значення, унікальність та інші типові значення."
 category: nouns
 order: 30
-prerequisites: []
-  - noun-gender
-  - singular-plural
-related: []
-  - articles-indefinite
-  - articles-partitive
-  - article-omission
-  - contracted-articles
-  - elision
-  - articles-after-negation
-  - articles-with-quantities
-contrast: []
-  - articles-indefinite
-  - articles-partitive
-next: []
-  - contracted-articles
-aliases: []
-  - definite article
-  - article défini
-  - le la les
-  - l’article défini
-tags: []
-  - артикль
-  - le
-  - la
-  - les
-  - l’
-  - визначеність
+prerequisites: [noun-gender, singular-plural]
+related: [articles-indefinite, articles-partitive, article-omission, contracted-articles, elision, articles-after-negation, articles-with-quantities]
+contrast: [articles-indefinite, articles-partitive]
+next: [contracted-articles]
+aliases: [definite article, article défini, le la les, l’article défini]
+tags: [артикль, le, la, les, l’, визначеність]
 level: A1
 depth: high
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 contrastive_uk: high
 status: review
-sources: []
-  - "Académie française — La grammaire et l’infini (2024): https://www.academie-francaise.fr/la-grammaire-et-linfini"
+sources: ["Académie française — La grammaire et l’infini (2024): https://www.academie-francaise.fr/la-grammaire-et-linfini"]
 reviewed_at: "2026-09-25"
 formula: true
 toc: true

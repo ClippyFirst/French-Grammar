@@ -2,8 +2,7 @@
 title_uk: "On у живій мові"
 title_fr: "On à l'oral"
 description_uk: "Функції on у сучасному усному французькому, його відношення до nous та узгодження з контекстом."
-canonical_ids: []
-  - "FR-648"
+canonical_ids: ["FR-648"]
 level: B1
 category: pronouns
 register: neutral
@@ -13,9 +12,7 @@ contrastive_uk: high
 formula: true
 toc: true
 featured: false
-sources: []
-  - "Grande Grammaire du français"
-  - "French Grammar and Usage, 5th ed. (2025)"
+sources: ["Grande Grammaire du français", "French Grammar and Usage, 5th ed. (2025)"]
 reviewed_at: "2026-09-26"
 order: 100
 depth: medium

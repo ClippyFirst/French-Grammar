@@ -6,41 +6,19 @@ category: determiners
 order: 726
 canonical_ids: ["FR-727"]
 
-prerequisites: []
-  - articles-definite
-  - determiners-possessive
-  - pronominal-verbs
-  - adjective-agreement
-related: []
-  - article-omission
-  - articles-definite
-  - determiners-possessive
-  - pronominal-verbs
-  - pronouns-coi
-contrast: []
-  - article-vs-zero-ukrainian
-next: []
-  - interrogative-adverbs
-aliases: []
-  - possession body parts
-  - possession clothes
-  - parties du corps
-  - vêtements
-tags: []
-  - артикль
-  - присвійність
-  - частини тіла
-  - одяг
+prerequisites: [articles-definite, determiners-possessive, pronominal-verbs, adjective-agreement]
+related: [article-omission, articles-definite, determiners-possessive, pronominal-verbs, pronouns-coi]
+contrast: [article-vs-zero-ukrainian]
+next: [interrogative-adverbs]
+aliases: [possession body parts, possession clothes, parties du corps, vêtements]
+tags: [артикль, присвійність, частини тіла, одяг]
 level: B1
 depth: high
 register: neutral
 variety: [FR]
 contrastive_uk: high
 status: review
-sources: []
-  - "Grande Grammaire du français — détermination et groupe nominal"
-  - "French Grammar and Usage, 5th ed. (2025)"
-  - "Académie française — Questions de langue"
+sources: ["Grande Grammaire du français — détermination et groupe nominal", "French Grammar and Usage, 5th ed. (2025)", "Académie française — Questions de langue"]
 formula: true
 toc: true
 featured: false

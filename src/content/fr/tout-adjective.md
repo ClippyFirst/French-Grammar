@@ -14,10 +14,7 @@ register: neutral
 variety: ["FR"]
 status: review
 contrastive_uk: high
-sources: []
-  - "Grande Grammaire du français"
-  - "French Grammar and Usage, 5th ed. (2025)"
-  - "Académie française — Questions de langue"
+sources: ["Grande Grammaire du français", "French Grammar and Usage, 5th ed. (2025)", "Académie française — Questions de langue"]
 reviewed_at: "2026-09-28"
 formula: true
 toc: true

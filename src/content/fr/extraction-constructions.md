@@ -1,49 +1,24 @@
 ---
-canonical_ids: []
-  - "FR-735"
+canonical_ids: ["FR-735"]
 title_uk: "Екстракція та синтаксичні залежності на відстані"
 title_fr: "Extraction et dépendances à longue distance"
 description_uk: "Системний довідник про винесення компонентів у французькій: питання, відносні конструкції, cleft-конструкції та інші залежності між виділеним компонентом і його синтаксичною позицією."
 category: complex
 order: 735
 
-prerequisites: []
-  - word-order
-  - questions
-  - relative-clauses
-  - information-structure
-related: []
-  - long-distance-dependencies
-  - grammatical-ambiguity
-  - ambiguous-attachment
-  - relative-pronouns
-  - multiple-embedding
-  - scope-negation-quantifiers
-contrast: []
-  - long-distance-dependencies
-  - information-structure
-next: []
-  - long-distance-dependencies
-aliases: []
-  - extraction
-  - extraction constructions
-  - dépendance à longue distance
-tags: []
-  - syntax
-  - extraction
-  - relatives
-  - interrogatives
-  - clefts
+prerequisites: [word-order, questions, relative-clauses, information-structure]
+related: [long-distance-dependencies, grammatical-ambiguity, ambiguous-attachment, relative-pronouns, multiple-embedding, scope-negation-quantifiers]
+contrast: [long-distance-dependencies, information-structure]
+next: [long-distance-dependencies]
+aliases: [extraction, extraction constructions, dépendance à longue distance]
+tags: [syntax, extraction, relatives, interrogatives, clefts]
 level: C1
 depth: high
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 contrastive_uk: medium
 status: review
-sources: []
-  - "Grande Grammaire du français — extraction, relatives, interrogatives et constructions clivées"
-  - "The Syntax of French — extraction and constituent structure"
+sources: ["Grande Grammaire du français — extraction, relatives, interrogatives et constructions clivées", "The Syntax of French — extraction and constituent structure"]
 reviewed_at: "2026-09-26"
 formula: true
 toc: true

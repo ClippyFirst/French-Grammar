@@ -4,39 +4,19 @@ title_fr: "L’accord du participe passé des verbes pronominaux"
 description_uk: "Як визначати узгодження participe passé у прономінальних дієсловах через функцію se та COD/COI."
 category: agreement
 order: 75
-prerequisites: []
-  - pronominal-verbs
-  - accord
-  - pronouns-cod
-  - pronouns-coi
-  - passe-compose
-related: []
-  - pronominal-verbs
-  - accord
-  - relative-pronouns
-contrast: []
-  - accord
-next: []
-  - pronominal-verbs
-aliases: []
-  - accord participe passé pronominal
-  - accord des verbes pronominaux
-  - pronominal past participle agreement
-tags: []
-  - participe-passé
-  - узгодження
-  - прономінальні-дієслова
-  - COD
-  - COI
+prerequisites: [pronominal-verbs, accord, pronouns-cod, pronouns-coi, passe-compose]
+related: [pronominal-verbs, accord, relative-pronouns]
+contrast: [accord]
+next: [pronominal-verbs]
+aliases: [accord participe passé pronominal, accord des verbes pronominaux, pronominal past participle agreement]
+tags: [participe-passé, узгодження, прономінальні-дієслова, COD, COI]
 level: B1
 depth: high
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 contrastive_uk: high
 status: review
-sources: []
-  - "Académie française — Questions de langue: Pronominaux (verbes, accord du participe passé): https://www.academie-francaise.fr/questions-de-langue"
+sources: ["Académie française — Questions de langue: Pronominaux (verbes, accord du participe passé): https://www.academie-francaise.fr/questions-de-langue"]
 reviewed_at: "2026-09-25"
 formula: true
 toc: true

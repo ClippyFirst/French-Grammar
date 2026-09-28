@@ -5,24 +5,16 @@ slug: quantity-clauses
 title_uk: "Підрядні кількості та міри"
 title_fr: "Les propositions de quantité et de degré"
 description_uk: "Довідкова стаття про підрядні кількості та міри у сучасній французькій."
-canonical_ids: []
-  - FR-488
-prerequisites: []
-  - subordination
-related: []
-  - complex-sentences
-  - subordination
-  - sentence-structure
+canonical_ids: [FR-488]
+prerequisites: [subordination]
+related: [complex-sentences, subordination, sentence-structure]
 level: REFERENCE
 depth: high
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 contrastive_uk: high
 status: review
-sources: []
-  - "Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue"
-  - "Académie française — La terminologie de la langue française: https://www.academie-francaise.fr/la-terminologie-de-la-langue-francaise"
+sources: ["Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue", "Académie française — La terminologie de la langue française: https://www.academie-francaise.fr/la-terminologie-de-la-langue-francaise"]
 reviewed_at: "2026-09-26"
 formula: true
 toc: true

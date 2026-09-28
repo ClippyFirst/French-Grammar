@@ -4,39 +4,20 @@ title_fr: "Le verbe mettre"
 description_uk: "Системний довідник про mettre: парадигма, прямий додаток, значення та сталі конструкції."
 category: verbs
 order: 34
-canonical_ids: []
-  - FR-309
-prerequisites: []
-  - present
-  - verb-groups
-related: []
-  - prendre
-  - faire
-  - pronouns-cod
-  - prepositions-de
-  - passe-compose
-contrast: []
-  - prendre
-next: []
-  - voir-croire
-aliases: []
-  - mettre
-  - mettre + COD
-tags: []
-  - дієслова
-  - III група
-  - mettre
-  - керування
+canonical_ids: [FR-309]
+prerequisites: [present, verb-groups]
+related: [prendre, faire, pronouns-cod, prepositions-de, passe-compose]
+contrast: [prendre]
+next: [voir-croire]
+aliases: [mettre, mettre + COD]
+tags: [дієслова, III група, mettre, керування]
 level: A2
 depth: high
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 contrastive_uk: medium
 status: review
-sources: []
-  - "Dictionnaire de l’Académie française, 9e édition — mettre"
-  - "Grevisse et Goosse, Le Bon Usage, 17e éd."
+sources: ["Dictionnaire de l’Académie française, 9e édition — mettre", "Grevisse et Goosse, Le Bon Usage, 17e éd."]
 reviewed_at: "2026-09-25"
 formula: true
 toc: true

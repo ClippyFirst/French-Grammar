@@ -5,37 +5,19 @@ description_uk: "Як французькі дієслова руху поєдн�
 category: verbs
 order: 720
 canonical_ids: ["FR-720"]
-prerequisites: []
-  - infinitive
-  - verbal-periphrases
-  - prepositions-a
-related: []
-  - aller
-  - infinitive-after-verb
-  - futur-proche
-  - verbs-prepositions
-  - purpose
-contrast: []
-  - infinitive-control
-next: []
-  - perception-infinitive
-aliases: []
-  - verbes de mouvement + infinitif
-  - mouvement + infinitif
-tags: []
-  - рух
-  - інфінітив
-  - aller
-  - venir
+prerequisites: [infinitive, verbal-periphrases, prepositions-a]
+related: [aller, infinitive-after-verb, futur-proche, verbs-prepositions, purpose]
+contrast: [infinitive-control]
+next: [perception-infinitive]
+aliases: [verbes de mouvement + infinitif, mouvement + infinitif]
+tags: [рух, інфінітив, aller, venir]
 level: B1
 depth: high
 register: neutral
 variety: [FR]
 contrastive_uk: high
 status: review
-sources: []
-  - "Grande Grammaire du français — constructions verbales"
-  - "French Grammar and Usage, 5th ed. (2025)"
+sources: ["Grande Grammaire du français — constructions verbales", "French Grammar and Usage, 5th ed. (2025)"]
 formula: true
 toc: true
 featured: false

@@ -4,43 +4,20 @@ title_fr: "Le passé composé"
 description_uk: "Утворення passé composé, вибір avoir/être, participe passé, узгодження та контраст із imparfait."
 category: tenses
 order: 20
-canonical_ids: []
-  - FR-341
-  - FR-342
-  - FR-343
-prerequisites: []
-  - present
-  - avoir
-  - etre
-related: []
-  - passe-simple
-  - imparfait
-  - passe-compose-vs-imparfait
-  - plus-que-parfait
-  - accord
-contrast: []
-  - passe-compose-vs-imparfait
-next: []
-  - passe-compose-vs-imparfait
-aliases: []
-  - passé composé
-  - compound past
-  - French perfect
-tags: []
-  - passé composé
-  - минулий час
-  - avoir
-  - être
-  - participe passé
+canonical_ids: [FR-341, FR-342, FR-343]
+prerequisites: [present, avoir, etre]
+related: [passe-simple, imparfait, passe-compose-vs-imparfait, plus-que-parfait, accord]
+contrast: [passe-compose-vs-imparfait]
+next: [passe-compose-vs-imparfait]
+aliases: [passé composé, compound past, French perfect]
+tags: [passé composé, минулий час, avoir, être, participe passé]
 level: A2
 depth: high
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 contrastive_uk: high
 status: review
-sources: []
-  - "Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue"
+sources: ["Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue"]
 reviewed_at: "2026-09-25"
 formula: true
 toc: true

@@ -2,8 +2,7 @@
 title_uk: "C'est ... qui / que"
 title_fr: "La construction c'est ... qui / que"
 description_uk: "Довідник про конструкцію c'est ... qui / que: синтаксична роль виділеного компонента, інформаційний фокус і типові помилки."
-canonical_ids: []
-  - "FR-625"
+canonical_ids: ["FR-625"]
 level: B2
 category: discourse
 register: neutral
@@ -13,9 +12,7 @@ contrastive_uk: high
 formula: true
 toc: true
 featured: false
-sources: []
-  - "Grande Grammaire du français"
-  - "French Grammar and Usage, 5th ed. (2025)"
+sources: ["Grande Grammaire du français", "French Grammar and Usage, 5th ed. (2025)"]
 reviewed_at: "2026-09-26"
 order: 100
 depth: medium

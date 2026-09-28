@@ -5,25 +5,16 @@ slug: relative-clause-structure
 title_uk: "Відносне речення: структура"
 title_fr: "Structure de la proposition relative"
 description_uk: "Довідкова стаття про відносне речення: структура у французькій."
-canonical_ids: []
-  - FR-492
-prerequisites: []
-  - relative-pronouns
-  - subordination
-related: []
-  - relative-pronouns
-  - subordination
-  - sentence-structure
+canonical_ids: [FR-492]
+prerequisites: [relative-pronouns, subordination]
+related: [relative-pronouns, subordination, sentence-structure]
 level: REFERENCE
 depth: high
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 contrastive_uk: high
 status: review
-sources: []
-  - "Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue"
-  - "Académie française — La terminologie de la langue française: https://www.academie-francaise.fr/la-terminologie-de-la-langue-francaise"
+sources: ["Académie française — Questions de langue: https://www.academie-francaise.fr/questions-de-langue", "Académie française — La terminologie de la langue française: https://www.academie-francaise.fr/la-terminologie-de-la-langue-francaise"]
 reviewed_at: "2026-09-26"
 formula: true
 toc: true

@@ -5,45 +5,19 @@ description_uk: "Системний довідник про se-конструк�
 category: verbs
 canonical_ids: [FR-320]
 order: 70
-prerequisites: []
-  - pronouns-personal
-  - pronouns-cod
-  - pronouns-coi
-  - present
-related: []
-  - pronoun-order
-  - accord
-  - passe-compose
-  - passive
-  - imperatif
-  - prepositions-a
-  - prepositions-de
-contrast: []
-  - pronouns-cod
-  - pronouns-coi
-next: []
-  - passe-compose
-  - accord
-aliases: []
-  - verbes pronominaux
-  - pronominal verbs
-  - reflexive verbs
-  - verbe pronominal
-tags: []
-  - дієслова
-  - прономінальні-дієслова
-  - se
-  - рефлексивність
-  - взаємність
+prerequisites: [pronouns-personal, pronouns-cod, pronouns-coi, present]
+related: [pronoun-order, accord, passe-compose, passive, imperatif, prepositions-a, prepositions-de]
+contrast: [pronouns-cod, pronouns-coi]
+next: [passe-compose, accord]
+aliases: [verbes pronominaux, pronominal verbs, reflexive verbs, verbe pronominal]
+tags: [дієслова, прономінальні-дієслова, se, рефлексивність, взаємність]
 level: A2
 depth: high
 register: neutral
-variety: []
-  - FR
+variety: [FR]
 contrastive_uk: high
 status: review
-sources: []
-  - "Académie française — Questions de langue: Pronominaux (verbes, accord du participe passé): https://www.academie-francaise.fr/questions-de-langue"
+sources: ["Académie française — Questions de langue: Pronominaux (verbes, accord du participe passé): https://www.academie-francaise.fr/questions-de-langue"]
 reviewed_at: "2026-09-25"
 formula: true
 toc: true

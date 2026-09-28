@@ -15,9 +15,7 @@ register: neutral
 variety: ["FR"]
 status: review
 contrastive_uk: medium
-sources: []
-  - "Grande Grammaire du français"
-  - "French Grammar and Usage, 5th ed. (2025)"
+sources: ["Grande Grammaire du français", "French Grammar and Usage, 5th ed. (2025)"]
 formula: false
 toc: true
 featured: false

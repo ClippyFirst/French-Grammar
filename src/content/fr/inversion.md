@@ -5,34 +5,16 @@ description_uk: "Системний довідник інверсії підме
 category: syntax
 order: 730
 
-prerequisites: []
-  - questions
-  - pronouns-subject
-  - word-order
-related: []
-  - questions
-  - indirect-speech
-  - exclamatives
-  - extraction
-  - punctuation
-aliases: []
-  - inversion du sujet
-  - inversion
-  - subject inversion
-tags: []
-  - інверсія
-  - підмет
-  - питання
-  - t euphonique
+prerequisites: [questions, pronouns-subject, word-order]
+related: [questions, indirect-speech, exclamatives, extraction, punctuation]
+aliases: [inversion du sujet, inversion, subject inversion]
+tags: [інверсія, підмет, питання, t euphonique]
 level: B2
 depth: high
 register: formal
 variety: [FR]
 status: review
-sources: []
-  - "Grande Grammaire du français — ordre des mots et types de phrases"
-  - "French Grammar and Usage, 5th ed. (2025)"
-  - "Académie française — Questions de langue"
+sources: ["Grande Grammaire du français — ordre des mots et types de phrases", "French Grammar and Usage, 5th ed. (2025)", "Académie française — Questions de langue"]
 formula: true
 toc: true
 featured: false
