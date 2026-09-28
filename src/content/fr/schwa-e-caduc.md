@@ -3,7 +3,6 @@ title_uk: "Schwa та e caduc"
 title_fr: "Le schwa et le e caduc"
 description_uk: "Французький schwa, його варіативна реалізація та роль у зв'язному мовленні."
 category: "Фонологія, графіка і вимова"
-canonical_ids: ["FR-027"]
 level: "B1"
 depth: "high"
 register: "neutral"
