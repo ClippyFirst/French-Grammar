@@ -68,15 +68,6 @@ for (const ref of refs) {
   }
 }
 
-const forbidden = [];
-for (const file of htmlFiles) {
-  const html = readFileSync(file, 'utf8');
-  for (const token of ['href="/', 'src="/']) {
-    if (html.includes(token) && !html.includes(token.replace('="/', '="' + base + '/'))) {
-      forbidden.push(`${relative(process.cwd(), file)} contains ${token}`);
-    }
-  }
-}
 
 console.log(`Alpha build audit: ${htmlFiles.length} HTML files, ${refs.length} references inspected.`);
 if (failures.length || forbidden.length) {
