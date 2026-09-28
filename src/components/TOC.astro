@@ -1,15 +1,11 @@
 ---
 const { items } = Astro.props;
 ---
-<!--
-  props: items: [{ id: string, text: string }]
-  TOC (без JS) — якірні посилань на заголовки.
--->
 {
   items?.length
     ? (
         <nav class="toc" aria-label="Зміст сторінки">
-                    <h2 class="toc-title">На цій сторінці</h2>
+          <h2 class="toc-title">На цій сторінці</h2>
           <ul>
             {items.map((it) => (
               <li><a href={`#${it.id}`}>{it.text}</a></li>
