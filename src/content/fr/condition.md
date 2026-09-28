@@ -32,12 +32,12 @@ tags: []
 
 ## Швидко
 
-Найважливіша система будується навколо **si**:
+Найважливіша система будується навколо §§MDEMPH0§§:
 
-> **Si tu viens, je serai content.**  
+> §§MDEMPH0§§  
 > Якщо ти прийдеш, я буду радий.
 
-Умовні моделі мають власні закономірності. Час після **si** не визначається механічним перекладом українського «якщо».
+Умовні моделі мають власні закономірності. Час після §§MDEMPH0§§ не визначається механічним перекладом українського «якщо».
 
 ## Формула
 
@@ -49,60 +49,60 @@ tags: []
 
 ## Можлива умова
 
-> **Si j'ai le temps, je viendrai.**  
+> §§MDEMPH0§§  
 > Якщо матиму час, я прийду.
 
-> **Si tu veux, on peut partir maintenant.**  
+> §§MDEMPH0§§  
 > Якщо хочеш, можемо вирушати зараз.
 
 Умова залишається відкритою.
 
 ## Гіпотетична ситуація
 
-**si + imparfait → conditionnel présent**
+§§MDEMPH0§§
 
-> **Si j'avais plus de temps, je voyagerais davantage.**  
+> §§MDEMPH0§§  
 > Якби я мав більше часу, я б більше подорожував.
 
-❌ *Si j'aurais plus de temps...*
+❌ §§MDEMPH0§§
 
-У стандартній моделі conditionnel не ставиться безпосередньо після **si**.
+У стандартній моделі conditionnel не ставиться безпосередньо після §§MDEMPH0§§.
 
 ## Нереальна умова в минулому
 
-**si + plus-que-parfait → conditionnel passé**
+§§MDEMPH0§§
 
-> **Si j'avais su, je serais venu.**  
+> §§MDEMPH0§§  
 > Якби я знав, я б прийшов.
 
 Йдеться про минулу ситуацію, яка вже не може бути змінена.
 
 ## Інші засоби
 
-**à condition que + subjonctif**
+§§MDEMPH0§§
 
-> **Tu peux venir à condition que tu sois à l'heure.**  
+> §§MDEMPH0§§  
 > Ти можеш прийти за умови, що будеш вчасно.
 
-**à moins que + subjonctif**
+§§MDEMPH0§§
 
-> **Je viendrai à moins qu'il ne pleuve.**  
+> §§MDEMPH0§§  
 > Я прийду, якщо тільки не буде дощу.
 
-**dans le cas où + conditionnel**
+§§MDEMPH0§§
 
-> **Dans le cas où vous auriez besoin d'aide, appelez-nous.**  
+> §§MDEMPH0§§  
 > У разі, якщо вам знадобиться допомога, зателефонуйте нам.
 
 ## Типові помилки
 
-❌ *Si j'aurais le temps, je viendrais.*  
-✅ **Si j'avais le temps, je viendrais.**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
-❌ *Si j'aurais su, je serais venu.*  
-✅ **Si j'avais su, je serais venu.**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
-→ Не переносіть conditionnel у частину з **si** в стандартній умовній моделі.
+→ Не переносіть conditionnel у частину з §§MDEMPH0§§ в стандартній умовній моделі.
 
 ## Пов'язані теми
 

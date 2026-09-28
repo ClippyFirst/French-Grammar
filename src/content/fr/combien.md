@@ -26,29 +26,29 @@ tags: []
 ---
 # Combien
 
-**Combien** питає про кількість або міру.
+§§MDEMPH0§§ питає про кількість або міру.
 
-> **Combien de livres as-tu ?**
-> **Combien ça coûte ?**
-> **Combien de temps reste-t-il ?**
+> §§MDEMPH0§§
+> §§MDEMPH0§§
+> §§MDEMPH0§§
 
 ## Combien de + nom
 
-Після **combien** перед іменником використовується **de**:
+Після §§MDEMPH0§§ перед іменником використовується §§MDEMPH1§§:
 
-> **combien de personnes**
-> **combien de jours**
+> §§MDEMPH0§§
+> §§MDEMPH0§§
 
 Не:
 
-> *combien des personnes*
+> §§MDEMPH0§§
 
 як загальна модель питання про кількість.
 
 ## Ступінь
 
-У деяких контекстах **combien** питає про міру ознаки:
+У деяких контекстах §§MDEMPH0§§ питає про міру ознаки:
 
-> **Combien de temps as-tu attendu ?**
+> §§MDEMPH0§§
 
 Значення визначається іменником або конструкцією, яку воно модифікує.

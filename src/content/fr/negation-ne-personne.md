@@ -26,24 +26,24 @@ tags: []
 ---
 # ne ... personne
 
-**Ne ... personne** означає відсутність особи:
+§§MDEMPH0§§ означає відсутність особи:
 
-> **Je ne vois personne.**
-> **Elle n'a rencontré personne.**
+> §§MDEMPH0§§
+> §§MDEMPH0§§
 
 У складеному часі:
 
-> **Je n'ai vu personne.**
+> §§MDEMPH0§§
 
-На відміну від **rien**, **personne** може бути підметом:
+На відміну від §§MDEMPH0§§, §§MDEMPH1§§ може бути підметом:
 
-> **Personne ne vient.**
+> §§MDEMPH0§§
 
-У такій конструкції **personne** стоїть перед дієсловом, а **ne** — перед присудком.
+У такій конструкції §§MDEMPH0§§ стоїть перед дієсловом, а §§MDEMPH1§§ — перед присудком.
 
 Порівняйте:
 
-> **Je ne vois personne.**
-> **Personne ne me voit.**
+> §§MDEMPH0§§
+> §§MDEMPH0§§
 
-У першому реченні **personne** є додатком; у другому — підметом.
+У першому реченні §§MDEMPH0§§ є додатком; у другому — підметом.

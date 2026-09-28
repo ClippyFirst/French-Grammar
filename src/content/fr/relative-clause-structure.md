@@ -28,47 +28,47 @@ tags: []
 ---
 # Відносне речення: структура
 
-Відносне речення (*proposition relative*) є підрядною конструкцією, яка пов'язана з іменником або іншою номінальною групою — **antecedent**. Воно додає інформацію про цей референт або допомагає його ідентифікувати.
+Відносне речення (§§MDEMPH1§§) є підрядною конструкцією, яка пов'язана з іменником або іншою номінальною групою — §§MDEMPH0§§. Воно додає інформацію про цей референт або допомагає його ідентифікувати.
 
 ## Базова схема
 
-> **[Nom + relative]**
+> §§MDEMPH0§§
 
-> **J'ai lu le livre [que tu m'as recommandé].**  
+> §§MDEMPH0§§  
 > Я прочитав книжку, яку ти мені рекомендував.
 
-**Le livre** — antecedent, а **que tu m'as recommandé** — relative.
+§§MDEMPH0§§ — antecedent, а §§MDEMPH1§§ — relative.
 
 ## Relative pronoun
 
 Відносний займенник виконує синтаксичну функцію всередині підрядної частини:
 
-> **La femme qui parle est ma collègue.**
+> §§MDEMPH0§§
 
-**qui** є підметом дієслова **parle**.
+§§MDEMPH0§§ є підметом дієслова §§MDEMPH1§§.
 
-> **La femme que je vois est ma collègue.**
+> §§MDEMPH0§§
 
-**que** є прямим додатком до **vois**.
+§§MDEMPH0§§ є прямим додатком до §§MDEMPH1§§.
 
 Отже, вибір займенника визначається не лише іменником перед ним, а насамперед його функцією в relative.
 
 ## Antecedent
 
-> **Le projet dont nous parlons avance bien.**
+> §§MDEMPH0§§
 
-Antecedent — **le projet**. Relative **dont nous parlons** пов'язана з ним.
+Antecedent — §§MDEMPH0§§. Relative §§MDEMPH1§§ пов'язана з ним.
 
 Antecedent може бути людиною або предметом:
 
-> **la personne qui arrive**  
-> **le document qui arrive**
+> §§MDEMPH0§§  
+> §§MDEMPH0§§
 
 ## Relative без явно вираженого antecedent
 
-Французька також має конструкції з **ce qui, ce que, ce dont**:
+Французька також має конструкції з §§MDEMPH0§§:
 
-> **Je comprends ce que tu veux.**
+> §§MDEMPH0§§
 
 Тут немає звичайного іменника-antecedent перед relative.
 
@@ -82,15 +82,15 @@ Relative може:
 
 ## Типові помилки
 
-❌ Вибирати **qui / que** лише за тим, чи antecedent — людина.
+❌ Вибирати §§MDEMPH0§§ лише за тим, чи antecedent — людина.
 
 → Потрібно визначити синтаксичну функцію займенника.
 
-❌ **La personne que parle...**  
-✅ **La personne qui parle...**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
-❌ **Le livre qui je lis...**  
-✅ **Le livre que je lis...**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
 ## Пов'язані теми
 

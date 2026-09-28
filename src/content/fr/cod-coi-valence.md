@@ -32,24 +32,24 @@ tags: []
 
 Прямий додаток приєднується без прийменника:
 
-> **Je lis le livre.**
-> **J'attends le train.**
+> §§MDEMPH0§§
+> §§MDEMPH0§§
 
 ## COI
 
 Непрямий додаток вводиться прийменником:
 
-> **Je parle à Marie.**
-> **Je parle de ce problème.**
+> §§MDEMPH0§§
+> §§MDEMPH0§§
 
 ## Valence frame
 
 Порівняйте:
 
-> **dormir** — може не мати додатка;
-> **lire quelque chose** — модель із COD;
-> **répondre à quelqu'un** — модель із à;
-> **donner quelque chose à quelqu'un** — два комплементи.
+> §§MDEMPH0§§ — може не мати додатка;
+> §§MDEMPH0§§ — модель із COD;
+> §§MDEMPH0§§ — модель із à;
+> §§MDEMPH0§§ — два комплементи.
 
 Отже, дієслово визначає не лише значення, а й синтаксичну рамку.
 

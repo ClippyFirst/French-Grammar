@@ -28,90 +28,90 @@ tags: []
 ---
 # Où як відносний займенник
 
-У відносній конструкції **où** пов'язує антецедент із типовим значенням **місця** або **часу**. Вибір *où* визначається структурою relative, а не просто українським перекладом «де» чи «коли».
+У відносній конструкції §§MDEMPH0§§ пов'язує антецедент із типовим значенням §§MDEMPH1§§ або §§MDEMPH2§§. Вибір §§MDEMPH3§§ визначається структурою relative, а не просто українським перекладом «де» чи «коли».
 
 ## Швидка відповідь
 
-> **La ville où je suis né est petite.**  
+> §§MDEMPH0§§  
 > Місто, де я народився, невелике.
 
 Відновлення:
 
-> **Je suis né dans cette ville.**
+> §§MDEMPH0§§
 
 Для часу:
 
-> **Le jour où nous nous sommes rencontrés était mémorable.**
+> §§MDEMPH0§§
 
-→ **Nous nous sommes rencontrés ce jour-là.**
+→ §§MDEMPH0§§
 
-Тому *où* може стосуватися не лише простору.
+Тому §§MDEMPH0§§ може стосуватися не лише простору.
 
 ## 1. Місце
 
 Типові антецеденти:
 
-> **la ville où...**
+> §§MDEMPH0§§
 
-> **le pays où...**
+> §§MDEMPH0§§
 
-> **la maison où...**
+> §§MDEMPH0§§
 
-> **l'endroit où...**
+> §§MDEMPH0§§
 
-> **la région où...**
+> §§MDEMPH0§§
 
 Наприклад:
 
-> **La ville où elle travaille est près de la mer.**
+> §§MDEMPH0§§
 
-> **L'endroit où nous nous sommes rencontrés n'existe plus.**
+> §§MDEMPH0§§
 
 ## 2. Час
 
-*Où* також уживається після часових антецедентів:
+§§MDEMPH0§§ також уживається після часових антецедентів:
 
-> **le jour où...**
+> §§MDEMPH0§§
 
-> **l'année où...**
+> §§MDEMPH0§§
 
-> **la période où...**
+> §§MDEMPH0§§
 
-> **l'époque où...**
+> §§MDEMPH0§§
 
-> **le moment où...**
+> §§MDEMPH0§§
 
-> **L'année où je suis arrivé à Paris, il faisait très froid.**
+> §§MDEMPH0§§
 
-> **Le moment où elle a compris la situation a été décisif.**
+> §§MDEMPH0§§
 
 Український відповідник тут часто буде «коли», хоча французька форма та сама.
 
 ## 3. Où проти qui
 
-> **La ville qui accueille le festival est grande.**
+> §§MDEMPH0§§
 
-→ *la ville* є підметом *accueille*.
+→ §§MDEMPH0§§ є підметом §§MDEMPH1§§.
 
-> **La ville où le festival a lieu est grande.**
+> §§MDEMPH0§§
 
-→ фестиваль відбувається **в місті**.
+→ фестиваль відбувається §§MDEMPH0§§.
 
 Антецедент однаковий, але його функція різна.
 
 ## 4. Où проти que
 
-> **La ville que je visite est ancienne.**
+> §§MDEMPH0§§
 
-→ **Je visite la ville.**
+→ §§MDEMPH0§§
 
-Тут *ville* = COD.
+Тут §§MDEMPH0§§ = COD.
 
-> **La ville où je travaille est ancienne.**
+> §§MDEMPH0§§
 
-→ **Je travaille dans la ville.**
+→ §§MDEMPH0§§
 
-Тут *ville* = місце.
+Тут §§MDEMPH0§§ = місце.
 
 Отже, українське «місто, яке...» не визначає французьку форму.
 
@@ -119,17 +119,17 @@ tags: []
 
 Для місця можливі різні конструкції:
 
-> **La ville où j'habite.**
+> §§MDEMPH0§§
 
-> **La ville dans laquelle j'habite.**
+> §§MDEMPH0§§
 
-У другому варіанті прийменник *dans* явно виражений, а *laquelle* узгоджується з *ville*.
+У другому варіанті прийменник §§MDEMPH0§§ явно виражений, а §§MDEMPH1§§ узгоджується з §§MDEMPH2§§.
 
 Подібно:
 
-> **le pays où je travaille**
+> §§MDEMPH0§§
 
-> **le pays dans lequel je travaille**
+> §§MDEMPH0§§
 
 Обидві моделі можуть бути нормативними; вибір залежить від побудови речення та стилю.
 
@@ -137,54 +137,54 @@ tags: []
 
 Український «де» може перекладати різні французькі залежності.
 
-> **Le problème sur lequel nous travaillons.**
+> §§MDEMPH0§§
 
-Тут *problème* не є місцевим антецедентом. Французьке дієслово **travailler sur** визначає прийменникову конструкцію.
+Тут §§MDEMPH1§§ не є місцевим антецедентом. Французьке дієслово §§MDEMPH0§§ визначає прийменникову конструкцію.
 
 Тому не можна робити універсальне правило:
 
-> «українське де → *où*».
+> «українське де → §§MDEMPH0§§».
 
 ## 7. Особливість конструкцій із уже вираженим місцем
 
 Не дублюйте одну й ту саму місцеву залежність:
 
-❌ **C'est dans cet hôpital où il travaille.**
+❌ §§MDEMPH0§§
 
 У сучасній нормативній рекомендації Академії французької це вважається небажаним дублюванням місцевого компонента. Нормативні альтернативи:
 
-> **C'est dans cet hôpital qu'il travaille.**
+> §§MDEMPH0§§
 
-> **C'est l'hôpital où il travaille.**
+> §§MDEMPH0§§
 
 citeturn0search2
 
-Це хороший приклад того, чому *où* не слід механічно додавати до вже повністю вираженої місцевої групи.
+Це хороший приклад того, чому §§MDEMPH0§§ не слід механічно додавати до вже повністю вираженої місцевої групи.
 
 ## 8. Час: où та que в окремих виразах
 
-Для звичайного часового антецедента *où* є нормальною формою:
+Для звичайного часового антецедента §§MDEMPH0§§ є нормальною формою:
 
-> **le jour où je suis arrivé**
+> §§MDEMPH0§§
 
-> **l'époque où elle vivait à Paris**
+> §§MDEMPH0§§
 
-Але французька має окремі часові конструкції, де *que* є частиною іншої структури:
+Але французька має окремі часові конструкції, де §§MDEMPH0§§ є частиною іншої структури:
 
-> **maintenant qu'il est là**
+> §§MDEMPH0§§
 
-> **chaque fois que je le vois**
+> §§MDEMPH0§§
 
-> **la première fois que je l'ai rencontré**
+> §§MDEMPH0§§
 
-Тому правило «після будь-якого часу завжди *où*» також неправильне. Важливо визначити саму конструкцію. Академія окремо зазначає нормативні випадки *que* після виразів на кшталт *maintenant, chaque fois, la première fois*. citeturn0search6turn0search8
+Тому правило «після будь-якого часу завжди §§MDEMPH0§§» також неправильне. Важливо визначити саму конструкцію. Академія окремо зазначає нормативні випадки §§MDEMPH1§§ після виразів на кшталт §§MDEMPH2§§. citeturn0search6turn0search8
 
 ## 9. Український контраст
 
-> **la ville où j'habite**  
+> §§MDEMPH0§§  
 > місто, де я живу
 
-> **le jour où je suis arrivé**  
+> §§MDEMPH0§§  
 > день, коли я приїхав
 
 Одна французька форма відповідає різним українським словам залежно від значення.
@@ -193,50 +193,50 @@ tags: []
 
 ## 10. Типові помилки
 
-❌ **Le jour que je suis arrivé...**  
+❌ §§MDEMPH0§§  
 У звичайній сучасній конструкції:  
-✅ **Le jour où je suis arrivé...**
+✅ §§MDEMPH0§§
 
-❌ **La ville qui je travaille...**  
-✅ **La ville où je travaille.**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
-❌ **La ville que je travaille...**  
-✅ **La ville où je travaille.**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
-❌ **C'est dans cette ville où je travaille.**  
+❌ §§MDEMPH0§§  
 У відповідній конструкції:  
-✅ **C'est dans cette ville que je travaille.**
+✅ §§MDEMPH0§§
 
 ## 11. Алгоритм
 
 1. Знайдіть антецедент.
 2. Відновіть просте речення.
 3. Перевірте, чи антецедент має просторове або часове значення.
-4. Якщо це місце/час у відносній структурі — перевірте *où*.
-5. Якщо антецедент є підметом — *qui*.
-6. Якщо COD — *que*.
-7. Якщо є лексичне прийменникове керування — перевірте *lequel* та інші форми.
+4. Якщо це місце/час у відносній структурі — перевірте §§MDEMPH0§§.
+5. Якщо антецедент є підметом — §§MDEMPH0§§.
+6. Якщо COD — §§MDEMPH0§§.
+7. Якщо є лексичне прийменникове керування — перевірте §§MDEMPH0§§ та інші форми.
 8. Перевірте, чи місцевий компонент уже не виражений окремою прийменниковою групою.
 
 ## Мінітест
 
-1. **La ville ___ je suis né est petite.**
-2. **La ville ___ j'ai visitée est petite.**
-3. **La ville ___ accueille le festival est petite.**
-4. **Le jour ___ nous sommes partis était froid.**
-5. **Le projet sur ___ nous travaillons est complexe.**
+1. §§MDEMPH0§§
+2. §§MDEMPH0§§
+3. §§MDEMPH0§§
+4. §§MDEMPH0§§
+5. §§MDEMPH0§§
 
-**Відповіді:** 1 *où*; 2 *que*; 3 *qui*; 4 *où*; 5 *lequel* → *sur lequel*.
+§§MDEMPH0§§ 1 §§MDEMPH1§§; 2 §§MDEMPH2§§; 3 §§MDEMPH3§§; 4 §§MDEMPH4§§; 5 §§MDEMPH5§§ → §§MDEMPH6§§.
 
 ## Короткий висновок
 
-> **Où** у relative типово пов'язує антецедент із місцем або часом.
+> §§MDEMPH0§§ у relative типово пов'язує антецедент із місцем або часом.
 
 Найкращий тест — відновити просте речення:
 
-> **Je vis dans cette ville → la ville où je vis.**
+> §§MDEMPH0§§
 
-> **Nous sommes partis ce jour-là → le jour où nous sommes partis.**
+> §§MDEMPH0§§
 
 ## Пов'язані теми
 

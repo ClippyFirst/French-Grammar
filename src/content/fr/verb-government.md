@@ -32,23 +32,23 @@ tags: []
 
 Порівняйте:
 
-> **attendre quelqu'un**
-> **répondre à quelqu'un**
-> **parler de quelque chose**
+> §§MDEMPH0§§
+> §§MDEMPH0§§
+> §§MDEMPH0§§
 
 Три дієслова мають різні моделі.
 
 ## 2. Керування може бути частиною значення
 
-> **penser à quelque chose**
-> **penser que + proposition**
+> §§MDEMPH0§§
+> §§MDEMPH0§§
 
 Одна лексема допускає різні типи доповнення, тому словниковий запис має фіксувати конструкцію, а не лише переклад.
 
 ## 3. Два додатки
 
-> **donner quelque chose à quelqu'un**
-> **parler à quelqu'un de quelque chose**
+> §§MDEMPH0§§
+> §§MDEMPH0§§
 
 Кожен компонент має власну синтаксичну роль і модель зв'язку з дієсловом.
 
@@ -56,15 +56,15 @@ tags: []
 
 Корисний формат:
 
-**verbe + construction + exemple**
+§§MDEMPH0§§
 
 Наприклад:
 
-**réussir à + infinitif** → *Elle réussit à comprendre.*
+§§MDEMPH0§§ → §§MDEMPH1§§
 
-**avoir besoin de + nom** → *J'ai besoin de temps.*
+§§MDEMPH0§§ → §§MDEMPH1§§
 
-**attendre + COD** → *J'attends le bus.*
+§§MDEMPH0§§ → §§MDEMPH1§§
 
 ## 5. Український переклад не є шаблоном
 

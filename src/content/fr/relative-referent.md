@@ -26,7 +26,7 @@ tags: []
 ---
 ## Швидка відповідь
 
-**Референт** — те, на що посилається відносний елемент. Щоб правильно вибрати *qui, que, dont, où, lequel* та його форми, треба розрізняти:
+§§MDEMPH0§§ — те, на що посилається відносний елемент. Щоб правильно вибрати §§MDEMPH1§§ та його форми, треба розрізняти:
 
 1. антецедент — елемент, з яким relative пов’язаний;
 2. референт — сутність, яку він позначає;
@@ -34,30 +34,30 @@ tags: []
 
 ## 1. Простий антецедент
 
-*Le livre que je lis...*
+§§MDEMPH0§§
 
-Антецедент — *le livre*. У підрядній частині relative відповідає COD:
+Антецедент — §§MDEMPH0§§. У підрядній частині relative відповідає COD:
 
-*je lis le livre*.
+§§MDEMPH0§§.
 
 ## 2. Функція важливіша за відстань
 
-*La proposition du directeur que le comité a rejetée...*
+§§MDEMPH0§§
 
-Тут треба визначити, до якого компонента належить *que* та як організовано структуру речення. Не можна вибирати antecedent лише за найближчим іменником.
+Тут треба визначити, до якого компонента належить §§MDEMPH0§§ та як організовано структуру речення. Не можна вибирати antecedent лише за найближчим іменником.
 
 ## 3. Lequel і рід/число
 
-*la maison dans laquelle...*  
-*les maisons dans lesquelles...*
+§§MDEMPH0§§  
+§§MDEMPH0§§
 
-Форма **laquelle/lesquelles** відображає рід і число референта.
+Форма §§MDEMPH0§§ відображає рід і число референта.
 
 ## 4. Неоднозначність
 
 У довгих реченнях можливі два потенційні antecedents:
 
-*Le rapport du professeur sur le projet qui est controversé...*
+§§MDEMPH0§§
 
 Тут без контексту не завжди очевидно, що саме є controversé.
 
@@ -67,9 +67,9 @@ tags: []
 
 Relative може стосуватися цілого попереднього твердження:
 
-*Il a refusé, ce qui nous a surpris.*
+§§MDEMPH0§§
 
-Тут **ce qui** стосується попередньої ситуації, а не одного іменника.
+Тут §§MDEMPH0§§ стосується попередньої ситуації, а не одного іменника.
 
 ## 6. Контраст з українською
 
@@ -82,12 +82,12 @@ Relative може стосуватися цілого попереднього �
 3. Віднови пропущений компонент.
 4. Визнач його функцію.
 5. Вибери relative.
-6. Перевір узгодження *lequel*.
+6. Перевір узгодження §§MDEMPH0§§.
 
 ## Мінітест
 
-*Le livre que je lis...* → antecedent *livre*, COD.
+§§MDEMPH0§§ → antecedent §§MDEMPH1§§, COD.
 
-*La femme qui parle...* → antecedent *femme*, subject.
+§§MDEMPH0§§ → antecedent §§MDEMPH1§§, subject.
 
-*Le livre dont je parle...* → antecedent *livre*, dépendance en *de*.
+§§MDEMPH0§§ → antecedent §§MDEMPH1§§, dépendance en §§MDEMPH2§§.

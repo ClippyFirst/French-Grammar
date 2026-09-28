@@ -28,189 +28,189 @@ variant: []
 
 ## Швидка відповідь
 
-Французьке порівняння треба будувати відповідно до того, **що саме порівнюється**:
+Французьке порівняння треба будувати відповідно до того, §§MDEMPH0§§:
 
-- якість предмета → **plus / moins / aussi + adjectif + que**;
-- спосіб дії → **plus / moins / aussi + adverbe + que**;
-- кількість → **plus / moins / autant + de + nom + que**;
-- найвищий ступінь → **le / la / les + plus / moins + ...**.
+- якість предмета → §§MDEMPH0§§;
+- спосіб дії → §§MDEMPH0§§;
+- кількість → §§MDEMPH0§§;
+- найвищий ступінь → §§MDEMPH0§§.
 
 Найважливіший лексичний контраст:
 
-- **meilleur** — прикметник;
-- **mieux** — прислівник.
+- §§MDEMPH0§§ — прикметник;
+- §§MDEMPH0§§ — прислівник.
 
 ## Comparatif de supériorité
 
 ### Прикметник
 
-**plus + adjectif + que**
+§§MDEMPH0§§
 
-> **Paul est plus grand que Marc.**  
+> §§MDEMPH0§§  
 > Поль вищий за Марка.
 
-> **Cette solution est plus simple que l'autre.**  
+> §§MDEMPH0§§  
 > Це рішення простіше за інше.
 
 ### Прислівник
 
-**plus + adverbe + que**
+§§MDEMPH0§§
 
-> **Elle travaille plus vite que moi.**  
+> §§MDEMPH0§§  
 > Вона працює швидше за мене.
 
 ### Іменник / кількість
 
-**plus de + nom + que**
+§§MDEMPH0§§
 
-> **J'ai plus de temps que toi.**  
+> §§MDEMPH0§§  
 > У мене більше часу, ніж у тебе.
 
 ## Comparatif d'égalité
 
 ### Прикметник / прислівник
 
-**aussi + adjectif/adverbe + que**
+§§MDEMPH0§§
 
-> **Elle est aussi attentive que son frère.**
+> §§MDEMPH0§§
 
-> **Il travaille aussi vite que moi.**
+> §§MDEMPH0§§
 
 ### Кількість
 
-**autant de + nom + que**
+§§MDEMPH0§§
 
-> **Nous avons autant de temps que vous.**
+> §§MDEMPH0§§
 
-Не замінюйте **autant de** на **aussi de**.
+Не замінюйте §§MDEMPH0§§ на §§MDEMPH1§§.
 
 ## Comparatif d'infériorité
 
-- **moins + adjectif + que**
-- **moins + adverbe + que**
-- **moins de + nom + que**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
-> **Ce livre est moins intéressant que l'autre.**
+> §§MDEMPH0§§
 
-> **Il travaille moins vite que moi.**
+> §§MDEMPH0§§
 
-> **J'ai moins de temps que toi.**
+> §§MDEMPH0§§
 
 ## Superlatif
 
 Для найвищого/найнижчого ступеня:
 
-**le / la / les + plus / moins + adjectif**
+§§MDEMPH0§§
 
-> **C'est la plus grande ville de la région.**
+> §§MDEMPH0§§
 
-> **Ce sont les moins chers.**
+> §§MDEMPH0§§
 
 Артикль зазвичай узгоджується з іменником, до якого належить прикметник.
 
-Але є важлива конструкційна тонкість: у висловах, де одна й та сама сутність порівнюється із самою собою в різних станах або моментах, артикль може залишатися **le** незалежно від роду:
+Але є важлива конструкційна тонкість: у висловах, де одна й та сама сутність порівнюється із самою собою в різних станах або моментах, артикль може залишатися §§MDEMPH0§§ незалежно від роду:
 
-> **C'est le matin que la ville est le plus calme.**
+> §§MDEMPH0§§
 
 Тут йдеться про «найспокійніший стан» міста, а не про вибір одного міста серед інших.
 
 ## Meilleur vs mieux
 
-**meilleur / meilleure / meilleurs / meilleures** — прикметник:
+§§MDEMPH0§§ — прикметник:
 
-> **C'est une meilleure solution.**
+> §§MDEMPH0§§
 
-> **Nous avons de meilleurs résultats.**
+> §§MDEMPH0§§
 
-**mieux** — прислівник:
+§§MDEMPH0§§ — прислівник:
 
-> **Il travaille mieux.**
+> §§MDEMPH0§§
 
-> **Elle chante mieux que moi.**
+> §§MDEMPH0§§
 
 Швидкий тест:
 
-- якщо слово характеризує **іменник** → *meilleur*;
-- якщо характеризує **дію / спосіб** → *mieux*.
+- якщо слово характеризує §§MDEMPH0§§ → §§MDEMPH1§§;
+- якщо характеризує §§MDEMPH0§§ → §§MDEMPH1§§.
 
 Порівняйте:
 
-> **un meilleur résultat** — кращий результат;
+> §§MDEMPH0§§ — кращий результат;
 
-> **un résultat obtenu plus vite** — результат, отриманий швидше;
+> §§MDEMPH0§§ — результат, отриманий швидше;
 
-> **il travaille mieux** — він працює краще.
+> §§MDEMPH0§§ — він працює краще.
 
 ## Pire vs plus mauvais
 
 Обидві моделі існують:
 
-> **un pire résultat**
+> §§MDEMPH0§§
 
-> **un résultat plus mauvais**
+> §§MDEMPH0§§
 
-**pire** має власну лексичну модель і не слід вважати, що воно автоматично замінює кожен випадок **plus mauvais**.
+§§MDEMPH0§§ має власну лексичну модель і не слід вважати, що воно автоматично замінює кожен випадок §§MDEMPH1§§.
 
 Так само:
 
-> **C'est pire.**
+> §§MDEMPH0§§
 
-> **C'est plus mauvais que prévu.**
+> §§MDEMPH0§§
 
-Вибір залежить від конструкції та значення; не вчіть *pire = будь-який plus mauvais*.
+Вибір залежить від конструкції та значення; не вчіть §§MDEMPH0§§.
 
 ## Заперечне порівняння
 
 Порівняльні конструкції можуть входити до заперечення:
 
-> **Il n'est pas plus grand que son frère.**
+> §§MDEMPH0§§
 
-Це не тотожне твердженню **Il est moins grand que son frère**: перше лише заперечує перевагу за зростом, друге стверджує нижчий ступінь.
+Це не тотожне твердженню §§MDEMPH0§§: перше лише заперечує перевагу за зростом, друге стверджує нижчий ступінь.
 
 Це важливий логічний контраст для перекладу.
 
 ## Український контраст
 
-Українські форми **більший / менший / кращий / краще** не визначають французьку конструкцію автоматично.
+Українські форми §§MDEMPH0§§ не визначають французьку конструкцію автоматично.
 
 Порівняйте:
 
-- **краща книжка** → **un meilleur livre**;
-- **він пише краще** → **il écrit mieux**;
-- **більше часу** → **plus de temps**;
-- **так само швидко** → **aussi vite**;
-- **стільки ж часу** → **autant de temps**.
+- §§MDEMPH0§§ → §§MDEMPH1§§;
+- §§MDEMPH0§§ → §§MDEMPH1§§;
+- §§MDEMPH0§§ → §§MDEMPH1§§;
+- §§MDEMPH0§§ → §§MDEMPH1§§;
+- §§MDEMPH0§§ → §§MDEMPH1§§.
 
 Тому перед вибором форми визначте граматичну категорію слова, яке порівнюється.
 
 ## Типові помилки
 
-❌ **plus meilleur**
+❌ §§MDEMPH0§§
 
-✅ **meilleur** або інша потрібна порівняльна конструкція.
+✅ §§MDEMPH0§§ або інша потрібна порівняльна конструкція.
 
-❌ **aussi de temps**
+❌ §§MDEMPH0§§
 
-✅ **autant de temps**.
+✅ §§MDEMPH0§§.
 
-❌ **il travaille meilleur**
+❌ §§MDEMPH0§§
 
-✅ **il travaille mieux**.
+✅ §§MDEMPH0§§.
 
-❌ Вважати, що **le plus** завжди означає «най-» із незмінним артиклем.
+❌ Вважати, що §§MDEMPH0§§ завжди означає «най-» із незмінним артиклем.
 
 ✅ Перевірте, чи йдеться про порівняння різних референтів, чи про найвищий ступінь властивості однієї сутності.
 
 ## Практична перевірка
 
-1. Paul est ___ grand que Marc. (**plus / mieux**)
-2. Elle travaille ___ vite que moi. (**plus / meilleure**)
-3. Nous avons ___ de temps que vous. (**autant / aussi**)
-4. C'est une ___ solution. (**meilleure / mieux**)
-5. Il chante ___. (**mieux / meilleur**)
-6. C'est la ___ grande ville. (**plus / mieux**)
+1. Paul est §§MDEMPH1§§ grand que Marc. (§§MDEMPH0§§)
+2. Elle travaille §§MDEMPH1§§ vite que moi. (§§MDEMPH0§§)
+3. Nous avons §§MDEMPH1§§ de temps que vous. (§§MDEMPH0§§)
+4. C'est une §§MDEMPH1§§ solution. (§§MDEMPH0§§)
+5. Il chante §§MDEMPH1§§. (§§MDEMPH0§§)
+6. C'est la §§MDEMPH1§§ grande ville. (§§MDEMPH0§§)
 
-**Відповіді:** 1. **plus**; 2. **plus**; 3. **autant**; 4. **meilleure**; 5. **mieux**; 6. **plus**.
+§§MDEMPH0§§ 1. §§MDEMPH1§§; 2. §§MDEMPH2§§; 3. §§MDEMPH3§§; 4. §§MDEMPH4§§; 5. §§MDEMPH5§§; 6. §§MDEMPH6§§.
 
 ## Куди далі
 
@@ -224,132 +224,132 @@ variant: []
 
 ## Система трьох відношень
 
-У французькому **comparatif** вибір форми залежить від того, що саме порівнюється:
+У французькому §§MDEMPH0§§ вибір форми залежить від того, що саме порівнюється:
 
 | Що порівнюється | Перевага | Рівність | Нижчий ступінь |
 |---|---|---|---|
-| прикметник | **plus + adjectif + que** | **aussi + adjectif + que** | **moins + adjectif + que** |
-| прислівник | **plus + adverbe + que** | **aussi + adverbe + que** | **moins + adverbe + que** |
-| кількість | **plus de + nom + que** | **autant de + nom + que** | **moins de + nom + que** |
+| прикметник | §§MDEMPH0§§ | §§MDEMPH1§§ | §§MDEMPH2§§ |
+| прислівник | §§MDEMPH0§§ | §§MDEMPH1§§ | §§MDEMPH2§§ |
+| кількість | §§MDEMPH0§§ | §§MDEMPH1§§ | §§MDEMPH2§§ |
 
-Тому **aussi** і **autant** не є взаємозамінними.
+Тому §§MDEMPH0§§ і §§MDEMPH1§§ не є взаємозамінними.
 
-> **Paul est aussi grand que Marc.**  
+> §§MDEMPH0§§  
 > Поль такий самий високий, як Марк.
 
-> **Paul travaille aussi vite que Marc.**  
+> §§MDEMPH0§§  
 > Поль працює так само швидко, як Марк.
 
-> **Paul a autant de travail que Marc.**  
+> §§MDEMPH0§§  
 > У Поля стільки ж роботи, скільки в Марка.
 
 ## 1. Plus, moins, aussi + adjectif
 
 Прикметник зберігає звичайне узгодження:
 
-> **une solution plus simple**
+> §§MDEMPH0§§
 
-> **des solutions plus simples**
+> §§MDEMPH0§§
 
-> **une méthode moins efficace**
+> §§MDEMPH0§§
 
-> **des méthodes moins efficaces**
+> §§MDEMPH0§§
 
-**plus, moins, aussi** не узгоджуються. Узгоджується прикметник.
+§§MDEMPH0§§ не узгоджуються. Узгоджується прикметник.
 
 Порівняйте:
 
-> **Cette solution est plus simple que l'autre.**
+> §§MDEMPH0§§
 
-> **Ces solutions sont plus simples que les autres.**
+> §§MDEMPH0§§
 
 ## 2. Plus, moins, aussi + adverbe
 
 Прислівник не узгоджується:
 
-> **Elle court plus vite que moi.**
+> §§MDEMPH0§§
 
-> **Elles courent plus vite que moi.**
+> §§MDEMPH0§§
 
-Форма **vite** залишається незмінною.
+Форма §§MDEMPH0§§ залишається незмінною.
 
-> **Il travaille aussi efficacement que sa collègue.**
+> §§MDEMPH0§§
 
-Тут **aussi** модифікує прислівник **efficacement**, а не підмет.
+Тут §§MDEMPH0§§ модифікує прислівник §§MDEMPH1§§, а не підмет.
 
 ## 3. Plus de, moins de, autant de + nom
 
-Якщо порівнюється кількість, потрібен **de**:
+Якщо порівнюється кількість, потрібен §§MDEMPH0§§:
 
-> **J'ai plus de temps que toi.**
+> §§MDEMPH0§§
 
-> **J'ai moins de temps que toi.**
+> §§MDEMPH0§§
 
-> **J'ai autant de temps que toi.**
+> §§MDEMPH0§§
 
-Перед голосним або німим **h**:
+Перед голосним або німим §§MDEMPH0§§:
 
-> **plus d'argent**
+> §§MDEMPH0§§
 
-> **moins d'énergie**
+> §§MDEMPH0§§
 
-> **autant d'expérience**
+> §§MDEMPH0§§
 
-Форма **aussi de** для цієї конструкції не є стандартною заміною **autant de**.
+Форма §§MDEMPH0§§ для цієї конструкції не є стандартною заміною §§MDEMPH1§§.
 
 ## 4. Роль que
 
-У звичайній конструкції другий полюс порівняння вводиться **que**:
+У звичайній конструкції другий полюс порівняння вводиться §§MDEMPH0§§:
 
-> **plus grand que**
+> §§MDEMPH0§§
 
-> **moins rapidement que**
+> §§MDEMPH0§§
 
-> **aussi important que**
+> §§MDEMPH0§§
 
-> **plus de temps que**
+> §§MDEMPH0§§
 
-Не перекладайте механічно український прийменник; французьке **que** є частиною самої порівняльної моделі.
+Не перекладайте механічно український прийменник; французьке §§MDEMPH0§§ є частиною самої порівняльної моделі.
 
-Після **que** часто стоїть наголошений займенник:
+Після §§MDEMPH0§§ часто стоїть наголошений займенник:
 
-> **Il est plus grand que moi.**
+> §§MDEMPH0§§
 
-> **Elle travaille aussi vite que lui.**
+> §§MDEMPH0§§
 
-Порівняльна група може бути еліптичною: **que moi** за змістом відповідає повнішій структурі з дієсловом.
+Порівняльна група може бути еліптичною: §§MDEMPH0§§ за змістом відповідає повнішій структурі з дієсловом.
 
 ## 5. Aussi чи autant?
 
 Це один із найкорисніших діагностичних тестів.
 
-**Прикметник:**
+§§MDEMPH0§§
 
-> **Elle est aussi patiente que son frère.**
+> §§MDEMPH0§§
 
-**Прислівник:**
+§§MDEMPH0§§
 
-> **Elle travaille aussi patiemment que son frère.**
+> §§MDEMPH0§§
 
-**Іменник / кількість:**
+§§MDEMPH0§§
 
-> **Elle a autant de patience que son frère.**
+> §§MDEMPH0§§
 
 Отже:
 
-- **aussi + adjectif**
-- **aussi + adverbe**
-- **autant de + nom**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
 ## 6. Заперечення: n'est pas plus ≠ moins
 
 Порівняйте:
 
-> **Il n'est pas plus grand que Paul.**
+> §§MDEMPH0§§
 
 і:
 
-> **Il est moins grand que Paul.**
+> §§MDEMPH0§§
 
 Перше речення заперечує твердження про перевагу. Воно саме по собі не стверджує, що людина нижча: теоретично можливе й рівне значення.
 
@@ -361,90 +361,90 @@ variant: []
 
 Не плутайте одиничне порівняння:
 
-> **Paul est plus grand que Marc.**
+> §§MDEMPH0§§
 
 з поступовою зміною:
 
-> **Paul devient de plus en plus grand.**
+> §§MDEMPH0§§
 
-**plus... que** порівнює два полюси, тоді як **de plus en plus** виражає збільшення ступеня.
+§§MDEMPH0§§ порівнює два полюси, тоді як §§MDEMPH1§§ виражає збільшення ступеня.
 
 Аналогічно:
 
-> **de moins en moins**
+> §§MDEMPH0§§
 
-> **Elle travaille de moins en moins efficacement.**
+> §§MDEMPH0§§
 
 ## 8. Корелятивні plus... plus і moins... moins
 
 У конструкціях:
 
-> **Plus je travaille, plus j'apprends.**
+> §§MDEMPH0§§
 
-> **Plus il avance, moins il hésite.**
+> §§MDEMPH0§§
 
-> **Moins on attend, mieux c'est.**
+> §§MDEMPH0§§
 
-дві частини пов'язані між собою. Це вже не просте **plus X que Y**, а корелятивна конструкція зі зміною двох параметрів.
+дві частини пов'язані між собою. Це вже не просте §§MDEMPH0§§, а корелятивна конструкція зі зміною двох параметрів.
 
 Порівняйте:
 
-> **Il travaille plus que moi.**
+> §§MDEMPH0§§
 
 і:
 
-> **Plus il travaille, plus il apprend.**
+> §§MDEMPH0§§
 
 У першому реченні є два полюси одного порівняння. У другому встановлюється залежність між двома змінами.
 
 ## 9. Aussi... que possible
 
-> **Elle travaille aussi rapidement que possible.**
+> §§MDEMPH0§§
 
 Це не те саме, що:
 
-> **Elle travaille aussi rapidement que son collègue.**
+> §§MDEMPH0§§
 
-У першому випадку **que possible** означає «наскільки можливо» і не називає другого конкретного учасника порівняння.
+У першому випадку §§MDEMPH0§§ означає «наскільки можливо» і не називає другого конкретного учасника порівняння.
 
 Так само:
 
-> **Faites aussi attention que possible.**
+> §§MDEMPH0§§
 
-> **Travaillez aussi efficacement que possible.**
+> §§MDEMPH0§§
 
 ## 10. Plus і meilleur
 
-Звичайний прикметник утворює comparatif за допомогою **plus**:
+Звичайний прикметник утворює comparatif за допомогою §§MDEMPH0§§:
 
-> **plus intéressant**
+> §§MDEMPH0§§
 
-Але **bon** має спеціальну форму:
+Але §§MDEMPH0§§ має спеціальну форму:
 
-> **meilleur**
+> §§MDEMPH0§§
 
-> **Ce livre est meilleur que l'autre.**
+> §§MDEMPH0§§
 
 Не:
 
-> ❌ *Ce livre est plus bon que l'autre.*
+> ❌ §§MDEMPH0§§
 
-Якщо порівнюється спосіб дії, використовується **mieux**:
+Якщо порівнюється спосіб дії, використовується §§MDEMPH0§§:
 
-> **Il travaille mieux que moi.**
+> §§MDEMPH0§§
 
 Тому:
 
-- **meilleur** → прикметник;
-- **mieux** → прислівник.
+- §§MDEMPH0§§ → прикметник;
+- §§MDEMPH0§§ → прислівник.
 
 ## 11. Pire та plus mauvais
 
-Для **mauvais** існують форми **pire** і **plus mauvais**, але вони не повинні механічно вважатися взаємозамінними в кожному контексті.
+Для §§MDEMPH0§§ існують форми §§MDEMPH1§§ і §§MDEMPH2§§, але вони не повинні механічно вважатися взаємозамінними в кожному контексті.
 
-> **La situation est pire qu'avant.**
+> §§MDEMPH0§§
 
-> **un résultat plus mauvais que prévu**
+> §§MDEMPH0§§
 
 У навчальному аналізі потрібно враховувати не лише словниковий переклад «гірший», а й конструкцію.
 
@@ -452,368 +452,368 @@ variant: []
 
 Порівняльна група може бути еліптичною:
 
-> **Cette solution est plus efficace que l'autre.**
+> §§MDEMPH0§§
 
 У коротшій відповіді:
 
-> **Cette solution est plus efficace.**
+> §§MDEMPH0§§
 
 Зміст порівняння може бути відновлений із контексту.
 
 Так само:
 
-> **Il travaille plus que moi.**
+> §§MDEMPH0§§
 
-Тут **plus** не обов'язково означає «більше [чогось]» як кількість іменника. Воно може порівнювати обсяг або інтенсивність дії залежно від контексту.
+Тут §§MDEMPH0§§ не обов'язково означає «більше [чогось]» як кількість іменника. Воно може порівнювати обсяг або інтенсивність дії залежно від контексту.
 
 ## 13. Українсько-французький контраст
 
-Українське **так само** може відповідати різним французьким моделям:
+Українське §§MDEMPH0§§ може відповідати різним французьким моделям:
 
-> **так само швидко** → **aussi vite**
+> §§MDEMPH0§§ → §§MDEMPH1§§
 
-> **стільки ж часу** → **autant de temps**
+> §§MDEMPH0§§ → §§MDEMPH1§§
 
-Українське **краще** також розгалужується:
+Українське §§MDEMPH0§§ також розгалужується:
 
-> **кращий результат** → **un meilleur résultat**
+> §§MDEMPH0§§ → §§MDEMPH1§§
 
-> **працює краще** → **travaille mieux**
+> §§MDEMPH0§§ → §§MDEMPH1§§
 
 Тому спочатку визначайте граматичну категорію, а потім вибирайте французьку форму.
 
 ## 14. Алгоритм
 
 1. Визначте, що порівнюється.
-2. Якщо це властивість → **plus / moins / aussi + adjectif + que**.
-3. Якщо це спосіб дії → **plus / moins / aussi + adverbe + que**.
-4. Якщо це кількість → **plus / moins / autant + de + nom + que**.
-5. Перевірте спеціальні форми **meilleur, mieux, pire**.
-6. Якщо бачите **de plus en plus**, **de moins en moins**, **plus... plus** або **plus... moins**, аналізуйте всю конструкцію.
-7. Якщо порівняння заперечене, не ототожнюйте **ne... pas plus** з **moins**.
+2. Якщо це властивість → §§MDEMPH0§§.
+3. Якщо це спосіб дії → §§MDEMPH0§§.
+4. Якщо це кількість → §§MDEMPH0§§.
+5. Перевірте спеціальні форми §§MDEMPH0§§.
+6. Якщо бачите §§MDEMPH0§§, §§MDEMPH1§§, §§MDEMPH2§§ або §§MDEMPH3§§, аналізуйте всю конструкцію.
+7. Якщо порівняння заперечене, не ототожнюйте §§MDEMPH0§§ з §§MDEMPH1§§.
 
 ## Мінімальні пари
 
-- **aussi grand que** — такий самий високий / великий;
-- **aussi vite que** — так само швидко;
-- **autant de temps que** — стільки ж часу;
-- **plus grand que** — вищий / більший;
-- **plus vite que** — швидше;
-- **plus de temps que** — більше часу;
-- **moins grand que** — нижчий / менший;
-- **moins vite que** — повільніше;
-- **moins de temps que** — менше часу.
+- §§MDEMPH0§§ — такий самий високий / великий;
+- §§MDEMPH0§§ — так само швидко;
+- §§MDEMPH0§§ — стільки ж часу;
+- §§MDEMPH0§§ — вищий / більший;
+- §§MDEMPH0§§ — швидше;
+- §§MDEMPH0§§ — більше часу;
+- §§MDEMPH0§§ — нижчий / менший;
+- §§MDEMPH0§§ — повільніше;
+- §§MDEMPH0§§ — менше часу.
 
 ## Вправи
 
 Виберіть правильну форму:
 
-1. **Paul est ___ grand que Marc.**  
+1. §§MDEMPH0§§  
    a) aussi b) autant
 
-2. **Paul travaille ___ vite que Marc.**  
+2. §§MDEMPH0§§  
    a) aussi b) autant
 
-3. **Paul a ___ de temps que Marc.**  
+3. §§MDEMPH0§§  
    a) aussi b) autant
 
-4. **Cette solution est ___ efficace que l'autre.**  
+4. §§MDEMPH0§§  
    a) plus b) plus de
 
-5. **Nous avons ___ d'expérience qu'eux.**  
+5. §§MDEMPH0§§  
    a) moins b) moins de
 
-6. **C'est une ___ solution.**  
+6. §§MDEMPH0§§  
    a) meilleure b) mieux
 
-7. **Il travaille ___.**  
+7. §§MDEMPH0§§  
    a) meilleur b) mieux
 
-**Відповіді:** 1 **aussi**; 2 **aussi**; 3 **autant**; 4 **plus**; 5 **moins**; 6 **meilleure**; 7 **mieux**.
+§§MDEMPH0§§ 1 §§MDEMPH1§§; 2 §§MDEMPH2§§; 3 §§MDEMPH3§§; 4 §§MDEMPH4§§; 5 §§MDEMPH5§§; 6 §§MDEMPH6§§; 7 §§MDEMPH7§§.
 
 
 # FR-561 — plus que, moins que, aussi que
 
 ## Швидка відповідь
 
-**plus que, moins que, aussi que** — порівняльні конструкції, у яких після **plus, moins, aussi** стоїть **que**. Вони можуть порівнювати не лише окремий прикметник чи прислівник, а й **цілу предикативну групу, кількість, міру, спосіб дії або загальний обсяг властивості**.
+§§MDEMPH0§§ — порівняльні конструкції, у яких після §§MDEMPH1§§ стоїть §§MDEMPH2§§. Вони можуть порівнювати не лише окремий прикметник чи прислівник, а й §§MDEMPH3§§.
 
 Базова схема:
 
-> **A + verbe + plus / moins / aussi + que + B**
+> §§MDEMPH0§§
 
 Наприклад:
 
-> **Paul travaille plus que Marc.**  
+> §§MDEMPH0§§  
 > Поль працює більше, ніж Марк.
 
-> **Paul travaille moins que Marc.**  
+> §§MDEMPH0§§  
 > Поль працює менше, ніж Марк.
 
-> **Paul travaille autant que Marc.**  
+> §§MDEMPH0§§  
 > Поль працює стільки ж, скільки Марк.
 
-Для **aussi** важливо розрізняти конструкцію з прикметником/прислівником:
+Для §§MDEMPH0§§ важливо розрізняти конструкцію з прикметником/прислівником:
 
-> **Paul est aussi grand que Marc.**
+> §§MDEMPH0§§
 
-> **Paul travaille aussi vite que Marc.**
+> §§MDEMPH0§§
 
-і конструкції, де порівнюється сама дія. Для кількісного значення нормативним відповідником є **autant que**, а не *aussi que*:
+і конструкції, де порівнюється сама дія. Для кількісного значення нормативним відповідником є §§MDEMPH0§§, а не §§MDEMPH1§§:
 
-> **Paul travaille autant que Marc.**
+> §§MDEMPH0§§
 
 ## 1. Plus que: «більше, ніж»
 
-**Plus que** може порівнювати дію або ступінь без повторення прикметника чи прислівника:
+§§MDEMPH0§§ може порівнювати дію або ступінь без повторення прикметника чи прислівника:
 
-> **Il travaille plus que moi.**
+> §§MDEMPH0§§
 
-> **Elle voyage plus que son frère.**
+> §§MDEMPH0§§
 
-> **Nous sortons plus qu'avant.**
+> §§MDEMPH0§§
 
-Значення конкретизується контекстом. **Plus** може стосуватися кількості, частоти, інтенсивності або обсягу дії.
+Значення конкретизується контекстом. §§MDEMPH0§§ може стосуватися кількості, частоти, інтенсивності або обсягу дії.
 
 Порівняйте:
 
-> **Il travaille plus que moi.**
+> §§MDEMPH0§§
 
 і:
 
-> **Il travaille plus rapidement que moi.**
+> §§MDEMPH0§§
 
 У першому випадку порівнюється загальний обсяг/міра роботи; у другому — саме швидкість виконання.
 
 ## 2. Moins que: «менше, ніж»
 
-> **Il travaille moins que moi.**
+> §§MDEMPH0§§
 
-> **Elle voyage moins qu'avant.**
+> §§MDEMPH0§§
 
-> **Nous dépensons moins que prévu.**
+> §§MDEMPH0§§
 
-Як і **plus que**, конструкція може бути контекстуально неповною: конкретний параметр не обов'язково названий.
+Як і §§MDEMPH0§§, конструкція може бути контекстуально неповною: конкретний параметр не обов'язково названий.
 
 Порівняйте:
 
-> **Il travaille moins.**
+> §§MDEMPH0§§
 
-> **Il travaille moins que son collègue.**
+> §§MDEMPH0§§
 
 Друга конструкція явно називає другий полюс порівняння.
 
 ## 3. Aussi que: важливе обмеження
 
-Не слід механічно будувати **aussi que** всюди, де українською можна сказати «так само, як».
+Не слід механічно будувати §§MDEMPH0§§ всюди, де українською можна сказати «так само, як».
 
 Якщо порівнюється прикметник:
 
-> **Il est aussi grand que son frère.**
+> §§MDEMPH0§§
 
 Якщо прислівник:
 
-> **Il court aussi vite que son frère.**
+> §§MDEMPH0§§
 
 Якщо загальна міра дії:
 
-> **Il travaille autant que son frère.**
+> §§MDEMPH0§§
 
-Отже, стандартна кількісна/міральна модель — **autant que**.
+Отже, стандартна кількісна/міральна модель — §§MDEMPH0§§.
 
-Форма **aussi que** самостійно не є універсальним еквівалентом **autant que**.
+Форма §§MDEMPH0§§ самостійно не є універсальним еквівалентом §§MDEMPH1§§.
 
 ## 4. Plus que та plus de
 
 Ці моделі не треба плутати.
 
-**Plus + adjectif/adverbe + que:**
+§§MDEMPH0§§
 
-> **Cette solution est plus efficace que l'autre.**
+> §§MDEMPH0§§
 
-**Plus de + nom + que:**
+§§MDEMPH0§§
 
-> **Cette solution demande plus de temps que l'autre.**
+> §§MDEMPH0§§
 
-**Plus que** без іменника:
+§§MDEMPH0§§ без іменника:
 
-> **Cette solution coûte plus que l'autre.**
+> §§MDEMPH0§§
 
-У третьому реченні **plus** стосується міри або обсягу, який відновлюється з контексту.
+У третьому реченні §§MDEMPH0§§ стосується міри або обсягу, який відновлюється з контексту.
 
 ## 5. Moins que та moins de
 
 Аналогічна різниця:
 
-> **Cette méthode est moins efficace que l'autre.**
+> §§MDEMPH0§§
 
-> **Cette méthode demande moins de temps que l'autre.**
+> §§MDEMPH0§§
 
-> **Cette méthode coûte moins que l'autre.**
+> §§MDEMPH0§§
 
 Тобто:
 
-- **moins + adjectif + que** → нижчий ступінь властивості;
-- **moins de + nom + que** → менша кількість;
-- **moins que** → менша міра/обсяг дії або параметра, визначеного контекстом.
+- §§MDEMPH0§§ → нижчий ступінь властивості;
+- §§MDEMPH0§§ → менша кількість;
+- §§MDEMPH0§§ → менша міра/обсяг дії або параметра, визначеного контекстом.
 
 ## 6. Autant que як конструкція рівності
 
 Коли порівнюється міра дії:
 
-> **Il travaille autant que moi.**
+> §§MDEMPH0§§
 
-> **Elle voyage autant que son frère.**
+> §§MDEMPH0§§
 
-> **Nous dépensons autant que l'année dernière.**
+> §§MDEMPH0§§
 
 Коли зберігається іменник:
 
-> **Il a autant de travail que moi.**
+> §§MDEMPH0§§
 
 Отже:
 
-> **autant que** → міра дії;
+> §§MDEMPH0§§ → міра дії;
 
-> **autant de + nom + que** → кількість іменника.
+> §§MDEMPH0§§ → кількість іменника.
 
 ## 7. Порівняння з передбачуваним або попереднім значенням
 
 Другий полюс може бути не конкретною людиною:
 
-> **Il travaille plus que prévu.**
+> §§MDEMPH0§§
 
-> **Elle arrive plus tard que prévu.**
+> §§MDEMPH0§§
 
-> **Nous avons moins de temps que prévu.**
+> §§MDEMPH0§§
 
-**prévu** тут не є звичайним іменним учасником порівняння. Конструкція означає, що фактична міра відрізняється від тієї, яку передбачали.
+§§MDEMPH0§§ тут не є звичайним іменним учасником порівняння. Конструкція означає, що фактична міра відрізняється від тієї, яку передбачали.
 
 Так само:
 
-> **C'est plus difficile que prévu.**
+> §§MDEMPH0§§
 
-> **C'est moins cher que prévu.**
+> §§MDEMPH0§§
 
 ## 8. Plus que jamais / moins que jamais
 
 Фіксовані або напівфразеологізовані моделі можуть порівнювати стан із попереднім досвідом:
 
-> **Il est plus motivé que jamais.**
+> §§MDEMPH0§§
 
-> **Elle travaille plus que jamais.**
+> §§MDEMPH0§§
 
-> **Nous avons moins de temps que jamais.**
+> §§MDEMPH0§§
 
-**que jamais** означає приблизно «ніж будь-коли раніше» / «як ніколи» залежно від конструкції.
+§§MDEMPH0§§ означає приблизно «ніж будь-коли раніше» / «як ніколи» залежно від конструкції.
 
 Не слід аналізувати такі вислови лише як буквальне зіставлення двох людей чи предметів.
 
 ## 9. Plus que tout / plus que tout autre
 
-> **Il aime ce travail plus que tout.**
+> §§MDEMPH0§§
 
-> **Cette question compte plus que tout.**
+> §§MDEMPH0§§
 
-> **Elle est plus expérimentée que tout autre membre de l'équipe.**
+> §§MDEMPH0§§
 
-У першій моделі **tout** узагальнює множину можливих об'єктів або факторів. У другій **tout autre + nom** формує явно виражений клас для порівняння.
+У першій моделі §§MDEMPH0§§ узагальнює множину можливих об'єктів або факторів. У другій §§MDEMPH1§§ формує явно виражений клас для порівняння.
 
 ## 10. Plus que + infinitif або дієслівна група
 
 Порівняння може стосуватися цілої дії:
 
-> **Il préfère écouter plus que parler.**
+> §§MDEMPH0§§
 
-У таких випадках потрібно дивитися на структуру всього речення: **plus que** не обов'язково вводить звичайну іменну групу.
+У таких випадках потрібно дивитися на структуру всього речення: §§MDEMPH0§§ не обов'язково вводить звичайну іменну групу.
 
 Порівняйте:
 
-> **Il parle plus que moi.**
+> §§MDEMPH0§§
 
 і:
 
-> **Il préfère écouter plutôt que parler.**
+> §§MDEMPH0§§
 
-У другому реченні **plutôt que** виражає перевагу одного варіанта над іншим і не є тотожним простому **plus que**.
+У другому реченні §§MDEMPH0§§ виражає перевагу одного варіанта над іншим і не є тотожним простому §§MDEMPH1§§.
 
 ## 11. Plus que vs plutôt que
 
 Це особливо важлива пара для перекладу.
 
-**plus que**:
+§§MDEMPH0§§:
 
-> **Il travaille plus que moi.**
+> §§MDEMPH0§§
 
 = він працює більше, ніж я.
 
-**plutôt que**:
+§§MDEMPH0§§:
 
-> **Il préfère travailler plutôt que sortir.**
+> §§MDEMPH0§§
 
 = він воліє працювати, а не виходити.
 
-Не скорочуйте **plutôt que** до **plus que**: зміна прислівника змінює синтаксичну конструкцію та значення.
+Не скорочуйте §§MDEMPH0§§ до §§MDEMPH1§§: зміна прислівника змінює синтаксичну конструкцію та значення.
 
 ## 12. Ellipsis: коли друга частина неповна
 
 Французьке порівняння часто використовує еліпсис:
 
-> **Elle est plus calme que lui.**
+> §§MDEMPH0§§
 
-Повторення **est calme** після **que lui** не потрібне.
+Повторення §§MDEMPH0§§ після §§MDEMPH1§§ не потрібне.
 
 Так само:
 
-> **Il travaille plus que moi.**
+> §§MDEMPH0§§
 
 Повна семантична структура відновлюється з контексту, але французьке речення залишається граматично завершеним.
 
-Для аналізу корисно спочатку відновити пропущений параметр подумки, а вже потім визначати функцію **plus / moins / autant**.
+Для аналізу корисно спочатку відновити пропущений параметр подумки, а вже потім визначати функцію §§MDEMPH0§§.
 
 ## 13. Plus que cela / moins que cela
 
 Вказівний елемент може виступати другим полюсом:
 
-> **C'est plus que cela.**
+> §§MDEMPH0§§
 
-> **C'est moins que cela.**
+> §§MDEMPH0§§
 
-Тут **cela** не називає обов'язково кількість. Значення може стосуватися ступеня, масштабу або змісту — це визначає контекст.
+Тут §§MDEMPH0§§ не називає обов'язково кількість. Значення може стосуватися ступеня, масштабу або змісту — це визначає контекст.
 
 ## 14. Ne... plus та plus que — не одна конструкція
 
 Не плутайте:
 
-> **Il ne travaille plus.**
+> §§MDEMPH0§§
 
 і:
 
-> **Il travaille plus que moi.**
+> §§MDEMPH0§§
 
-**ne... plus** — заперечення з припиненням дії / зміною її актуальності.
+§§MDEMPH0§§ — заперечення з припиненням дії / зміною її актуальності.
 
-**plus que** — порівняльна конструкція.
+§§MDEMPH0§§ — порівняльна конструкція.
 
 Так само:
 
-> **Je n'en veux plus.**
+> §§MDEMPH0§§
 
 не означає:
 
-> ❌ *Je n'en veux plus que...*
+> ❌ §§MDEMPH0§§
 
 Якщо додається другий полюс, треба аналізувати вже структуру порівняння.
 
 ## 15. Ne... pas plus que
 
-Порівняльне **plus** може входити до запереченої конструкції:
+Порівняльне §§MDEMPH0§§ може входити до запереченої конструкції:
 
-> **Il ne travaille pas plus que moi.**
+> §§MDEMPH0§§
 
 Це не те саме, що:
 
-> **Il travaille moins que moi.**
+> §§MDEMPH0§§
 
 Перше заперечує твердження про більшу міру. Друге прямо встановлює меншу міру.
 
@@ -823,273 +823,273 @@ variant: []
 
 Поширені моделі:
 
-> **plus que prévu**
+> §§MDEMPH0§§
 
-> **moins que prévu**
+> §§MDEMPH0§§
 
-> **plus que nécessaire**
+> §§MDEMPH0§§
 
-> **moins que nécessaire**
+> §§MDEMPH0§§
 
-> **plus que suffisant**
+> §§MDEMPH0§§
 
 У кожному випадку друга частина задає нормативний, очікуваний або необхідний рівень:
 
-> **Nous avons reçu plus que nécessaire.**
+> §§MDEMPH0§§
 
 = отримали більше, ніж було потрібно.
 
-Не слід автоматично додавати **de** перед абстрактним параметром, якщо французька конструкція вже порівнює міру без іменника.
+Не слід автоматично додавати §§MDEMPH0§§ перед абстрактним параметром, якщо французька конструкція вже порівнює міру без іменника.
 
 ## 17. Українсько-французький контраст
 
-Українські **більше ніж**, **менше ніж**, **так само як**, **стільки ж, як** можуть відповідати різним французьким моделям:
+Українські §§MDEMPH0§§, §§MDEMPH1§§, §§MDEMPH2§§, §§MDEMPH3§§ можуть відповідати різним французьким моделям:
 
-> **працює більше, ніж я** → **travaille plus que moi**
+> §§MDEMPH0§§ → §§MDEMPH1§§
 
-> **працює менше, ніж я** → **travaille moins que moi**
+> §§MDEMPH0§§ → §§MDEMPH1§§
 
-> **працює стільки ж, скільки я** → **travaille autant que moi**
+> §§MDEMPH0§§ → §§MDEMPH1§§
 
 але:
 
-> **працює так само швидко, як я** → **travaille aussi vite que moi**
+> §§MDEMPH0§§ → §§MDEMPH1§§
 
-Тому українське **так само** не дає автоматичної форми **aussi**: потрібно визначити, чи порівнюється властивість, прислівниковий спосіб дії чи загальна міра.
+Тому українське §§MDEMPH0§§ не дає автоматичної форми §§MDEMPH1§§: потрібно визначити, чи порівнюється властивість, прислівниковий спосіб дії чи загальна міра.
 
 ## 18. Діагностичний алгоритм
 
-1. Знайдіть **plus / moins / aussi / autant**.
-2. Подивіться, чи є після нього прикметник, прислівник, **de + nom** або нічого.
-3. Якщо порівнюється прикметник → **plus/moins/aussi + adjectif + que**.
-4. Якщо прислівник → **plus/moins/aussi + adverbe + que**.
-5. Якщо кількість іменника → **plus/moins/autant de + nom + que**.
-6. Якщо порівнюється загальна міра дії → зазвичай **plus/moins/autant que**.
-7. Перевірте, чи **plus** не належить до заперечення **ne... plus**.
-8. Перевірте, чи конструкція не є **plutôt que**, **de plus en plus** або іншою окремою моделлю.
-9. Не замінюйте **autant que** на *aussi que* лише через українське «так само».
+1. Знайдіть §§MDEMPH0§§.
+2. Подивіться, чи є після нього прикметник, прислівник, §§MDEMPH0§§ або нічого.
+3. Якщо порівнюється прикметник → §§MDEMPH0§§.
+4. Якщо прислівник → §§MDEMPH0§§.
+5. Якщо кількість іменника → §§MDEMPH0§§.
+6. Якщо порівнюється загальна міра дії → зазвичай §§MDEMPH0§§.
+7. Перевірте, чи §§MDEMPH0§§ не належить до заперечення §§MDEMPH1§§.
+8. Перевірте, чи конструкція не є §§MDEMPH0§§, §§MDEMPH1§§ або іншою окремою моделлю.
+9. Не замінюйте §§MDEMPH0§§ на §§MDEMPH1§§ лише через українське «так само».
 
 ## Порівняльна таблиця
 
 | Французька модель | Що порівнюється | Приклад |
 |---|---|---|
-| **plus + adjectif + que** | властивість | **plus grand que** |
-| **moins + adjectif + que** | властивість | **moins grand que** |
-| **aussi + adjectif + que** | рівність властивості | **aussi grand que** |
-| **plus + adverbe + que** | спосіб дії | **plus vite que** |
-| **moins + adverbe + que** | спосіб дії | **moins vite que** |
-| **aussi + adverbe + que** | рівність способу дії | **aussi vite que** |
-| **plus de + nom + que** | кількість | **plus de temps que** |
-| **moins de + nom + que** | кількість | **moins de temps que** |
-| **autant de + nom + que** | рівна кількість | **autant de temps que** |
-| **plus que** | більша міра дії/параметра | **travaille plus que moi** |
-| **moins que** | менша міра дії/параметра | **travaille moins que moi** |
-| **autant que** | рівна міра дії/параметра | **travaille autant que moi** |
+| §§MDEMPH0§§ | властивість | §§MDEMPH1§§ |
+| §§MDEMPH0§§ | властивість | §§MDEMPH1§§ |
+| §§MDEMPH0§§ | рівність властивості | §§MDEMPH1§§ |
+| §§MDEMPH0§§ | спосіб дії | §§MDEMPH1§§ |
+| §§MDEMPH0§§ | спосіб дії | §§MDEMPH1§§ |
+| §§MDEMPH0§§ | рівність способу дії | §§MDEMPH1§§ |
+| §§MDEMPH0§§ | кількість | §§MDEMPH1§§ |
+| §§MDEMPH0§§ | кількість | §§MDEMPH1§§ |
+| §§MDEMPH0§§ | рівна кількість | §§MDEMPH1§§ |
+| §§MDEMPH0§§ | більша міра дії/параметра | §§MDEMPH1§§ |
+| §§MDEMPH0§§ | менша міра дії/параметра | §§MDEMPH1§§ |
+| §§MDEMPH0§§ | рівна міра дії/параметра | §§MDEMPH1§§ |
 
 ## Вправи
 
 Виберіть нормативний варіант:
 
-1. **Il travaille ___ moi.**  
+1. §§MDEMPH0§§  
    a) plus que b) plus de
 
-2. **Il travaille ___ vite que moi.**  
+2. §§MDEMPH0§§  
    a) aussi b) autant
 
-3. **Il travaille ___ que moi.**  
+3. §§MDEMPH0§§  
    a) autant b) aussi
 
-4. **Il a ___ de travail que moi.**  
+4. §§MDEMPH0§§  
    a) autant b) aussi
 
-5. **Cette solution est ___ efficace que l'autre.**  
+5. §§MDEMPH0§§  
    a) moins b) moins de
 
-6. **Nous avons ___ de temps que prévu.**  
+6. §§MDEMPH0§§  
    a) plus b) plus de
 
-7. **Il ne travaille pas ___ moi.**  
+7. §§MDEMPH0§§  
    a) plus que b) plus de
 
-8. **Il ne travaille ___.**  
+8. §§MDEMPH0§§  
    a) plus b) plus que
 
-9. **Il préfère travailler ___ sortir.**  
+9. §§MDEMPH0§§  
    a) plutôt que b) plus que
 
-**Відповіді:** 1 **plus que**; 2 **aussi**; 3 **autant**; 4 **autant**; 5 **moins**; 6 **plus de**; 7 **plus que**; 8 **plus**; 9 **plutôt que**.
+§§MDEMPH0§§ 1 §§MDEMPH1§§; 2 §§MDEMPH2§§; 3 §§MDEMPH3§§; 4 §§MDEMPH4§§; 5 §§MDEMPH5§§; 6 §§MDEMPH6§§; 7 §§MDEMPH7§§; 8 §§MDEMPH8§§; 9 §§MDEMPH9§§.
 
 
 # FR-562 — autant et davantage
 
 ## 1. Дві моделі збільшення або рівності
 
-**autant** і **davantage** пов'язані з кількістю або мірою, але виконують різні функції.
+§§MDEMPH0§§ і §§MDEMPH1§§ пов'язані з кількістю або мірою, але виконують різні функції.
 
-**autant** виражає рівність міри:
+§§MDEMPH0§§ виражає рівність міри:
 
-> **Il travaille autant que moi.**
+> §§MDEMPH0§§
 
-> **Elle a autant de temps que nous.**
+> §§MDEMPH0§§
 
-**davantage** виражає більшу міру:
+§§MDEMPH0§§ виражає більшу міру:
 
-> **Il travaille davantage.**
+> §§MDEMPH0§§
 
-> **Elle travaille davantage que moi.**
+> §§MDEMPH0§§
 
 Отже:
 
-- **autant** → «стільки ж / так само за мірою»;
-- **davantage** → «більше / більшою мірою».
+- §§MDEMPH0§§ → «стільки ж / так само за мірою»;
+- §§MDEMPH0§§ → «більше / більшою мірою».
 
 ## 2. Autant que та autant de
 
 Дві основні конструкції:
 
-> **autant que + groupe comparé**
+> §§MDEMPH0§§
 
-> **autant de + nom + que + groupe comparé**
+> §§MDEMPH0§§
 
 Порівняйте:
 
-> **Je travaille autant que toi.**
+> §§MDEMPH0§§
 
-> **J'ai autant de travail que toi.**
+> §§MDEMPH0§§
 
-У першому реченні порівнюється міра дії **travaille**; у другому — кількість **travail**.
+У першому реченні порівнюється міра дії §§MDEMPH0§§; у другому — кількість §§MDEMPH1§§.
 
 Можлива й конструкція з дієсловом та іменником:
 
-> **Elle lit autant de livres que son frère.**
+> §§MDEMPH0§§
 
-Тут **autant de livres** є об'єктом кількісного порівняння.
+Тут §§MDEMPH0§§ є об'єктом кількісного порівняння.
 
 ## 3. Davantage без de
 
-На відміну від **plus**, **davantage** у стандартній сучасній мові не використовується як універсальний визначник перед іменником.
+На відміну від §§MDEMPH0§§, §§MDEMPH1§§ у стандартній сучасній мові не використовується як універсальний визначник перед іменником.
 
 Природна модель:
 
-> **Il travaille davantage.**
+> §§MDEMPH0§§
 
-> **Il travaille davantage que moi.**
+> §§MDEMPH0§§
 
 А для іменника:
 
-> **Il a davantage de temps.**
+> §§MDEMPH0§§
 
-> **Il a davantage de temps que moi.**
+> §§MDEMPH0§§
 
-Отже, **davantage de + nom** можливе, але **davantage** залишається прислівниковим елементом; воно не має форм узгодження.
+Отже, §§MDEMPH0§§ можливе, але §§MDEMPH1§§ залишається прислівниковим елементом; воно не має форм узгодження.
 
 ## 4. Davantage vs plus
 
-У багатьох контекстах **davantage** і **plus** можуть бути близькими:
+У багатьох контекстах §§MDEMPH0§§ і §§MDEMPH1§§ можуть бути близькими:
 
-> **Il travaille plus.**
+> §§MDEMPH0§§
 
-> **Il travaille davantage.**
+> §§MDEMPH0§§
 
-Обидві форми можуть означати більшу міру роботи. **davantage** часто звучить більш письмово або виразно, тоді як **plus** є нейтральною універсальною формою.
+Обидві форми можуть означати більшу міру роботи. §§MDEMPH0§§ часто звучить більш письмово або виразно, тоді як §§MDEMPH1§§ є нейтральною універсальною формою.
 
-Але заміна не завжди механічна. **plus** має значно ширший набір конструкцій:
+Але заміна не завжди механічна. §§MDEMPH0§§ має значно ширший набір конструкцій:
 
-> **plus grand**
+> §§MDEMPH0§§
 
-> **plus vite**
+> §§MDEMPH0§§
 
-> **plus de temps**
+> §§MDEMPH0§§
 
-> **plus que moi**
+> §§MDEMPH0§§
 
-Тому не кожне **plus** можна замінити на **davantage**.
+Тому не кожне §§MDEMPH0§§ можна замінити на §§MDEMPH1§§.
 
 ## 5. Davantage de + nom
 
-> **Nous avons davantage de possibilités.**
+> §§MDEMPH0§§
 
-> **Il faut davantage de temps.**
+> §§MDEMPH0§§
 
-> **Elle montre davantage d'intérêt.**
+> §§MDEMPH0§§
 
 Після голосного:
 
-> **davantage d'expérience**
+> §§MDEMPH0§§
 
-> **davantage d'énergie**
+> §§MDEMPH0§§
 
 Ця модель означає більшу кількість або міру певної субстанції, ресурсу чи абстрактної величини.
 
 Порівняйте:
 
-> **davantage de temps**
+> §§MDEMPH0§§
 
 і:
 
-> **plus de temps**
+> §§MDEMPH0§§
 
 За значенням вони можуть бути дуже близькими.
 
 ## 6. Davantage que
 
-**davantage que** може вводити другий полюс порівняння:
+§§MDEMPH0§§ може вводити другий полюс порівняння:
 
-> **Il travaille davantage que moi.**
+> §§MDEMPH0§§
 
-> **Elle voyage davantage que son frère.**
+> §§MDEMPH0§§
 
-> **Cette mesure profite davantage aux petites entreprises qu'aux grandes.**
+> §§MDEMPH0§§
 
-У складнішій конструкції другий **que** може залежати від структури, а не просто повторювати перший. Тому потрібно визначати синтаксичні межі всієї групи.
+У складнішій конструкції другий §§MDEMPH0§§ може залежати від структури, а не просто повторювати перший. Тому потрібно визначати синтаксичні межі всієї групи.
 
 ## 7. Autant que vs aussi... que
 
 Це ключове розрізнення.
 
-> **Il travaille autant que moi.**
+> §§MDEMPH0§§
 
 але:
 
-> **Il travaille aussi vite que moi.**
+> §§MDEMPH0§§
 
 Перше порівнює загальну міру роботи; друге — швидкість.
 
 Так само:
 
-> **Elle est aussi attentive que son collègue.**
+> §§MDEMPH0§§
 
 але:
 
-> **Elle a autant d'attention que son collègue.**
+> §§MDEMPH0§§
 
-Форма **autant** не узгоджується з іменником: **autant de** залишається сталою моделлю.
+Форма §§MDEMPH0§§ не узгоджується з іменником: §§MDEMPH1§§ залишається сталою моделлю.
 
 ## 8. Autant que може мати інші значення
 
-Не кожне **autant que** є простим порівнянням двох осіб.
+Не кожне §§MDEMPH0§§ є простим порівнянням двох осіб.
 
 У конструкції:
 
-> **Autant que je sache, il n'est pas ici.**
+> §§MDEMPH0§§
 
-**autant que je sache** означає приблизно «наскільки мені відомо».
+§§MDEMPH0§§ означає приблизно «наскільки мені відомо».
 
 У:
 
-> **Autant que possible**
+> §§MDEMPH0§§
 
 значення — «наскільки можливо».
 
-Такі конструкції треба розпізнавати цілісно, а не трактувати **autant** як звичайне кількісне порівняння.
+Такі конструкції треба розпізнавати цілісно, а не трактувати §§MDEMPH0§§ як звичайне кількісне порівняння.
 
 ## 9. Autant... autant...
 
-Французьке **autant... autant...** може встановлювати паралель між двома аспектами:
+Французьке §§MDEMPH0§§ може встановлювати паралель між двома аспектами:
 
-> **Autant il est calme, autant son frère est impatient.**
+> §§MDEMPH0§§
 
-Це не просто конструкція **autant de + nom**. Вона корелює два твердження.
+Це не просто конструкція §§MDEMPH0§§. Вона корелює два твердження.
 
 У літературному або риторично організованому тексті така конструкція може бути способом симетричного зіставлення.
 
@@ -1097,43 +1097,43 @@ variant: []
 
 Вислів:
 
-> **Autant pour moi.**
+> §§MDEMPH0§§
 
 уживається як формула визнання власної помилки, приблизно «моя помилка / беру свої слова назад».
 
-Його не слід аналізувати як звичайне **autant de** з іменником.
+Його не слід аналізувати як звичайне §§MDEMPH0§§ з іменником.
 
 ## 11. Davantage та заперечення
 
 Не плутайте:
 
-> **Il ne travaille plus.**
+> §§MDEMPH0§§
 
 з:
 
-> **Il ne travaille pas davantage.**
+> §§MDEMPH0§§
 
 Перше означає, що він більше не працює / припинив працювати.
 
 Друге заперечує додаткову або більшу міру: залежно від контексту — «не працює більше», «не працює більшою мірою».
 
-Тому позиція **plus** і **davantage** у реченні має аналізуватися разом із системою заперечення.
+Тому позиція §§MDEMPH0§§ і §§MDEMPH1§§ у реченні має аналізуватися разом із системою заперечення.
 
 ## 12. Davantage et de plus
 
-**davantage** та **de plus** не є повними взаємозамінними синонімами.
+§§MDEMPH0§§ та §§MDEMPH1§§ не є повними взаємозамінними синонімами.
 
-> **Il travaille davantage.**
+> §§MDEMPH0§§
 
 означає більшу міру роботи.
 
-> **Il travaille deux heures de plus.**
+> §§MDEMPH0§§
 
 означає додаткові дві години порівняно з базовим значенням.
 
-**de plus** може також бути дискурсивним зв'язком зі значенням «крім того»:
+§§MDEMPH0§§ може також бути дискурсивним зв'язком зі значенням «крім того»:
 
-> **De plus, cette solution est coûteuse.**
+> §§MDEMPH0§§
 
 Тут немає кількісного comparatif.
 
@@ -1141,389 +1141,389 @@ variant: []
 
 Порівняйте:
 
-> **Il faut davantage de temps.**
+> §§MDEMPH0§§
 
-> **Il faut plus de temps.**
+> §§MDEMPH0§§
 
 У багатьох нейтральних контекстах значення практично збігається.
 
 Але:
 
-> **Il est davantage intéressé par cette question.**
+> §§MDEMPH0§§
 
 і:
 
-> **Il est plus intéressé par cette question.**
+> §§MDEMPH0§§
 
 обидві форми можливі, але стилістична й семантична організація речення може відрізнятися. Вибір залежить від контексту та бажаного регістру.
 
 ## 14. Українсько-французький контраст
 
-Українське **стільки ж** найчастіше потребує **autant**:
+Українське §§MDEMPH0§§ найчастіше потребує §§MDEMPH1§§:
 
-> **стільки ж часу** → **autant de temps**
+> §§MDEMPH0§§ → §§MDEMPH1§§
 
-> **працює стільки ж** → **travaille autant**
+> §§MDEMPH0§§ → §§MDEMPH1§§
 
-Українське **більше** може відповідати **plus** або **davantage**:
+Українське §§MDEMPH0§§ може відповідати §§MDEMPH1§§ або §§MDEMPH2§§:
 
-> **працює більше** → **travaille plus / travaille davantage**
+> §§MDEMPH0§§ → §§MDEMPH1§§
 
-> **більше часу** → **plus de temps / davantage de temps**
+> §§MDEMPH0§§ → §§MDEMPH1§§
 
-Але якщо українське **більше** є частиною іншої конструкції, наприклад «більший», потрібен уже **plus + adjectif**, а не **davantage**:
+Але якщо українське §§MDEMPH0§§ є частиною іншої конструкції, наприклад «більший», потрібен уже §§MDEMPH1§§, а не §§MDEMPH2§§:
 
-> **більший будинок** → **une maison plus grande**
+> §§MDEMPH0§§ → §§MDEMPH1§§
 
 ## 15. Діагностичний алгоритм
 
-1. Якщо значення — **рівна міра** → перевірте **autant**.
-2. Якщо значення — **більша міра** → перевірте **plus / davantage**.
-3. Якщо після форми стоїть іменник → для рівності **autant de + nom**, для більшої кількості **plus de / davantage de + nom**.
-4. Якщо порівнюється прикметник → **plus / aussi / moins + adjectif**; **davantage** тут не замінює **plus**.
-5. Якщо порівнюється прислівник → **plus / aussi / moins + adverbe**.
-6. Якщо порівнюється загальна міра дії → **plus / moins / autant**, а для більшої міри часто **davantage**.
-7. Перевірте, чи **autant que** не є іншою цілісною конструкцією, як **autant que possible** або **autant que je sache**.
-8. Перевірте, чи **de plus** не є дискурсивним «крім того».
+1. Якщо значення — §§MDEMPH0§§ → перевірте §§MDEMPH1§§.
+2. Якщо значення — §§MDEMPH0§§ → перевірте §§MDEMPH1§§.
+3. Якщо після форми стоїть іменник → для рівності §§MDEMPH0§§, для більшої кількості §§MDEMPH1§§.
+4. Якщо порівнюється прикметник → §§MDEMPH0§§; §§MDEMPH1§§ тут не замінює §§MDEMPH2§§.
+5. Якщо порівнюється прислівник → §§MDEMPH0§§.
+6. Якщо порівнюється загальна міра дії → §§MDEMPH0§§, а для більшої міри часто §§MDEMPH1§§.
+7. Перевірте, чи §§MDEMPH0§§ не є іншою цілісною конструкцією, як §§MDEMPH1§§ або §§MDEMPH2§§.
+8. Перевірте, чи §§MDEMPH0§§ не є дискурсивним «крім того».
 
 ## Практична таблиця
 
 | Значення | Нормативна модель | Приклад |
 |---|---|---|
-| рівна міра дії | **autant que** | **travaille autant que moi** |
-| рівна кількість | **autant de + nom** | **autant de temps que moi** |
-| більша міра дії | **plus que / davantage que** | **travaille davantage que moi** |
-| більша кількість | **plus de / davantage de + nom** | **davantage de temps** |
-| більший прикметник | **plus + adjectif** | **plus grand** |
-| рівний прикметник | **aussi + adjectif** | **aussi grand** |
-| більша міра прислівника | **plus + adverbe** | **plus rapidement** |
-| рівна міра прислівника | **aussi + adverbe** | **aussi rapidement** |
+| рівна міра дії | §§MDEMPH0§§ | §§MDEMPH1§§ |
+| рівна кількість | §§MDEMPH0§§ | §§MDEMPH1§§ |
+| більша міра дії | §§MDEMPH0§§ | §§MDEMPH1§§ |
+| більша кількість | §§MDEMPH0§§ | §§MDEMPH1§§ |
+| більший прикметник | §§MDEMPH0§§ | §§MDEMPH1§§ |
+| рівний прикметник | §§MDEMPH0§§ | §§MDEMPH1§§ |
+| більша міра прислівника | §§MDEMPH0§§ | §§MDEMPH1§§ |
+| рівна міра прислівника | §§MDEMPH0§§ | §§MDEMPH1§§ |
 
 ## Вправи
 
-1. **Il travaille ___ que moi.**  
+1. §§MDEMPH0§§  
    a) autant b) aussi
 
-2. **Il a ___ de temps que moi.**  
+2. §§MDEMPH0§§  
    a) autant b) aussi
 
-3. **Elle travaille ___.**  
+3. §§MDEMPH0§§  
    a) davantage b) davantage de
 
-4. **Elle a ___ de temps.**  
+4. §§MDEMPH0§§  
    a) davantage b) davantage de
 
-5. **Il est ___ grand que son frère.**  
+5. §§MDEMPH0§§  
    a) davantage b) plus
 
-6. **Autant que je ___, il viendra demain.**  
+6. §§MDEMPH0§§  
    a) sache b) sais
 
-7. **Il travaille ___ que moi.**  
+7. §§MDEMPH0§§  
    a) davantage b) autant
 
-8. **Il faut ___ de temps.**  
+8. §§MDEMPH0§§  
    a) davantage b) davantage de
 
-**Відповіді:** 1 **autant**; 2 **autant**; 3 **davantage**; 4 **davantage de**; 5 **plus**; 6 **sache**; 7 залежно від значення: **davantage** = більше, **autant** = стільки ж; 8 **davantage de**.
+§§MDEMPH0§§ 1 §§MDEMPH1§§; 2 §§MDEMPH2§§; 3 §§MDEMPH3§§; 4 §§MDEMPH4§§; 5 §§MDEMPH5§§; 6 §§MDEMPH6§§; 7 залежно від значення: §§MDEMPH7§§ = більше, §§MDEMPH8§§ = стільки ж; 8 §§MDEMPH9§§.
 
 
 # FR-563 — meilleur et mieux
 
 ## 1. Дві різні частини мови
 
-**meilleur** і **mieux** обидва пов'язані з ідеєю «краще», але вони не є взаємозамінними.
+§§MDEMPH0§§ і §§MDEMPH1§§ обидва пов'язані з ідеєю «краще», але вони не є взаємозамінними.
 
-- **meilleur** — форма порівняння прикметника **bon**;
-- **mieux** — форма порівняння прислівника **bien**.
+- §§MDEMPH0§§ — форма порівняння прикметника §§MDEMPH1§§;
+- §§MDEMPH0§§ — форма порівняння прислівника §§MDEMPH1§§.
 
 Порівняйте:
 
-> **Ce livre est meilleur que l'autre.**
+> §§MDEMPH0§§
 
-> **Il travaille mieux que moi.**
+> §§MDEMPH0§§
 
 У першому випадку оцінюється іменник через прикметник; у другому — спосіб виконання дії.
 
 ## 2. Meilleur як прикметник
 
-**Meilleur** узгоджується з означуваним іменником за родом і числом:
+§§MDEMPH0§§ узгоджується з означуваним іменником за родом і числом:
 
-> **un meilleur résultat**
+> §§MDEMPH0§§
 
-> **une meilleure solution**
+> §§MDEMPH0§§
 
-> **de meilleurs résultats**
+> §§MDEMPH0§§
 
-> **de meilleures solutions**
+> §§MDEMPH0§§
 
 Форми:
 
 | Рід і число | Форма |
 |---|---|
-| чоловічий однина | **meilleur** |
-| жіночий однина | **meilleure** |
-| чоловічий множина | **meilleurs** |
-| жіночий множина | **meilleures** |
+| чоловічий однина | §§MDEMPH0§§ |
+| жіночий однина | §§MDEMPH0§§ |
+| чоловічий множина | §§MDEMPH0§§ |
+| жіночий множина | §§MDEMPH0§§ |
 
-Це принципово відрізняє **meilleur** від незмінного прислівника **mieux**.
+Це принципово відрізняє §§MDEMPH0§§ від незмінного прислівника §§MDEMPH1§§.
 
 ## 3. Meilleur + que
 
 Порівняння якості часто оформлюється моделлю:
 
-> **meilleur + que**
+> §§MDEMPH0§§
 
-> **Cette méthode est meilleure que l'ancienne.**
+> §§MDEMPH0§§
 
-> **Ses résultats sont meilleurs que les miens.**
+> §§MDEMPH0§§
 
-**Que** вводить другий полюс порівняння. Якщо контекст його вже зрозумілий, порівняння може бути неповним:
+§§MDEMPH0§§ вводить другий полюс порівняння. Якщо контекст його вже зрозумілий, порівняння може бути неповним:
 
-> **Cette solution est meilleure.**
+> §§MDEMPH0§§
 
-Тут **meilleure** означає «краща [за певним уже зрозумілим критерієм]».
+Тут §§MDEMPH0§§ означає «краща [за певним уже зрозумілим критерієм]».
 
 ## 4. Mieux як прислівник
 
-**Mieux** є прислівниковою формою і не узгоджується:
+§§MDEMPH0§§ є прислівниковою формою і не узгоджується:
 
-> **Elle chante mieux.**
+> §§MDEMPH0§§
 
-> **Ils chantent mieux.**
+> §§MDEMPH0§§
 
-> **Nous travaillons mieux ensemble.**
+> §§MDEMPH0§§
 
-Не *meilleure* і не *meilleurs* у цій функції.
+Не §§MDEMPH0§§ і не §§MDEMPH1§§ у цій функції.
 
-Якщо **mieux** характеризує дію, воно зазвичай відповідає на питання «як? наскільки добре?».
+Якщо §§MDEMPH0§§ характеризує дію, воно зазвичай відповідає на питання «як? наскільки добре?».
 
 ## 5. Mieux que
 
 Для порівняння способу виконання дії використовується:
 
-> **mieux que + groupe comparé**
+> §§MDEMPH0§§
 
-> **Il explique mieux que moi.**
+> §§MDEMPH0§§
 
-> **Elle comprend mieux que son collègue.**
+> §§MDEMPH0§§
 
-> **Nous travaillons mieux qu'avant.**
+> §§MDEMPH0§§
 
-Це не означає, що **mieux** завжди буквально перекладається одним українським словом. Головне — його функція в реченні: воно порівнює якість або спосіб дії.
+Це не означає, що §§MDEMPH0§§ завжди буквально перекладається одним українським словом. Головне — його функція в реченні: воно порівнює якість або спосіб дії.
 
 ## 6. Être meilleur vs être mieux
 
-Після **être** можливі обидві форми, але вони належать до різних структур.
+Після §§MDEMPH0§§ можливі обидві форми, але вони належать до різних структур.
 
-> **Ce restaurant est meilleur.**
+> §§MDEMPH0§§
 
-Тут **meilleur** — прикметник, який характеризує підмет.
+Тут §§MDEMPH0§§ — прикметник, який характеризує підмет.
 
-> **C'est mieux ainsi.**
+> §§MDEMPH0§§
 
-Тут **mieux** оцінює ситуацію, спосіб організації або стан речей загалом.
+Тут §§MDEMPH0§§ оцінює ситуацію, спосіб організації або стан речей загалом.
 
 Особливо природна конструкція:
 
-> **C'est mieux de partir maintenant.**
+> §§MDEMPH0§§
 
-Тут **mieux** не узгоджується з **c'**.
+Тут §§MDEMPH0§§ не узгоджується з §§MDEMPH1§§.
 
 ## 7. C'est meilleur vs c'est mieux
 
 Різницю можна побачити на мінімальних парах:
 
-> **Cette soupe est meilleure.**
+> §§MDEMPH0§§
 
 → оцінюється суп як продукт.
 
-> **Manger cette soupe froide, c'est mieux.**
+> §§MDEMPH0§§
 
 → оцінюється варіант дії або ситуація.
 
-Але межа залежить від структури висловлення. Не можна визначати вибір лише за наявністю **être**: потрібно встановити, чи слово є прикметником до іменного компонента, чи прислівниковим оцінюванням ситуації.
+Але межа залежить від структури висловлення. Не можна визначати вибір лише за наявністю §§MDEMPH0§§: потрібно встановити, чи слово є прикметником до іменного компонента, чи прислівниковим оцінюванням ситуації.
 
 ## 8. Meilleur + nom
 
-Перед іменником **meilleur** поводиться як звичайний прикметник:
+Перед іменником §§MDEMPH0§§ поводиться як звичайний прикметник:
 
-> **le meilleur choix**
+> §§MDEMPH0§§
 
-> **la meilleure option**
+> §§MDEMPH0§§
 
-> **les meilleurs résultats**
+> §§MDEMPH0§§
 
-> **les meilleures conditions**
+> §§MDEMPH0§§
 
 У конструкціях без артикля також можливе:
 
-> **de meilleurs résultats**
+> §§MDEMPH0§§
 
-Вибір детермінатива визначається не самим **meilleur**, а всією іменною групою.
+Вибір детермінатива визначається не самим §§MDEMPH0§§, а всією іменною групою.
 
 ## 9. Le meilleur — суперлатив
 
-**Le meilleur / la meilleure / les meilleurs / les meilleures** — це суперлатив від **bon**.
+§§MDEMPH0§§ — це суперлатив від §§MDEMPH1§§.
 
-> **C'est le meilleur résultat de l'année.**
+> §§MDEMPH0§§
 
-> **Elle est la meilleure candidate du groupe.**
+> §§MDEMPH0§§
 
-> **Ce sont les meilleures conditions possibles.**
+> §§MDEMPH0§§
 
-На відміну від **mieux**, форма **meilleur** тут узгоджується.
+На відміну від §§MDEMPH0§§, форма §§MDEMPH1§§ тут узгоджується.
 
 ## 10. Le mieux — суперлатив від bien
 
-Відповідний суперлатив до **bien** — **le mieux**:
+Відповідний суперлатив до §§MDEMPH0§§ — §§MDEMPH1§§:
 
-> **C'est lui qui travaille le mieux.**
+> §§MDEMPH0§§
 
-> **Cette méthode fonctionne le mieux.**
+> §§MDEMPH0§§
 
-> **Faites ce qui vous convient le mieux.**
+> §§MDEMPH0§§
 
-**Le mieux** не узгоджується з родом чи числом, коли воно має прислівникову функцію.
+§§MDEMPH0§§ не узгоджується з родом чи числом, коли воно має прислівникову функцію.
 
 Порівняйте:
 
-> **la meilleure méthode** — найкращий метод;
+> §§MDEMPH0§§ — найкращий метод;
 
-> **la méthode qui fonctionne le mieux** — метод, який працює найкраще.
+> §§MDEMPH0§§ — метод, який працює найкраще.
 
 ## 11. Meilleur que vs mieux que
 
-Найкорисніший практичний тест — знайти слово, яке **meilleur / mieux** характеризує.
+Найкорисніший практичний тест — знайти слово, яке §§MDEMPH0§§ характеризує.
 
-Якщо це **іменник** або іменна група → **meilleur**:
+Якщо це §§MDEMPH0§§ або іменна група → §§MDEMPH1§§:
 
-> **un meilleur résultat que le précédent**
+> §§MDEMPH0§§
 
-Якщо це **дія / процес / спосіб** → **mieux**:
+Якщо це §§MDEMPH0§§ → §§MDEMPH1§§:
 
-> **un résultat obtenu mieux que prévu**
+> §§MDEMPH0§§
 
 У складних реченнях межа може бути неочевидною, тому варто реконструювати синтаксичну структуру, а не перекладати «краще» механічно.
 
 ## 12. Plus bon і meilleur
 
-Для звичайного порівняння **bon** має нерегулярну порівняльну форму **meilleur**:
+Для звичайного порівняння §§MDEMPH0§§ має нерегулярну порівняльну форму §§MDEMPH1§§:
 
-> **Cette solution est meilleure.**
+> §§MDEMPH0§§
 
-Форма **plus bon** не є стандартною заміною **meilleur** у цьому значенні.
+Форма §§MDEMPH0§§ не є стандартною заміною §§MDEMPH1§§ у цьому значенні.
 
-Водночас **plus bon** може траплятися в спеціальних або стилістично маркованих контекстах, де **plus** має не функцію звичайного компаратива якості або де автор навмисно зберігає позитивну форму. Для нейтрального навчального вжитку потрібно засвоїти **bon → meilleur → le meilleur**.
+Водночас §§MDEMPH0§§ може траплятися в спеціальних або стилістично маркованих контекстах, де §§MDEMPH1§§ має не функцію звичайного компаратива якості або де автор навмисно зберігає позитивну форму. Для нейтрального навчального вжитку потрібно засвоїти §§MDEMPH2§§.
 
 ## 13. Bien → mieux → le mieux
 
 Корисна парадигма:
 
-> **bien** → **mieux** → **le mieux**
+> §§MDEMPH0§§ → §§MDEMPH1§§ → §§MDEMPH2§§
 
-> **bon** → **meilleur** → **le meilleur**
+> §§MDEMPH0§§ → §§MDEMPH1§§ → §§MDEMPH2§§
 
 Ці ряди не можна змішувати.
 
 | Базова форма | Порівняльна | Суперлатив |
 |---|---|---|
-| **bon** | **meilleur** | **le meilleur** |
-| **bien** | **mieux** | **le mieux** |
+| §§MDEMPH0§§ | §§MDEMPH1§§ | §§MDEMPH2§§ |
+| §§MDEMPH0§§ | §§MDEMPH1§§ | §§MDEMPH2§§ |
 
 ## 14. Можливе посилення: beaucoup mieux
 
-**Mieux** може модифікуватися словами міри:
+§§MDEMPH0§§ може модифікуватися словами міри:
 
-> **beaucoup mieux**
+> §§MDEMPH0§§
 
-> **nettement mieux**
+> §§MDEMPH0§§
 
-> **bien mieux**
+> §§MDEMPH0§§
 
-> **beaucoup meilleur** не є симетричною заміною в усіх контекстах.
+> §§MDEMPH0§§ не є симетричною заміною в усіх контекстах.
 
-Для прикметникового **meilleur** можливі інші конструкції інтенсивності, але вибір залежить від синтаксичної структури та стилю. Тому не варто переносити будь-який модифікатор із **mieux** на **meilleur** автоматично.
+Для прикметникового §§MDEMPH0§§ можливі інші конструкції інтенсивності, але вибір залежить від синтаксичної структури та стилю. Тому не варто переносити будь-який модифікатор із §§MDEMPH1§§ на §§MDEMPH2§§ автоматично.
 
 ## 15. Meilleur / mieux у запереченні
 
 Заперечення не змінює базового розрізнення:
 
-> **Cette solution n'est pas meilleure.**
+> §§MDEMPH0§§
 
-> **Il ne travaille pas mieux.**
+> §§MDEMPH0§§
 
 Але значення всього висловлення залежить від того, що саме заперечується: якість предмета чи порівняльна міра дії.
 
 ## 16. Українсько-французький контраст
 
-Українське **кращий** найчастіше відповідає **meilleur**:
+Українське §§MDEMPH0§§ найчастіше відповідає §§MDEMPH1§§:
 
-> **кращий результат** → **un meilleur résultat**
+> §§MDEMPH0§§ → §§MDEMPH1§§
 
-> **краща відповідь** → **une meilleure réponse**
+> §§MDEMPH0§§ → §§MDEMPH1§§
 
-Українське **краще** може відповідати **mieux**, якщо йдеться про дію:
+Українське §§MDEMPH0§§ може відповідати §§MDEMPH1§§, якщо йдеться про дію:
 
-> **він працює краще** → **il travaille mieux**
+> §§MDEMPH0§§ → §§MDEMPH1§§
 
-але **краще рішення** → **une meilleure solution**.
+але §§MDEMPH0§§ → §§MDEMPH1§§.
 
-Це одна з найважливіших асиметрій для україномовного учня: українська форма **краще** може бути прислівником, тоді як французька потребує прикметникового **meilleur**, якщо оцінюється іменник.
+Це одна з найважливіших асиметрій для україномовного учня: українська форма §§MDEMPH0§§ може бути прислівником, тоді як французька потребує прикметникового §§MDEMPH1§§, якщо оцінюється іменник.
 
 ## 17. Діагностичний алгоритм
 
 1. Знайдіть значення «добрий» або «добре».
-2. Якщо воно характеризує іменник → базовою формою є **bon**, у порівнянні **meilleur**.
-3. Якщо воно характеризує дію або спосіб → базовою формою є **bien**, у порівнянні **mieux**.
-4. Перевірте узгодження: **meilleur** змінюється за родом і числом, **mieux** — ні.
-5. Для суперлатива іменної якості → **le meilleur / la meilleure / les meilleurs / les meilleures**.
-6. Для найвищої міри способу дії → **le mieux**.
-7. Не замінюйте автоматично українське «краще» на **mieux**: спочатку визначте синтаксичну функцію.
-8. Перевірте, чи **plus bon** не використано замість нормативного нейтрального **meilleur**.
+2. Якщо воно характеризує іменник → базовою формою є §§MDEMPH0§§, у порівнянні §§MDEMPH1§§.
+3. Якщо воно характеризує дію або спосіб → базовою формою є §§MDEMPH0§§, у порівнянні §§MDEMPH1§§.
+4. Перевірте узгодження: §§MDEMPH0§§ змінюється за родом і числом, §§MDEMPH1§§ — ні.
+5. Для суперлатива іменної якості → §§MDEMPH0§§.
+6. Для найвищої міри способу дії → §§MDEMPH0§§.
+7. Не замінюйте автоматично українське «краще» на §§MDEMPH0§§: спочатку визначте синтаксичну функцію.
+8. Перевірте, чи §§MDEMPH0§§ не використано замість нормативного нейтрального §§MDEMPH1§§.
 
 ## 18. Типові помилки
 
-❌ **Cette solution est mieux que l'autre.** — якщо порівнюється саме якість рішення як іменного об'єкта.
+❌ §§MDEMPH0§§ — якщо порівнюється саме якість рішення як іменного об'єкта.
 
-✅ **Cette solution est meilleure que l'autre.**
+✅ §§MDEMPH0§§
 
-❌ **Il travaille meilleur que moi.**
+❌ §§MDEMPH0§§
 
-✅ **Il travaille mieux que moi.**
+✅ §§MDEMPH0§§
 
-❌ **une mieux solution**
+❌ §§MDEMPH0§§
 
-✅ **une meilleure solution**
+✅ §§MDEMPH0§§
 
-❌ **la mieux solution**
+❌ §§MDEMPH0§§
 
-✅ **la meilleure solution**
+✅ §§MDEMPH0§§
 
 ## 19. Вправи
 
-1. **Cette méthode est ___ que l'ancienne.**  
+1. §§MDEMPH0§§  
    a) meilleure b) mieux
 
-2. **Il travaille ___ que moi.**  
+2. §§MDEMPH0§§  
    a) meilleur b) mieux
 
-3. **C'est la ___ solution.**  
+3. §§MDEMPH0§§  
    a) meilleure b) mieux
 
-4. **C'est lui qui travaille le ___.**  
+4. §§MDEMPH0§§  
    a) meilleur b) mieux
 
-5. **Elle a obtenu un ___ résultat.**  
+5. §§MDEMPH0§§  
    a) meilleur b) mieux
 
-6. **La situation est ___.**  
+6. §§MDEMPH0§§  
    a) meilleure b) mieux
 
-7. **Faites ce qui fonctionne le ___.**  
+7. §§MDEMPH0§§  
    a) meilleur b) mieux
 
-8. **Il explique ___ qu'avant.**  
+8. §§MDEMPH0§§  
    a) meilleur b) mieux
 
-**Відповіді:** 1 **meilleure**; 2 **mieux**; 3 **meilleure**; 4 **mieux**; 5 **meilleur**; 6 залежно від структури: **meilleure** при іменній характеристиці, **mieux** при оцінці ситуації; 7 **mieux**; 8 **mieux**.
+§§MDEMPH0§§ 1 §§MDEMPH1§§; 2 §§MDEMPH2§§; 3 §§MDEMPH3§§; 4 §§MDEMPH4§§; 5 §§MDEMPH5§§; 6 залежно від структури: §§MDEMPH6§§ при іменній характеристиці, §§MDEMPH7§§ при оцінці ситуації; 7 §§MDEMPH8§§; 8 §§MDEMPH9§§.

@@ -28,43 +28,43 @@ tags: []
 ---
 # Референт відносного займенника
 
-Щоб правильно побудувати relative, потрібно розрізняти **antecedent** — елемент, із яким пов'язана relative, — та **функцію relative pronoun** усередині підрядної частини.
+Щоб правильно побудувати relative, потрібно розрізняти §§MDEMPH0§§ — елемент, із яким пов'язана relative, — та §§MDEMPH1§§ усередині підрядної частини.
 
 ## Antecedent не є функцією займенника
 
-> **Le livre que je lis.**
+> §§MDEMPH0§§
 
-**Le livre** — antecedent.
+§§MDEMPH0§§ — antecedent.
 
-**Que** — COD дієслова **lis**.
+§§MDEMPH0§§ — COD дієслова §§MDEMPH1§§.
 
-Не можна казати, що **que** є підметом лише тому, що його antecedent стоїть перед дієсловом.
+Не можна казати, що §§MDEMPH0§§ є підметом лише тому, що його antecedent стоїть перед дієсловом.
 
 ## Визначайте функцію в підрядній
 
 Поставте питання до дієслова:
 
-> **Qui parle ?** → **qui**
+> §§MDEMPH0§§ → §§MDEMPH1§§
 
-> **Je lis quoi ?** → **que**
+> §§MDEMPH0§§ → §§MDEMPH1§§
 
-> **Je parle de quoi ?** → **dont**
+> §§MDEMPH0§§ → §§MDEMPH1§§
 
-> **Je pense à quoi ?** → **auquel / à laquelle...**
+> §§MDEMPH0§§ → §§MDEMPH1§§
 
 ## Далека залежність
 
 Antecedent може бути відокремлений іншими словами:
 
-> **Le projet présenté hier, que nous avons longuement discuté, sera modifié.**
+> §§MDEMPH0§§
 
 У складних реченнях важливо перевіряти, до якого саме іменника належить relative.
 
 ## Неоднозначний antecedent
 
-> **J'ai parlé au directeur de l'entreprise qui vient de Paris.**
+> §§MDEMPH0§§
 
-**Qui vient de Paris** може створити неоднозначність: хто походить із Парижа — директор чи підприємство? У таких випадках краще перебудувати речення.
+§§MDEMPH0§§ може створити неоднозначність: хто походить із Парижа — директор чи підприємство? У таких випадках краще перебудувати речення.
 
 ## Практичний принцип
 

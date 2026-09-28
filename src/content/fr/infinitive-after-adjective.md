@@ -25,12 +25,12 @@ variant: []
 ---
 ## Швидка відповідь
 
-Прикметник може керувати інфінітивною конструкцією. Найчастіше зустрічаються моделі **adjectif + de + infinitif** та **adjectif + à + infinitif**, але вони не взаємозамінні.
+Прикметник може керувати інфінітивною конструкцією. Найчастіше зустрічаються моделі §§MDEMPH0§§ та §§MDEMPH1§§, але вони не взаємозамінні.
 
-- *Je suis heureux de vous voir.* — Я радий вас бачити.
-- *Elle est prête à partir.* — Вона готова піти.
-- *Il est difficile de comprendre.* — Важко зрозуміти.
-- *Ce texte est facile à lire.* — Цей текст легко читати.
+- §§MDEMPH0§§ — Я радий вас бачити.
+- §§MDEMPH0§§ — Вона готова піти.
+- §§MDEMPH0§§ — Важко зрозуміти.
+- §§MDEMPH0§§ — Цей текст легко читати.
 
 Вибір залежить від конкретної конструкції та її синтаксичного значення.
 
@@ -38,72 +38,72 @@ variant: []
 
 Частими є моделі:
 
-- *heureux de faire*;
-- *content de faire*;
-- *fier de faire*;
-- *désolé de faire*;
-- *surpris de faire*;
-- *capable de faire*.
+- §§MDEMPH0§§;
+- §§MDEMPH0§§;
+- §§MDEMPH0§§;
+- §§MDEMPH0§§;
+- §§MDEMPH0§§;
+- §§MDEMPH0§§.
 
-> *Elle est heureuse de venir.*
+> §§MDEMPH0§§
 
 → Вона рада прийти.
 
-> *Il est capable de résoudre le problème.*
+> §§MDEMPH0§§
 
 → Він здатний розв’язати проблему.
 
-Прийменник *de* тут є частиною моделі прикметника.
+Прийменник §§MDEMPH0§§ тут є частиною моделі прикметника.
 
 ## 2. Adjectif + à + infinitif
 
-Інші прикметники вживаються з *à*:
+Інші прикметники вживаються з §§MDEMPH0§§:
 
-- *prêt à faire*;
-- *apte à faire*;
-- *habile à faire*;
-- *facile à comprendre*;
-- *difficile à expliquer*.
+- §§MDEMPH0§§;
+- §§MDEMPH0§§;
+- §§MDEMPH0§§;
+- §§MDEMPH0§§;
+- §§MDEMPH0§§.
 
-> *Elle est prête à partir.*
+> §§MDEMPH0§§
 
 → Вона готова піти.
 
-> *Ce texte est facile à comprendre.*
+> §§MDEMPH0§§
 
 → Цей текст легко зрозуміти.
 
-Не слід трактувати *à* як звичайний прийменник напрямку.
+Не слід трактувати §§MDEMPH0§§ як звичайний прийменник напрямку.
 
 ## 3. Чому de та à не можна вільно міняти
 
 Порівняй:
 
-> *Je suis heureux de partir.*
+> §§MDEMPH0§§
 
-> *Je suis prêt à partir.*
+> §§MDEMPH0§§
 
 Український переклад обох може містити інфінітив, але французьке керування різне.
 
 Так само:
 
-> *Il est capable de le faire.*
+> §§MDEMPH0§§
 
-> *Il est apte à le faire.*
+> §§MDEMPH0§§
 
-Тому корисно запам’ятовувати блоки **heureux de + infinitif**, **prêt à + infinitif**, **capable de + infinitif**.
+Тому корисно запам’ятовувати блоки §§MDEMPH0§§, §§MDEMPH1§§, §§MDEMPH2§§.
 
 ## 4. Хто виконує інфінітивну дію?
 
 У:
 
-> *Marie est heureuse de partir.*
+> §§MDEMPH0§§
 
-найприродніше *Marie* є і носієм емоції, і виконавицею *partir*.
+найприродніше §§MDEMPH0§§ є і носієм емоції, і виконавицею §§MDEMPH1§§.
 
 Але в:
 
-> *Ce livre est difficile à lire.*
+> §§MDEMPH0§§
 
 книга не читає сама себе. Інфінітив стосується особи, яка читає книгу.
 
@@ -113,61 +113,61 @@ variant: []
 
 Порівняй:
 
-> *Paul est heureux de venir.*
+> §§MDEMPH0§§
 
 → Поль радий прийти.
 
-> *Ce livre est difficile à lire.*
+> §§MDEMPH0§§
 
 → Цю книгу важко читати.
 
 У першому реченні підмет є носієм стану та типовим виконавцем інфінітива. У другому підмет є об’єктом оцінки, а виконавець читання не виражений.
 
-Тому конструкції з *à* особливо важливо аналізувати за семантичними ролями.
+Тому конструкції з §§MDEMPH0§§ особливо важливо аналізувати за семантичними ролями.
 
 ## 6. Особливий контраст facile / difficile
 
 Порівняй:
 
-> *Ce livre est facile à lire.*
+> §§MDEMPH0§§
 
-> *Il est facile de lire ce livre.*
+> §§MDEMPH0§§
 
 Обидві конструкції говорять про легкість читання, але синтаксична організація різна.
 
-У першій *ce livre* є тим, що оцінюється щодо читання.
+У першій §§MDEMPH0§§ є тим, що оцінюється щодо читання.
 
-У другій безособове *il* не позначає конкретну особу, а інфінітивна конструкція називає ситуацію, яку оцінюють як легку.
+У другій безособове §§MDEMPH0§§ не позначає конкретну особу, а інфінітивна конструкція називає ситуацію, яку оцінюють як легку.
 
 ## 7. Безособове il
 
 Дуже поширені:
 
-> *Il est important de vérifier les données.*
+> §§MDEMPH0§§
 
-> *Il est nécessaire de répondre rapidement.*
+> §§MDEMPH0§§
 
-> *Il est difficile de comprendre cette règle.*
+> §§MDEMPH0§§
 
-Тут *il* не означає «він». Це безособовий підмет.
+Тут §§MDEMPH0§§ не означає «він». Це безособовий підмет.
 
 Структурно можна уявити:
 
-**Il est important [de vérifier les données].**
+§§MDEMPH0§§
 
-Саме дія перевірки є змістом оцінки *important*.
+Саме дія перевірки є змістом оцінки §§MDEMPH0§§.
 
 ## 8. Infinitif vs que + особова форма
 
 Порівняй:
 
-> *Il est important de vérifier les données.*
+> §§MDEMPH0§§
 
-> *Il est important que Marie vérifie les données.*
+> §§MDEMPH0§§
 
-У другому варіанті окремо виражено виконавця *Marie* і використано особову форму *vérifie*.
+У другому варіанті окремо виражено виконавця §§MDEMPH0§§ і використано особову форму §§MDEMPH1§§.
 
-Отже, *de + infinitif* особливо зручний, коли окремого виконавця не потрібно виражати або його можна відновити з контексту.
+Отже, §§MDEMPH0§§ особливо зручний, коли окремого виконавця не потрібно виражати або його можна відновити з контексту.
 
 ## 9. Український контраст
 
@@ -183,10 +183,10 @@ variant: []
 
 | Українська модель | Французька модель |
 |---|---|
-| радий зробити | *heureux de faire* |
-| готовий зробити | *prêt à faire* |
-| здатний зробити | *capable de faire* |
-| легко зробити | *facile à faire* / безособова модель залежно від конструкції |
+| радий зробити | §§MDEMPH0§§ |
+| готовий зробити | §§MDEMPH0§§ |
+| здатний зробити | §§MDEMPH0§§ |
+| легко зробити | §§MDEMPH0§§ / безособова модель залежно від конструкції |
 
 Переклад дає значення, але не визначає прийменник.
 
@@ -194,15 +194,15 @@ variant: []
 
 У:
 
-> *Il est capable de répondre.*
+> §§MDEMPH0§§
 
-*de répondre* залежить від прикметника *capable*.
+§§MDEMPH0§§ залежить від прикметника §§MDEMPH1§§.
 
 У:
 
-> *Il travaille pour apprendre.*
+> §§MDEMPH0§§
 
-*pour apprendre* виражає мету.
+§§MDEMPH0§§ виражає мету.
 
 В обох є інфінітив, але функціональний зв’язок різний.
 
@@ -210,35 +210,35 @@ variant: []
 
 1. Знайди прикметник.
 2. Встанови, чи допускає він інфінітив.
-3. Визнач модель: *de + infinitif*, *à + infinitif* або іншу.
+3. Визнач модель: §§MDEMPH0§§, §§MDEMPH1§§ або іншу.
 4. Визнач, хто є виконавцем інфінітивної дії.
 5. Перевір, чи підмет є носієм стану, чи об’єктом оцінки.
-6. Якщо є безособове *il*, не перекладай його як особовий займенник.
-7. За потреби порівняй із *que + особова форма*.
+6. Якщо є безособове §§MDEMPH0§§, не перекладай його як особовий займенник.
+7. За потреби порівняй із §§MDEMPH0§§.
 
 ## Типові помилки
 
-❌ *Je suis prêt de partir.*
+❌ §§MDEMPH0§§
 
-✅ *Je suis prêt à partir.*
+✅ §§MDEMPH0§§
 
-❌ *Je suis heureux à venir.*
+❌ §§MDEMPH0§§
 
-✅ *Je suis heureux de venir.*
+✅ §§MDEMPH0§§
 
-❌ *Ce livre est facile de lire* як автоматична заміна нейтральній конструкції *Ce livre est facile à lire*.
+❌ §§MDEMPH0§§ як автоматична заміна нейтральній конструкції §§MDEMPH1§§.
 
-✅ *Ce livre est facile à lire.*
+✅ §§MDEMPH0§§
 
 ## Практична перевірка
 
-1. Je suis heureux ___ vous voir.
-2. Elle est prête ___ partir.
-3. Ce texte est facile ___ comprendre.
-4. Il est important ___ vérifier les chiffres.
-5. Il est capable ___ résoudre le problème.
+1. Je suis heureux §§MDEMPH0§§ vous voir.
+2. Elle est prête §§MDEMPH0§§ partir.
+3. Ce texte est facile §§MDEMPH0§§ comprendre.
+4. Il est important §§MDEMPH0§§ vérifier les chiffres.
+5. Il est capable §§MDEMPH0§§ résoudre le problème.
 
-**Відповіді:** 1 — *de*, 2 — *à*, 3 — *à*, 4 — *de*, 5 — *de*.
+§§MDEMPH0§§ 1 — §§MDEMPH1§§, 2 — §§MDEMPH2§§, 3 — §§MDEMPH3§§, 4 — §§MDEMPH4§§, 5 — §§MDEMPH5§§.
 
 ## Куди далі
 

@@ -28,55 +28,55 @@ tags: []
 ---
 # Ce à quoi, ce sur quoi та інші конструкції
 
-Коли відносна конструкція не має звичайного іменника-antecedent, а залежність вимагає прийменника, використовуються моделі **ce + préposition + lequel/quoi** або усталені конструкції з **quoi**.
+Коли відносна конструкція не має звичайного іменника-antecedent, а залежність вимагає прийменника, використовуються моделі §§MDEMPH0§§ або усталені конструкції з §§MDEMPH1§§.
 
 ## Ce à quoi
 
-> **Voilà ce à quoi je pense.**  
+> §§MDEMPH0§§  
 > Ось про що я думаю.
 
 Вихідна конструкція:
 
-> **Je pense à quelque chose.**
+> §§MDEMPH0§§
 
-Тому використовується **à**.
+Тому використовується §§MDEMPH0§§.
 
 ## Ce sur quoi
 
-> **C'est ce sur quoi nous travaillons.**  
+> §§MDEMPH0§§  
 > Це те, над чим ми працюємо.
 
 Вихідна модель:
 
-> **Nous travaillons sur quelque chose.**
+> §§MDEMPH0§§
 
 ## Ce avec quoi
 
-> **Voici ce avec quoi je travaille.**  
+> §§MDEMPH0§§  
 > Ось те, за допомогою чого я працюю.
 
 ## Ce pour quoi
 
-> **Je comprends ce pour quoi il se bat.**  
+> §§MDEMPH0§§  
 > Я розумію, заради чого / за що він бореться.
 
 ## Вибір прийменника
 
 Не визначайте форму лише за українським «що». Спочатку встановіть французьке керування:
 
-> **penser à** → **ce à quoi**
+> §§MDEMPH0§§ → §§MDEMPH1§§
 
-> **travailler sur** → **ce sur quoi**
+> §§MDEMPH0§§ → §§MDEMPH1§§
 
-> **avoir besoin de** → **ce dont**
+> §§MDEMPH0§§ → §§MDEMPH1§§
 
 ## Типові помилки
 
-❌ *ce à que je pense*  
-✅ **ce à quoi je pense**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
-❌ *ce sur que nous travaillons*  
-✅ **ce sur quoi nous travaillons**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
 ## Пов'язані теми
 

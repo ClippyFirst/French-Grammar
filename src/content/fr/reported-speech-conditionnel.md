@@ -27,37 +27,37 @@ tags: []
 ---
 # Conditionnel у непрямій мові
 
-Conditionnel у непрямій мові часто передає **майбутнє з минулої точки відліку** (*futur dans le passé*). Це одна з найважливіших функцій у reported speech.
+Conditionnel у непрямій мові часто передає §§MDEMPH0§§ (§§MDEMPH1§§). Це одна з найважливіших функцій у reported speech.
 
 ## Швидка відповідь
 
-> **Il a dit : « Je viendrai demain. »**
+> §§MDEMPH0§§
 >
-> **Il a dit qu’il viendrait le lendemain.**
+> §§MDEMPH0§§
 
-*Viendrai* → *viendrait*, бо майбутня дія тепер розглядається з минулого моменту.
+§§MDEMPH0§§ → §§MDEMPH1§§, бо майбутня дія тепер розглядається з минулого моменту.
 
 ## 1. Futur → conditionnel présent
 
-> **Elle a promis : « Je reviendrai. »**
+> §§MDEMPH0§§
 >
-> **Elle a promis qu’elle reviendrait.**
+> §§MDEMPH0§§
 
 Це не «умовність» у значенні сумніву. Тут conditionnel кодує часову перспективу.
 
 ## 2. Не плутай з умовним значенням
 
-> **Il viendrait s’il pouvait.**
+> §§MDEMPH0§§
 
-Тут *viendrait* є частиною умовної конструкції.
+Тут §§MDEMPH0§§ є частиною умовної конструкції.
 
-> **Il a dit qu’il viendrait.**
+> §§MDEMPH0§§
 
-Тут *viendrait* — майбутнє щодо минулого.
+Тут §§MDEMPH0§§ — майбутнє щодо минулого.
 
 ## 3. Український контраст
 
-Українське «він сказав, що прийде» не має окремої морфологічної форми на кшталт французького *viendrait*. Тому не перекладай conditionnel у reported speech автоматично як «можливо прийшов би».
+Українське «він сказав, що прийде» не має окремої морфологічної форми на кшталт французького §§MDEMPH0§§. Тому не перекладай conditionnel у reported speech автоматично як «можливо прийшов би».
 
 ## Алгоритм
 

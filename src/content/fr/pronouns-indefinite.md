@@ -28,118 +28,118 @@ variant: []
 
 ## Швидка відповідь
 
-**Pronoms indéfinis** позначають особу, предмет, кількість або групу без повної ідентифікації референта.
+§§MDEMPH0§§ позначають особу, предмет, кількість або групу без повної ідентифікації референта.
 
-До центральних форм належать **quelqu’un, personne, quelque chose, rien, chacun/chacune, aucun/aucune, plusieurs, certains/certaines, tout/tous/toutes**.
+До центральних форм належать §§MDEMPH0§§.
 
-Важливо відрізняти **займенник** від **déterminant**:
+Важливо відрізняти §§MDEMPH0§§ від §§MDEMPH1§§:
 
-> **Quelqu’un est arrivé.** — займенник, іменника після нього немає.
+> §§MDEMPH0§§ — займенник, іменника після нього немає.
 
-> **Quelques personnes sont arrivées.** — **quelques** визначає іменник.
+> §§MDEMPH0§§ — §§MDEMPH1§§ визначає іменник.
 
 ## 1. Quelqu’un
 
-**Quelqu’un** означає невизначену особу:
+§§MDEMPH0§§ означає невизначену особу:
 
-> **Quelqu’un a laissé un message.**
+> §§MDEMPH0§§
 
-> **Je cherche quelqu’un qui parle français.**
+> §§MDEMPH0§§
 
-У граматичному узгодженні **quelqu’un** поводиться як займенник чоловічого роду:
+У граматичному узгодженні §§MDEMPH0§§ поводиться як займенник чоловічого роду:
 
-> **Quelqu’un est venu.**
+> §§MDEMPH0§§
 
 Стать реального референта може бути іншою, але форма займенника не змінюється.
 
 ## 2. Personne
 
-**Personne** має дві різні ролі.
+§§MDEMPH0§§ має дві різні ролі.
 
 ### Негативний займенник
 
-> **Personne n’est venu.**
+> §§MDEMPH0§§
 
-> **Je n’ai vu personne.**
+> §§MDEMPH0§§
 
 ### Іменник
 
-> **C’est une personne sympathique.**
+> §§MDEMPH0§§
 
-Тут **personne** — звичайний іменник жіночого роду, а не негативний займенник.
+Тут §§MDEMPH0§§ — звичайний іменник жіночого роду, а не негативний займенник.
 
 ## 3. Quelque chose
 
-> **J’ai quelque chose à te dire.**
+> §§MDEMPH0§§
 
-> **Quelque chose est tombé.**
+> §§MDEMPH0§§
 
 Після нього прикметник у стандартній конструкції має чоловічу форму:
 
-> **quelque chose d’intéressant**
+> §§MDEMPH0§§
 
 Не:
 
-❌ **quelque chose intéressante**
+❌ §§MDEMPH0§§
 
 ## 4. Rien
 
-> **Je ne comprends rien.**
+> §§MDEMPH0§§
 
-> **Rien n’est impossible.**
+> §§MDEMPH0§§
 
-У нейтральній стандартній конструкції негативний **rien** взаємодіє з **ne**. У розмовній французькій **ne** часто опускається, але це реєстрова/медійна варіація, а не нове правило стандартної граматики.
+У нейтральній стандартній конструкції негативний §§MDEMPH0§§ взаємодіє з §§MDEMPH1§§. У розмовній французькій §§MDEMPH2§§ часто опускається, але це реєстрова/медійна варіація, а не нове правило стандартної граматики.
 
 ## 5. Chacun / chacune
 
-**Chacun / chacune** позначає кожного окремого члена групи:
+§§MDEMPH0§§ позначає кожного окремого члена групи:
 
-> **Chacun a son rôle.**
+> §§MDEMPH0§§
 
-> **Chacune doit vérifier son résultat.**
+> §§MDEMPH0§§
 
 Форма узгоджується за родом:
 
-- **chacun**;
-- **chacune**.
+- §§MDEMPH0§§;
+- §§MDEMPH0§§.
 
 ## 6. Aucun / aucune
 
-> **Aucun candidat n’a répondu.**
+> §§MDEMPH0§§
 
-> **Je n’ai aucune idée.**
+> §§MDEMPH0§§
 
 У функції займенника:
 
-> **Aucun n’a accepté.**
+> §§MDEMPH0§§
 
 Порівняйте:
 
-> **Aucun candidat n’a accepté.**
+> §§MDEMPH0§§
 
-Тут **aucun** стоїть перед іменником; у другому реченні він сам заміщує іменникову групу.
+Тут §§MDEMPH0§§ стоїть перед іменником; у другому реченні він сам заміщує іменникову групу.
 
 ## 7. Plusieurs
 
-**Plusieurs** може функціонувати без іменника:
+§§MDEMPH0§§ може функціонувати без іменника:
 
-> **Plusieurs sont venus.**
+> §§MDEMPH0§§
 
 Або перед іменником:
 
-> **Plusieurs étudiants sont venus.**
+> §§MDEMPH0§§
 
 У другому випадку слово виконує визначальну функцію, у першому — займенникову.
 
 ## 8. Certains / certaines
 
-> **Certains sont partis.**
+> §§MDEMPH0§§
 
-> **Certaines ont répondu.**
+> §§MDEMPH0§§
 
 Але:
 
-> **Certains étudiants sont partis.**
+> §§MDEMPH0§§
 
 Значення визначається контекстом; воно не дорівнює автоматично одному українському слову.
 
@@ -147,17 +147,17 @@ variant: []
 
 У займенниковому вживанні:
 
-> **Tout est prêt.**
+> §§MDEMPH0§§
 
-> **Tous sont venus.**
+> §§MDEMPH0§§
 
-> **Toutes sont prêtes.**
+> §§MDEMPH0§§
 
 Порівняйте:
 
-> **Tous les étudiants sont venus.**
+> §§MDEMPH0§§
 
-Тут **tous** входить до іменникової групи, а не замінює її.
+Тут §§MDEMPH0§§ входить до іменникової групи, а не замінює її.
 
 ## 10. Ствердження та заперечення
 
@@ -165,8 +165,8 @@ variant: []
 
 | Ствердження | Заперечення |
 |---|---|
-| **Quelqu’un est venu.** | **Personne n’est venu.** |
-| **J’ai vu quelque chose.** | **Je n’ai rien vu.** |
+| §§MDEMPH0§§ | §§MDEMPH1§§ |
+| §§MDEMPH0§§ | §§MDEMPH1§§ |
 
 Це не означає, що кожне позитивне речення механічно має одну «негативну пару»: конструкція та значення визначають вибір.
 
@@ -174,51 +174,51 @@ variant: []
 
 | Займенник | Déterminant |
 |---|---|
-| **plusieurs sont partis** | **plusieurs étudiants sont partis** |
-| **certains sont partis** | **certains étudiants sont partis** |
-| **aucun n’a répondu** | **aucun étudiant n’a répondu** |
-| **tous sont prêts** | **tous les étudiants sont prêts** |
+| §§MDEMPH0§§ | §§MDEMPH1§§ |
+| §§MDEMPH0§§ | §§MDEMPH1§§ |
+| §§MDEMPH0§§ | §§MDEMPH1§§ |
+| §§MDEMPH0§§ | §§MDEMPH1§§ |
 
 Якщо елемент сам утворює референтну групу без іменника, він функціонує займенниково. Якщо стоїть перед іменником, він входить до іменникової групи як визначник.
 
 ## Для україномовного учня
 
-Українські **хтось, ніхто, щось, нічого, кожен, жоден, кілька** не збігаються з французькими за граматичною будовою.
+Українські §§MDEMPH0§§ не збігаються з французькими за граматичною будовою.
 
 Особливо важливо:
 
-- **personne** може бути іменником «людина» або негативним займенником «ніхто»;
-- **rien** у заперечній конструкції працює разом із синтаксичною системою заперечення;
-- **plusieurs, certains, aucun, tous** можуть бути займенниками або визначниками залежно від позиції.
+- §§MDEMPH0§§ може бути іменником «людина» або негативним займенником «ніхто»;
+- §§MDEMPH0§§ у заперечній конструкції працює разом із синтаксичною системою заперечення;
+- §§MDEMPH0§§ можуть бути займенниками або визначниками залежно від позиції.
 
-Корисне питання: **чи є після слова іменник, який воно визначає?**
+Корисне питання: §§MDEMPH0§§
 
 ## Типові помилки
 
-❌ **Personne est venu.**  
-✅ **Personne n’est venu.**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
-❌ **Je ne vois personne pas.**  
-✅ **Je ne vois personne.**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
-❌ **quelque chose intéressante**  
-✅ **quelque chose d’intéressant**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
-❌ повторювати **étudiants** після **plusieurs**, коли група вже зрозуміла.  
-✅ **Plusieurs étudiants sont venus ; plusieurs ont répondu.**
+❌ повторювати §§MDEMPH0§§ після §§MDEMPH1§§, коли група вже зрозуміла.  
+✅ §§MDEMPH0§§
 
 ## Практична перевірка
 
-1. ___ a appelé ? (хтось)
-2. ___ étudiants sont absents. (кілька)
-3. ___ n’a répondu. (ніхто)
-4. J’ai ___ à te dire. (щось)
-5. ___ sont déjà partis. (усі)
+1. §§MDEMPH0§§ a appelé ? (хтось)
+2. §§MDEMPH0§§ étudiants sont absents. (кілька)
+3. §§MDEMPH0§§ n’a répondu. (ніхто)
+4. J’ai §§MDEMPH0§§ à te dire. (щось)
+5. §§MDEMPH0§§ sont déjà partis. (усі)
 
-**Відповіді:** 1. **Quelqu’un**; 2. **Plusieurs**; 3. **Personne**; 4. **quelque chose**; 5. **Tous**.
+§§MDEMPH0§§ 1. §§MDEMPH1§§; 2. §§MDEMPH2§§; 3. §§MDEMPH3§§; 4. §§MDEMPH4§§; 5. §§MDEMPH5§§.
 
 ## Куди далі
 
-- **Déterminant** — ширша система визначників.
-- **Заперечення** — взаємодія personne, rien, jamais, plus та інших негативних форм.
-- **Кількісні звороти** — кількісні визначники та конструкції з de.
+- §§MDEMPH0§§ — ширша система визначників.
+- §§MDEMPH0§§ — взаємодія personne, rien, jamais, plus та інших негативних форм.
+- §§MDEMPH0§§ — кількісні визначники та конструкції з de.

@@ -24,42 +24,42 @@ variant: []
 aliases: []
 tags: []
 ---
-**Avec** виражає супровід, наявність або засіб; **sans** — відсутність чи виконання дії без певного компонента.
+§§MDEMPH0§§ виражає супровід, наявність або засіб; §§MDEMPH1§§ — відсутність чи виконання дії без певного компонента.
 
 ## 1. Супровід
 
-*Je viens avec Paul.*
+§§MDEMPH0§§
 
-*Nous sortons avec nos amis.*
+§§MDEMPH0§§
 
 ## 2. Інструмент/засіб
 
-*écrire avec un stylo*.
+§§MDEMPH0§§.
 
 ## 3. Sans
 
-*Il travaille sans ordinateur.*
+§§MDEMPH0§§
 
-*Elle est partie sans dire au revoir.*
+§§MDEMPH0§§
 
-Перед інфінітивом **sans** може вводити дію, яка не відбулася.
+Перед інфінітивом §§MDEMPH0§§ може вводити дію, яка не відбулася.
 
 ## 4. Контраст
 
-*avec lui* ↔ *sans lui*.
+§§MDEMPH0§§ ↔ §§MDEMPH1§§.
 
-Форма займенника після прийменника є тонічною: *avec moi, sans toi, avec eux*.
+Форма займенника після прийменника є тонічною: §§MDEMPH0§§.
 
 ## Алгоритм
 
-1. Чи є супровід/наявність? → **avec**.
-2. Чи відсутній компонент? → **sans**.
+1. Чи є супровід/наявність? → §§MDEMPH0§§.
+2. Чи відсутній компонент? → §§MDEMPH0§§.
 3. Перед займенником використовуй відповідну тонічну форму.
 
 ## Мінітест
 
-*Je viens ___ toi.* → **avec**.
+§§MDEMPH1§§ → §§MDEMPH0§§.
 
-*Il est parti ___ moi.* → **sans**.
+§§MDEMPH1§§ → §§MDEMPH0§§.
 
-*écrire ___ un stylo* → **avec**.
+§§MDEMPH1§§ → §§MDEMPH0§§.

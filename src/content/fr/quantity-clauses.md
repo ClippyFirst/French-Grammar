@@ -32,55 +32,55 @@ tags: []
 
 ## Основні моделі
 
-- **tellement... que** — так / настільки..., що;
-- **si... que** — такий / настільки..., що;
-- **tant... que** — стільки / так сильно..., що;
-- **tellement de... que** — стільки..., що;
-- **tant de... que** — стільки..., що;
-- **au point que** — до такої міри, що.
+- §§MDEMPH0§§ — так / настільки..., що;
+- §§MDEMPH0§§ — такий / настільки..., що;
+- §§MDEMPH0§§ — стільки / так сильно..., що;
+- §§MDEMPH0§§ — стільки..., що;
+- §§MDEMPH0§§ — стільки..., що;
+- §§MDEMPH0§§ — до такої міри, що.
 
 ## Прикметник
 
-> **Il est tellement fatigué qu'il dort immédiatement.**  
+> §§MDEMPH0§§  
 > Він настільки втомлений, що одразу засинає.
 
-> **Elle est si heureuse qu'elle pleure.**  
+> §§MDEMPH0§§  
 > Вона така щаслива, що плаче.
 
 ## Іменник
 
-> **Il a tellement de travail qu'il ne sort plus.**  
+> §§MDEMPH0§§  
 > У нього стільки роботи, що він більше не виходить.
 
-> **Il y avait tant de monde qu'on ne pouvait pas entrer.**  
+> §§MDEMPH0§§  
 > Було стільки людей, що ми не могли зайти.
 
 Розрізняйте:
 
-- **tellement + adjectif/adverbe**;
-- **tellement de + nom**.
+- §§MDEMPH0§§;
+- §§MDEMPH0§§.
 
 ## Дієслово
 
-> **Il travaille tellement qu'il est épuisé.**  
+> §§MDEMPH0§§  
 > Він так багато працює, що виснажується.
 
-Тут **tellement** модифікує інтенсивність дії.
+Тут §§MDEMPH0§§ модифікує інтенсивність дії.
 
 ## Au point que
 
-> **Il était au point de tomber.** — інша конструкція з інфінітивом.
+> §§MDEMPH0§§ — інша конструкція з інфінітивом.
 
-> **Il était tellement fatigué au point qu'il ne répondait plus.** — конструкція зі ступенем.
+> §§MDEMPH0§§ — конструкція зі ступенем.
 
-У реальному мовленні вибір між **tellement... que**, **au point que** та іншими моделями залежить від того, що саме треба підкреслити.
+У реальному мовленні вибір між §§MDEMPH0§§, §§MDEMPH1§§ та іншими моделями залежить від того, що саме треба підкреслити.
 
 ## Не плутайте
 
-**Il a beaucoup travaillé, donc il est fatigué.**  
+§§MDEMPH0§§  
 → логічний наслідок.
 
-**Il a tellement travaillé qu'il est fatigué.**  
+§§MDEMPH0§§  
 → ступінь роботи пов'язаний із результатом.
 
 ## Пов'язані теми

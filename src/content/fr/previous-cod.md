@@ -28,17 +28,17 @@ tags: []
 
 ## Швидка відповідь
 
-Для *avoir* діє правило:
+Для §§MDEMPH0§§ діє правило:
 
-> **participe passé узгоджується з попереднім COD, якщо цей COD має рід і число.**
+> §§MDEMPH0§§
 
-*Les lettres que j'ai écrites.*
+§§MDEMPH0§§
 
-*que* = *les lettres* → COD перед *ai écrites* → *écrites*.
+§§MDEMPH0§§ = §§MDEMPH1§§ → COD перед §§MDEMPH2§§ → §§MDEMPH3§§.
 
 Якщо COD стоїть після дієприкметника:
 
-*J'ai écrit les lettres.*
+§§MDEMPH0§§
 
 узгодження за COD немає.
 
@@ -46,98 +46,98 @@ tags: []
 
 Не починай з питання «яке закінчення поставити?». Спочатку знайди об'єкт дії.
 
-*J'ai écrit les lettres.*
+§§MDEMPH0§§
 
-Що я написав? → *les lettres*.
+Що я написав? → §§MDEMPH0§§.
 
 Отже, це COD.
 
 ## 2. COD після participe passé
 
-*J'ai écrit les lettres.*
+§§MDEMPH0§§
 
 Порядок:
 
-**avoir + participe passé + COD**
+§§MDEMPH0§§
 
 Тому:
 
-*écrit*
+§§MDEMPH0§§
 
 Не:
 
-❌ *écrites*
+❌ §§MDEMPH0§§
 
 ## 3. COD перед participe passé
 
-*Je les ai écrites.*
+§§MDEMPH0§§
 
-*les* = *les lettres*.
+§§MDEMPH0§§ = §§MDEMPH1§§.
 
 Порядок:
 
-**COD + avoir + participe passé**
+§§MDEMPH0§§
 
 Отже:
 
-*écrites* — жіночий рід, множина.
+§§MDEMPH0§§ — жіночий рід, множина.
 
 ## 4. Відносний займенник que
 
-*Les lettres que j'ai écrites.*
+§§MDEMPH0§§
 
 Питання:
 
-*j'ai écrit quoi ?* → *que*.
+§§MDEMPH0§§ → §§MDEMPH1§§.
 
-Антецедент *les lettres* визначає рід і число форми *écrites*.
+Антецедент §§MDEMPH0§§ визначає рід і число форми §§MDEMPH1§§.
 
 Порівняй:
 
-*Le livre que j'ai lu.*  
-*Les livres que j'ai lus.*  
-*La lettre que j'ai écrite.*  
-*Les lettres que j'ai écrites.*
+§§MDEMPH0§§  
+§§MDEMPH0§§  
+§§MDEMPH0§§  
+§§MDEMPH0§§
 
 ## 5. COD чи COI
 
 Не кожен займенник перед дієприкметником викликає узгодження.
 
-*Les personnes à qui j'ai parlé.*
+§§MDEMPH0§§
 
-*parler à quelqu'un* → *à qui* є COI.
+§§MDEMPH0§§ → §§MDEMPH1§§ є COI.
 
 Тому:
 
-*parlé*, не ❌ *parlées*.
+§§MDEMPH0§§, не ❌ §§MDEMPH1§§.
 
 Порівняй:
 
-*Les personnes que j'ai vues.* → *que* = COD → *vues*.
+§§MDEMPH0§§ → §§MDEMPH1§§ = COD → §§MDEMPH2§§.
 
 ## 6. Два займенники
 
-*Je les lui ai données.*
+§§MDEMPH0§§
 
-- *les* — COD;
-- *lui* — COI;
-- *les* стоїть перед *ai données*;
-- *données* узгоджується з *les*.
+- §§MDEMPH0§§ — COD;
+- §§MDEMPH0§§ — COI;
+- §§MDEMPH0§§ стоїть перед §§MDEMPH1§§;
+- §§MDEMPH0§§ узгоджується з §§MDEMPH1§§.
 
 Це корисна діагностика для складних послідовностей займенників.
 
 ## 7. Не плутай із підметом
 
-У *Les lettres que j'ai écrites* підмет дієслова *ai écrit* — *je*, а не *les lettres*.
+У §§MDEMPH0§§ підмет дієслова §§MDEMPH1§§ — §§MDEMPH2§§, а не §§MDEMPH3§§.
 
-Форма *écrites* визначається не підметом, а попереднім COD *que*, який відсилає до *les lettres*.
+Форма §§MDEMPH0§§ визначається не підметом, а попереднім COD §§MDEMPH1§§, який відсилає до §§MDEMPH2§§.
 
 ## 8. Питання про COD
 
 Зручно застосовувати послідовність:
 
 1. знайди дієслово;
-2. постав *qui ? / quoi ?*;
+2. постав §§MDEMPH0§§;
 3. визнач COD;
 4. перевір його позицію щодо participe passé;
 5. якщо він передує — визнач рід і число;
@@ -151,33 +151,33 @@ tags: []
 
 Тому:
 
-*Les lettres que j'ai écrites.*
+§§MDEMPH0§§
 
-не слід аналізувати як кальку української конструкції. Потрібно спочатку встановити синтаксичну функцію *que*.
+не слід аналізувати як кальку української конструкції. Потрібно спочатку встановити синтаксичну функцію §§MDEMPH0§§.
 
 ## Типові помилки
 
-❌ *Les lettres que j'ai écrit.* → ✅ *Les lettres que j'ai écrites.*  
-❌ *Les personnes à qui j'ai parlées.* → ✅ *Les personnes à qui j'ai parlé.*  
+❌ §§MDEMPH0§§ → ✅ §§MDEMPH1§§  
+❌ §§MDEMPH0§§ → ✅ §§MDEMPH1§§  
 ❌ узгоджувати з підметом автоматично;  
-❌ узгоджувати з будь-яким займенником перед *avoir*.
+❌ узгоджувати з будь-яким займенником перед §§MDEMPH0§§.
 
 ## Практичний алгоритм
 
-**дієслово → COD/COI → позиція COD → антецедент → рід/число → participe passé.**
+§§MDEMPH0§§
 
 ## Мінітест
 
-1. *Les photos que j'ai ______.* (*prendre*)
-2. *Les personnes à qui j'ai ______.* (*parler*)
-3. *Je les ai ______.* (*voir*, les = femmes)
+1. §§MDEMPH0§§ (§§MDEMPH1§§)
+2. §§MDEMPH0§§ (§§MDEMPH1§§)
+3. §§MDEMPH0§§ (§§MDEMPH1§§, les = femmes)
 
-**Відповіді:** *prises; parlé; vues*.
+§§MDEMPH0§§ §§MDEMPH1§§.
 
 ## Пов'язані теми
 
-- *avoir* + participe passé;
+- §§MDEMPH0§§ + participe passé;
 - COD/COI;
 - відносні займенники;
 - узгодження participe passé;
-- *que* та *à qui*.
+- §§MDEMPH0§§ та §§MDEMPH1§§.

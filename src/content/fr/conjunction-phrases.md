@@ -30,14 +30,14 @@ tags: []
 
 Типові приклади:
 
-**parce que, bien que, afin que, à condition que, à moins que, pourvu que**.
+§§MDEMPH0§§.
 
 Їх корисно вчити як цілісні моделі:
 
-- **bien que + subjonctif**;
-- **afin que + subjonctif**;
-- **à moins que + subjonctif**;
-- **à condition que + subjonctif**.
+- §§MDEMPH0§§;
+- §§MDEMPH0§§;
+- §§MDEMPH0§§;
+- §§MDEMPH0§§.
 
 Внутрішня форма може містити прийменник або інший компонент, але функціонально працює вся конструкція.
 

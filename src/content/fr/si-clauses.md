@@ -23,7 +23,7 @@ toc: true
 featured: false
 variant: []
 ---
-# Умовні конструкції з **si**
+# Умовні конструкції з §§MDEMPH0§§
 
 Французькі умовні конструкції не зводяться до однієї таблиці «перший / другий / третій тип». Важливо розрізняти:
 
@@ -31,7 +31,7 @@ variant: []
 - чи мовець уявляє альтернативну ситуацію;
 - чи умова належить до минулого й уже не може бути виконана;
 - коли саме проявляється наслідок;
-- чи **si** означає «якщо», а не «чи»;
+- чи §§MDEMPH0§§ означає «якщо», а не «чи»;
 - чи використовується інша конструкція для вираження умови.
 
 Основна система має три центральні моделі, але між ними існують змішані та альтернативні конструкції.
@@ -42,21 +42,21 @@ variant: []
 
 | Функція | Умова | Типовий наслідок |
 |---|---|---|
-| відкрита / реальна | **si + présent** | présent, futur, impératif тощо |
-| гіпотетична | **si + imparfait** | **conditionnel présent** |
-| нереалізована в минулому | **si + plus-que-parfait** | **conditionnel passé** |
+| відкрита / реальна | §§MDEMPH0§§ | présent, futur, impératif тощо |
+| гіпотетична | §§MDEMPH0§§ | §§MDEMPH1§§ |
+| нереалізована в минулому | §§MDEMPH0§§ | §§MDEMPH1§§ |
 
-Це **моделі**, а не механічний алгоритм. У реальному тексті наслідок може мати інший час, якщо його власна часова перспектива цього вимагає.
+Це §§MDEMPH0§§, а не механічний алгоритм. У реальному тексті наслідок може мати інший час, якщо його власна часова перспектива цього вимагає.
 
 ### Три базові приклади
 
-**Si tu viens, nous partirons.**  
+§§MDEMPH0§§  
 → Якщо ти прийдеш, ми вирушимо.
 
-**Si tu venais, nous partirions.**  
+§§MDEMPH0§§  
 → Якби ти прийшов, ми вирушили б.
 
-**Si tu étais venu, nous serions partis.**  
+§§MDEMPH0§§  
 → Якби ти прийшов, ми вирушили б.
 
 У третьому реченні йдеться про минулу ситуацію, яка вже не може бути змінена.
@@ -65,38 +65,38 @@ variant: []
 
 ## 2. Реальні та відкриті умови — FR-376
 
-**Si + présent** використовується, коли мовець не подає умову як суто уявну або закриту для реалізації.
+§§MDEMPH0§§ використовується, коли мовець не подає умову як суто уявну або закриту для реалізації.
 
 ### Présent → futur
 
-**Si tu viens demain, nous dînerons ensemble.**
+§§MDEMPH0§§
 
-**Si j'ai le temps, je t'appellerai ce soir.**
+§§MDEMPH0§§
 
-Французька не ставить futur у підрядній після умовного **si** лише тому, що ситуація відноситься до майбутнього.
+Французька не ставить futur у підрядній після умовного §§MDEMPH0§§ лише тому, що ситуація відноситься до майбутнього.
 
-❌ *Si tu viendras demain, je serai content.*  
-✅ **Si tu viens demain, je serai content.**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
 ### Présent → présent
 
-**Si je suis fatigué, je dors mal.**
+§§MDEMPH0§§
 
-**Si on chauffe l'eau à 100 °C, elle bout.**
+§§MDEMPH0§§
 
 Тут умова може виражати звичну закономірність або загальне співвідношення.
 
 ### Présent → impératif
 
-**Si tu as des questions, appelle-moi.**
+§§MDEMPH0§§
 
-**Si vous avez besoin d'aide, contactez-nous.**
+§§MDEMPH0§§
 
 Наслідок може бути наказом, проханням або інструкцією.
 
 ### Présent → futur antérieur
 
-**Si tu commences maintenant, tu auras terminé avant midi.**
+§§MDEMPH0§§
 
 Умова залишається відкритою, а наслідок описує завершення дії до майбутньої межі.
 
@@ -106,28 +106,28 @@ variant: []
 
 Типова модель:
 
-**si + imparfait → conditionnel présent**
+§§MDEMPH0§§
 
-- **Si j'avais plus de temps, je voyagerais davantage.**
-- **Si nous habitions à Paris, nous prendrions le métro tous les jours.**
-- **Si tu travaillais moins, tu serais moins fatigué.**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
-Тут **imparfait** не обов'язково позначає минуле. Він може маркувати **модальну дистанцію**: мовець розглядає ситуацію як уявну або неактуальну для теперішньої реальності.
+Тут §§MDEMPH0§§ не обов'язково позначає минуле. Він може маркувати §§MDEMPH1§§: мовець розглядає ситуацію як уявну або неактуальну для теперішньої реальності.
 
 Порівняйте:
 
-**Si j'ai le temps, je viendrai.**
+§§MDEMPH0§§
 
 → реальна можливість.
 
-**Si j'avais le temps, je viendrais.**
+§§MDEMPH0§§
 
 → гіпотетична ситуація.
 
 Українська аналогія:
 
-- **якщо матиму час, прийду**;
-- **якби мав час, прийшов би**.
+- §§MDEMPH0§§;
+- §§MDEMPH0§§.
 
 Це функціональна відповідність, а не механічний переклад форм.
 
@@ -135,15 +135,15 @@ variant: []
 
 ## 4. Гіпотеза не означає «неможливо»
 
-**Si j'avais plus de temps, je voyagerais davantage.**
+§§MDEMPH0§§
 
-не обов'язково означає, що людина **фізично не може** мати більше часу.
+не обов'язково означає, що людина §§MDEMPH0§§ мати більше часу.
 
 Конструкція може просто створювати дистанцію від фактичної ситуації:
 
 > «За теперішніх умов у мене недостатньо часу; уявімо іншу ситуацію».
 
-Тому **si + imparfait** не варто називати виключно «формою нереальності». Точніше говорити про **гіпотетичність / дистанцію від актуального стану**.
+Тому §§MDEMPH0§§ не варто називати виключно «формою нереальності». Точніше говорити про §§MDEMPH1§§.
 
 ---
 
@@ -151,26 +151,26 @@ variant: []
 
 Типова модель:
 
-**si + plus-que-parfait → conditionnel passé**
+§§MDEMPH0§§
 
-- **Si j'avais étudié davantage, j'aurais réussi l'examen.**
-- **Si nous étions partis plus tôt, nous serions arrivés à l'heure.**
-- **Si elle avait accepté, elle aurait travaillé avec nous.**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
 Умова належить до минулого й не була реалізована.
 
 ### Заборона conditionnel після si
 
-❌ *Si j'aurais étudié davantage, j'aurais réussi.*
+❌ §§MDEMPH0§§
 
-✅ **Si j'avais étudié davantage, j'aurais réussi.**
+✅ §§MDEMPH0§§
 
 ### Чому plus-que-parfait?
 
-Тому що умовна подія вже розташована **перед точкою відліку в минулому**:
+Тому що умовна подія вже розташована §§MDEMPH0§§:
 
-**j'avais étudié** → передбачувана умова  
-**j'aurais réussi** → гіпотетичний наслідок
+§§MDEMPH0§§ → передбачувана умова  
+§§MDEMPH0§§ → гіпотетичний наслідок
 
 ---
 
@@ -180,116 +180,116 @@ variant: []
 
 ### Минуле → теперішнє
 
-**Si j'avais accepté ce poste, je travaillerais à Paris aujourd'hui.**
+§§MDEMPH0§§
 
 Минуле рішення пояснює теперішній стан.
 
-**Si elle avait étudié la médecine, elle serait médecin aujourd'hui.**
+§§MDEMPH0§§
 
 ### Теперішня характеристика → минулий результат
 
-**Si j'étais plus organisé, j'aurais terminé le projet hier.**
+§§MDEMPH0§§
 
 Тут гіпотетична характеристика стосується теперішнього, а результат — минулого.
 
 Тому не вчіть умовні конструкції як три ізольовані «типи». Відстежуйте дві осі:
 
-1. **модальну дистанцію** умови;
-2. **часову локалізацію** наслідку.
+1. §§MDEMPH0§§ умови;
+2. §§MDEMPH0§§ наслідку.
 
 ---
 
 ## 7. Повна система реальної умови
 
-Для **si + présent** наслідок не обмежений futur.
+Для §§MDEMPH0§§ наслідок не обмежений futur.
 
 Можливі:
 
-- **présent** — звичайна закономірність;
-- **futur simple** — майбутній наслідок;
-- **futur antérieur** — завершення до майбутньої межі;
-- **impératif** — наказ / прохання / інструкція;
+- §§MDEMPH0§§ — звичайна закономірність;
+- §§MDEMPH0§§ — майбутній наслідок;
+- §§MDEMPH0§§ — завершення до майбутньої межі;
+- §§MDEMPH0§§ — наказ / прохання / інструкція;
 - інші форми, якщо їх підтримує контекст.
 
 Наприклад:
 
-**Si tu viens, nous mangeons ensemble.**
+§§MDEMPH0§§
 
 може описувати домовленість або типовий план у відповідному контексті.
 
-**Si tu viens, nous aurons déjà commencé.**
+§§MDEMPH0§§
 
 → до моменту твого приходу дія вже буде розпочата.
 
-Отже, формула **si + présent → futur** корисна для початку, але не вичерпує системи.
+Отже, формула §§MDEMPH0§§ корисна для початку, але не вичерпує системи.
 
 ---
 
-## 8. Умовне **si** та непряме питання
+## 8. Умовне §§MDEMPH0§§ та непряме питання
 
-Слово **si** має щонайменше дві принципово різні функції.
+Слово §§MDEMPH0§§ має щонайменше дві принципово різні функції.
 
-### **si = якщо**
+### §§MDEMPH0§§
 
-**Si tu viens, nous partirons.**
+§§MDEMPH0§§
 
-### **si = чи**
+### §§MDEMPH0§§
 
-**Je ne sais pas si tu viendras.**
+§§MDEMPH0§§
 
-У другому випадку **si** вводить непряме питання. Тому після нього futur можливий:
+У другому випадку §§MDEMPH0§§ вводить непряме питання. Тому після нього futur можливий:
 
-**Je me demande s'il viendra demain.**
+§§MDEMPH0§§
 
-Не можна переносити правило умовних речень на всі випадки слова **si**.
+Не можна переносити правило умовних речень на всі випадки слова §§MDEMPH0§§.
 
 ---
 
 ## 9. Альтернативні умовні конструкції — FR-379
 
-Французька може виражати умову не тільки за допомогою **si**.
+Французька може виражати умову не тільки за допомогою §§MDEMPH0§§.
 
-### **à condition que + subjonctif**
+### §§MDEMPH0§§
 
-**Je viendrai à condition que tu sois là.**
+§§MDEMPH0§§
 
 → Я прийду за умови, що ти будеш там.
 
 Умова подається як вимога, виконання якої відкриває можливість наслідку.
 
-### **à moins que + subjonctif**
+### §§MDEMPH0§§
 
-**Nous partirons à moins qu'il ne pleuve.**
+§§MDEMPH0§§
 
 → Ми вирушимо, якщо тільки не буде дощу.
 
 Тут умова має значення винятку.
 
-У письмовій французькій після **à moins que** може з'являтися **ne explétif**:
+У письмовій французькій після §§MDEMPH0§§ може з'являтися §§MDEMPH1§§:
 
-**à moins qu'il ne pleuve**
+§§MDEMPH0§§
 
-Це **не** звичайне заперечення «не буде дощу» в структурному сенсі.
+Це §§MDEMPH0§§ звичайне заперечення «не буде дощу» в структурному сенсі.
 
-### **pourvu que + subjonctif**
+### §§MDEMPH0§§
 
-**Je viendrai, pourvu que tu sois disponible.**
+§§MDEMPH0§§
 
 → Я прийду, аби тільки ти був вільний / за умови, що ти будеш вільний.
 
 Конструкція виражає умову, часто з відтінком побажання або застереження.
 
-### **dans le cas où + conditionnel**
+### §§MDEMPH0§§
 
-**Dans le cas où vous auriez besoin d'aide, contactez-nous.**
+§§MDEMPH0§§
 
 → У разі, якщо вам знадобиться допомога, зв'яжіться з нами.
 
-Тут conditionnel є частиною іншої умовної конструкції; це не підрядна **si**.
+Тут conditionnel є частиною іншої умовної конструкції; це не підрядна §§MDEMPH0§§.
 
-### **à supposer que + subjonctif**
+### §§MDEMPH0§§
 
-**À supposer qu'il soit disponible, nous pourrions commencer.**
+§§MDEMPH0§§
 
 → Припустімо, що він доступний; тоді ми могли б почати.
 
@@ -301,23 +301,23 @@ variant: []
 
 У письмовій французькій умова може бути стиснена.
 
-### **en cas de + nom**
+### §§MDEMPH0§§
 
-**En cas de problème, contactez-nous.**
+§§MDEMPH0§§
 
 → У разі проблеми зв'яжіться з нами.
 
-### **en cas de + infinitif**
+### §§MDEMPH0§§
 
-Можливі сталі контекстні конструкції з інфінітивом, але їх не слід механічно підміняти **si**. Вибір залежить від структури речення.
+Можливі сталі контекстні конструкції з інфінітивом, але їх не слід механічно підміняти §§MDEMPH0§§. Вибір залежить від структури речення.
 
-### **à défaut de + nom / infinitif**
+### §§MDEMPH0§§
 
-**À défaut de réponse, nous annulerons la demande.**
+§§MDEMPH0§§
 
 → За відсутності відповіді ми скасуємо запит.
 
-Це вже не проста розмовна модель **si**, а компактний письмовий спосіб подати умову або передумову.
+Це вже не проста розмовна модель §§MDEMPH0§§, а компактний письмовий спосіб подати умову або передумову.
 
 ---
 
@@ -325,15 +325,15 @@ variant: []
 
 У реальній умові наслідком може бути наказ:
 
-**Si tu vois Marie, appelle-moi.**
+§§MDEMPH0§§
 
-**Si vous avez un problème, contactez le service technique.**
+§§MDEMPH0§§
 
 Українською обидві частини часто перекладаються майбутнім або наказовим способом залежно від контексту:
 
 > Якщо побачиш Марію, подзвони мені.
 
-Французька при цьому не потребує futur після **si**.
+Французька при цьому не потребує futur після §§MDEMPH0§§.
 
 ---
 
@@ -341,19 +341,19 @@ variant: []
 
 Умова може визначати момент, до якого має відбутися дія:
 
-**Si tu arrives avant midi, nous déjeunerons ensemble.**
+§§MDEMPH0§§
 
-**Si tu as terminé avant six heures, tu pourras partir.**
+§§MDEMPH0§§
 
-У другому реченні **as terminé** — **passé composé**, а не futur antérieur. Його форма тут пояснюється структурою умови та часовою перспективою.
+У другому реченні §§MDEMPH0§§ — §§MDEMPH1§§, а не futur antérieur. Його форма тут пояснюється структурою умови та часовою перспективою.
 
 Порівняйте:
 
-**Si tu termines avant six heures, tu pourras partir.**
+§§MDEMPH0§§
 
 → якщо завершиш до шостої.
 
-**Si tu as terminé avant six heures, tu pourras partir.**
+§§MDEMPH0§§
 
 → якщо до шостої вже завершиш / якщо виявиться, що до шостої ти завершив.
 
@@ -363,33 +363,33 @@ variant: []
 
 ## 13. Український контраст
 
-Українська умовність часто дуже прозоро позначається часткою **би / б**:
+Українська умовність часто дуже прозоро позначається часткою §§MDEMPH0§§:
 
-**Якби я знав, я б прийшов.**
+§§MDEMPH0§§
 
 У французькій відповідність розподіляється між двома частинами:
 
-**Si je savais, je viendrais.**
+§§MDEMPH0§§
 
 Тому для україномовного учня корисно мислити структурою:
 
-**якби + форма гіпотетичної умови → би + наслідок**
+§§MDEMPH0§§
 
 ≈
 
-**si + imparfait → conditionnel présent**
+§§MDEMPH0§§
 
 Але в реальній французькій система ширша:
 
-**si + présent → futur / présent / impératif**
+§§MDEMPH0§§
 
-**si + plus-que-parfait → conditionnel passé**
+§§MDEMPH0§§
 
-**si + plus-que-parfait → conditionnel présent** у змішаній перспективі
+§§MDEMPH0§§ у змішаній перспективі
 
-**si + imparfait → conditionnel passé** у змішаній перспективі
+§§MDEMPH0§§ у змішаній перспективі
 
-Інші умовні значення можуть виражатися **à condition que, à moins que, pourvu que, dans le cas où, à supposer que, en cas de** тощо.
+Інші умовні значення можуть виражатися §§MDEMPH0§§ тощо.
 
 ---
 
@@ -397,21 +397,21 @@ variant: []
 
 ### Помилка 1. Futur після si
 
-❌ *Si tu viendras, je serai content.*
+❌ §§MDEMPH0§§
 
-✅ **Si tu viens, je serai content.**
+✅ §§MDEMPH0§§
 
 ### Помилка 2. Conditionnel після si
 
-❌ *Si j'aurais su, je serais venu.*
+❌ §§MDEMPH0§§
 
-✅ **Si j'avais su, je serais venu.**
+✅ §§MDEMPH0§§
 
 ### Помилка 3. «Imparfait = минуле»
 
 У:
 
-**Si j'avais plus de temps, je voyagerais.**
+§§MDEMPH0§§
 
 imparfait створює гіпотетичну дистанцію, а не обов'язково локалізує умову в минулому.
 
@@ -421,23 +421,23 @@ imparfait створює гіпотетичну дистанцію, а не об
 
 ### Помилка 5. Плутати si «якщо» та si «чи»
 
-**Si tu viens, nous partirons.**  
+§§MDEMPH0§§  
 → якщо.
 
-**Je ne sais pas si tu viendras.**  
+§§MDEMPH0§§  
 → чи.
 
 ### Помилка 6. Вважати альтернативні умови різновидами si
 
-**à condition que**, **à moins que**, **pourvu que**, **dans le cas où** мають власні синтаксичні моделі й не є просто «іншими словами для si».
+§§MDEMPH0§§, §§MDEMPH1§§, §§MDEMPH2§§, §§MDEMPH3§§ мають власні синтаксичні моделі й не є просто «іншими словами для si».
 
 ---
 
 ## 15. Практичний алгоритм
 
-### Якщо бачите **si**
+### Якщо бачите §§MDEMPH0§§
 
-1. Перевірте: **«якщо» чи «чи»?**
+1. Перевірте: §§MDEMPH0§§
 2. Якщо «якщо», визначте модальну дистанцію.
 3. Перевірте час умови.
 4. Окремо визначте час наслідку.
@@ -445,75 +445,75 @@ imparfait створює гіпотетичну дистанцію, а не об
 
 ### Швидка схема
 
-**Відкрита умова**
+§§MDEMPH0§§
 
-→ **si + présent**
+→ §§MDEMPH0§§
 
-**Гіпотеза**
+§§MDEMPH0§§
 
-→ **si + imparfait → conditionnel présent**
+→ §§MDEMPH0§§
 
-**Нереалізоване минуле**
+§§MDEMPH0§§
 
-→ **si + plus-que-parfait → conditionnel passé**
+→ §§MDEMPH0§§
 
-**Різні часові точки**
+§§MDEMPH0§§
 
 → змішана конструкція.
 
-**Інша синтаксична модель**
+§§MDEMPH0§§
 
-→ **à condition que / à moins que / pourvu que / dans le cas où / à supposer que / en cas de** тощо.
+→ §§MDEMPH0§§ тощо.
 
 ---
 
 ## 16. Самоперевірка
 
-1. Si tu ___ (venir) demain, nous dînerons ensemble.
-2. Si j'___ (avoir) plus de temps, je voyagerais davantage.
-3. Si elle ___ (étudier) davantage, elle aurait réussi.
-4. Si j'avais accepté, je ___ (travailler) à Paris aujourd'hui.
-5. Si j'étais plus organisé, j'___ (terminer) le projet hier.
-6. Si tu ___ (avoir) des questions, appelle-moi.
-7. Je ne sais pas s'il ___ (venir) demain.
-8. Je viendrai à condition que tu ___ (être) disponible.
-9. Nous partirons à moins qu'il ne ___ (pleuvoir).
-10. Dans le cas où vous ___ (avoir) besoin d'aide, contactez-nous.
+1. Si tu §§MDEMPH0§§ (venir) demain, nous dînerons ensemble.
+2. Si j'§§MDEMPH0§§ (avoir) plus de temps, je voyagerais davantage.
+3. Si elle §§MDEMPH0§§ (étudier) davantage, elle aurait réussi.
+4. Si j'avais accepté, je §§MDEMPH0§§ (travailler) à Paris aujourd'hui.
+5. Si j'étais plus organisé, j'§§MDEMPH0§§ (terminer) le projet hier.
+6. Si tu §§MDEMPH0§§ (avoir) des questions, appelle-moi.
+7. Je ne sais pas s'il §§MDEMPH0§§ (venir) demain.
+8. Je viendrai à condition que tu §§MDEMPH0§§ (être) disponible.
+9. Nous partirons à moins qu'il ne §§MDEMPH0§§ (pleuvoir).
+10. Dans le cas où vous §§MDEMPH0§§ (avoir) besoin d'aide, contactez-nous.
 
 ### Відповіді
 
-1. **viens**
-2. **avais**
-3. **avait étudié**
-4. **travaillerais**
-5. **aurais terminé**
-6. **as**
-7. **viendra**
-8. **sois**
-9. **pleuve**
-10. **auriez**
+1. §§MDEMPH0§§
+2. §§MDEMPH0§§
+3. §§MDEMPH0§§
+4. §§MDEMPH0§§
+5. §§MDEMPH0§§
+6. §§MDEMPH0§§
+7. §§MDEMPH0§§
+8. §§MDEMPH0§§
+9. §§MDEMPH0§§
+10. §§MDEMPH0§§
 
 ---
 
 ## Короткий підсумок
 
-Французька система умов базується не на механічному перекладі українського **б / би**, а на взаємодії **модальності, часу та синтаксису**.
+Французька система умов базується не на механічному перекладі українського §§MDEMPH0§§, а на взаємодії §§MDEMPH1§§.
 
 Запам'ятайте ядро:
 
-**si + présent**  
+§§MDEMPH0§§  
 → відкрита умова.
 
-**si + imparfait → conditionnel présent**  
+§§MDEMPH0§§  
 → гіпотеза.
 
-**si + plus-que-parfait → conditionnel passé**  
+§§MDEMPH0§§  
 → нереалізована минула умова.
 
 Далі перевіряйте:
 
 - змішану часову перспективу;
-- **si** «якщо» vs **si** «чи»;
+- §§MDEMPH0§§ «якщо» vs §§MDEMPH1§§ «чи»;
 - альтернативні конструкції умови;
 - власну часову структуру наслідку.
 

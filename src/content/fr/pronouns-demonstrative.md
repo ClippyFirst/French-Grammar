@@ -27,73 +27,73 @@ aliases: []
 
 ## Коротка відповідь
 
-У французькій треба розрізняти **вказівні визначники** перед іменником і **вказівні займенники**, які самі займають місце іменникової групи.
+У французькій треба розрізняти §§MDEMPH0§§ перед іменником і §§MDEMPH1§§, які самі займають місце іменникової групи.
 
 ### Перед іменником
 
-- **ce** livre
-- **cet** homme
-- **cette** femme
-- **ces** livres
+- §§MDEMPH0§§ livre
+- §§MDEMPH0§§ homme
+- §§MDEMPH0§§ femme
+- §§MDEMPH0§§ livres
 
 ### Замість іменника
 
-- **celui** — чол. однина
-- **celle** — жін. однина
-- **ceux** — чол. / змішана множина
-- **celles** — жін. множина
+- §§MDEMPH0§§ — чол. однина
+- §§MDEMPH0§§ — жін. однина
+- §§MDEMPH0§§ — чол. / змішана множина
+- §§MDEMPH0§§ — жін. множина
 
 ## 1. Вказівні визначники
 
 | Рід / число | Форма | Приклад |
 |---|---|---|
-| чол. одн. | **ce** | *ce livre* |
-| чол. одн. перед голосним / німим h | **cet** | *cet homme, cet exercice* |
-| жін. одн. | **cette** | *cette maison* |
-| множина | **ces** | *ces livres, ces maisons* |
+| чол. одн. | §§MDEMPH0§§ | §§MDEMPH1§§ |
+| чол. одн. перед голосним / німим h | §§MDEMPH0§§ | §§MDEMPH1§§ |
+| жін. одн. | §§MDEMPH0§§ | §§MDEMPH1§§ |
+| множина | §§MDEMPH0§§ | §§MDEMPH1§§ |
 
-**Cet** — форма чоловічого однини перед голосним або німим *h*, а не окрема категорія роду.
+§§MDEMPH0§§ — форма чоловічого однини перед голосним або німим §§MDEMPH1§§, а не окрема категорія роду.
 
 Порівняйте:
 
-- *cet homme*
-- *cet hôtel*
-- *cette amie*
-- *cette histoire*
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
 ## 2. Визначник не є займенником
 
 Порівняйте:
 
-- *Je prends **ce livre**.*
-- *Je prends **celui-ci**.*
+- §§MDEMPH1§§
+- §§MDEMPH1§§
 
-У першому реченні **ce** супроводжує іменник. У другому **celui** сам є займенником.
+У першому реченні §§MDEMPH0§§ супроводжує іменник. У другому §§MDEMPH1§§ сам є займенником.
 
 Тому не будуйте:
 
-❌ *ce est intéressant*
+❌ §§MDEMPH0§§
 
-У конструкції перед *être* вживається **c'est**:
+У конструкції перед §§MDEMPH1§§ вживається §§MDEMPH0§§:
 
-- **C'est intéressant.**
-- **Ce sont mes amis.**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
 ## 3. Вказівні займенники
 
 | | Однина | Множина |
 |---|---|---|
-| чоловічий | **celui** | **ceux** |
-| жіночий | **celle** | **celles** |
+| чоловічий | §§MDEMPH0§§ | §§MDEMPH1§§ |
+| жіночий | §§MDEMPH0§§ | §§MDEMPH1§§ |
 
 Приклади:
 
-- *Celui de Paul est intéressant.*
-- *Celle de Marie est nouvelle.*
-- *Ceux de mon frère sont anciens.*
-- *Celles de ma sœur sont rouges.*
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
-Займенник узгоджується з **референтом, який він замінює**, а не з власником чи особою, що його називає.
+Займенник узгоджується з §§MDEMPH0§§, а не з власником чи особою, що його називає.
 
 ## 4. Конструкції після celui/celle/ceux/celles
 
@@ -101,50 +101,50 @@ aliases: []
 
 ### + de
 
-- *celui de Paul*
-- *celle de Marie*
-- *ceux de mes parents*
-- *celles de l'année dernière*
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
 ### + відносна підрядна частина
 
-- *celui qui parle*
-- *celle que j'ai rencontrée*
-- *ceux qui travaillent ici*
-- *celles que tu connais*
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
 Центральна модель:
 
-**celui/celle/ceux/celles + qui/que/dont/où...**
+§§MDEMPH0§§
 
 ## 5. -ci та -là
 
-**-ci** та **-là** допомагають розрізняти референти або організовувати просторову / дискурсивну близькість.
+§§MDEMPH0§§ та §§MDEMPH1§§ допомагають розрізняти референти або організовувати просторову / дискурсивну близькість.
 
 З іменником:
 
-- *ce livre-ci*
-- *ce livre-là*
-- *cette maison-ci*
-- *cette maison-là*
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
 Із займенником:
 
-- *celui-ci*
-- *celui-là*
-- *celle-ci*
-- *celle-là*
-- *ceux-ci*
-- *ceux-là*
-- *celles-ci*
-- *celles-là*
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
 Наприклад:
 
-- *Je prends ce livre-ci, pas celui-là.*
-- *Cette voiture-ci est moins chère que celle-là.*
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
-Не зводьте **-ci = близько, -là = далеко** до абсолютного правила: у дискурсі ці форми можуть виконувати функцію протиставлення або організації згадки.
+Не зводьте §§MDEMPH0§§ до абсолютного правила: у дискурсі ці форми можуть виконувати функцію протиставлення або організації згадки.
 
 ## 6. ce, ça, ceci, cela
 
@@ -152,48 +152,48 @@ aliases: []
 
 ### ce
 
-Часто в конструкціях із **être**:
+Часто в конструкціях із §§MDEMPH0§§:
 
-- *C'est intéressant.*
-- *Ce sont mes amis.*
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
 ### cela
 
 Поширене в нейтральному та формальнішому письмовому мовленні:
 
-- *Cela me paraît important.*
+- §§MDEMPH0§§
 
 ### ça
 
 Дуже поширене в розмовній мові:
 
-- *Ça va.*
-- *Je n'aime pas ça.*
-- *Ça m'intéresse.*
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
-**Ça** не є «неправильною» формою: це нормативний елемент сучасного вживання, особливо в розмовному стилі.
+§§MDEMPH0§§ не є «неправильною» формою: це нормативний елемент сучасного вживання, особливо в розмовному стилі.
 
 ### ceci
 
 Може вживатися в письмовому, пояснювальному або презентаційному контексті:
 
-- *Ceci explique la différence.*
+- §§MDEMPH0§§
 
-Не вчіть **ceci/cela** як абсолютну пару «близько / далеко»: їхня дискурсивна функція часто важливіша за буквальну просторову відстань.
+Не вчіть §§MDEMPH0§§ як абсолютну пару «близько / далеко»: їхня дискурсивна функція часто важливіша за буквальну просторову відстань.
 
 ## 7. ce qui, ce que, ce dont
 
 Коли йдеться про нейтральне «те, що...», використовуються:
 
-- **ce qui** — конструкція, де *ce qui* є підметом наступного дієслова;
-- **ce que / ce qu'** — конструкція, де *ce que* є COD;
-- **ce dont** — конструкція, пов'язана з керуванням через **de**.
+- §§MDEMPH0§§ — конструкція, де §§MDEMPH1§§ є підметом наступного дієслова;
+- §§MDEMPH0§§ — конструкція, де §§MDEMPH1§§ є COD;
+- §§MDEMPH0§§ — конструкція, пов'язана з керуванням через §§MDEMPH1§§.
 
 Приклади:
 
-- *Je comprends **ce qui** se passe.*
-- *Je sais **ce que** tu veux.*
-- *Je sais **ce dont** tu as besoin.*
+- §§MDEMPH1§§
+- §§MDEMPH1§§
+- §§MDEMPH1§§
 
 Не перекладайте всі три форми одним українським «що»: визначайте синтаксичну функцію.
 
@@ -201,101 +201,101 @@ aliases: []
 
 Порівняйте:
 
-- *Je prends **celui qui** est sur la table.*
-- *Je comprends **ce qui** est important.*
+- §§MDEMPH1§§
+- §§MDEMPH1§§
 
-**Celui** відсилає до конкретного референта чоловічого роду:
+§§MDEMPH0§§ відсилає до конкретного референта чоловічого роду:
 
-- *le livre → celui qui...*
+- §§MDEMPH0§§
 
-**Ce** у *ce qui* має нейтральне реферування:
+§§MDEMPH0§§ у §§MDEMPH1§§ має нейтральне реферування:
 
-- *ce qui est important* = те, що є важливим.
+- §§MDEMPH0§§ = те, що є важливим.
 
 Так само:
 
-- *le livre que je lis → celui que je lis*
-- *ce que je lis* = те, що я читаю.
+- §§MDEMPH0§§
+- §§MDEMPH0§§ = те, що я читаю.
 
 ## 9. Український контраст
 
-Українські **цей, ця, це, ці, той, та, те, ті** мають широкий спектр уживання.
+Українські §§MDEMPH0§§ мають широкий спектр уживання.
 
 Французька розподіляє функції інакше:
 
-- **ce/cet/cette/ces** + іменник;
-- **celui/celle/ceux/celles** як займенник;
-- **ce/ceci/cela/ça** у нейтральному або дискурсивному реферуванні.
+- §§MDEMPH0§§ + іменник;
+- §§MDEMPH0§§ як займенник;
+- §§MDEMPH0§§ у нейтральному або дискурсивному реферуванні.
 
 Тому переклад «цей → ce» не є універсальним алгоритмом.
 
 Наприклад:
 
-- «той, що я бачу» → *celui que je vois*;
-- «те, що я бачу» → *ce que je vois*.
+- «той, що я бачу» → §§MDEMPH0§§;
+- «те, що я бачу» → §§MDEMPH0§§.
 
 ## 10. Типові помилки
 
-### ❌ *ce homme*
+### ❌ §§MDEMPH0§§
 
-✅ *cet homme*
+✅ §§MDEMPH0§§
 
-### ❌ *cette livre*
+### ❌ §§MDEMPH0§§
 
-Якщо *livre* чоловічого роду:
+Якщо §§MDEMPH0§§ чоловічого роду:
 
-✅ *ce livre*
+✅ §§MDEMPH0§§
 
-### ❌ *je prends ce*
+### ❌ §§MDEMPH0§§
 
 Якщо потрібно замінити конкретний іменник:
 
-✅ *je prends celui-ci*
+✅ §§MDEMPH0§§
 
-### ❌ *celui livre*
+### ❌ §§MDEMPH0§§
 
-Займенник **celui** не ставиться перед іменником:
+Займенник §§MDEMPH0§§ не ставиться перед іменником:
 
-✅ *ce livre*  
+✅ §§MDEMPH0§§  
 або  
-✅ *celui de Paul*
+✅ §§MDEMPH0§§
 
-### ❌ *ce que est important*
+### ❌ §§MDEMPH0§§
 
 Якщо «що» є підметом:
 
-✅ *ce qui est important*
+✅ §§MDEMPH0§§
 
 ## 11. Алгоритм
 
 1. Чи після форми стоїть іменник?
-   - так → **ce/cet/cette/ces**;
+   - так → §§MDEMPH0§§;
 2. Чи форма сама замінює конкретну іменникову групу?
-   - **celui/celle/ceux/celles**;
+   - §§MDEMPH0§§;
 3. Чи йдеться про нейтральне «те, що...»?
-   - **ce qui / ce que / ce dont**;
+   - §§MDEMPH0§§;
 4. Чи треба розрізнити референти?
-   - **-ci / -là**;
+   - §§MDEMPH0§§;
 5. Чи це розмовне нейтральне «це»?
-   - **ça** часто природне в розмовній мові.
+   - §§MDEMPH0§§ часто природне в розмовній мові.
 
 ## 12. Самоперевірка
 
-1. ___ livre — **ce**
-2. ___ homme — **cet**
-3. ___ maison — **cette**
-4. ___ étudiants — **ces**
-5. ___ de Paul — **celui**
-6. ___ de Marie — **celle**
-7. ___ qui travaillent — **ceux**
-8. ___ que tu connais — **celles**
+1. §§MDEMPH1§§ livre — §§MDEMPH0§§
+2. §§MDEMPH1§§ homme — §§MDEMPH0§§
+3. §§MDEMPH1§§ maison — §§MDEMPH0§§
+4. §§MDEMPH1§§ étudiants — §§MDEMPH0§§
+5. §§MDEMPH1§§ de Paul — §§MDEMPH0§§
+6. §§MDEMPH1§§ de Marie — §§MDEMPH0§§
+7. §§MDEMPH1§§ qui travaillent — §§MDEMPH0§§
+8. §§MDEMPH1§§ que tu connais — §§MDEMPH0§§
 
 ### ce qui чи ce que?
 
-1. *Je sais ___ tu veux.* → **ce que**
-2. *Je comprends ___ se passe.* → **ce qui**
-3. *Voilà ___ j'ai besoin.* → **ce dont**
-4. *Dis-moi ___ t'intéresse.* → **ce qui**
+1. §§MDEMPH1§§ → §§MDEMPH0§§
+2. §§MDEMPH1§§ → §§MDEMPH0§§
+3. §§MDEMPH1§§ → §§MDEMPH0§§
+4. §§MDEMPH1§§ → §§MDEMPH0§§
 
 ## Пов'язані теми
 

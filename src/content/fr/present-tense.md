@@ -28,56 +28,56 @@ tags: []
 ## 🇺🇦 Для українськомовних
 
 Теперішній час (Présent) у французькій мові вживається для вираження:
-- **Дій, які відбуваються зараз**
-- **Загальних істин**
-- **Регулярних дій**
-- **Майбутніх дій** (у деяких випадках)
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§ (у деяких випадках)
 
 ### 🔹 Відмінювання дієслів I групи (-er)
 
-Більшість французьких дієслів належать до I групи і закінчуються на **-er**.
+Більшість французьких дієслів належать до I групи і закінчуються на §§MDEMPH0§§.
 
-**Правило:** Відкидаємо **-er** і додаємо закінчення:
+§§MDEMPH0§§ Відкидаємо §§MDEMPH1§§ і додаємо закінчення:
 
 | Особа | Закінчення | Приклад (parler - говорити) |
 |-------|------------|-----------------------------|
-| je | **-e** | je parle |
-| tu | **-es** | tu parles |
-| il/elle/on | **-e** | il/elle/on parle |
-| nous | **-ons** | nous parlons |
-| vous | **-ez** | vous parlez |
-| ils/elles | **-ent** | ils/elles parlent |
+| je | §§MDEMPH0§§ | je parle |
+| tu | §§MDEMPH0§§ | tu parles |
+| il/elle/on | §§MDEMPH0§§ | il/elle/on parle |
+| nous | §§MDEMPH0§§ | nous parlons |
+| vous | §§MDEMPH0§§ | vous parlez |
+| ils/elles | §§MDEMPH0§§ | ils/elles parlent |
 
 #### 📌 Приклади
 
-- **Je** parle français. → **Я** говорю французькою.
-- **Tu** danses bien. → **Ти** добре танцюєш.
-- **Il** travaille beaucoup. → **Він** багато працює.
-- **Nous** aimons le café. → **Ми** любимо каву.
-- **Vous** écoutez de la musique. → **Ви** слухаєте музику.
-- **Ils** étudient. → **Вони** (чол.) вчаться.
+- §§MDEMPH0§§ parle français. → §§MDEMPH1§§ говорю французькою.
+- §§MDEMPH0§§ danses bien. → §§MDEMPH1§§ добре танцюєш.
+- §§MDEMPH0§§ travaille beaucoup. → §§MDEMPH1§§ багато працює.
+- §§MDEMPH0§§ aimons le café. → §§MDEMPH1§§ любимо каву.
+- §§MDEMPH0§§ écoutez de la musique. → §§MDEMPH1§§ слухаєте музику.
+- §§MDEMPH0§§ étudient. → §§MDEMPH1§§ (чол.) вчаться.
 
 ### 🔹 Відмінювання дієслів II групи (-ir)
 
-Дієслова II групи закінчуються на **-ir** і мають специфічне відмінювання.
+Дієслова II групи закінчуються на §§MDEMPH0§§ і мають специфічне відмінювання.
 
-**Правило:** Відкидаємо **-ir** і додаємо закінчення:
+§§MDEMPH0§§ Відкидаємо §§MDEMPH1§§ і додаємо закінчення:
 
 | Особа | Закінчення | Приклад (finir - закінчувати) |
 |-------|------------|-------------------------------|
-| je | **-is** | je finis |
-| tu | **-is** | tu finis |
-| il/elle/on | **-it** | il/elle/on finit |
-| nous | **-issons** | nous finissons |
-| vous | **-issez** | vous finissez |
-| ils/elles | **-issent** | ils/elles finissent |
+| je | §§MDEMPH0§§ | je finis |
+| tu | §§MDEMPH0§§ | tu finis |
+| il/elle/on | §§MDEMPH0§§ | il/elle/on finit |
+| nous | §§MDEMPH0§§ | nous finissons |
+| vous | §§MDEMPH0§§ | vous finissez |
+| ils/elles | §§MDEMPH0§§ | ils/elles finissent |
 
 #### 📌 Приклади
 
-- **Je** choisis une pomme. → **Я** вибираю яблуко.
-- **Tu** grandis vite. → **Ти** швидко ростеш.
-- **Il** réfléchit beaucoup. → **Він** багато думає.
-- **Nous** réussissons. → **Ми** досягаємо успіху.
+- §§MDEMPH0§§ choisis une pomme. → §§MDEMPH1§§ вибираю яблуко.
+- §§MDEMPH0§§ grandis vite. → §§MDEMPH1§§ швидко ростеш.
+- §§MDEMPH0§§ réfléchit beaucoup. → §§MDEMPH1§§ багато думає.
+- §§MDEMPH0§§ réussissons. → §§MDEMPH1§§ досягаємо успіху.
 
 ### 🔹 Відмінювання дієслів III групи (неправильні)
 
@@ -94,10 +94,10 @@ tags: []
 | vous | êtes |
 | ils/elles | sont |
 
-**Приклади:**
-- **Je** suis heureux. → **Я** щасливий.
-- **Tu** es beau. → **Ти** гарний.
-- **Il** est grand. → **Він** високий.
+§§MDEMPH0§§
+- §§MDEMPH0§§ suis heureux. → §§MDEMPH1§§ щасливий.
+- §§MDEMPH0§§ es beau. → §§MDEMPH1§§ гарний.
+- §§MDEMPH0§§ est grand. → §§MDEMPH1§§ високий.
 
 #### Avoir (мати)
 
@@ -110,10 +110,10 @@ tags: []
 | vous | avez |
 | ils/elles | ont |
 
-**Приклади:**
-- **J'**ai un chat. → **Я** маю кота.
-- **Tu** as raison. → **Ти** маєш рацію.
-- **Il** a 20 ans. → **Йому** 20 років.
+§§MDEMPH0§§
+- §§MDEMPH0§§ai un chat. → §§MDEMPH1§§ маю кота.
+- §§MDEMPH0§§ as raison. → §§MDEMPH1§§ маєш рацію.
+- §§MDEMPH0§§ a 20 ans. → §§MDEMPH1§§ 20 років.
 
 #### Aller (йти)
 
@@ -126,10 +126,10 @@ tags: []
 | vous | allez |
 | ils/elles | vont |
 
-**Приклади:**
-- **Je** vais à l'école. → **Я** йду до школи.
-- **Tu** vas au travail. → **Ти** йдеш на роботу.
-- **On** va au cinéma. → **Ми** йдемо в кіно.
+§§MDEMPH0§§
+- §§MDEMPH0§§ vais à l'école. → §§MDEMPH1§§ йду до школи.
+- §§MDEMPH0§§ vas au travail. → §§MDEMPH1§§ йдеш на роботу.
+- §§MDEMPH0§§ va au cinéma. → §§MDEMPH1§§ йдемо в кіно.
 
 #### Faire (робити)
 
@@ -142,10 +142,10 @@ tags: []
 | vous | faites |
 | ils/elles | font |
 
-**Приклади:**
-- **Je** fais mes devoirs. → **Я** роблю домашнє завдання.
-- **Tu** fais du sport. → **Ти** займаєшся спортом.
-- **Il** fait beau. → **Сьогодні** гарна погода.
+§§MDEMPH0§§
+- §§MDEMPH0§§ fais mes devoirs. → §§MDEMPH1§§ роблю домашнє завдання.
+- §§MDEMPH0§§ fais du sport. → §§MDEMPH1§§ займаєшся спортом.
+- §§MDEMPH0§§ fait beau. → §§MDEMPH1§§ гарна погода.
 
 #### Prendre (брати)
 
@@ -158,9 +158,9 @@ tags: []
 | vous | prenez |
 | ils/elles | prennent |
 
-**Приклади:**
-- **Je** prends un café. → **Я** п'ю каву.
-- **Tu** prends le bus. → **Ти** сідаєш в автобус.
+§§MDEMPH0§§
+- §§MDEMPH0§§ prends un café. → §§MDEMPH1§§ п'ю каву.
+- §§MDEMPH0§§ prends le bus. → §§MDEMPH1§§ сідаєш в автобус.
 
 #### Venir (приходити)
 
@@ -173,29 +173,29 @@ tags: []
 | vous | venez |
 | ils/elles | viennent |
 
-**Приклади:**
-- **Je** viens de Paris. → **Я** з Парижа.
-- **Tu** viens demain. → **Ти** приїдеш завтра.
+§§MDEMPH0§§
+- §§MDEMPH0§§ viens de Paris. → §§MDEMPH1§§ з Парижа.
+- §§MDEMPH0§§ viens demain. → §§MDEMPH1§§ приїдеш завтра.
 
 ### ⚠️ Особливості теперішнього часу
 
-1. **Закінчення -s у 2-й особі однини** часто не вимовляється:
+1. §§MDEMPH0§§ часто не вимовляється:
    - tu parles [ty parl] (ти говориш)
    - tu finis [ty fini] (ти закінчуєш)
 
-2. **Дієслова на -ger**: Додаємо **e** перед закінченнями, які починаються на **a, o**:
-   - nous mange**ons** (ми їмо)
-   - vous mange**ez** (ви їсте)
+2. §§MDEMPH0§§: Додаємо §§MDEMPH1§§ перед закінченнями, які починаються на §§MDEMPH2§§:
+   - nous mange§§MDEMPH0§§ (ми їмо)
+   - vous mange§§MDEMPH0§§ (ви їсте)
 
-3. **Дієслова на -cer**: Замінюємо **c** на **ç** перед закінченнями, які починаються на **a, o**:
+3. §§MDEMPH0§§: Замінюємо §§MDEMPH1§§ на §§MDEMPH2§§ перед закінченнями, які починаються на §§MDEMPH3§§:
    - nous commençons (ми починаємо)
    - vous commencez (ви починаєте)
 
-4. **Дієслова на -yer**: Замінюємо **y** на **i** перед закінченнями, які не містять **e**:
+4. §§MDEMPH0§§: Замінюємо §§MDEMPH1§§ на §§MDEMPH2§§ перед закінченнями, які не містять §§MDEMPH3§§:
    - je paie (я плачу)
    - nous payons (ми платимо)
 
-5. **Дієслова на -eler, -eter**: Подвоєння приголосного у деяких випадках:
+5. §§MDEMPH0§§: Подвоєння приголосного у деяких випадках:
    - j'appelle (я дзвоню)
    - je jette (я кидаю)
 
@@ -212,10 +212,10 @@ tags: []
 
 ### 💡 Поради для українськомовних
 
-1. **Пам'ятайте про закінчення** - вони залежать від особи та групи дієслова
-2. **Нерегулярні дієслова (être, avoir, aller, faire)** - їх треба вивчити напам'ять
-3. **Вимовляйте закінчення правильно** - у французькій вони часто чутні
-4. **Звертайте увагу на особливі випадки** (-ger, -cer, -yer)
+1. §§MDEMPH0§§ - вони залежать від особи та групи дієслова
+2. §§MDEMPH0§§ - їх треба вивчити напам'ять
+3. §§MDEMPH0§§ - у французькій вони часто чутні
+4. §§MDEMPH0§§ (-ger, -cer, -yer)
 
 ### 📚 Вправи для закріплення
 
@@ -225,12 +225,12 @@ tags: []
    - être (бути): je suis, tu es, il est, nous sommes, vous êtes, ils sont
 
 2. Доповніть речення правильною формою дієслова:
-   - Je ___ (parler) français. (parle)
-   - Tu ___ (finir) tes devoirs. (finis)
-   - Il ___ (être) fatigué. (est)
-   - Nous ___ (avoir) un chat. (avons)
-   - Vous ___ (aller) au cinéma. (allez)
-   - Ils ___ (faire) du sport. (font)
+   - Je §§MDEMPH0§§ (parler) français. (parle)
+   - Tu §§MDEMPH0§§ (finir) tes devoirs. (finis)
+   - Il §§MDEMPH0§§ (être) fatigué. (est)
+   - Nous §§MDEMPH0§§ (avoir) un chat. (avons)
+   - Vous §§MDEMPH0§§ (aller) au cinéma. (allez)
+   - Ils §§MDEMPH0§§ (faire) du sport. (font)
 
 3. Перекладіть українською:
    - Je parle ukrainien. → Я говорю українською.
@@ -241,38 +241,38 @@ tags: []
 
 ### ❌ Типові помилки українськомовних
 
-1. **Забування про закінчення у 3-й особі множини**
+1. §§MDEMPH0§§
    - ❌ Ils parle → ✅ Ils parlent
 
-2. **Плутання форм être і avoir**
+2. §§MDEMPH0§§
    - ❌ Je suis un livre → ✅ J'ai un livre
    - ❌ J'ai fatigué → ✅ Je suis fatigué
 
-3. **Неправильне відмінювання дієслів II групи**
+3. §§MDEMPH0§§
    - ❌ Je fini → ✅ Je finis
    - ❌ Nous finissons → ✅ Nous finissons (правильно, але часто плутають)
 
-4. **Забування про особливі випадки**
+4. §§MDEMPH0§§
    - ❌ Nous mangeons → ✅ Nous mangeons (правильно)
    - ❌ Nous mangons → ✅ ❌ (помилка)
 
 ### 🎯 Додаткові приклади
 
-- **З дієсловами I групи:**
+- §§MDEMPH0§§
   - aimer (любити): j'aime, tu aimes, il aime
   - écouter (слухати): j'écoute, tu écoutes, il écoute
   - danser (танцювати): je danse, tu danses, il danse
 
-- **З дієсловами II групи:**
+- §§MDEMPH0§§
   - choisir (вибирати): je choisis, tu choisis, il choisit
   - grandir (рости): je grandis, tu grandis, il grandit
   - réfléchir (думати): je réfléchis, tu réfléchis, il réfléchit
 
-- **З неправильними дієсловами:**
+- §§MDEMPH0§§
   - prendre (брати): je prends, tu prends, il prend
   - venir (приходити): je viens, tu viens, il vient
   - voir (бачити): je vois, tu vois, il voit
 
 ---
 
-*[Повернутися до списку тем](../french_grammar_topics_uk.md)*
+§§MDEMPH0§§

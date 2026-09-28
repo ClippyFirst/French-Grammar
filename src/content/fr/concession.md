@@ -28,84 +28,84 @@ tags: []
 ---
 # Уступка: exprimer la concession
 
-**Concession** показує, що певний факт створює очікування одного результату, але фактичний результат інший.
+§§MDEMPH0§§ показує, що певний факт створює очікування одного результату, але фактичний результат інший.
 
-> **Bien qu'il soit fatigué, il continue à travailler.**  
+> §§MDEMPH0§§  
 > Хоча він втомлений, він продовжує працювати.
 
 ## Швидко
 
 Основні моделі:
 
-- **bien que + subjonctif**;
-- **quoique + subjonctif**;
-- **même si + indicatif**;
-- **malgré + GN**;
-- **en dépit de + GN**;
-- **avoir beau + infinitif**.
+- §§MDEMPH0§§;
+- §§MDEMPH0§§;
+- §§MDEMPH0§§;
+- §§MDEMPH0§§;
+- §§MDEMPH0§§;
+- §§MDEMPH0§§.
 
 ## Bien que
 
-> **Bien qu'il soit tard, nous continuons.**  
+> §§MDEMPH0§§  
 > Хоча вже пізно, ми продовжуємо.
 
-> **Bien qu'elle ait beaucoup travaillé, elle n'a pas terminé.**  
+> §§MDEMPH0§§  
 > Хоча вона багато працювала, вона не закінчила.
 
-Після **bien que** в стандартній конструкції вживається **subjonctif**.
+Після §§MDEMPH0§§ в стандартній конструкції вживається §§MDEMPH1§§.
 
 ## Quoique
 
-> **Quoique ce soit difficile, je vais essayer.**  
+> §§MDEMPH0§§  
 > Хоча це складно, я спробую.
 
-**Quoique** близьке за значенням до **bien que** і також керує subjonctif.
+§§MDEMPH0§§ близьке за значенням до §§MDEMPH1§§ і також керує subjonctif.
 
 ## Même si
 
-> **Même s'il est fatigué, il viendra.**  
+> §§MDEMPH0§§  
 > Навіть якщо / навіть попри те, що він втомлений, він прийде.
 
-Після **même si** вживається **indicatif**, а не subjonctif.
+Після §§MDEMPH0§§ вживається §§MDEMPH1§§, а не subjonctif.
 
 ## Malgré / en dépit de
 
-> **Malgré la pluie, nous sommes sortis.**  
+> §§MDEMPH0§§  
 > Попри дощ, ми вийшли.
 
-> **En dépit de ses difficultés, elle a continué.**  
+> §§MDEMPH0§§  
 > Попри свої труднощі, вона продовжила.
 
 Після цих прийменникових конструкцій стоїть іменна група.
 
 ## Avoir beau
 
-> **Il a beau être fatigué, il continue.**  
+> §§MDEMPH0§§  
 > Хоч він і втомлений, він продовжує.
 
-**Avoir beau + infinitif** підкреслює невідповідність між фактом і очікуваним результатом.
+§§MDEMPH0§§ підкреслює невідповідність між фактом і очікуваним результатом.
 
 ## Порівняння
 
 | Конструкція | Керування |
 |---|---|
-| **bien que** | subjonctif |
-| **quoique** | subjonctif |
-| **même si** | indicatif |
-| **malgré** | іменна група |
-| **en dépit de** | іменна група |
-| **avoir beau** | infinitif |
+| §§MDEMPH0§§ | subjonctif |
+| §§MDEMPH0§§ | subjonctif |
+| §§MDEMPH0§§ | indicatif |
+| §§MDEMPH0§§ | іменна група |
+| §§MDEMPH0§§ | іменна група |
+| §§MDEMPH0§§ | infinitif |
 
 ## Типові помилки
 
-❌ *Bien qu'il est fatigué...*  
-✅ **Bien qu'il soit fatigué...**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
-❌ *Même s'il soit fatigué...*  
-✅ **Même s'il est fatigué...**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
-❌ *Malgré il pleut...*  
-✅ **Malgré la pluie...** / **Bien qu'il pleuve...**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§ / §§MDEMPH1§§
 
 ## Пов'язані теми
 

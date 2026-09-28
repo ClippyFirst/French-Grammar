@@ -32,16 +32,16 @@ tags: []
 
 ### Окремі форми
 
-- *un étudiant → une étudiante*;
-- *un directeur → une directrice*;
-- *un acteur → une actrice*;
-- *un serveur → une serveuse*.
+- §§MDEMPH0§§;
+- §§MDEMPH0§§;
+- §§MDEMPH0§§;
+- §§MDEMPH0§§.
 
 ### Спільна форма
 
-- *un journaliste → une journaliste*;
-- *un collègue → une collègue*;
-- *un ministre → une ministre*.
+- §§MDEMPH0§§;
+- §§MDEMPH0§§;
+- §§MDEMPH0§§.
 
 У другій моделі саме оточення показує рід.
 
@@ -49,14 +49,14 @@ tags: []
 
 Для назви особи граматичний рід часто пов'язаний із тим, кого називають. Але не слід ототожнювати граматичний рід із біологічною статтю для всіх іменників.
 
-*une personne* може позначати чоловіка або жінку.
+§§MDEMPH0§§ може позначати чоловіка або жінку.
 
 ## 2. Узгодження
 
-*Un journaliste français est arrivé.*  
-*Une journaliste française est arrivée.*
+§§MDEMPH0§§  
+§§MDEMPH0§§
 
-Різниця проявляється не лише в *un/une*, а й у прикметнику та дієприкметнику.
+Різниця проявляється не лише в §§MDEMPH0§§, а й у прикметнику та дієприкметнику.
 
 ## 3. Назви посад і професій
 
@@ -68,13 +68,13 @@ tags: []
 
 ## Типові помилки
 
-❌ *une directeur* → ✅ *une directrice*  
+❌ §§MDEMPH0§§ → ✅ §§MDEMPH1§§  
 ❌ «Усі професії отримують -e» → конкретні словотвірні моделі різні.
 
 ## Алгоритм
 
-**назва особи → словникова форма → рід → детермінатив → узгодження.**
+§§MDEMPH0§§
 
 ## Мінітест
 
-Чи змінюється іменник у *un journaliste / une journaliste*? **Ні; рід видно з детермінатива та узгодження.**
+Чи змінюється іменник у §§MDEMPH1§§? §§MDEMPH0§§

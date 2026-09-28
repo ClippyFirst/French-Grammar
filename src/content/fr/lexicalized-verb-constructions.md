@@ -30,25 +30,25 @@ variant: []
 
 Деякі дієслівні моделі не варто вивчати як випадкові комбінації слів. Їхня структура є частиною знання самої леми:
 
-> **avoir besoin de + nom**
+> §§MDEMPH0§§
 
-> **avoir envie de + infinitif**
+> §§MDEMPH0§§
 
-> **se souvenir de + nom**
+> §§MDEMPH0§§
 
-> **prendre en compte + nom**
+> §§MDEMPH0§§
 
 У таких конструкціях важливі форма, керування та значення всієї групи.
 
 ## 1. Чому це «лексико-граматика»
 
-Учень може знати значення **besoin**, але не знати:
+Учень може знати значення §§MDEMPH0§§, але не знати:
 
-> **avoir besoin de quelque chose**
+> §§MDEMPH0§§
 
 Так само переклад «намагатися» не передбачає:
 
-> **essayer de + infinitif**
+> §§MDEMPH0§§
 
 Конструкція є одиницею, яку корисно запам'ятовувати цілком.
 
@@ -56,13 +56,13 @@ variant: []
 
 Записуйте модель:
 
-**lemme → construction → example**
+§§MDEMPH0§§
 
-> **avoir besoin de → avoir besoin de temps**
+> §§MDEMPH0§§
 
-> **réussir à → réussir à comprendre**
+> §§MDEMPH0§§
 
-> **se rendre compte de → se rendre compte de l'erreur**
+> §§MDEMPH0§§
 
 ## 3. Не плутайте з вільним словосполученням
 
@@ -74,9 +74,9 @@ variant: []
 
 Одна українська конструкція може відповідати французькій із зовсім іншою граматичною організацією:
 
-> **мати потребу в** → **avoir besoin de**
+> §§MDEMPH0§§ → §§MDEMPH1§§
 
-> **зважати на** → **tenir compte de**
+> §§MDEMPH0§§ → §§MDEMPH1§§
 
 Тому переклад треба використовувати як підказку, а не як формулу керування.
 
@@ -95,12 +95,12 @@ variant: []
 
 ## Практична перевірка
 
-1. avoir besoin ___ temps
-2. essayer ___ comprendre
-3. réussir ___ comprendre
-4. se souvenir ___ quelque chose
+1. avoir besoin §§MDEMPH0§§ temps
+2. essayer §§MDEMPH0§§ comprendre
+3. réussir §§MDEMPH0§§ comprendre
+4. se souvenir §§MDEMPH0§§ quelque chose
 
-**Відповіді:** 1 **de**; 2 **de**; 3 **à**; 4 **de**.
+§§MDEMPH0§§ 1 §§MDEMPH1§§; 2 §§MDEMPH2§§; 3 §§MDEMPH3§§; 4 §§MDEMPH4§§.
 
 ## Куди далі
 

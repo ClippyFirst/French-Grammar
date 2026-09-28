@@ -32,11 +32,11 @@ variant: []
 
 | Модель | Приклад | Типове враження |
 |---|---|---|
-| **Інтонація** | **Tu viens ?** | усне, розмовне |
-| **est-ce que** | **Est-ce que tu viens ?** | нейтральне, дуже зручне для повсякденного мовлення |
-| **Інверсія** | **Viens-tu ?** | формальніше, часто письмове або публічне |
+| §§MDEMPH0§§ | §§MDEMPH1§§ | усне, розмовне |
+| §§MDEMPH0§§ | §§MDEMPH1§§ | нейтральне, дуже зручне для повсякденного мовлення |
+| §§MDEMPH0§§ | §§MDEMPH1§§ | формальніше, часто письмове або публічне |
 
-Це не означає, що кожна модель має одну-єдину «правильну» сферу. Реальний вибір залежить від типу питання, синтаксису, регістру та усного або писемного каналу. Особливо важливо не змішувати **пряме** й **непряме** питання: у непрямому питанні французька зазвичай повертається до порядку слів розповідного речення.
+Це не означає, що кожна модель має одну-єдину «правильну» сферу. Реальний вибір залежить від типу питання, синтаксису, регістру та усного або писемного каналу. Особливо важливо не змішувати §§MDEMPH0§§ й §§MDEMPH1§§ питання: у непрямому питанні французька зазвичай повертається до порядку слів розповідного речення.
 
 ---
 
@@ -44,35 +44,35 @@ variant: []
 
 Найпростіший спосіб утворити розмовне пряме питання — залишити звичайний порядок слів і позначити питання інтонацією:
 
-> **Tu viens ?** — Ти прийдеш?
+> §§MDEMPH0§§ — Ти прийдеш?
 
-> **Vous avez compris ?** — Ви зрозуміли?
+> §§MDEMPH0§§ — Ви зрозуміли?
 
-> **Il est déjà parti ?** — Він уже пішов?
+> §§MDEMPH0§§ — Він уже пішов?
 
-У письмі питання позначається знаком **?**, а в усному мовленні його інтерпретація значною мірою залежить від просодії.
+У письмі питання позначається знаком §§MDEMPH0§§, а в усному мовленні його інтерпретація значною мірою залежить від просодії.
 
 ### Питання без перестановки слів
 
 Особливо природний розмовний тип:
 
-> **Tu fais quoi ?**
+> §§MDEMPH0§§
 
-> **Vous allez où ?**
+> §§MDEMPH0§§
 
-> **Tu pars quand ?**
+> §§MDEMPH0§§
 
-> **Vous venez avec qui ?**
+> §§MDEMPH0§§
 
 Такі моделі реально вживаються в живому мовленні. Водночас у формальному письмі та в нормативно орієнтованому стилі варто знати інверсійні відповідники:
 
-> **Que faites-vous ?**
+> §§MDEMPH0§§
 
-> **Où allez-vous ?**
+> §§MDEMPH0§§
 
-> **Quand partez-vous ?**
+> §§MDEMPH0§§
 
-> **Avec qui venez-vous ?**
+> §§MDEMPH0§§
 
 Академія французької мови прямо зазначає, що в усному, більш невимушеному мовленні інверсія може не реалізовуватися, хоча в формальному мовленні її збереження вважається кращим стилістичним вибором. citeturn0search1
 
@@ -84,55 +84,55 @@ variant: []
 
 Правильніше:
 
-> **Пряме питання має кілька синтаксичних і просодичних моделей, а їхній вибір залежить від конструкції та регістру.**
+> §§MDEMPH0§§
 
 ---
 
 ## 2. FR-425 — Est-ce que
 
-**Est-ce que** — конструкція, яка дозволяє оформити питання без інверсії підмета і дієслова:
+§§MDEMPH0§§ — конструкція, яка дозволяє оформити питання без інверсії підмета і дієслова:
 
-> **Est-ce que tu viens ?**
+> §§MDEMPH0§§
 
-> **Est-ce qu'il travaille ici ?**
+> §§MDEMPH0§§
 
-> **Est-ce que vous avez le temps ?**
+> §§MDEMPH0§§
 
 У базовому yes/no-питанні схема така:
 
-**est-ce que + підмет + дієслово + решта речення**
+§§MDEMPH0§§
 
-> **Est-ce que tu comprends ?**
+> §§MDEMPH0§§
 
-> **Est-ce qu'elle habite à Lyon ?**
+> §§MDEMPH0§§
 
 ### Після питального слова
 
-**Est-ce que** також може стояти після питального слова:
+§§MDEMPH0§§ також може стояти після питального слова:
 
-> **Où est-ce que tu habites ?**
+> §§MDEMPH0§§
 
-> **Quand est-ce que vous partez ?**
+> §§MDEMPH0§§
 
-> **Pourquoi est-ce qu'il est absent ?**
+> §§MDEMPH0§§
 
-> **Comment est-ce que tu fais ça ?**
+> §§MDEMPH0§§
 
-> **Combien est-ce que ça coûte ?**
+> §§MDEMPH0§§
 
-У сучасній мові це звична модель. Larousse окремо фіксує **est-ce que** як питальну конструкцію для yes/no-питань і як поширену конструкцію після питального прислівника або займенника. citeturn1search8
+У сучасній мові це звична модель. Larousse окремо фіксує §§MDEMPH0§§ як питальну конструкцію для yes/no-питань і як поширену конструкцію після питального прислівника або займенника. citeturn1search8
 
 ### Не робіть подвійного маркування
 
-Не треба ставити одночасно **est-ce que** та інверсію:
+Не треба ставити одночасно §§MDEMPH0§§ та інверсію:
 
-❌ **Est-ce que viens-tu ?**
+❌ §§MDEMPH0§§
 
-✅ **Est-ce que tu viens ?**
+✅ §§MDEMPH0§§
 
 або:
 
-✅ **Viens-tu ?**
+✅ §§MDEMPH0§§
 
 Це дві різні моделі.
 
@@ -146,167 +146,167 @@ variant: []
 
 Інверсія означає перестановку дієслова і займенникового підмета:
 
-> **Tu viens. → Viens-tu ?**
+> §§MDEMPH0§§
 
-> **Vous avez compris. → Avez-vous compris ?**
+> §§MDEMPH0§§
 
-> **Il travaille ici. → Travaille-t-il ici ?**
+> §§MDEMPH0§§
 
-> **Nous partons demain. → Partons-nous demain ?**
+> §§MDEMPH0§§
 
 Схема:
 
-**дієслово + дефіс + займенник-підмет**
+§§MDEMPH0§§
 
 ### Інверсія з іменною групою
 
 Якщо підмет — іменник, типовою моделлю є не механічне:
 
-❌ *Vient Marie ?*
+❌ §§MDEMPH0§§
 
 а конструкція з іменним підметом і займенником-повтором:
 
-> **Marie vient-elle ?**
+> §§MDEMPH0§§
 
-> **Paul est-il déjà arrivé ?**
+> §§MDEMPH0§§
 
-> **Votre frère travaille-t-il ici ?**
+> §§MDEMPH0§§
 
-Це важливий випадок **reprise du sujet**: іменна група залишається на початку, а граматична інверсія відбувається між дієсловом і займенником.
+Це важливий випадок §§MDEMPH0§§: іменна група залишається на початку, а граматична інверсія відбувається між дієсловом і займенником.
 
 ### Інверсія з je
 
-Для **je** є окремі традиційні та стилістично марковані форми:
+Для §§MDEMPH0§§ є окремі традиційні та стилістично марковані форми:
 
-> **Ai-je raison ?**
+> §§MDEMPH0§§
 
-> **Suis-je prêt ?**
+> §§MDEMPH0§§
 
-> **Puis-je entrer ?**
+> §§MDEMPH0§§
 
-> **Dois-je partir ?**
+> §§MDEMPH0§§
 
-> **Que veux-je ?**
+> §§MDEMPH0§§
 
-Академія французької мови окремо описує обмеження інверсії з **je** та фіксує, що для низки частотних коротких форм на кшталт **ai, dis, dois, fais, puis, sais, suis, vais, veux, vois** інверсія є нормальною в відповідних конструкціях. citeturn0search0
+Академія французької мови окремо описує обмеження інверсії з §§MDEMPH0§§ та фіксує, що для низки частотних коротких форм на кшталт §§MDEMPH1§§ інверсія є нормальною в відповідних конструкціях. citeturn0search0
 
-Для інших дієслів **est-ce que** часто є природним способом уникнути незручної або маловживаної інверсії:
+Для інших дієслів §§MDEMPH0§§ часто є природним способом уникнути незручної або маловживаної інверсії:
 
-> **Est-ce que je pars maintenant ?**
+> §§MDEMPH0§§
 
 ---
 
 ## 4. FR-427 — t euphonique
 
-У третій особі однини між дієсловом і займенником інколи з'являється **-t-**:
+У третій особі однини між дієсловом і займенником інколи з'являється §§MDEMPH0§§:
 
-> **Parle-t-il français ?**
+> §§MDEMPH0§§
 
-> **Va-t-elle venir ?**
+> §§MDEMPH0§§
 
-> **A-t-il compris ?**
+> §§MDEMPH0§§
 
-> **Comment va-t-il ?**
+> §§MDEMPH0§§
 
-Це не окреме дієслівне закінчення. Це **евфонічний t**, графічно оформлений двома дефісами.
+Це не окреме дієслівне закінчення. Це §§MDEMPH0§§, графічно оформлений двома дефісами.
 
 ### Коли він потрібен
 
 Типова ситуація — дієслово закінчується на голосний звук, а займенник починається з голосного:
 
-> **va-t-il**
+> §§MDEMPH0§§
 
-> **a-t-elle**
+> §§MDEMPH0§§
 
-> **parle-t-on**
+> §§MDEMPH0§§
 
-Не треба додавати **t** там, де дієслово вже закінчується на приголосний:
+Не треба додавати §§MDEMPH0§§ там, де дієслово вже закінчується на приголосний:
 
-> **Vient-il ?**
+> §§MDEMPH0§§
 
-> **Prend-elle le train ?**
+> §§MDEMPH0§§
 
-> **Dort-il ?**
+> §§MDEMPH0§§
 
-Академія прямо застерігає від помилкового додавання **t** після форм на приголосний. citeturn1search6
+Академія прямо застерігає від помилкового додавання §§MDEMPH0§§ після форм на приголосний. citeturn1search6
 
 ### Не плутайте
 
-❌ **Il va-t-être en retard.**
+❌ §§MDEMPH0§§
 
-✅ **Il va être en retard.**
+✅ §§MDEMPH0§§
 
-Евфонічний **-t-** належить до певної інверсійної конструкції, а не є універсальним способом «запобігти зіткненню голосних». Академія окремо наголошує на помилковості *va-t-être* та подібних форм. citeturn1search7
+Евфонічний §§MDEMPH0§§ належить до певної інверсійної конструкції, а не є універсальним способом «запобігти зіткненню голосних». Академія окремо наголошує на помилковості §§MDEMPH1§§ та подібних форм. citeturn1search7
 
 ---
 
 ## 5. FR-428 — Qui / que / quoi
 
-Вибір між **qui**, **que** та **quoi** залежить насамперед від синтаксичної функції.
+Вибір між §§MDEMPH0§§, §§MDEMPH1§§ та §§MDEMPH2§§ залежить насамперед від синтаксичної функції.
 
 ### Qui як підмет
 
-> **Qui vient ?** — Хто приходить?
+> §§MDEMPH0§§ — Хто приходить?
 
-> **Qui a appelé ?** — Хто телефонував?
+> §§MDEMPH0§§ — Хто телефонував?
 
-Тут **qui** — підмет, тому не потрібно будувати:
+Тут §§MDEMPH0§§ — підмет, тому не потрібно будувати:
 
-❌ *Qui est-ce que vient ?*
+❌ §§MDEMPH0§§
 
 Правильно:
 
-> **Qui vient ?**
+> §§MDEMPH0§§
 
 ### Qui як додаток
 
-> **Qui vois-tu ?** — Кого ти бачиш?
+> §§MDEMPH0§§ — Кого ти бачиш?
 
-> **Qui est-ce que tu vois ?**
+> §§MDEMPH0§§
 
-У другій моделі **qui** є питальним словом для COD, а підмет — **tu**.
+У другій моделі §§MDEMPH0§§ є питальним словом для COD, а підмет — §§MDEMPH1§§.
 
 ### Que / qu'est-ce que як COD
 
-> **Que fais-tu ?**
+> §§MDEMPH0§§
 
-> **Qu'est-ce que tu fais ?**
+> §§MDEMPH0§§
 
 Обидві конструкції означають «Що ти робиш?», але відрізняються структурою та регістром.
 
 ### Quoi
 
-**Quoi** часто з'являється:
+§§MDEMPH0§§ часто з'являється:
 
 1. після прийменника;
 2. у розмовній конструкції в кінці питання;
 3. у деяких самостійних або еліптичних репліках.
 
-> **Avec quoi tu écris ?**
+> §§MDEMPH0§§
 
-> **De quoi avez-vous besoin ?**
+> §§MDEMPH0§§
 
-> **Tu fais quoi ?**
+> §§MDEMPH0§§
 
 Порівняйте:
 
-> **Que fais-tu ?** — формальніше.
+> §§MDEMPH0§§ — формальніше.
 
-> **Qu'est-ce que tu fais ?** — нейтральна стандартна модель.
+> §§MDEMPH0§§ — нейтральна стандартна модель.
 
-> **Tu fais quoi ?** — розмовна модель.
+> §§MDEMPH0§§ — розмовна модель.
 
 ### Головна помилка
 
 Не дублюйте одну й ту саму питальну функцію:
 
-❌ *Qu'est-ce que tu fais quoi ?*
+❌ §§MDEMPH0§§
 
-✅ **Qu'est-ce que tu fais ?**
+✅ §§MDEMPH0§§
 
 або:
 
-✅ **Tu fais quoi ?**
+✅ §§MDEMPH0§§
 
 ---
 
@@ -314,120 +314,120 @@ variant: []
 
 ### Quel + іменник
 
-**Quel** — детермінатив, тому він стоїть перед іменником і узгоджується з ним:
+§§MDEMPH0§§ — детермінатив, тому він стоїть перед іменником і узгоджується з ним:
 
 | Рід / число | Форма | Приклад |
 |---|---|---|
-| masc. sg. | **quel** | **Quel livre lis-tu ?** |
-| fem. sg. | **quelle** | **Quelle ville préfères-tu ?** |
-| masc. pl. | **quels** | **Quels livres achètes-tu ?** |
-| fem. pl. | **quelles** | **Quelles langues apprends-tu ?** |
+| masc. sg. | §§MDEMPH0§§ | §§MDEMPH1§§ |
+| fem. sg. | §§MDEMPH0§§ | §§MDEMPH1§§ |
+| masc. pl. | §§MDEMPH0§§ | §§MDEMPH1§§ |
+| fem. pl. | §§MDEMPH0§§ | §§MDEMPH1§§ |
 
-> **Quelle heure est-il ?**
+> §§MDEMPH0§§
 
-> **Quel train prenez-vous ?**
+> §§MDEMPH0§§
 
 ### Lequel як займенник
 
-**Lequel** замінює іменну групу:
+§§MDEMPH0§§ замінює іменну групу:
 
-> **Quel livre veux-tu ?**
+> §§MDEMPH0§§
 
-> **Lequel veux-tu ?**
+> §§MDEMPH0§§
 
 Форми:
 
-- **lequel**
-- **laquelle**
-- **lesquels**
-- **lesquelles**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
 Після прийменників виникають контрактовані форми:
 
-> **À laquelle pensez-vous ?**
+> §§MDEMPH0§§
 
-> **Auquel faites-vous référence ?**
+> §§MDEMPH0§§
 
-> **Desquels avez-vous besoin ?**
+> §§MDEMPH0§§
 
 ### Quel ≠ lequel
 
 Спрощений алгоритм:
 
-- якщо після слова прямо стоїть іменник → **quel**;
-- якщо слово саме замінює іменну групу → **lequel**.
+- якщо після слова прямо стоїть іменник → §§MDEMPH0§§;
+- якщо слово саме замінює іменну групу → §§MDEMPH0§§.
 
 ---
 
 ## 7. FR-430 — Combien
 
-**Combien** питає про кількість, число або міру:
+§§MDEMPH0§§ питає про кількість, число або міру:
 
-> **Combien de livres as-tu ?**
+> §§MDEMPH0§§
 
-> **Combien ça coûte ?**
+> §§MDEMPH0§§
 
-> **Combien de temps reste-t-il ?**
+> §§MDEMPH0§§
 
-> **Combien êtes-vous ?**
+> §§MDEMPH0§§
 
 ### Combien de + іменник
 
 Перед іменником використовується:
 
-**combien de + nom**
+§§MDEMPH0§§
 
-> **Combien de personnes viennent ?**
+> §§MDEMPH0§§
 
-> **Combien d'argent avez-vous ?**
+> §§MDEMPH0§§
 
 Не:
 
-❌ *Combien des personnes…* — якщо йдеться про невизначену кількість.
+❌ §§MDEMPH0§§ — якщо йдеться про невизначену кількість.
 
 ### Combien без іменника
 
-> **Combien coûte ce livre ?**
+> §§MDEMPH0§§
 
-> **Tu en veux combien ?**
+> §§MDEMPH0§§
 
-Тут **combien** саме виконує роль кількісного питального слова.
+Тут §§MDEMPH0§§ саме виконує роль кількісного питального слова.
 
 ---
 
 ## 8. FR-431 — Comment
 
-**Comment** питає про спосіб, характер дії або стан:
+§§MDEMPH0§§ питає про спосіб, характер дії або стан:
 
-> **Comment vas-tu ?**
+> §§MDEMPH0§§
 
-> **Comment fonctionne cette machine ?**
+> §§MDEMPH0§§
 
-> **Comment avez-vous fait ?**
+> §§MDEMPH0§§
 
-> **Comment est-il arrivé ?**
+> §§MDEMPH0§§
 
 ### Comment vs quel
 
 Порівняйте:
 
-> **Comment est-il ?** — Який він? / Як він?
+> §§MDEMPH0§§ — Який він? / Як він?
 
-> **Quel est-il ?** — інша, спеціалізованіша структура; не використовуйте її як автоматичний відповідник українського «який».
+> §§MDEMPH0§§ — інша, спеціалізованіша структура; не використовуйте її як автоматичний відповідник українського «який».
 
 Для іменної характеристики часто природніше:
 
-> **Quel est son métier ?**
+> §§MDEMPH0§§
 
-> **Quel est ton nom ?**
+> §§MDEMPH0§§
 
 ### Comment + дієслово
 
-> **Comment tu fais ?**
+> §§MDEMPH0§§
 
-> **Comment est-ce que tu fais ça ?**
+> §§MDEMPH0§§
 
-> **Comment fais-tu ça ?**
+> §§MDEMPH0§§
 
 Три моделі відрізняються насамперед структурою та регістром.
 
@@ -435,45 +435,45 @@ variant: []
 
 ## 9. FR-432 — Pourquoi
 
-**Pourquoi** запитує про причину:
+§§MDEMPH0§§ запитує про причину:
 
-> **Pourquoi es-tu en retard ?**
+> §§MDEMPH0§§
 
-> **Pourquoi est-ce qu'il part ?**
+> §§MDEMPH0§§
 
-> **Pourquoi pars-tu si tôt ?**
+> §§MDEMPH0§§
 
 Типова відповідь:
 
-> **Parce que je suis fatigué.**
+> §§MDEMPH0§§
 
 ### Pourquoi ≠ pour quoi
 
-**Pourquoi** та **pour quoi** не завжди взаємозамінні.
+§§MDEMPH0§§ та §§MDEMPH1§§ не завжди взаємозамінні.
 
-**Pourquoi** питає про причину:
+§§MDEMPH0§§ питає про причину:
 
-> **Pourquoi est-il absent ?**
+> §§MDEMPH0§§
 
 = Яка причина його відсутності?
 
-**Pour quoi** може буквально означати **«для чого / для якої речі»** і зберігає прийменник **pour**:
+§§MDEMPH0§§ може буквально означати §§MDEMPH1§§ і зберігає прийменник §§MDEMPH2§§:
 
-> **Pour quoi faire ?**
+> §§MDEMPH0§§
 
-Академія французької мови спеціально розрізняє ці конструкції: **pourquoi** зазвичай стосується причини, тоді як **pour quoi** пов'язане з цільовим значенням прийменника **pour**. citeturn1search10
+Академія французької мови спеціально розрізняє ці конструкції: §§MDEMPH0§§ зазвичай стосується причини, тоді як §§MDEMPH1§§ пов'язане з цільовим значенням прийменника §§MDEMPH2§§. citeturn1search10
 
 ---
 
 ## 10. FR-433 — Quand
 
-**Quand** питає про час:
+§§MDEMPH0§§ питає про час:
 
-> **Quand arrives-tu ?**
+> §§MDEMPH0§§
 
-> **Quand est-ce que tu arrives ?**
+> §§MDEMPH0§§
 
-> **Tu arrives quand ?**
+> §§MDEMPH0§§
 
 Усі три моделі можливі; відмінність — у синтаксисі та регістрі.
 
@@ -481,47 +481,47 @@ variant: []
 
 Питання:
 
-> **Quand arrives-tu ?**
+> §§MDEMPH0§§
 
 Непряме питання:
 
-> **Je ne sais pas quand tu arrives.**
+> §§MDEMPH0§§
 
 Підрядне часу:
 
-> **Quand tu arrives, appelle-moi.**
+> §§MDEMPH0§§
 
-Те саме слово **quand** може виконувати різну синтаксичну функцію.
+Те саме слово §§MDEMPH0§§ може виконувати різну синтаксичну функцію.
 
 ---
 
 ## 11. FR-434 — Où
 
-**Où** питає переважно про місце:
+§§MDEMPH0§§ питає переважно про місце:
 
-> **Où habites-tu ?**
+> §§MDEMPH0§§
 
-> **Où est-ce que tu travailles ?**
+> §§MDEMPH0§§
 
-> **Tu habites où ?**
+> §§MDEMPH0§§
 
 Воно може входити й до складніших конструкцій:
 
-> **D'où viens-tu ?**
+> §§MDEMPH0§§
 
-> **Où vas-tu ?**
+> §§MDEMPH0§§
 
-> **Jusqu'où allez-vous ?**
+> §§MDEMPH0§§
 
 ### Où ≠ d'où
 
-**où** — де / куди в залежності від конструкції;
+§§MDEMPH0§§ — де / куди в залежності від конструкції;
 
-**d'où** — звідки.
+§§MDEMPH0§§ — звідки.
 
-> **Où vas-tu ?** — Куди ти йдеш?
+> §§MDEMPH0§§ — Куди ти йдеш?
 
-> **D'où viens-tu ?** — Звідки ти приходиш?
+> §§MDEMPH0§§ — Звідки ти приходиш?
 
 Не переносіть українське розрізнення «де / куди» механічно на окремі французькі питальні слова: прийменник та дієслово значною мірою визначають інтерпретацію.
 
@@ -531,37 +531,37 @@ variant: []
 
 У французькій прийменник часто залишається безпосередньо перед питальним словом:
 
-> **À qui parles-tu ?**
+> §§MDEMPH0§§
 
-> **De quoi avez-vous besoin ?**
+> §§MDEMPH0§§
 
-> **Avec qui viens-tu ?**
+> §§MDEMPH0§§
 
-> **Pour qui est ce cadeau ?**
+> §§MDEMPH0§§
 
-> **Sur quoi travaillez-vous ?**
+> §§MDEMPH0§§
 
 Це важливо для україномовного учня, бо не слід механічно переносити українську модель прийменника в кінцеву позицію.
 
 ### З особою
 
-> **Avec qui tu viens ?**
+> §§MDEMPH0§§
 
-> **Avec qui venez-vous ?**
+> §§MDEMPH0§§
 
 ### З річчю
 
-> **De quoi parles-tu ?**
+> §§MDEMPH0§§
 
-> **À quoi penses-tu ?**
+> §§MDEMPH0§§
 
-> **Sur quoi comptez-vous ?**
+> §§MDEMPH0§§
 
 Для складених прийменникових конструкцій:
 
-> **À côté de qui habites-tu ?**
+> §§MDEMPH0§§
 
-> **Auprès de qui faut-il intervenir ?**
+> §§MDEMPH0§§
 
 Тут питальне слово зберігає відповідну прийменникову групу.
 
@@ -571,11 +571,11 @@ variant: []
 
 Непряме питання є частиною іншого речення:
 
-> **Je me demande où il habite.**
+> §§MDEMPH0§§
 
-> **Je voudrais savoir si elle vient.**
+> §§MDEMPH0§§
 
-> **Expliquez-moi comment vous avez fait.**
+> §§MDEMPH0§§
 
 На відміну від прямого питання, непряме питання:
 
@@ -584,41 +584,41 @@ variant: []
 
 Порівняйте:
 
-> **Où habite-t-il ?**
+> §§MDEMPH0§§
 
 але:
 
-> **Je me demande où il habite.**
+> §§MDEMPH0§§
 
 Не:
 
-❌ *Je me demande où habite-t-il.*
+❌ §§MDEMPH0§§
 
-Академія французької мови прямо вказує, що непряме питання відрізняється від прямого відсутністю інверсії та знака питання; це стосується і конструкцій із **quand, où, comment, pourquoi**. citeturn0search2turn0search9
+Академія французької мови прямо вказує, що непряме питання відрізняється від прямого відсутністю інверсії та знака питання; це стосується і конструкцій із §§MDEMPH0§§. citeturn0search2turn0search9
 
 ### Питання oui/non → si
 
 Пряме:
 
-> **Est-ce que tu viens ?**
+> §§MDEMPH0§§
 
 Непряме:
 
-> **Je me demande si tu viens.**
+> §§MDEMPH0§§
 
-> **Elle veut savoir si vous êtes prêts.**
+> §§MDEMPH0§§
 
 Не:
 
-❌ *Elle veut savoir est-ce que vous êtes prêts.*
+❌ §§MDEMPH0§§
 
 ### Питальне слово зберігається
 
-> **Quand viens-tu ? → Je sais quand tu viens.**
+> §§MDEMPH0§§
 
-> **Pourquoi part-il ? → Je sais pourquoi il part.**
+> §§MDEMPH0§§
 
-> **Comment fonctionne-t-il ? → Je sais comment il fonctionne.**
+> §§MDEMPH0§§
 
 ---
 
@@ -626,29 +626,29 @@ variant: []
 
 Для реального сприйняття французької важливо знати, що розмовна мова часто використовує конструкції без інверсії:
 
-> **Tu viens ?**
+> §§MDEMPH0§§
 
-> **Tu vas où ?**
+> §§MDEMPH0§§
 
-> **Vous faites quoi ?**
+> §§MDEMPH0§§
 
-> **Il arrive quand ?**
+> §§MDEMPH0§§
 
-> **Vous avez combien d'enfants ?**
+> §§MDEMPH0§§
 
 Такі конструкції не треба трактувати як випадкові «помилки». Вони належать до системи живої розмовної французької.
 
 Водночас у довіднику треба чітко розрізняти:
 
-**граматична можливість → регістр → стилістична доречність.**
+§§MDEMPH0§§
 
 Наприклад, у формальному листі:
 
-> **À quelle heure arriverez-vous ?**
+> §§MDEMPH0§§
 
 буде природнішим вибором, ніж:
 
-> **Vous arrivez à quelle heure ?**
+> §§MDEMPH0§§
 
 Академія окремо зауважує, що конструкції без інверсії широко зустрічаються в усному та стилізованому під усне мовленні, тоді як формальніший стиль зберігає інверсію. citeturn0search1
 
@@ -656,15 +656,15 @@ variant: []
 
 У діалозі можливі дуже короткі репліки:
 
-> **Pourquoi ?**
+> §§MDEMPH0§§
 
-> **Comment ?**
+> §§MDEMPH0§§
 
-> **Qui ?**
+> §§MDEMPH0§§
 
-> **Quand ?**
+> §§MDEMPH0§§
 
-> **Quoi ?**
+> §§MDEMPH0§§
 
 Їх не треба автоматично розгортати до повного речення: дискурс дозволяє еліптичні питання.
 
@@ -674,19 +674,19 @@ variant: []
 
 Риторичне питання формально має питальну форму, але його головна функція — не отримати інформацію.
 
-> **Qui pourrait croire ça ?**
+> §§MDEMPH0§§
 
 = Ніхто не міг би в це повірити.
 
-> **Comment oublier une chose pareille ?**
+> §§MDEMPH0§§
 
 = Неможливо забути таку річ.
 
-> **Pourquoi attendre ?**
+> §§MDEMPH0§§
 
 = Немає сенсу чекати / Навіщо чекати?
 
-> **Qui sait ?**
+> §§MDEMPH0§§
 
 Може бути справжнім питанням, але в контексті також може означати «хтозна».
 
@@ -694,9 +694,9 @@ variant: []
 
 Потрібно дивитися не лише на форму, а й на комунікативну функцію:
 
-**інформаційне питання → очікується відповідь;**
+§§MDEMPH0§§
 
-**риторичне питання → відповідь не є основною метою.**
+§§MDEMPH0§§
 
 Тому питання та риторичність не є взаємовиключними граматичними категоріями: риторичність — передусім прагматична інтерпретація.
 
@@ -708,48 +708,48 @@ variant: []
 
 ### Крок 1. Це справді пряме питання?
 
-Якщо воно залежить від **savoir, demander, se demander, expliquer, dire** тощо, перевірте, чи це вже непряме питання.
+Якщо воно залежить від §§MDEMPH0§§ тощо, перевірте, чи це вже непряме питання.
 
-> **Où habites-tu ?** → direct
+> §§MDEMPH0§§ → direct
 
-> **Je sais où tu habites.** → indirect
+> §§MDEMPH0§§ → indirect
 
 ### Крок 2. Яка інформація потрібна?
 
-- yes/no → **est-ce que / inversion / intonation**;
-- особа → **qui**;
-- річ / COD → **que / qu'est-ce que / quoi**;
-- вибір + іменник → **quel**;
-- вибір без іменника → **lequel**;
-- кількість → **combien**;
-- спосіб → **comment**;
-- причина → **pourquoi**;
-- час → **quand**;
-- місце → **où**.
+- yes/no → §§MDEMPH0§§;
+- особа → §§MDEMPH0§§;
+- річ / COD → §§MDEMPH0§§;
+- вибір + іменник → §§MDEMPH0§§;
+- вибір без іменника → §§MDEMPH0§§;
+- кількість → §§MDEMPH0§§;
+- спосіб → §§MDEMPH0§§;
+- причина → §§MDEMPH0§§;
+- час → §§MDEMPH0§§;
+- місце → §§MDEMPH0§§.
 
 ### Крок 3. Який регістр?
 
 Розмовне:
 
-> **Tu viens ?**
+> §§MDEMPH0§§
 
 Нейтральне:
 
-> **Est-ce que tu viens ?**
+> §§MDEMPH0§§
 
 Формальніше:
 
-> **Viens-tu ?**
+> §§MDEMPH0§§
 
 Це не абсолютна шкала «погано → добре». Це вибір конструкції відповідно до ситуації.
 
 ### Крок 4. Чи є прийменник?
 
-> **À qui… ?**
+> §§MDEMPH0§§
 
-> **De quoi… ?**
+> §§MDEMPH0§§
 
-> **Avec qui… ?**
+> §§MDEMPH0§§
 
 Не викидайте прийменник лише тому, що в українській структура виглядає інакше.
 
@@ -757,19 +757,19 @@ variant: []
 
 Якщо так:
 
-> **parle-t-il**
+> §§MDEMPH0§§
 
-> **va-t-elle**
+> §§MDEMPH0§§
 
-> **avez-vous**
+> §§MDEMPH0§§
 
 але:
 
-> **vient-il**
+> §§MDEMPH0§§
 
-> **prend-elle**
+> §§MDEMPH0§§
 
-Не вставляйте **t** механічно.
+Не вставляйте §§MDEMPH0§§ механічно.
 
 ---
 
@@ -779,12 +779,12 @@ variant: []
 
 | Функція | Інтонація | Est-ce que | Інверсія |
 |---|---|---|---|
-| yes/no | **Tu viens ?** | **Est-ce que tu viens ?** | **Viens-tu ?** |
-| місце | **Tu vas où ?** | **Où est-ce que tu vas ?** | **Où vas-tu ?** |
-| час | **Tu pars quand ?** | **Quand est-ce que tu pars ?** | **Quand pars-tu ?** |
-| причина | **Tu pars pourquoi ?** | **Pourquoi est-ce que tu pars ?** | **Pourquoi pars-tu ?** |
-| особа | **Tu vois qui ?** | **Qui est-ce que tu vois ?** | **Qui vois-tu ?** |
-| річ | **Tu fais quoi ?** | **Qu'est-ce que tu fais ?** | **Que fais-tu ?** |
+| yes/no | §§MDEMPH0§§ | §§MDEMPH1§§ | §§MDEMPH2§§ |
+| місце | §§MDEMPH0§§ | §§MDEMPH1§§ | §§MDEMPH2§§ |
+| час | §§MDEMPH0§§ | §§MDEMPH1§§ | §§MDEMPH2§§ |
+| причина | §§MDEMPH0§§ | §§MDEMPH1§§ | §§MDEMPH2§§ |
+| особа | §§MDEMPH0§§ | §§MDEMPH1§§ | §§MDEMPH2§§ |
+| річ | §§MDEMPH0§§ | §§MDEMPH1§§ | §§MDEMPH2§§ |
 
 Ця таблиця особливо корисна як навчальний міст між українською інтуїцією та французькою синтаксичною системою.
 
@@ -794,59 +794,59 @@ variant: []
 
 ## 1. Подвійне питання
 
-❌ *Est-ce que viens-tu ?*
+❌ §§MDEMPH0§§
 
-✅ **Est-ce que tu viens ?**
+✅ §§MDEMPH0§§
 
 або:
 
-✅ **Viens-tu ?**
+✅ §§MDEMPH0§§
 
 ## 2. Подвійний COD
 
-❌ *Qu'est-ce que tu fais quoi ?*
+❌ §§MDEMPH0§§
 
-✅ **Qu'est-ce que tu fais ?**
+✅ §§MDEMPH0§§
 
 або:
 
-✅ **Tu fais quoi ?**
+✅ §§MDEMPH0§§
 
 ## 3. Інверсія в непрямому питанні
 
-❌ *Je ne sais pas où habite-t-il.*
+❌ §§MDEMPH0§§
 
-✅ **Je ne sais pas où il habite.**
+✅ §§MDEMPH0§§
 
 ## 4. Помилковий t euphonique
 
-❌ *Il va-t-être en retard.*
+❌ §§MDEMPH0§§
 
-✅ **Il va être en retard.**
+✅ §§MDEMPH0§§
 
 ## 5. Неправильний вибір qui / que
 
-❌ *Qui est-ce que vient ?*
+❌ §§MDEMPH0§§
 
-✅ **Qui vient ?**
+✅ §§MDEMPH0§§
 
 ## 6. Автоматичне перенесення української структури
 
 Не перекладайте питання слово в слово. Спочатку визначте функцію:
 
-**хто? → qui**
+§§MDEMPH0§§
 
-**що як COD? → que / qu'est-ce que / quoi**
+§§MDEMPH0§§
 
-**скільки? → combien**
+§§MDEMPH0§§
 
-**як? → comment**
+§§MDEMPH0§§
 
-**чому? → pourquoi**
+§§MDEMPH0§§
 
-**коли? → quand**
+§§MDEMPH0§§
 
-**де? → où**
+§§MDEMPH0§§
 
 а потім виберіть модель питання відповідно до регістру.
 
@@ -856,39 +856,39 @@ variant: []
 
 ### Інтонація ↔ est-ce que
 
-> **Tu travailles ici ?**
+> §§MDEMPH0§§
 
-> **Est-ce que tu travailles ici ?**
+> §§MDEMPH0§§
 
 ### Est-ce que ↔ inversion
 
-> **Est-ce que vous avez compris ?**
+> §§MDEMPH0§§
 
-> **Avez-vous compris ?**
+> §§MDEMPH0§§
 
 ### Пряме ↔ непряме
 
-> **Où habites-tu ?**
+> §§MDEMPH0§§
 
-> **Je sais où tu habites.**
+> §§MDEMPH0§§
 
 ### Підмет ↔ додаток
 
-> **Qui vient ?**
+> §§MDEMPH0§§
 
-> **Qui vois-tu ?**
+> §§MDEMPH0§§
 
 ### Quel ↔ lequel
 
-> **Quel livre veux-tu ?**
+> §§MDEMPH0§§
 
-> **Lequel veux-tu ?**
+> §§MDEMPH0§§
 
 ### Pourquoi ↔ pour quoi
 
-> **Pourquoi es-tu venu ?**
+> §§MDEMPH0§§
 
-> **Pour quoi faire es-tu venu ?**
+> §§MDEMPH0§§
 
 ---
 
@@ -896,32 +896,32 @@ variant: []
 
 Перетворіть твердження на три типи прямого питання там, де це природно.
 
-1. **Tu travailles demain.**
-2. **Vous habitez à Paris.**
-3. **Elle arrive à huit heures.**
-4. **Il parle à Marie.**
-5. **Tu achètes trois livres.**
+1. §§MDEMPH0§§
+2. §§MDEMPH0§§
+3. §§MDEMPH0§§
+4. §§MDEMPH0§§
+5. §§MDEMPH0§§
 
 Потім утворіть непряме питання:
 
-6. **Où habite-t-il ?**
-7. **Quand part-elle ?**
-8. **Pourquoi viennent-ils ?**
-9. **Est-ce que tu comprends ?**
-10. **Qui a appelé ?**
+6. §§MDEMPH0§§
+7. §§MDEMPH0§§
+8. §§MDEMPH0§§
+9. §§MDEMPH0§§
+10. §§MDEMPH0§§
 
 ### Орієнтовні відповіді
 
-1. **Tu travailles demain ? / Est-ce que tu travailles demain ? / Travailles-tu demain ?**
-2. **Vous habitez à Paris ? / Est-ce que vous habitez à Paris ? / Habitez-vous à Paris ?**
-3. **Elle arrive à quelle heure ? / À quelle heure est-ce qu'elle arrive ? / À quelle heure arrive-t-elle ?**
-4. **Tu parles à qui ? / À qui est-ce que tu parles ? / À qui parles-tu ?**
-5. **Tu achètes combien de livres ? / Combien de livres est-ce que tu achètes ? / Combien de livres achètes-tu ?**
-6. **Je me demande où il habite.**
-7. **Je voudrais savoir quand elle part.**
-8. **Je me demande pourquoi ils viennent.**
-9. **Je voudrais savoir si tu comprends.**
-10. **Je voudrais savoir qui a appelé.**
+1. §§MDEMPH0§§
+2. §§MDEMPH0§§
+3. §§MDEMPH0§§
+4. §§MDEMPH0§§
+5. §§MDEMPH0§§
+6. §§MDEMPH0§§
+7. §§MDEMPH0§§
+8. §§MDEMPH0§§
+9. §§MDEMPH0§§
+10. §§MDEMPH0§§
 
 ---
 
@@ -929,29 +929,29 @@ variant: []
 
 Запам'ятайте не окремі шаблони, а систему:
 
-> **ПРЯМЕ ПИТАННЯ**
+> §§MDEMPH0§§
 >
-> **інтонація** → *Tu viens ?*
+> §§MDEMPH0§§ → §§MDEMPH1§§
 >
-> **est-ce que** → *Est-ce que tu viens ?*
+> §§MDEMPH0§§ → §§MDEMPH1§§
 >
-> **інверсія** → *Viens-tu ?*
+> §§MDEMPH0§§ → §§MDEMPH1§§
 
 А для спеціальної інформації:
 
-> **qui** — особа  
-> **que / quoi** — річ / COD  
-> **quel** — який + іменник  
-> **lequel** — який із них  
-> **combien** — скільки  
-> **comment** — як  
-> **pourquoi** — чому  
-> **quand** — коли  
-> **où** — де / куди
+> §§MDEMPH0§§ — особа  
+> §§MDEMPH0§§ — річ / COD  
+> §§MDEMPH0§§ — який + іменник  
+> §§MDEMPH0§§ — який із них  
+> §§MDEMPH0§§ — скільки  
+> §§MDEMPH0§§ — як  
+> §§MDEMPH0§§ — чому  
+> §§MDEMPH0§§ — коли  
+> §§MDEMPH0§§ — де / куди
 
 І нарешті:
 
-> **пряме:** *Où habite-t-il ?*  
-> **непряме:** *Je sais où il habite.*
+> §§MDEMPH0§§ §§MDEMPH1§§  
+> §§MDEMPH0§§ §§MDEMPH1§§
 
-Саме розрізнення **прямого питання, непрямого питання та розмовної моделі без інверсії** є ключем до того, щоб французькі питання перестали виглядати як набір винятків.
+Саме розрізнення §§MDEMPH0§§ є ключем до того, щоб французькі питання перестали виглядати як набір винятків.

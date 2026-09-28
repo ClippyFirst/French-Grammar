@@ -25,14 +25,14 @@ variant: []
 ---
 ## Швидка відповідь
 
-Після французького дієслова інфінітив може стояти **без прийменника**, після **à**, після **de** або в іншій прийменниковій конструкції. Вибір визначається лексичною валентністю дієслова та конкретною синтаксичною моделлю, а не українським перекладом.
+Після французького дієслова інфінітив може стояти §§MDEMPH0§§, після §§MDEMPH1§§, після §§MDEMPH2§§ або в іншій прийменниковій конструкції. Вибір визначається лексичною валентністю дієслова та конкретною синтаксичною моделлю, а не українським перекладом.
 
 Порівняй:
 
-- *Je veux partir.* — Я хочу піти.
-- *Je commence à travailler.* — Я починаю працювати.
-- *J’essaie de comprendre.* — Я намагаюся зрозуміти.
-- *Je veux que tu viennes.* — Я хочу, щоб ти прийшов.
+- §§MDEMPH0§§ — Я хочу піти.
+- §§MDEMPH0§§ — Я починаю працювати.
+- §§MDEMPH0§§ — Я намагаюся зрозуміти.
+- §§MDEMPH0§§ — Я хочу, щоб ти прийшов.
 
 Тому «дієслово + інфінітив» — не одна формула.
 
@@ -40,37 +40,37 @@ variant: []
 
 Деякі дієслова безпосередньо поєднуються з інфінітивом:
 
-- *vouloir partir*;
-- *pouvoir venir*;
-- *devoir travailler*;
-- *préférer rester*;
-- *espérer réussir*;
-- *savoir nager*.
+- §§MDEMPH0§§;
+- §§MDEMPH0§§;
+- §§MDEMPH0§§;
+- §§MDEMPH0§§;
+- §§MDEMPH0§§;
+- §§MDEMPH0§§.
 
 Наприклад:
 
-> *Nous devons travailler.*
+> §§MDEMPH0§§
 
 → Ми мусимо працювати.
 
-Не можна додавати *de* або *à* лише тому, що український переклад містить інфінітив:
+Не можна додавати §§MDEMPH0§§ або §§MDEMPH1§§ лише тому, що український переклад містить інфінітив:
 
-> ❌ *Je veux de partir.*
+> ❌ §§MDEMPH0§§
 
-> ✅ *Je veux partir.*
+> ✅ §§MDEMPH0§§
 
 ## 2. V + de + infinitif
 
-Інші дієслова керують *de*:
+Інші дієслова керують §§MDEMPH0§§:
 
-- *essayer de faire*;
-- *décider de faire*;
-- *refuser de faire*;
-- *accepter de faire*;
-- *éviter de faire*;
-- *promettre de faire*.
+- §§MDEMPH0§§;
+- §§MDEMPH0§§;
+- §§MDEMPH0§§;
+- §§MDEMPH0§§;
+- §§MDEMPH0§§;
+- §§MDEMPH0§§.
 
-> *Elle décide de rester.*
+> §§MDEMPH0§§
 
 → Вона вирішує залишитися.
 
@@ -78,23 +78,23 @@ variant: []
 
 ## 3. V + à + infinitif
 
-Частина дієслів керує *à*:
+Частина дієслів керує §§MDEMPH0§§:
 
-- *commencer à faire*;
-- *continuer à faire*;
-- *apprendre à faire*;
-- *réussir à faire*;
-- *parvenir à faire*.
+- §§MDEMPH0§§;
+- §§MDEMPH0§§;
+- §§MDEMPH0§§;
+- §§MDEMPH0§§;
+- §§MDEMPH0§§.
 
-> *Il commence à comprendre.*
+> §§MDEMPH0§§
 
 → Він починає розуміти.
 
-> *Elle réussit à résoudre le problème.*
+> §§MDEMPH0§§
 
 → Їй вдається розв’язати проблему.
 
-Тому не слід виводити *à* з українського «до», а *de* — з «від».
+Тому не слід виводити §§MDEMPH0§§ з українського «до», а §§MDEMPH1§§ — з «від».
 
 ## 4. Керування треба вчити блоком
 
@@ -102,13 +102,13 @@ variant: []
 
 | Дієслово | Модель | Приклад |
 |---|---|---|
-| *vouloir* | V + infinitif | *Je veux partir.* |
-| *essayer* | V + de + infinitif | *J’essaie de comprendre.* |
-| *commencer* | V + à + infinitif | *Je commence à lire.* |
-| *refuser* | V + de + infinitif | *Elle refuse de répondre.* |
-| *réussir* | V + à + infinitif | *Il réussit à gagner.* |
+| §§MDEMPH0§§ | V + infinitif | §§MDEMPH1§§ |
+| §§MDEMPH0§§ | V + de + infinitif | §§MDEMPH1§§ |
+| §§MDEMPH0§§ | V + à + infinitif | §§MDEMPH1§§ |
+| §§MDEMPH0§§ | V + de + infinitif | §§MDEMPH1§§ |
+| §§MDEMPH0§§ | V + à + infinitif | §§MDEMPH1§§ |
 
-Це питання **керування (gouvernement)**: головний елемент визначає форму залежного компонента.
+Це питання §§MDEMPH0§§: головний елемент визначає форму залежного компонента.
 
 ## 5. Одне дієслово — різні конструкції
 
@@ -116,37 +116,37 @@ variant: []
 
 Наприклад:
 
-> *Je demande à Paul de venir.*
+> §§MDEMPH0§§
 
 → Я прошу Поля прийти.
 
-Тут *à Paul* позначає адресата, а *de venir* — інфінітивну конструкцію.
+Тут §§MDEMPH0§§ позначає адресата, а §§MDEMPH1§§ — інфінітивну конструкцію.
 
 В іншій моделі:
 
-> *Je demande si Paul vient.*
+> §§MDEMPH0§§
 
 → Я питаю, чи Поль приходить.
 
-Тут *si* вводить особову підрядну конструкцію.
+Тут §§MDEMPH0§§ вводить особову підрядну конструкцію.
 
-Отже, словникова стаття має вчити не лише значення *demander*, а й його можливі конструкції.
+Отже, словникова стаття має вчити не лише значення §§MDEMPH0§§, а й його можливі конструкції.
 
 ## 6. Інфінітив чи que + особова форма?
 
 Порівняй:
 
-> *Je veux partir.*
+> §§MDEMPH0§§
 
-> *Je veux que Paul parte.*
+> §§MDEMPH0§§
 
-У першому реченні інфінітив зазвичай має виконавця, кореферентного з *je*. У другому виконавець виражений окремо — *Paul*.
+У першому реченні інфінітив зазвичай має виконавця, кореферентного з §§MDEMPH0§§. У другому виконавець виражений окремо — §§MDEMPH1§§.
 
 Так само:
 
-> *Elle espère réussir.*
+> §§MDEMPH0§§
 
-> *Elle espère que son équipe réussira.*
+> §§MDEMPH0§§
 
 Інфінітив не є просто «скороченим реченням». Це окрема синтаксична конструкція, у якій особа й число не виражені самим інфінітивом.
 
@@ -154,57 +154,57 @@ variant: []
 
 Порівняй:
 
-> *Paul veut partir.*
+> §§MDEMPH0§§
 
 → Paul хоче піти.
 
-> *Je vois Paul partir.*
+> §§MDEMPH0§§
 
 → Я бачу, як Поль виходить.
 
-У першому випадку *Paul* є природним виконавцем обох предикацій. У другому *je* сприймає подію, а *Paul* є її учасником.
+У першому випадку §§MDEMPH0§§ є природним виконавцем обох предикацій. У другому §§MDEMPH1§§ сприймає подію, а §§MDEMPH2§§ є її учасником.
 
 Дієслово та інфінітив тому не можна аналізувати лише за поверхневою послідовністю слів.
 
 ## 8. Модальні дієслова
 
-*Pouvoir, devoir, vouloir* часто утворюють конструкції з інфінітивом:
+§§MDEMPH0§§ часто утворюють конструкції з інфінітивом:
 
-> *Je peux venir.*
+> §§MDEMPH0§§
 
-> *Je dois partir.*
+> §§MDEMPH0§§
 
-> *Je veux comprendre.*
+> §§MDEMPH0§§
 
-Значення залежить від контексту. *Je peux partir* може стосуватися здатності, дозволу або можливості; *je dois partir* — обов’язку або висновку про ймовірність.
+Значення залежить від контексту. §§MDEMPH0§§ може стосуватися здатності, дозволу або можливості; §§MDEMPH1§§ — обов’язку або висновку про ймовірність.
 
 Інфінітив є частиною ширшої предикативної конструкції.
 
 ## 9. Aller + infinitif
 
-> *Je vais partir.*
+> §§MDEMPH0§§
 
-Це **futur proche**. Не слід аналізувати його як випадкове сусідство двох незалежних дієслів.
+Це §§MDEMPH0§§. Не слід аналізувати його як випадкове сусідство двох незалежних дієслів.
 
-> *Nous allons commencer.*
+> §§MDEMPH0§§
 
-> *Elle va répondre.*
+> §§MDEMPH0§§
 
 У таких випадках часово-модальне значення виникає з усієї конструкції.
 
 ## 10. Faire + infinitif і laisser + infinitif
 
-> *Je fais travailler les étudiants.*
+> §§MDEMPH0§§
 
-> *Je laisse Paul entrer.*
+> §§MDEMPH0§§
 
-У першому реченні *je* спричиняє ситуацію, а *les étudiants* виконують дію *travailler*. У другому *je* дозволяє, а *Paul* виконує *entrer*.
+У першому реченні §§MDEMPH0§§ спричиняє ситуацію, а §§MDEMPH1§§ виконують дію §§MDEMPH2§§. У другому §§MDEMPH3§§ дозволяє, а §§MDEMPH4§§ виконує §§MDEMPH5§§.
 
 Це важлива відмінність від:
 
-> *Je travaille.*
+> §§MDEMPH0§§
 
-> *Je veux travailler.*
+> §§MDEMPH0§§
 
 Докладніше: [Інфінітив із різними суб’єктами](./infinitive-different-subjects).
 
@@ -212,50 +212,50 @@ variant: []
 
 Український інфінітив не дозволяє автоматично передбачити французький прийменник:
 
-- намагатися зрозуміти → *essayer de comprendre*;
-- починати працювати → *commencer à travailler*;
-- хотіти піти → *vouloir partir*;
-- відмовлятися відповідати → *refuser de répondre*;
-- досягти успіху в → *réussir à* + infinitif.
+- намагатися зрозуміти → §§MDEMPH0§§;
+- починати працювати → §§MDEMPH0§§;
+- хотіти піти → §§MDEMPH0§§;
+- відмовлятися відповідати → §§MDEMPH0§§;
+- досягти успіху в → §§MDEMPH0§§ + infinitif.
 
-Тому головне правило для навчання: **вивчай французьке дієслово разом із моделлю керування**.
+Тому головне правило для навчання: §§MDEMPH0§§.
 
 ## 12. Практичний алгоритм
 
 1. Знайди головне дієслово.
 2. Визнач його валентну модель.
-3. Перевір, чи потрібен infinitif без прийменника, *à* або *de*.
+3. Перевір, чи потрібен infinitif без прийменника, §§MDEMPH0§§ або §§MDEMPH1§§.
 4. Визнач виконавця інфінітивної дії.
 5. Перевір, чи це перифраза, каузативна або дозвільна конструкція.
-6. Якщо можливе *que + особова форма*, порівняй структури, а не лише переклад.
+6. Якщо можливе §§MDEMPH0§§, порівняй структури, а не лише переклад.
 
 ## Типові помилки
 
-❌ *J’essaie à comprendre.*
+❌ §§MDEMPH0§§
 
-✅ *J’essaie de comprendre.*
+✅ §§MDEMPH0§§
 
-❌ *Je commence de travailler.*
+❌ §§MDEMPH0§§
 
-✅ *Je commence à travailler.*
+✅ §§MDEMPH0§§
 
-❌ *Je veux à partir.*
+❌ §§MDEMPH0§§
 
-✅ *Je veux partir.*
+✅ §§MDEMPH0§§
 
-❌ *Je demande Paul de venir.*
+❌ §§MDEMPH0§§
 
-✅ *Je demande à Paul de venir.*
+✅ §§MDEMPH0§§
 
 ## Практична перевірка
 
-1. Je veux ___ partir.
-2. Elle essaie ___ comprendre.
-3. Nous commençons ___ travailler.
-4. Il refuse ___ répondre.
-5. Je demande ___ Marie de venir.
+1. Je veux §§MDEMPH0§§ partir.
+2. Elle essaie §§MDEMPH0§§ comprendre.
+3. Nous commençons §§MDEMPH0§§ travailler.
+4. Il refuse §§MDEMPH0§§ répondre.
+5. Je demande §§MDEMPH0§§ Marie de venir.
 
-**Відповіді:** 1 — нічого, 2 — *de*, 3 — *à*, 4 — *de*, 5 — *à*.
+§§MDEMPH0§§ 1 — нічого, 2 — §§MDEMPH1§§, 3 — §§MDEMPH2§§, 4 — §§MDEMPH3§§, 5 — §§MDEMPH4§§.
 
 ## Куди далі
 

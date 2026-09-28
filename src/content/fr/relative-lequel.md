@@ -28,7 +28,7 @@ tags: []
 ---
 # Lequel як відносний займенник
 
-**Lequel** — відносний займенник, що узгоджується з antecedent за родом і числом. Він особливо важливий після прийменників та в конструкціях, де **qui / que / dont / où** не підходять.
+§§MDEMPH0§§ — відносний займенник, що узгоджується з antecedent за родом і числом. Він особливо важливий після прийменників та в конструкціях, де §§MDEMPH1§§ не підходять.
 
 ## Форми
 
@@ -39,43 +39,43 @@ tags: []
 | masc. pl. | lesquels |
 | fem. pl. | lesquelles |
 
-> **La voiture avec laquelle je voyage.**  
+> §§MDEMPH0§§  
 > Автомобіль, на якому я подорожую.
 
-> **Les documents sur lesquels nous travaillons.**  
+> §§MDEMPH0§§  
 > Документи, над якими ми працюємо.
 
 ## Узгодження
 
 Форма визначається antecedent:
 
-> **le projet → lequel**
+> §§MDEMPH0§§
 
-> **la question → laquelle**
+> §§MDEMPH0§§
 
-> **les projets → lesquels**
+> §§MDEMPH0§§
 
-> **les questions → lesquelles**
+> §§MDEMPH0§§
 
 ## Порівняння з qui
 
 Після прийменника для особи:
 
-> **La personne avec qui je travaille.**
+> §§MDEMPH0§§
 
 Для предмета:
 
-> **Le projet sur lequel je travaille.**
+> §§MDEMPH0§§
 
 Вибір залежить від конструкції та референта.
 
 ## Типові помилки
 
-❌ **la question lequel...**  
-✅ **la question laquelle...**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
-❌ **les documents sur lequel...**  
-✅ **les documents sur lesquels...**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
 ## Пов'язані теми
 
@@ -89,56 +89,56 @@ tags: []
 
 1. Відновіть просте речення.
 2. Визначте прийменник або його відсутність.
-3. Якщо є *à*, перевірте *auquel / à laquelle / auxquels / auxquelles*.
-4. Якщо є *de* у складеній прийменниковій групі, перевірте *duquel / de laquelle / desquels / desquelles*.
+3. Якщо є §§MDEMPH0§§, перевірте §§MDEMPH1§§.
+4. Якщо є §§MDEMPH0§§ у складеній прийменниковій групі, перевірте §§MDEMPH1§§.
 5. Визначте рід і число антецедента.
-6. Для особового референта після прийменника перевірте також *qui*.
-7. Не замінюйте *dont* механічно на *duquel*.
+6. Для особового референта після прийменника перевірте також §§MDEMPH0§§.
+7. Не замінюйте §§MDEMPH0§§ механічно на §§MDEMPH1§§.
 
 | Вихідна структура | Relative |
 |---|---|
-| *Je vois le projet.* | *le projet que je vois* |
-| *Je parle du projet.* | *le projet dont je parle* |
-| *Je pense au projet.* | *le projet auquel je pense* |
-| *Je travaille sur le projet.* | *le projet sur lequel je travaille* |
-| *Je travaille près du projet.* | *le projet près duquel je travaille* |
+| §§MDEMPH0§§ | §§MDEMPH1§§ |
+| §§MDEMPH0§§ | §§MDEMPH1§§ |
+| §§MDEMPH0§§ | §§MDEMPH1§§ |
+| §§MDEMPH0§§ | §§MDEMPH1§§ |
+| §§MDEMPH0§§ | §§MDEMPH1§§ |
 
 ### Мінітест
 
-1. *la question à ___ je réponds* → **laquelle**
-2. *les documents sur ___ je travaille* → **lesquels**
-3. *le bâtiment près ___ nous travaillons* → **duquel**
-4. *la personne avec ___ je travaille* → **qui**
-5. *le sujet ___ nous parlons* → **dont**
+1. §§MDEMPH1§§ → §§MDEMPH0§§
+2. §§MDEMPH1§§ → §§MDEMPH0§§
+3. §§MDEMPH1§§ → §§MDEMPH0§§
+4. §§MDEMPH1§§ → §§MDEMPH0§§
+5. §§MDEMPH1§§ → §§MDEMPH0§§
 
-**Ключ:** 1 *laquelle*; 2 *lesquels*; 3 *duquel*; 4 *qui*; 5 *dont*.
+§§MDEMPH0§§ 1 §§MDEMPH1§§; 2 §§MDEMPH2§§; 3 §§MDEMPH3§§; 4 §§MDEMPH4§§; 5 §§MDEMPH5§§.
 
 ## Український контраст
 
 Українське «на яке», «з яким», «про яке» не визначає французької форми автоматично. Спочатку відновлюйте французьке керування:
 
-> *répondre à une question* → **la question à laquelle je réponds**
+> §§MDEMPH1§§ → §§MDEMPH0§§
 
-> *travailler avec un système* → **le système avec lequel je travaille**
+> §§MDEMPH1§§ → §§MDEMPH0§§
 
-> *parler d'un sujet* → **le sujet dont je parle**
+> §§MDEMPH1§§ → §§MDEMPH0§§
 
 Українська відмінкова система й французька система прийменникового керування організують ці відношення по-різному.
 
 ## Типові помилки
 
-❌ *les questions auquel je réponds*  
-✅ *les questions auxquelles je réponds*
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
-❌ *la méthode avec lesquels je travaille*  
-✅ *la méthode avec laquelle je travaille*
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
-❌ *le projet dont je travaille sur*  
-✅ *le projet sur lequel je travaille*
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
-❌ *le bâtiment dont je travaille près*  
-✅ *le bâtiment près duquel je travaille*
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
 ## Короткий висновок
 
-**Lequel** не є просто «довшим *que*». Це система форм, яка кодує рід і число антецедента та особливо продуктивна в прийменникових relatives.
+§§MDEMPH0§§ не є просто «довшим §§MDEMPH1§§». Це система форм, яка кодує рід і число антецедента та особливо продуктивна в прийменникових relatives.

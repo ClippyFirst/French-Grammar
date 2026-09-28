@@ -30,23 +30,23 @@ tags: []
 
 ## ne ... pas
 
-> **Je n'ai pas compris.**
-> **Elle n'est pas venue.**
+> §§MDEMPH0§§
+> §§MDEMPH0§§
 
-**Ne** стоїть перед допоміжним дієсловом, **pas** — після нього.
+§§MDEMPH0§§ стоїть перед допоміжним дієсловом, §§MDEMPH1§§ — після нього.
 
 ## jamais / plus
 
-> **Je n'ai jamais vu Paris.**
-> **Il n'a plus travaillé ici.**
+> §§MDEMPH0§§
+> §§MDEMPH0§§
 
 ## rien
 
-> **Je n'ai rien compris.**
+> §§MDEMPH0§§
 
 ## personne
 
-> **Je n'ai vu personne.**
+> §§MDEMPH0§§
 
 Отже, не можна сформулювати правило «негативне слово завжди стоїть після participe passé». Його позиція залежить від конкретної конструкції.
 

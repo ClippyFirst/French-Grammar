@@ -30,26 +30,26 @@ tags: []
 
 ## Aucun / aucune
 
-> **Je n'ai aucun problème.**
-> **Elle n'a aucune solution.**
+> §§MDEMPH0§§
+> §§MDEMPH0§§
 
-**Aucun** узгоджується за родом з іменником:
+§§MDEMPH0§§ узгоджується за родом з іменником:
 
-> **aucun problème**
-> **aucune solution**
+> §§MDEMPH0§§
+> §§MDEMPH0§§
 
 У стандартній конструкції він зазвичай стоїть в однині.
 
 ## Порівняння
 
-> **Je n'ai pas de problème.**
-> **Je n'ai aucun problème.**
+> §§MDEMPH0§§
+> §§MDEMPH0§§
 
-Обидві конструкції заперечні, але **aucun** виразніше підкреслює «жодного».
+Обидві конструкції заперечні, але §§MDEMPH0§§ виразніше підкреслює «жодного».
 
 ## Визначник чи займенник
 
-> **aucun problème** — déterminant;
-> **je n'en ai aucun** — pronom.
+> §§MDEMPH0§§ — déterminant;
+> §§MDEMPH0§§ — pronom.
 
 Це різні синтаксичні ролі однієї форми.

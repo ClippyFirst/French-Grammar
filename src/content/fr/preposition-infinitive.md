@@ -30,47 +30,47 @@ tags: []
 
 ## 1. à + infinitif
 
-> **commencer à travailler**
-> **réussir à comprendre**
-> **être prêt à partir**
+> §§MDEMPH0§§
+> §§MDEMPH0§§
+> §§MDEMPH0§§
 
-Тут **à** часто є частиною керування.
+Тут §§MDEMPH0§§ часто є частиною керування.
 
 ## 2. de + infinitif
 
-> **essayer de comprendre**
-> **décider de partir**
-> **éviter de répondre**
+> §§MDEMPH0§§
+> §§MDEMPH0§§
+> §§MDEMPH0§§
 
-Так само **de** може бути лексично зумовленим.
+Так само §§MDEMPH0§§ може бути лексично зумовленим.
 
 ## 3. pour + infinitif
 
-**Pour + infinitif** часто виражає мету:
+§§MDEMPH0§§ часто виражає мету:
 
-> **Je viens pour parler.**
+> §§MDEMPH0§§
 
 Інфінітивна дія є цільовою щодо головної дії.
 
 ## 4. sans + infinitif
 
-**Sans + infinitif** виражає невиконання супровідної дії:
+§§MDEMPH0§§ виражає невиконання супровідної дії:
 
-> **Il est parti sans dire au revoir.**
+> §§MDEMPH0§§
 
 ## 5. avant de / après + infinitif
 
-> **Avant de partir, ferme la porte.**
-> **Après avoir mangé, il est sorti.**
+> §§MDEMPH0§§
+> §§MDEMPH0§§
 
-**Avant de** вводить інфінітив. Для завершеної попередньої дії після **après** типовою є форма **infinitif passé**.
+§§MDEMPH0§§ вводить інфінітив. Для завершеної попередньої дії після §§MDEMPH1§§ типовою є форма §§MDEMPH2§§.
 
 ## 6. Керування чи обставина?
 
 Порівняйте:
 
-> **Je commence à lire.** — **à** керується дієсловом.
-> **Je viens pour lire.** — **pour** виражає мету.
+> §§MDEMPH0§§ — §§MDEMPH1§§ керується дієсловом.
+> §§MDEMPH0§§ — §§MDEMPH1§§ виражає мету.
 
 Обидві конструкції містять прийменник та інфінітив, але їхня граматична функція різна.
 

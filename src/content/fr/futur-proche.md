@@ -27,7 +27,7 @@ variant: []
 
 ## Швидка відповідь
 
-Futur proche утворюється як **aller у présent + infinitif**. Він часто подає майбутню ситуацію як тісно пов’язану з теперішнім: із наміром, уже сформованим планом або ознаками, що вказують на майбутній розвиток.
+Futur proche утворюється як §§MDEMPH0§§. Він часто подає майбутню ситуацію як тісно пов’язану з теперішнім: із наміром, уже сформованим планом або ознаками, що вказують на майбутній розвиток.
 
 Назва proche не означає, що дія обов’язково відбудеться через кілька секунд. Це не точний календарний інтервал.
 
@@ -44,14 +44,14 @@ Futur proche утворюється як **aller у présent + infinitif**. Ві
 
 Aller відмінюється, а основне дієслово залишається в infinitif.
 
-❌ **Je vais partirai.**  
-✅ **Je vais partir.**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
 ## Основні значення
 
 ### Намір або сформоване рішення
 
-**Je vais changer de travail.**
+§§MDEMPH0§§
 
 Я збираюся змінити роботу.
 
@@ -59,7 +59,7 @@ Aller відмінюється, а основне дієслово залиша�
 
 ### Очікувана близька подія
 
-**Le film va commencer.**
+§§MDEMPH0§§
 
 Фільм зараз / ось-ось почнеться.
 
@@ -67,7 +67,7 @@ Aller відмінюється, а основне дієслово залиша�
 
 ### Прогноз на основі теперішніх ознак
 
-**Regarde ces nuages : il va pleuvoir.**
+§§MDEMPH0§§
 
 Подивися на ці хмари: зараз піде дощ.
 
@@ -77,8 +77,8 @@ Aller відмінюється, а основне дієслово залиша�
 
 Обидві форми можуть позначати майбутню ситуацію:
 
-**Je vais partir demain.**  
-**Je partirai demain.**
+§§MDEMPH0§§  
+§§MDEMPH0§§
 
 Різниця не зводиться до «близького» проти «далекого».
 
@@ -90,15 +90,15 @@ Futur proche часто підкреслює зв’язок із теперіш
 
 Заперечення ставиться навколо відмінюваного aller:
 
-**Je ne vais pas partir.**
+§§MDEMPH0§§
 
-**Nous n'allons pas attendre.**
+§§MDEMPH0§§
 
 Схема:
 
-**ne + aller + pas + infinitif**
+§§MDEMPH0§§
 
-❌ **Je ne vais partir pas.**
+❌ §§MDEMPH0§§
 
 У базовій конструкції не ставте pas між infinitif та його дієсловом.
 
@@ -106,9 +106,9 @@ Futur proche часто підкреслює зв’язок із теперіш
 
 Можливі звичайні французькі моделі:
 
-- **Tu vas venir ?**
-- **Est-ce que tu vas venir ?**
-- **Vas-tu venir ?**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
 В усіх трьох випадках infinitif venir залишається після aller.
 
@@ -116,21 +116,21 @@ Futur proche часто підкреслює зв’язок із теперіш
 
 У звичайній конструкції об’єктний займенник стоїть перед infinitif:
 
-**Je vais le voir.**  
-**Elle va lui parler.**  
-**Nous allons en acheter.**
+§§MDEMPH0§§  
+§§MDEMPH0§§  
+§§MDEMPH0§§
 
 Порівняйте:
 
-**Je le vois.** → **Je vais le voir.**
+§§MDEMPH0§§ → §§MDEMPH1§§
 
 Отже, займенник не переноситься автоматично перед aller.
 
 ### Заперечення з займенником
 
-**Je ne vais pas le faire.**
+§§MDEMPH0§§
 
-**Elle ne va pas lui répondre.**
+§§MDEMPH0§§
 
 Спочатку визначте межі заперечення навколо aller, а потім позицію займенника щодо infinitif.
 
@@ -140,19 +140,19 @@ Futur proche часто підкреслює зв’язок із теперіш
 
 Тому:
 
-**Je vais finir le travail.**
+§§MDEMPH0§§
 
-не варто механічно перекладати лише як «я буду закінчувати». Залежно від контексту природними можуть бути **я зараз закінчу**, **я збираюся закінчити**, **я маю намір закінчити** тощо.
+не варто механічно перекладати лише як «я буду закінчувати». Залежно від контексту природними можуть бути §§MDEMPH0§§, §§MDEMPH1§§, §§MDEMPH2§§ тощо.
 
 Головне — не ототожнювати futur proche з однією українською формою.
 
 ## Типові помилки
 
-❌ **Je vais partirai demain.**  
-✅ **Je vais partir demain.**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
-❌ **Je ne vais partir pas.**  
-✅ **Je ne vais pas partir.**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
 ❌ Вважати, що futur proche можна використовувати лише для подій «у найближчі хвилини».  
 → Важливіший зв’язок майбутнього з теперішньою ситуацією.
@@ -161,17 +161,17 @@ Futur proche часто підкреслює зв’язок із теперіш
 
 ## Практична перевірка
 
-1. Nous ___ (commencer) dans quelques minutes.
-2. Je ___ (voir) Paul demain.
-3. Elle ne ___ pas ___ (venir).
-4. Tu ___ le ___ (faire) ce soir ?
+1. Nous §§MDEMPH0§§ (commencer) dans quelques minutes.
+2. Je §§MDEMPH0§§ (voir) Paul demain.
+3. Elle ne _§§MDEMPH0§§ (venir).
+4. Tu _§§MDEMPH0§§ (faire) ce soir ?
 
-**Відповіді**
+§§MDEMPH0§§
 
-1. **allons commencer**
-2. **vais voir**
-3. **va / venir**
-4. **vas / faire**
+1. §§MDEMPH0§§
+2. §§MDEMPH0§§
+3. §§MDEMPH0§§
+4. §§MDEMPH0§§
 
 ## Куди далі
 

@@ -26,35 +26,35 @@ tags: []
 ---
 ## Швидка відповідь
 
-Модель **il est + adjectif** використовується для безособової оцінки:
+Модель §§MDEMPH0§§ використовується для безособової оцінки:
 
-- *Il est important de comprendre.* — Важливо зрозуміти.
-- *Il est nécessaire que tu viennes.* — Необхідно, щоб ти прийшов.
-- *Il est difficile de répondre.* — Важко відповісти.
+- §§MDEMPH0§§ — Важливо зрозуміти.
+- §§MDEMPH0§§ — Необхідно, щоб ти прийшов.
+- §§MDEMPH0§§ — Важко відповісти.
 
-Тут *il* часто є формальним/безособовим підметом.
+Тут §§MDEMPH0§§ часто є формальним/безособовим підметом.
 
 ## 1. de + infinitif
 
-*Il est important de vérifier les données.*
+§§MDEMPH0§§
 
 Інфінітивна група передає зміст оцінки.
 
 ## 2. que + proposition
 
-*Il est important que vous soyez prêts.*
+§§MDEMPH0§§
 
 Коли потрібен явно виражений суб’єкт залежної дії, природною є особова конструкція.
 
-При багатьох оцінних прикметниках після *que* вживається **subjonctif**, особливо за значення необхідності, бажаності або оцінки:
+При багатьох оцінних прикметниках після §§MDEMPH1§§ вживається §§MDEMPH0§§, особливо за значення необхідності, бажаності або оцінки:
 
-*Il est essentiel que tu comprennes.*
+§§MDEMPH0§§
 
 ## 3. Прикметники безособової оцінки
 
 Типові:
 
-*important, nécessaire, essentiel, possible, impossible, difficile, facile, utile, préférable*.
+§§MDEMPH0§§.
 
 Але не всі прикметники однаково природно утворюють безособову модель.
 
@@ -62,17 +62,17 @@ tags: []
 
 Порівняй:
 
-*Il est difficile de comprendre ce texte.*  
-*Paul est difficile à comprendre.*
+§§MDEMPH0§§  
+§§MDEMPH0§§
 
 Перша конструкція оцінює складність дії; друга характеризує особу як таку, яку важко зрозуміти.
 
 ## 5. Типові помилки
 
-*Il est important que comprendre* ❌  
-*Il est important de comprendre* ✓  
-*Il est important que tu comprennes* ✓
+§§MDEMPH0§§ ❌  
+§§MDEMPH0§§ ✓  
+§§MDEMPH0§§ ✓
 
 ## Висновок
 
-Модель *il est + adjectif* треба аналізувати разом із типом доповнення: **de + infinitif**, **que + proposition** або іншою структурою. Вибір залежить від прикметника та від того, як виражено суб’єкта ситуації.
+Модель §§MDEMPH2§§ треба аналізувати разом із типом доповнення: §§MDEMPH0§§, §§MDEMPH1§§ або іншою структурою. Вибір залежить від прикметника та від того, як виражено суб’єкта ситуації.

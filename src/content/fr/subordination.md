@@ -27,17 +27,17 @@ variant: []
 
 ## Швидко
 
-**Підрядність** (*subordination*) — це спосіб організувати речення так, що одна предикативна частина є синтаксично залежною від іншої або входить до складу її структури.
+§§MDEMPH0§§ (§§MDEMPH1§§) — це спосіб організувати речення так, що одна предикативна частина є синтаксично залежною від іншої або входить до складу її структури.
 
 Порівняйте:
 
-> **Il travaille et elle étudie.**  
+> §§MDEMPH0§§  
 > Він працює, а вона навчається.
 
-> **Je sais qu'elle étudie.**  
+> §§MDEMPH0§§  
 > Я знаю, що вона навчається.
 
-У першому прикладі — **coordination**: дві частини координовані. У другому — **subordination**: **qu'elle étudie** є підрядною частиною, яка заповнює змістову позицію після **sais**.
+У першому прикладі — §§MDEMPH0§§: дві частини координовані. У другому — §§MDEMPH1§§: §§MDEMPH2§§ є підрядною частиною, яка заповнює змістову позицію після §§MDEMPH3§§.
 
 Підрядність охоплює не один тип речень. Підрядна частина може:
 
@@ -58,17 +58,17 @@ variant: []
 
 У:
 
-> **Je pense qu'il viendra.**  
+> §§MDEMPH0§§  
 > Я думаю, що він прийде.
 
 маємо:
 
-- **Je pense** — головна частина;
-- **qu'il viendra** — підрядна.
+- §§MDEMPH0§§ — головна частина;
+- §§MDEMPH0§§ — підрядна.
 
 Підрядна частина не просто стоїть після головної: вона виконує певну синтаксичну функцію в ширшій конструкції.
 
-У цьому випадку **qu'il viendra** передає зміст того, що я думаю.
+У цьому випадку §§MDEMPH0§§ передає зміст того, що я думаю.
 
 ---
 
@@ -76,21 +76,21 @@ variant: []
 
 Порівняйте:
 
-> **Il travaille et elle étudie.**
+> §§MDEMPH0§§
 
-> **Je sais qu'elle étudie.**
+> §§MDEMPH0§§
 
 У першому випадку:
 
-> **Il travaille** + **et** + **elle étudie**
+> §§MDEMPH0§§ + §§MDEMPH1§§ + §§MDEMPH2§§
 
 Обидві пропозиції мають відносно самостійний статус.
 
 У другому:
 
-> **Je sais [qu'elle étudie].**
+> §§MDEMPH0§§
 
-Підрядна частина входить до структури **je sais**.
+Підрядна частина входить до структури §§MDEMPH0§§.
 
 ---
 
@@ -98,17 +98,17 @@ variant: []
 
 Третя можливість:
 
-> **Il pleut ; je reste chez moi.**
+> §§MDEMPH0§§
 
-Тут немає підрядного сполучника. Це **juxtaposition**.
+Тут немає підрядного сполучника. Це §§MDEMPH0§§.
 
 Отже, для складних конструкцій корисно розрізняти:
 
 | Тип | Приклад | Засіб |
 |---|---|---|
-| coordination | **Il vient et je pars.** | et |
-| subordination | **Je sais qu'il vient.** | que |
-| juxtaposition | **Il vient ; je pars.** | пунктуація |
+| coordination | §§MDEMPH0§§ | et |
+| subordination | §§MDEMPH0§§ | que |
+| juxtaposition | §§MDEMPH0§§ | пунктуація |
 
 ---
 
@@ -118,55 +118,55 @@ variant: []
 
 ### Complétive
 
-> **Je pense qu'il viendra.**
+> §§MDEMPH0§§
 
 Підрядна передає зміст думки.
 
 ### Relative
 
-> **Le livre que je lis est intéressant.**
+> §§MDEMPH0§§
 
-Підрядна характеризує **le livre**.
+Підрядна характеризує §§MDEMPH0§§.
 
 ### Circonstancielle
 
-> **Je reste parce qu'il pleut.**
+> §§MDEMPH0§§
 
 Підрядна виражає причину.
 
 Або:
 
-> **Quand il arrivera, nous partirons.**
+> §§MDEMPH0§§
 
 Підрядна виражає час.
 
 Або:
 
-> **Si tu viens, nous partirons.**
+> §§MDEMPH0§§
 
 Підрядна виражає умову.
 
-Тому не можна визначати тип підрядної лише за наявністю **que**.
+Тому не можна визначати тип підрядної лише за наявністю §§MDEMPH0§§.
 
 ---
 
 ## 2.1. Que не має одного значення
 
-**Que** — надзвичайно продуктивний підрядний засіб.
+§§MDEMPH0§§ — надзвичайно продуктивний підрядний засіб.
 
-> **Je pense qu'il viendra.**
+> §§MDEMPH0§§
 
-> **Je suis content qu'il soit là.**
+> §§MDEMPH0§§
 
-> **Le livre que je lis est intéressant.**
+> §§MDEMPH0§§
 
-У першому випадку **que** вводить complétive.
+У першому випадку §§MDEMPH0§§ вводить complétive.
 
-У другому — також вводить змістову підрядну, але головна конструкція вимагає **subjonctif**.
+У другому — також вводить змістову підрядну, але головна конструкція вимагає §§MDEMPH0§§.
 
-У третьому **que** є відносним займенником і виконує роль COD усередині relative.
+У третьому §§MDEMPH0§§ є відносним займенником і виконує роль COD усередині relative.
 
-Тому форма **que** сама по собі не визначає синтаксичну функцію.
+Тому форма §§MDEMPH0§§ сама по собі не визначає синтаксичну функцію.
 
 ---
 
@@ -174,60 +174,60 @@ variant: []
 
 ## 3.1. Relative має антецедент
 
-> **La femme qui parle est ma collègue.**  
+> §§MDEMPH0§§  
 > Жінка, яка говорить, — моя колега.
 
-**qui parle** характеризує **la femme**.
+§§MDEMPH0§§ характеризує §§MDEMPH1§§.
 
-Елемент **qui** одночасно:
+Елемент §§MDEMPH0§§ одночасно:
 
 1. зв'язує підрядну з головною частиною;
-2. виконує функцію підмета в **parle**.
+2. виконує функцію підмета в §§MDEMPH0§§.
 
 ---
 
 ## 3.2. Qui і que
 
-> **La femme qui parle...**  
+> §§MDEMPH0§§  
 > Жінка, яка говорить...
 
-**qui** = підмет **parle**.
+§§MDEMPH0§§ = підмет §§MDEMPH1§§.
 
-> **La femme que je vois...**  
+> §§MDEMPH0§§  
 > Жінка, яку я бачу...
 
-**que** = COD дієслова **vois**.
+§§MDEMPH0§§ = COD дієслова §§MDEMPH1§§.
 
 Це принципово важливе розрізнення:
 
-> **qui + verbe**
+> §§MDEMPH0§§
 
-> **que + sujet + verbe**
+> §§MDEMPH0§§
 
 ---
 
 ## 3.3. Dont і où
 
-> **La personne dont je parle est absente.**  
+> §§MDEMPH0§§  
 > Людина, про яку я говорю, відсутня.
 
-**dont** відповідає конструкції з **de**:
+§§MDEMPH0§§ відповідає конструкції з §§MDEMPH1§§:
 
-> **parler de quelqu'un**
+> §§MDEMPH0§§
 
-> **La personne dont je parle**
+> §§MDEMPH0§§
 
 Для місця:
 
-> **La ville où je travaille est grande.**  
+> §§MDEMPH0§§  
 > Місто, де я працюю, велике.
 
 Relative не слід плутати з complétive:
 
-> **Je sais où il travaille.**  
+> §§MDEMPH0§§  
 > Я знаю, де він працює.
 
-Тут **où il travaille** не описує іменник; це зміст того, що я знаю.
+Тут §§MDEMPH0§§ не описує іменник; це зміст того, що я знаю.
 
 ---
 
@@ -235,12 +235,12 @@ Relative не слід плутати з complétive:
 
 ## 4.1. Умова
 
-> **Si tu viens, nous partirons.**  
+> §§MDEMPH0§§  
 > Якщо ти прийдеш, ми вирушимо.
 
 Структура:
 
-> **si + умова → наслідок**
+> §§MDEMPH0§§
 
 Умовна частина є підрядною.
 
@@ -248,7 +248,7 @@ Relative не слід плутати з complétive:
 
 ## 4.2. Відкрита умова
 
-> **Si tu as le temps, appelle-moi.**  
+> §§MDEMPH0§§  
 > Якщо матимеш час, подзвони мені.
 
 Умова подається як можливий сценарій.
@@ -257,19 +257,19 @@ Relative не слід плутати з complétive:
 
 ## 4.3. Гіпотетична умова
 
-> **Si j'avais plus de temps, je voyagerais davantage.**  
+> §§MDEMPH0§§  
 > Якби в мене було більше часу, я б більше подорожував.
 
 Типова модель:
 
-> **si + imparfait → conditionnel présent**
+> §§MDEMPH0§§
 
 Для нереалізованої умови в минулому:
 
-> **Si j'avais eu le temps, je serais venu.**  
+> §§MDEMPH0§§  
 > Якби я мав час, я б прийшов.
 
-> **si + plus-que-parfait → conditionnel passé**
+> §§MDEMPH0§§
 
 ---
 
@@ -277,25 +277,25 @@ Relative не слід плутати з complétive:
 
 Порівняйте:
 
-> **Si tu viens, nous partirons.**  
+> §§MDEMPH0§§  
 > Якщо ти прийдеш, ми вирушимо.
 
-> **Je ne sais pas si tu viendras.**  
+> §§MDEMPH0§§  
 > Я не знаю, чи ти прийдеш.
 
-У першому випадку **si** = умова.
+У першому випадку §§MDEMPH0§§ = умова.
 
-У другому **si** вводить непряме питання.
+У другому §§MDEMPH0§§ вводить непряме питання.
 
 ---
 
 ## 4.5. Не ставте conditionnel після si у звичайній умові
 
-❌ **Si tu viendrais, je serais content.**
+❌ §§MDEMPH0§§
 
 Нейтрально:
 
-> **Si tu venais, je serais content.**
+> §§MDEMPH0§§
 
 Conditionnel належить до наслідкової частини.
 
@@ -305,37 +305,37 @@ Conditionnel належить до наслідкової частини.
 
 ## 5.1. Parce que
 
-> **Je reste chez moi parce qu'il pleut.**  
+> §§MDEMPH0§§  
 > Я залишаюся вдома, бо йде дощ.
 
-**Parce que** — типовий нейтральний засіб вираження причини.
+§§MDEMPH0§§ — типовий нейтральний засіб вираження причини.
 
 Підрядна частина може стояти після головної:
 
-> **Il est resté parce qu'il était malade.**
+> §§MDEMPH0§§
 
 або перед нею:
 
-> **Parce qu'il était malade, il est resté.**
+> §§MDEMPH0§§
 
-Мобільність причинної підрядної — важлива відмінність від **car**.
+Мобільність причинної підрядної — важлива відмінність від §§MDEMPH0§§.
 
 ---
 
 ## 5.2. Puisque
 
-> **Puisque tu es là, aide-moi.**  
+> §§MDEMPH0§§  
 > Оскільки ти тут, допоможи мені.
 
-**Puisque** подає причину як уже відому, очевидну або прийняту в контексті.
+§§MDEMPH0§§ подає причину як уже відому, очевидну або прийняту в контексті.
 
 Порівняйте:
 
-> **Je reste parce qu'il pleut.**
+> §§MDEMPH0§§
 
 Я повідомляю причину.
 
-> **Puisqu'il pleut, nous resterons ici.**
+> §§MDEMPH0§§
 
 Причина подається як встановлений факт, з якого випливає рішення.
 
@@ -343,9 +343,9 @@ Conditionnel належить до наслідкової частини.
 
 ## 5.3. Comme
 
-На початку речення **comme** може вводити причинну підрядну:
+На початку речення §§MDEMPH0§§ може вводити причинну підрядну:
 
-> **Comme il pleuvait, nous sommes restés chez nous.**  
+> §§MDEMPH0§§  
 > Оскільки йшов дощ, ми залишилися вдома.
 
 Така позиція природно робить причину фоном для головної події.
@@ -356,9 +356,9 @@ Conditionnel належить до наслідкової частини.
 
 | Засіб | Типова функція |
 |---|---|
-| **parce que** | пояснення причини |
-| **puisque** | очевидна / вже відома причина |
-| **comme** | причина як вихідний фон, часто перед головною частиною |
+| §§MDEMPH0§§ | пояснення причини |
+| §§MDEMPH0§§ | очевидна / вже відома причина |
+| §§MDEMPH0§§ | причина як вихідний фон, часто перед головною частиною |
 
 Не перекладайте їх механічно одним словом «тому що».
 
@@ -366,17 +366,17 @@ Conditionnel належить до наслідкової частини.
 
 ## 5.5. Не плутайте parce que і car
 
-> **Parce qu'il était malade, il est resté chez lui.**
+> §§MDEMPH0§§
 
-> **Il est resté chez lui, car il était malade.**
+> §§MDEMPH0§§
 
-**Parce que** вводить підрядну причинну частину.
+§§MDEMPH0§§ вводить підрядну причинну частину.
 
-**Car** — сурядний сполучник і не поводиться як **parce que**.
+§§MDEMPH0§§ — сурядний сполучник і не поводиться як §§MDEMPH1§§.
 
 Форма:
 
-> ❌ **Car il était malade, il est resté.**
+> ❌ §§MDEMPH0§§
 
 не є нейтральною стандартною моделлю.
 
@@ -388,58 +388,58 @@ Conditionnel належить до наслідкової частини.
 
 Наслідок можна виразити конструкціями:
 
-> **si... que**
+> §§MDEMPH0§§
 
-> **tellement... que**
+> §§MDEMPH0§§
 
-> **tant... que**
+> §§MDEMPH0§§
 
-> **tel... que**
+> §§MDEMPH0§§
 
-> **de sorte que**
+> §§MDEMPH0§§
 
 Наприклад:
 
-> **Il pleuvait tellement que nous sommes restés chez nous.**  
+> §§MDEMPH0§§  
 > Дощ ішов так сильно, що ми залишилися вдома.
 
-Тут перша частина задає ступінь, а **que** вводить результат.
+Тут перша частина задає ступінь, а §§MDEMPH0§§ вводить результат.
 
 ---
 
 ## 6.2. Tellement... que
 
-> **Elle était tellement fatiguée qu'elle s'est endormie.**  
+> §§MDEMPH0§§  
 > Вона була така втомлена, що заснула.
 
 Схема:
 
-> **tellement + adjectif/adverbe/verbe + que + conséquence**
+> §§MDEMPH0§§
 
 ---
 
 ## 6.3. Tant... que
 
-> **Il a tant travaillé qu'il a réussi.**  
+> §§MDEMPH0§§  
 > Він так багато працював, що досяг успіху.
 
-**Tant** особливо природно поєднується з дієсловом.
+§§MDEMPH0§§ особливо природно поєднується з дієсловом.
 
 ---
 
 ## 6.4. Si... que
 
-> **Il faisait si froid que nous sommes rentrés.**  
+> §§MDEMPH0§§  
 > Було так холодно, що ми повернулися додому.
 
-Тут **si** не означає «якщо».
+Тут §§MDEMPH0§§ не означає «якщо».
 
 Порівняйте:
 
-> **Si tu viens, nous partirons.**  
+> §§MDEMPH0§§  
 > Якщо ти прийдеш, ми вирушимо.
 
-> **Il faisait si froid que nous sommes rentrés.**  
+> §§MDEMPH0§§  
 > Було так холодно, що ми повернулися.
 
 ---
@@ -448,14 +448,14 @@ Conditionnel належить до наслідкової частини.
 
 Ця конструкція може виражати різні близькі відношення залежно від значення.
 
-**Результат:**
+§§MDEMPH0§§
 
-> **Il a organisé le travail de sorte que tout le monde a pu participer.**  
+> §§MDEMPH0§§  
 > Він організував роботу так, що всі змогли взяти участь.
 
-**Мета:**
+§§MDEMPH0§§
 
-> **Organisez le travail de sorte que tout le monde puisse participer.**  
+> §§MDEMPH0§§  
 > Організуйте роботу так, щоб усі могли взяти участь.
 
 Вибір способу тут пов'язаний із семантикою: фактичний результат і бажаний результат — не те саме.
@@ -466,12 +466,12 @@ Conditionnel належить до наслідкової частини.
 
 ## 7.1. Pour que
 
-> **Je ferme la porte pour que les enfants puissent dormir.**  
+> §§MDEMPH0§§  
 > Я зачиняю двері, щоб діти могли спати.
 
 Типова схема:
 
-> **action + pour que + subjonctif**
+> §§MDEMPH0§§
 
 Мета ще не є фактом; це те, заради чого виконується дія.
 
@@ -479,10 +479,10 @@ Conditionnel належить до наслідкової частини.
 
 ## 7.2. Afin que
 
-> **Il parle lentement afin que tout le monde puisse comprendre.**  
+> §§MDEMPH0§§  
 > Він говорить повільно, щоб усі могли зрозуміти.
 
-**Afin que** близьке до **pour que**, але зазвичай має більш формальний характер.
+§§MDEMPH0§§ близьке до §§MDEMPH1§§, але зазвичай має більш формальний характер.
 
 ---
 
@@ -490,18 +490,18 @@ Conditionnel належить до наслідкової частини.
 
 Якщо підмет один:
 
-> **Je travaille pour réussir.**  
+> §§MDEMPH0§§  
 > Я працюю, щоб досягти успіху.
 
 Не потрібно:
 
-> ❌ **Je travaille pour que je réussisse.**
+> ❌ §§MDEMPH0§§
 
-Форма з **pour + infinitif** природна, коли суб'єкт спільний.
+Форма з §§MDEMPH0§§ природна, коли суб'єкт спільний.
 
 Якщо суб'єкти різні:
 
-> **Je travaille pour que tu puisses partir.**  
+> §§MDEMPH0§§  
 > Я працюю, щоб ти міг піти.
 
 ---
@@ -510,7 +510,7 @@ Conditionnel належить до наслідкової частини.
 
 | Спільний підмет | Різні підмети |
 |---|---|
-| **Je travaille pour réussir.** | **Je travaille pour que tu réussisses.** |
+| §§MDEMPH0§§ | §§MDEMPH1§§ |
 
 Це одна з найкорисніших практичних відмінностей для україномовного учня.
 
@@ -520,29 +520,29 @@ Conditionnel належить до наслідкової частини.
 
 ## 8.1. Alors que
 
-> **Paul travaille alors que Marie se repose.**  
+> §§MDEMPH0§§  
 > Поль працює, тоді як Марі відпочиває.
 
-**Alors que** може виражати контраст між двома ситуаціями.
+§§MDEMPH0§§ може виражати контраст між двома ситуаціями.
 
 ---
 
 ## 8.2. Tandis que
 
-> **Il parle tandis que je travaille.**  
+> §§MDEMPH0§§  
 > Він говорить, тоді як я працюю.
 
-**Tandis que** також може встановлювати часовий або контрастивний зв'язок. Значення визначається контекстом.
+§§MDEMPH0§§ також може встановлювати часовий або контрастивний зв'язок. Значення визначається контекстом.
 
 ---
 
 ## 8.3. Не скорочуйте alors que / tandis que до простого que
 
-> ❌ **Elle aime les roses, que moi, je préfère les œillets.**
+> ❌ §§MDEMPH0§§
 
 У стандартній мові потрібно зберегти повну конструкцію:
 
-> **Elle aime les roses, alors que moi, je préfère les œillets.**
+> §§MDEMPH0§§
 
 Академія французької мови прямо застерігає від такого скорочення.
 
@@ -550,13 +550,13 @@ Conditionnel належить до наслідкової частини.
 
 ## 8.4. Alors que ≠ mais у всіх випадках
 
-> **Il travaille, mais il est fatigué.**
+> §§MDEMPH0§§
 
-> **Il travaille alors que son frère se repose.**
+> §§MDEMPH0§§
 
-**Mais** координує.
+§§MDEMPH0§§ координує.
 
-**Alors que** вводить підрядну частину.
+§§MDEMPH0§§ вводить підрядну частину.
 
 Український переклад може бути схожим:
 
@@ -570,12 +570,12 @@ Conditionnel належить до наслідкової частини.
 
 ## 9.1. Bien que
 
-> **Bien qu'il soit fatigué, il continue à travailler.**  
+> §§MDEMPH0§§  
 > Хоча він втомлений, він продовжує працювати.
 
 Типова модель:
 
-> **bien que + subjonctif**
+> §§MDEMPH0§§
 
 Допустова конструкція визнає певний факт або припущення, але показує, що головний результат відбувається всупереч очікуванню.
 
@@ -583,39 +583,39 @@ Conditionnel належить до наслідкової частини.
 
 ## 9.2. Quoique
 
-> **Quoiqu'il soit tard, nous continuons.**  
+> §§MDEMPH0§§  
 > Хоча вже пізно, ми продовжуємо.
 
-**Quoique** пишеться разом і функціонує як сполучник підрядності.
+§§MDEMPH0§§ пишеться разом і функціонує як сполучник підрядності.
 
 Не плутайте:
 
-> **quoique** = хоча
+> §§MDEMPH0§§ = хоча
 
-> **quoi que** = що б не / незалежно від того, що
+> §§MDEMPH0§§ = що б не / незалежно від того, що
 
 Порівняйте:
 
-> **Quoiqu'il soit tard, nous continuons.**
+> §§MDEMPH0§§
 
-> **Quoi que tu fasses, je serai là.**
+> §§MDEMPH0§§
 
 ---
 
 ## 9.3. Même si
 
-> **Même s'il pleut, nous sortirons.**  
+> §§MDEMPH0§§  
 > Навіть якщо буде дощ, ми вийдемо.
 
-На відміну від **bien que**, **même si** не вимагає subjonctif:
+На відміну від §§MDEMPH0§§, §§MDEMPH1§§ не вимагає subjonctif:
 
-> **même si + indicatif**
+> §§MDEMPH0§§
 
 Це важливий контраст:
 
-> **Bien qu'il soit malade...**
+> §§MDEMPH0§§
 
-> **Même s'il est malade...**
+> §§MDEMPH0§§
 
 ---
 
@@ -623,22 +623,22 @@ Conditionnel належить до наслідкової частини.
 
 Французька має складніші допустові конструкції:
 
-> **Quel que soit le résultat, nous continuerons.**  
+> §§MDEMPH0§§  
 > Яким би не був результат, ми продовжимо.
 
-> **Quelle que soit la raison...**  
+> §§MDEMPH0§§  
 > Якою б не була причина...
 
 А також:
 
-> **Quelque difficile que soit le problème...**  
+> §§MDEMPH0§§  
 > Якою б складною не була проблема...
 
 У таких конструкціях потрібно уважно розрізняти:
 
-> **quel que** — два слова;
+> §§MDEMPH0§§ — два слова;
 
-> **quelque... que** — інша конструкція.
+> §§MDEMPH0§§ — інша конструкція.
 
 ---
 
@@ -646,58 +646,58 @@ Conditionnel належить до наслідкової частини.
 
 ## 10.1. Умовні конструкції ширші за si
 
-Умова може виражатися не лише **si**:
+Умова може виражатися не лише §§MDEMPH0§§:
 
-> **à condition que**
+> §§MDEMPH0§§
 
-> **à moins que**
+> §§MDEMPH0§§
 
-> **pourvu que**
+> §§MDEMPH0§§
 
-> **dans le cas où**
+> §§MDEMPH0§§
 
-> **en cas de + nom**
+> §§MDEMPH0§§
 
 Наприклад:
 
-> **Tu peux venir à condition que tu sois à l'heure.**  
+> §§MDEMPH0§§  
 > Ти можеш прийти за умови, що будеш вчасно.
 
-> **Nous sortirons à moins qu'il ne pleuve.**  
+> §§MDEMPH0§§  
 > Ми вийдемо, якщо тільки не буде дощу.
 
-> **Pourvu qu'il fasse beau !**  
+> §§MDEMPH0§§  
 > Аби тільки була гарна погода!
 
-Після **à condition que**, **à moins que**, **pourvu que** типовим є **subjonctif**.
+Після §§MDEMPH0§§, §§MDEMPH1§§, §§MDEMPH2§§ типовим є §§MDEMPH3§§.
 
 ---
 
 ## 10.2. Умова з dans le cas où
 
-> **Dans le cas où vous auriez besoin d'aide, contactez-nous.**  
+> §§MDEMPH0§§  
 > У разі, якщо вам знадобиться допомога, зв'яжіться з нами.
 
-Після **dans le cas où** можливий **conditionnel**.
+Після §§MDEMPH0§§ можливий §§MDEMPH1§§.
 
-Це не те саме, що класична модель **si + présent → futur**.
+Це не те саме, що класична модель §§MDEMPH0§§.
 
 ---
 
 ## 10.3. En cas de
 
-> **En cas de problème, contactez-nous.**  
+> §§MDEMPH0§§  
 > У разі проблеми зв'яжіться з нами.
 
-Тут після **en cas de** стоїть іменна група, а не підрядне речення.
+Тут після §§MDEMPH0§§ стоїть іменна група, а не підрядне речення.
 
 Тому:
 
-> **en cas de + nom**
+> §§MDEMPH0§§
 
 не слід механічно перетворювати на:
 
-> ❌ **en cas que...**
+> ❌ §§MDEMPH0§§
 
 ---
 
@@ -705,22 +705,22 @@ Conditionnel належить до наслідкової частини.
 
 ## 11.1. Quand / lorsque
 
-> **Quand tu arriveras, nous commencerons.**  
+> §§MDEMPH0§§  
 > Коли ти прийдеш, ми почнемо.
 
-> **Lorsque tu arriveras, nous commencerons.**  
+> §§MDEMPH0§§  
 > Коли ти прийдеш, ми почнемо.
 
-**Lorsque** часто має трохи більш письмовий або формальний характер, але обидва засоби є нормативними.
+§§MDEMPH0§§ часто має трохи більш письмовий або формальний характер, але обидва засоби є нормативними.
 
 ---
 
 ## 11.2. Dès que / aussitôt que
 
-> **Dès que tu arrives, appelle-moi.**  
+> §§MDEMPH0§§  
 > Щойно прийдеш, подзвони мені.
 
-> **Dès qu'il arrivera, nous commencerons.**  
+> §§MDEMPH0§§  
 > Щойно він прийде, ми почнемо.
 
 Вони позначають момент, після якого інша подія відбувається одразу або майже одразу.
@@ -729,53 +729,53 @@ Conditionnel належить до наслідкової частини.
 
 ## 11.3. Avant que
 
-> **Pars avant qu'il n'arrive.**  
+> §§MDEMPH0§§  
 > Іди до того, як він прийде.
 
 Типова конструкція:
 
-> **avant que + subjonctif**
+> §§MDEMPH0§§
 
-Можливе **ne explétif**:
+Можливе §§MDEMPH0§§:
 
-> **avant qu'il n'arrive**
+> §§MDEMPH0§§
 
-Це **ne** не заперечує подію.
+Це §§MDEMPH0§§ не заперечує подію.
 
 ---
 
 ## 11.4. Après que
 
-> **Après qu'il est arrivé, nous avons commencé.**  
+> §§MDEMPH0§§  
 > Після того як він прийшов, ми почали.
 
-У нормативній французькій **après que** традиційно керує **indicatif**, оскільки подія подається як здійснена або встановлена:
+У нормативній французькій §§MDEMPH0§§ традиційно керує §§MDEMPH1§§, оскільки подія подається як здійснена або встановлена:
 
-> **après qu'il est arrivé**
+> §§MDEMPH0§§
 
-Не переносіть сюди автоматично **subjonctif** з **avant que**.
+Не переносіть сюди автоматично §§MDEMPH0§§ з §§MDEMPH1§§.
 
 ---
 
 ## 11.5. Pendant que / tandis que
 
-> **Pendant qu'il travaille, j'étudie.**  
+> §§MDEMPH0§§  
 > Поки він працює, я навчаюся.
 
-Тут **pendant que** виражає одночасність.
+Тут §§MDEMPH0§§ виражає одночасність.
 
-**Tandis que** може також виражати одночасність, але часто має контрастивний відтінок:
+§§MDEMPH0§§ може також виражати одночасність, але часто має контрастивний відтінок:
 
-> **Il travaille tandis que son frère se repose.**
+> §§MDEMPH0§§
 
 ---
 
 ## 11.6. Depuis que
 
-> **Depuis qu'il habite ici, il prend le métro.**  
+> §§MDEMPH0§§  
 > Відтоді як він живе тут, він користується метро.
 
-**Depuis que** встановлює початкову точку періоду, який триває до моменту відліку.
+§§MDEMPH0§§ встановлює початкову точку періоду, який триває до моменту відліку.
 
 ---
 
@@ -787,45 +787,45 @@ Conditionnel належить до наслідкової частини.
 
 ### Comme
 
-> **Comme il pleuvait, nous sommes restés.**
+> §§MDEMPH0§§
 
 причина.
 
-> **Il est grand comme son père.**
+> §§MDEMPH0§§
 
 порівняння.
 
 ### Alors que
 
-> **Alors qu'il travaillait, je lisais.**
+> §§MDEMPH0§§
 
 одночасність.
 
-> **Il travaille alors que son frère se repose.**
+> §§MDEMPH0§§
 
 контраст.
 
 ### Si
 
-> **Si tu viens, nous partirons.**
+> §§MDEMPH0§§
 
 умова.
 
-> **Je ne sais pas si tu viens.**
+> §§MDEMPH0§§
 
 непряме питання.
 
 ### Que
 
-> **Je pense qu'il viendra.**
+> §§MDEMPH0§§
 
 complétive.
 
-> **Le livre que je lis...**
+> §§MDEMPH0§§
 
 relative.
 
-Тому спочатку визначайте **структуру і функцію**, а потім перекладайте сполучник.
+Тому спочатку визначайте §§MDEMPH0§§, а потім перекладайте сполучник.
 
 ---
 
@@ -835,25 +835,25 @@ relative.
 
 Порівняйте:
 
-> **Parce qu'il est malade...**
+> §§MDEMPH0§§
 
-**indicatif** — повідомлення про причину як факт.
+§§MDEMPH0§§ — повідомлення про причину як факт.
 
-> **Bien qu'il soit malade...**
+> §§MDEMPH0§§
 
-**subjonctif** — допустова конструкція.
+§§MDEMPH0§§ — допустова конструкція.
 
-> **Pour qu'il puisse venir...**
+> §§MDEMPH0§§
 
-**subjonctif** — мета.
+§§MDEMPH0§§ — мета.
 
-> **Après qu'il est arrivé...**
+> §§MDEMPH0§§
 
-**indicatif** — подія подається як здійснена.
+§§MDEMPH0§§ — подія подається як здійснена.
 
-> **Avant qu'il n'arrive...**
+> §§MDEMPH0§§
 
-**subjonctif** — подія ще не здійснена в точці відліку.
+§§MDEMPH0§§ — подія ще не здійснена в точці відліку.
 
 Вибір способу є частиною граматичної конструкції, а не довільною стилістичною прикрасою.
 
@@ -863,16 +863,16 @@ relative.
 
 | Відношення | Типові засоби | Приклад |
 |---|---|---|
-| зміст | **que** | **Je pense qu'il viendra.** |
-| відносне | **qui, que, dont, où...** | **Le livre que je lis...** |
-| умова | **si** | **Si tu viens, nous partirons.** |
-| причина | **parce que, puisque, comme** | **Je reste parce qu'il pleut.** |
-| наслідок | **si/tellement/tant... que** | **Il est tellement fatigué qu'il dort.** |
-| мета | **pour que, afin que** | **Je parle lentement pour qu'il comprenne.** |
-| протиставлення | **alors que, tandis que** | **Il travaille alors que je me repose.** |
-| поступка | **bien que, quoique, même si** | **Bien qu'il soit tard, nous continuons.** |
-| умова / обмеження | **à condition que, à moins que** | **À condition qu'il vienne...** |
-| час | **quand, lorsque, dès que, avant que, après que...** | **Quand il arrivera, nous partirons.** |
+| зміст | §§MDEMPH0§§ | §§MDEMPH1§§ |
+| відносне | §§MDEMPH0§§ | §§MDEMPH1§§ |
+| умова | §§MDEMPH0§§ | §§MDEMPH1§§ |
+| причина | §§MDEMPH0§§ | §§MDEMPH1§§ |
+| наслідок | §§MDEMPH0§§ | §§MDEMPH1§§ |
+| мета | §§MDEMPH0§§ | §§MDEMPH1§§ |
+| протиставлення | §§MDEMPH0§§ | §§MDEMPH1§§ |
+| поступка | §§MDEMPH0§§ | §§MDEMPH1§§ |
+| умова / обмеження | §§MDEMPH0§§ | §§MDEMPH1§§ |
+| час | §§MDEMPH0§§ | §§MDEMPH1§§ |
 
 ---
 
@@ -880,9 +880,9 @@ relative.
 
 ## Parce que / car
 
-> **Parce qu'il est malade, il reste chez lui.**
+> §§MDEMPH0§§
 
-> **Il reste chez lui, car il est malade.**
+> §§MDEMPH0§§
 
 Перше — підрядність.
 
@@ -892,11 +892,11 @@ relative.
 
 ## Pour / pour que
 
-> **Je travaille pour réussir.**
+> §§MDEMPH0§§
 
 Один суб'єкт.
 
-> **Je travaille pour que tu réussisses.**
+> §§MDEMPH0§§
 
 Різні суб'єкти.
 
@@ -904,35 +904,35 @@ relative.
 
 ## Bien que / même si
 
-> **Bien qu'il soit malade, il travaille.**
+> §§MDEMPH0§§
 
-> **Même s'il est malade, il travaille.**
+> §§MDEMPH0§§
 
-**Bien que + subjonctif.**
+§§MDEMPH0§§
 
-**Même si + indicatif.**
+§§MDEMPH0§§
 
 ---
 
 ## Avant que / après que
 
-> **Avant qu'il n'arrive...**
+> §§MDEMPH0§§
 
-> **Après qu'il est arrivé...**
+> §§MDEMPH0§§
 
 Традиційний нормативний контраст:
 
-> **avant que + subjonctif**
+> §§MDEMPH0§§
 
-> **après que + indicatif**
+> §§MDEMPH0§§
 
 ---
 
 ## Si conditionnel / si interrogatif
 
-> **Si tu viens, nous partirons.**
+> §§MDEMPH0§§
 
-> **Je ne sais pas si tu viendras.**
+> §§MDEMPH0§§
 
 Умова ≠ непряме питання.
 
@@ -942,55 +942,55 @@ relative.
 
 ### 1. Conditionnel після si
 
-❌ **Si tu viendrais, je serais content.**
+❌ §§MDEMPH0§§
 
-✅ **Si tu venais, je serais content.**
+✅ §§MDEMPH0§§
 
 ---
 
 ### 2. Subjonctif після après que
 
-❌ **Après qu'il soit arrivé, nous avons commencé.**
+❌ §§MDEMPH0§§
 
 Для нормативного нейтрального французького:
 
-✅ **Après qu'il est arrivé, nous avons commencé.**
+✅ §§MDEMPH0§§
 
 ---
 
 ### 3. Indicatif після bien que
 
-❌ **Bien qu'il est malade, il travaille.**
+❌ §§MDEMPH0§§
 
-✅ **Bien qu'il soit malade, il travaille.**
+✅ §§MDEMPH0§§
 
 ---
 
 ### 4. Однаковий підмет із pour que без потреби
 
-❌ **Je travaille pour que je réussisse.**
+❌ §§MDEMPH0§§
 
 Якщо суб'єкт той самий:
 
-✅ **Je travaille pour réussir.**
+✅ §§MDEMPH0§§
 
 ---
 
 ### 5. Car замість parce que на початку
 
-❌ **Car il pleut, nous restons.**
+❌ §§MDEMPH0§§
 
-✅ **Parce qu'il pleut, nous restons.**
+✅ §§MDEMPH0§§
 
 ---
 
 ### 6. Quoique / quoi que
 
-> **Quoiqu'il soit tard...**
+> §§MDEMPH0§§
 
 = хоча вже пізно.
 
-> **Quoi que tu fasses...**
+> §§MDEMPH0§§
 
 = що б ти не робив.
 
@@ -998,9 +998,9 @@ relative.
 
 ### 7. Стискання alors que / tandis que
 
-❌ **Il travaille que son frère se repose.**
+❌ §§MDEMPH0§§
 
-✅ **Il travaille alors que son frère se repose.**
+✅ §§MDEMPH0§§
 
 ---
 
@@ -1010,7 +1010,7 @@ relative.
 
 ### Крок 1. Знайдіть предикації
 
-> **Je reste / parce qu'il pleut.**
+> §§MDEMPH0§§
 
 ### Крок 2. Визначте відношення
 
@@ -1022,31 +1022,31 @@ relative.
 
 ### Крок 4. Виберіть маркер
 
-> **parce que**
+> §§MDEMPH0§§
 
 ### Крок 5. Перевірте спосіб
 
-> **indicatif**
+> §§MDEMPH0§§
 
 ### Крок 6. Перевірте часову перспективу
 
-> **parce qu'il pleut**
+> §§MDEMPH0§§
 
 а не довільний час.
 
 ### Крок 7. Перевірте порядок частин
 
-> **Parce qu'il pleut, je reste.**
+> §§MDEMPH0§§
 
 або:
 
-> **Je reste parce qu'il pleut.**
+> §§MDEMPH0§§
 
 ### Крок 8. Перевірте пунктуацію
 
 При винесенні підрядної вперед кома часто оформлює її межу:
 
-> **Quand il arrivera, nous partirons.**
+> §§MDEMPH0§§
 
 ---
 
@@ -1054,37 +1054,37 @@ relative.
 
 ### Coordination / subordination
 
-> **Il pleut, donc je reste.**
+> §§MDEMPH0§§
 
-> **Je reste parce qu'il pleut.**
+> §§MDEMPH0§§
 
 ### Cause / concession
 
-> **Je reste parce qu'il pleut.**
+> §§MDEMPH0§§
 
-> **Même s'il pleut, je sors.**
+> §§MDEMPH0§§
 
 ### Purpose / result
 
-> **Je parle lentement pour qu'il comprenne.**
+> §§MDEMPH0§§
 
-> **Je parle tellement lentement qu'il s'ennuie.**
+> §§MDEMPH0§§
 
 ### Condition / time
 
-> **Si tu viens, nous partirons.**
+> §§MDEMPH0§§
 
-> **Quand tu viendras, nous partirons.**
+> §§MDEMPH0§§
 
 ### Relative / complétive
 
-> **Le livre que je lis est intéressant.**
+> §§MDEMPH0§§
 
-> **Je sais que tu lis.**
+> §§MDEMPH0§§
 
-У першому **que** пов'язаний з іменником **le livre**.
+У першому §§MDEMPH0§§ пов'язаний з іменником §§MDEMPH1§§.
 
-У другому **que tu lis** передає зміст знання.
+У другому §§MDEMPH0§§ передає зміст знання.
 
 ---
 
@@ -1092,13 +1092,13 @@ relative.
 
 ## Вправа 1. Визначте тип підрядної
 
-1. **Je pense qu'il viendra.**
-2. **Le livre que je lis est intéressant.**
-3. **Parce qu'il pleut, nous restons ici.**
-4. **Si tu viens, nous partirons.**
-5. **Je travaille pour que tu puisses réussir.**
-6. **Bien qu'il soit tard, nous continuons.**
-7. **Quand il arrivera, nous commencerons.**
+1. §§MDEMPH0§§
+2. §§MDEMPH0§§
+3. §§MDEMPH0§§
+4. §§MDEMPH0§§
+5. §§MDEMPH0§§
+6. §§MDEMPH0§§
+7. §§MDEMPH0§§
 
 ### Відповіді
 
@@ -1114,57 +1114,57 @@ relative.
 
 ## Вправа 2. Виберіть засіб
 
-1. **___ il pleut, nous resterons ici.** — причина.
-2. **Je travaille ___ tu puisses partir.** — мета.
-3. **___ il soit tard, nous continuons.** — поступка.
-4. **___ tu viens, nous partirons.** — умова.
-5. **___ il arrivera, nous commencerons.** — час.
+1. §§MDEMPH0§§ — причина.
+2. §§MDEMPH0§§ — мета.
+3. §§MDEMPH0§§ — поступка.
+4. §§MDEMPH0§§ — умова.
+5. §§MDEMPH0§§ — час.
 
 ### Один із нормативних варіантів
 
-1. **Parce qu'**
-2. **pour que**
-3. **Bien qu'**
-4. **Si**
-5. **Quand**
+1. §§MDEMPH0§§
+2. §§MDEMPH0§§
+3. §§MDEMPH0§§
+4. §§MDEMPH0§§
+5. §§MDEMPH0§§
 
 ---
 
 ## Вправа 3. Виправте
 
-> **Si tu viendrais, je serais content.**
+> §§MDEMPH0§§
 
-> **Bien qu'il est malade, il travaille.**
+> §§MDEMPH0§§
 
-> **Je travaille pour que je réussisse.**
+> §§MDEMPH0§§
 
-> **Car il pleut, nous restons.**
+> §§MDEMPH0§§
 
 ### Відповіді
 
-> **Si tu venais, je serais content.**
+> §§MDEMPH0§§
 
-> **Bien qu'il soit malade, il travaille.**
+> §§MDEMPH0§§
 
-> **Je travaille pour réussir.**
+> §§MDEMPH0§§
 
-> **Parce qu'il pleut, nous restons.**
+> §§MDEMPH0§§
 
 ---
 
 # 20. Головне
 
-1. **Subordination** означає синтаксичну залежність однієї частини від іншої.
+1. §§MDEMPH0§§ означає синтаксичну залежність однієї частини від іншої.
 2. Підрядні бувають змістовими, відносними та обставинними.
-3. **Que** може вводити різні конструкції; форма сама по собі не визначає функцію.
+3. §§MDEMPH0§§ може вводити різні конструкції; форма сама по собі не визначає функцію.
 4. Relative має антецедент.
-5. **Si** може виражати умову або вводити непряме питання.
-6. **Parce que** і **car** не є синтаксичними дублетами.
-7. **Pour + infinitif** природний при спільному підметі; **pour que + subjonctif** потрібний, коли підмети різні.
-8. **Bien que / quoique + subjonctif** виражають поступку.
-9. **Même si + indicatif** виражає гіпотетичну або допустову умову.
-10. **Avant que + subjonctif** і **après que + indicatif** мають різну часову перспективу.
-11. **Quand, lorsque, dès que, pendant que, depuis que** організують часові відношення, але не «вимагають одного часу» незалежно від контексту.
-12. **De sorte que** може виражати результат або мету залежно від значення та способу дієслова.
+5. §§MDEMPH0§§ може виражати умову або вводити непряме питання.
+6. §§MDEMPH0§§ і §§MDEMPH1§§ не є синтаксичними дублетами.
+7. §§MDEMPH0§§ природний при спільному підметі; §§MDEMPH1§§ потрібний, коли підмети різні.
+8. §§MDEMPH0§§ виражають поступку.
+9. §§MDEMPH0§§ виражає гіпотетичну або допустову умову.
+10. §§MDEMPH0§§ і §§MDEMPH1§§ мають різну часову перспективу.
+11. §§MDEMPH0§§ організують часові відношення, але не «вимагають одного часу» незалежно від контексту.
+12. §§MDEMPH0§§ може виражати результат або мету залежно від значення та способу дієслова.
 13. Підрядність треба аналізувати за функцією, а не за одним сполучником.
-14. Найкращий алгоритм: **предикація → відношення → тип підрядної → сполучник → спосіб → час → порядок → пунктуація**.
+14. Найкращий алгоритм: §§MDEMPH0§§.

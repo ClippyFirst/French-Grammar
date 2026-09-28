@@ -30,20 +30,20 @@ tags: []
 
 ## au point que
 
-> **Il était épuisé au point qu'il ne pouvait plus marcher.**
+> §§MDEMPH0§§
 
 Підрядна частина показує наслідок ступеня виснаження.
 
 ## tellement que
 
-> **Il a tellement travaillé qu'il est épuisé.**
+> §§MDEMPH0§§
 
-**Tellement** підсилює інтенсивність, а **que** вводить результат.
+§§MDEMPH0§§ підсилює інтенсивність, а §§MDEMPH1§§ вводить результат.
 
 Порівняйте з метою:
 
-> **Je parle lentement pour que tu comprennes.**
+> §§MDEMPH0§§
 
 і результатом:
 
-> **Je parle tellement vite que tu ne comprends pas.**
+> §§MDEMPH0§§

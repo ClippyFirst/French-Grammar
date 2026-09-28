@@ -28,53 +28,53 @@ variant: []
 
 ## Швидка відповідь
 
-**Participe présent** — незмінювана неособова форма дієслова на **-ant**:
+§§MDEMPH0§§ — незмінювана неособова форма дієслова на §§MDEMPH1§§:
 
-> **parlant**, **finissant**, **prenant**
+> §§MDEMPH0§§, §§MDEMPH1§§, §§MDEMPH2§§
 
 Вона може виражати супровідну дію, причину, характеристику або входити до складніших конструкцій.
 
 Не змішуйте три поняття:
 
-- **participe présent** — форма дієслова;
-- **gérondif** — **en + participe présent**;
-- **adjectif verbal** — прикметник, який історично/формально пов'язаний із дієсловом, але має прикметникові властивості.
+- §§MDEMPH0§§ — форма дієслова;
+- §§MDEMPH0§§ — §§MDEMPH1§§;
+- §§MDEMPH0§§ — прикметник, який історично/формально пов'язаний із дієсловом, але має прикметникові властивості.
 
 ## 1. Утворення
 
-Базова модель використовує основу форми **nous** у présent + **-ant**:
+Базова модель використовує основу форми §§MDEMPH0§§ у présent + §§MDEMPH1§§:
 
-> **nous parlons → parlant**
+> §§MDEMPH0§§
 
-> **nous finissons → finissant**
+> §§MDEMPH0§§
 
-> **nous prenons → prenant**
+> §§MDEMPH0§§
 
 Три важливі нерегулярні форми:
 
-> **être → étant**
+> §§MDEMPH0§§
 
-> **avoir → ayant**
+> §§MDEMPH0§§
 
-> **savoir → sachant**
+> §§MDEMPH0§§
 
-Participe présent **не узгоджується** за родом і числом:
+Participe présent §§MDEMPH0§§ за родом і числом:
 
-> **des étudiants travaillant tard**
+> §§MDEMPH0§§
 
-> **des étudiantes travaillant tard**
+> §§MDEMPH0§§
 
-Форма **travaillant** не змінюється.
+Форма §§MDEMPH0§§ не змінюється.
 
 ## 2. Participe présent як частина речення
 
 Він може вводити додаткову предикативну інформацію:
 
-> **Voyant la police, il est parti.**
+> §§MDEMPH0§§
 
 → Побачивши поліцію, він пішов.
 
-> **Connaissant bien la ville, elle nous a guidés.**
+> §§MDEMPH0§§
 
 → Добре знаючи місто, вона нас провела.
 
@@ -82,25 +82,25 @@ Participe présent **не узгоджується** за родом і числ
 
 ## 3. Participe présent vs gérondif
 
-**Participe présent**:
+§§MDEMPH0§§:
 
-> **Voyant la police, il est parti.**
+> §§MDEMPH0§§
 
-**Gérondif**:
+§§MDEMPH0§§:
 
-> **En voyant la police, il est parti.**
+> §§MDEMPH0§§
 
-Gérondif має обов'язковий **en**.
+Gérondif має обов'язковий §§MDEMPH0§§.
 
 Не робіть висновок, що ці форми завжди взаємозамінні: синтаксична організація та референція можуть відрізнятися.
 
 ## 4. Participe présent vs infinitif
 
-> **Je veux partir.**
+> §§MDEMPH0§§
 
-→ інфінітив після *vouloir*.
+→ інфінітив після §§MDEMPH0§§.
 
-> **Partant demain, je dois préparer mes affaires.**
+> §§MDEMPH0§§
 
 → participe présent додає супровідну предикативну інформацію.
 
@@ -110,29 +110,29 @@ Gérondif має обов'язковий **en**.
 
 Заперечення може входити до конструкції з participe présent:
 
-> **Ne sachant pas quoi faire, il est resté silencieux.**
+> §§MDEMPH0§§
 
-Форма **sachant** залишається незмінюваною.
+Форма §§MDEMPH0§§ залишається незмінюваною.
 
 ## 6. Adjectif verbal
 
-Не кожна форма на **-ant** після іменника є participe présent.
+Не кожна форма на §§MDEMPH0§§ після іменника є participe présent.
 
 Порівняйте:
 
-> **une histoire intéressante**
+> §§MDEMPH0§§
 
-Тут **intéressante** — прикметник і узгоджується:
+Тут §§MDEMPH0§§ — прикметник і узгоджується:
 
-> **des histoires intéressantes**
+> §§MDEMPH0§§
 
 А participe présent:
 
-> **des étudiants intéressant le public**
+> §§MDEMPH0§§
 
-Тут **intéressant** — дієслівна форма й не узгоджується.
+Тут §§MDEMPH0§§ — дієслівна форма й не узгоджується.
 
-Тому треба визначати не лише закінчення, а **синтаксичну функцію та значення**.
+Тому треба визначати не лише закінчення, а §§MDEMPH0§§.
 
 ## 7. Орфографічні відмінності
 
@@ -140,11 +140,11 @@ Gérondif має обов'язковий **en**.
 
 Наприклад:
 
-> **fatiguant** — participe présent від *fatiguer*
+> §§MDEMPH0§§ — participe présent від §§MDEMPH1§§
 
-> **fatigant** — adjectif verbal
+> §§MDEMPH0§§ — adjectif verbal
 
-Такі пари не варто пояснювати простим правилом «-ant = дієприкметник». Académie française окремо звертає увагу на розбіжності після **-guer / -quer** та на окремі прикметники на **-ent**.
+Такі пари не варто пояснювати простим правилом «-ant = дієприкметник». Académie française окремо звертає увагу на розбіжності після §§MDEMPH0§§ та на окремі прикметники на §§MDEMPH1§§.
 
 У довіднику це слід розглядати як окрему орфографічну та лексико-граматичну проблему.
 
@@ -159,40 +159,40 @@ Gérondif має обов'язковий **en**.
 
 Тому не встановлюйте відповідність:
 
-> **-ant = український дієприкметник**
+> §§MDEMPH0§§
 
 Функція залежить від синтаксичного контексту.
 
 ## 9. Практичний алгоритм
 
-Якщо бачите форму на **-ant**:
+Якщо бачите форму на §§MDEMPH0§§:
 
 1. визначте її лексичну основу;
 2. перевірте, чи це participe présent;
 3. визначте синтаксичну роль;
-4. перевірте, чи є **en** — тоді це може бути gérondif;
+4. перевірте, чи є §§MDEMPH0§§ — тоді це може бути gérondif;
 5. якщо форма узгоджується за родом і числом, перевірте, чи це adjectif verbal;
 6. для нормативного написання перевірте словникову форму в сумнівних випадках.
 
 ## Типові помилки
 
-❌ *en travaillant* називати просто «participe présent».  
-✅ **gérondif = en + participe présent**.
+❌ §§MDEMPH0§§ називати просто «participe présent».  
+✅ §§MDEMPH0§§.
 
-❌ *des étudiantes travaillantes* у дієслівному значенні.  
-✅ **des étudiantes travaillant...**
+❌ §§MDEMPH0§§ у дієслівному значенні.  
+✅ §§MDEMPH0§§
 
-❌ вважати всі форми на **-ant** прикметниками або всі прикметниками.
+❌ вважати всі форми на §§MDEMPH0§§ прикметниками або всі прикметниками.
 
 ## Практична перевірка
 
-1. **Nous parlons →** participe présent: ___.
-2. **Nous prenons →** participe présent: ___.
-3. **Je travaille en ___** — потрібен infinitif чи participe présent?
-4. **des personnes intéressant le public** — форма узгоджується?
-5. **des histoires intéressantes** — participe présent чи adjectif verbal?
+1. §§MDEMPH0§§ participe présent: §§MDEMPH1§§.
+2. §§MDEMPH0§§ participe présent: §§MDEMPH1§§.
+3. §§MDEMPH0§§ — потрібен infinitif чи participe présent?
+4. §§MDEMPH0§§ — форма узгоджується?
+5. §§MDEMPH0§§ — participe présent чи adjectif verbal?
 
-**Відповіді:** 1 **parlant**, 2 **prenant**, 3 **travaillant**, 4 **ні**, 5 **adjectif verbal**.
+§§MDEMPH0§§ 1 §§MDEMPH1§§, 2 §§MDEMPH2§§, 3 §§MDEMPH3§§, 4 §§MDEMPH4§§, 5 §§MDEMPH5§§.
 
 ## Куди далі
 
@@ -203,19 +203,19 @@ Gérondif має обов'язковий **en**.
 
 ## 10. Participe présent як предикативна конструкція
 
-**Participe présent** може вводити залежну предикацію, пов'язану з основним реченням:
+§§MDEMPH0§§ може вводити залежну предикацію, пов'язану з основним реченням:
 
-> **Connaissant bien la région, il a proposé un itinéraire.**
+> §§MDEMPH0§§
 
-Форма **connaissant** не узгоджується з **il**, хоча за змістом саме **il** є виконавцем цієї дії. Не слід переносити на participe présent правила узгодження прикметника.
+Форма §§MDEMPH0§§ не узгоджується з §§MDEMPH1§§, хоча за змістом саме §§MDEMPH2§§ є виконавцем цієї дії. Не слід переносити на participe présent правила узгодження прикметника.
 
 ## 11. Participe présent і референція суб'єкта
 
 Як і gérondif, participe présent потребує зрозумілого семантичного виконавця. У складному реченні треба перевіряти, до кого належить дія:
 
-> **Ayant terminé le rapport, Marie l'a envoyé.**
+> §§MDEMPH0§§
 
-Тут **Marie** завершила звіт і надіслала його.
+Тут §§MDEMPH0§§ завершила звіт і надіслала його.
 
 Якщо структура створює двозначність, краще перебудувати речення або використати особову підрядну конструкцію.
 
@@ -223,25 +223,25 @@ Gérondif має обов'язковий **en**.
 
 Participe présent сам по собі не кодує окрему часову форму так, як особове дієслово. Часове відношення встановлюється через головне речення та контекст:
 
-> **Voyant le problème, il intervient.**
+> §§MDEMPH0§§
 
-> **Voyant le problème, il est intervenu.**
+> §§MDEMPH0§§
 
-Форма **voyant** однакова, хоча головне дієслово стоїть у présent або passé composé.
+Форма §§MDEMPH0§§ однакова, хоча головне дієслово стоїть у présent або passé composé.
 
-Для попередності використовується інша конструкція, зокрема **ayant / étant + participe passé**:
+Для попередності використовується інша конструкція, зокрема §§MDEMPH0§§:
 
-> **Ayant terminé son travail, elle est partie.**
+> §§MDEMPH0§§
 
 ## 13. Participe présent vs gérondif
 
 Обидві конструкції використовують participe présent, але синтаксична форма різна:
 
-> **Travaillant à distance, il voyage souvent.** — participe présent.
+> §§MDEMPH0§§ — participe présent.
 
-> **Il voyage en travaillant.** — gérondif.
+> §§MDEMPH0§§ — gérondif.
 
-У gérondif **en** є формальною частиною конструкції. У participe présent його немає.
+У gérondif §§MDEMPH0§§ є формальною частиною конструкції. У participe présent його немає.
 
 Крім форми, треба враховувати синтаксичну функцію та зв'язок із головним реченням. Тому правило «додати en — і все» не описує всі випадки.
 
@@ -249,21 +249,21 @@ Participe présent сам по собі не кодує окрему часов�
 
 Порівняйте:
 
-> **Connaissant la situation, elle a refusé.**
+> §§MDEMPH0§§
 
-> **Comme elle connaissait la situation, elle a refusé.**
+> §§MDEMPH0§§
 
 У першому реченні використано participe présent; у другому — особову підрядну конструкцію.
 
-Підрядне речення має власну особову форму **connaissait** і може явно виразити підмет. Participe présent компактніший, але його референція має бути зрозумілою з контексту.
+Підрядне речення має власну особову форму §§MDEMPH0§§ і може явно виразити підмет. Participe présent компактніший, але його референція має бути зрозумілою з контексту.
 
 ## 15. Participe présent та adjectif verbal
 
-Головний діагностичний критерій — не лише форма **-ant**, а поведінка слова.
+Головний діагностичний критерій — не лише форма §§MDEMPH0§§, а поведінка слова.
 
-> **des arguments convaincants** — прикметникова характеристика; **convaincants** узгоджується.
+> §§MDEMPH0§§ — прикметникова характеристика; §§MDEMPH1§§ узгоджується.
 
-> **des arguments convainquant le lecteur** — дієслівна конструкція; **convainquant** не узгоджується.
+> §§MDEMPH0§§ — дієслівна конструкція; §§MDEMPH1§§ не узгоджується.
 
 У сумнівних випадках перевіряйте синтаксичну роль, залежні слова, можливість узгодження та словникову форму.
 
@@ -271,26 +271,26 @@ Participe présent сам по собі не кодує окрему часов�
 
 Participe présent може мати власні залежні компоненти:
 
-> **Ne sachant pas quoi répondre, il a gardé le silence.**
+> §§MDEMPH0§§
 
-Тут **ne...pas** належить до дієслівної конструкції **sachant**, а **quoi répondre** є її залежним компонентом.
+Тут §§MDEMPH0§§ належить до дієслівної конструкції §§MDEMPH1§§, а §§MDEMPH2§§ є її залежним компонентом.
 
 Це допомагає відрізнити дієслівний participe présent від прикметника: він може зберігати дієслівну валентність.
 
 ## 17. Абсолютна конструкція та participe présent
 
-У французькому синтаксисі трапляються конструкції, де participe présent разом із залежними словами утворює компактну додаткову предикацію. Їх слід аналізувати за ролями учасників, а не лише за формою **-ant**.
+У французькому синтаксисі трапляються конструкції, де participe présent разом із залежними словами утворює компактну додаткову предикацію. Їх слід аналізувати за ролями учасників, а не лише за формою §§MDEMPH0§§.
 
-> **Les circonstances aidant, la décision a été prise rapidement.**
+> §§MDEMPH0§§
 
 У таких структурах учасник перед participe présent може бути окремим від підмета головного речення. Саме це відрізняє їх від простого випадку, де виконавець participe présent збігається з підметом основної предикації.
 
 ## 18. Практичний алгоритм
 
-1. Знайдіть форму на **-ant**.
+1. Знайдіть форму на §§MDEMPH0§§.
 2. Визначте, чи вона є participe présent, gérondif або adjectif verbal.
 3. Якщо це participe présent, знайдіть його семантичного виконавця.
 4. Перевірте, чи має форма власні залежні слова.
 5. Визначте часове/причинне/умовне відношення з головним реченням.
 6. Якщо потрібен власний явно виражений підмет, порівняйте конструкцію з підрядним реченням.
-7. Для попередньої завершеної дії перевірте форму **ayant / étant + participe passé**.
+7. Для попередньої завершеної дії перевірте форму §§MDEMPH0§§.

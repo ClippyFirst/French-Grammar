@@ -30,31 +30,31 @@ tags: []
 
 ## Основні форми
 
-- **personne** — ніхто / нікого;
-- **rien** — ніщо / нічого;
-- **aucun / aucune** — жоден / жодна;
-- **nul / nulle** — жоден, ніхто у формальнішому стилі.
+- §§MDEMPH0§§ — ніхто / нікого;
+- §§MDEMPH0§§ — ніщо / нічого;
+- §§MDEMPH0§§ — жоден / жодна;
+- §§MDEMPH0§§ — жоден, ніхто у формальнішому стилі.
 
 ## Додаток
 
-> **Je ne vois personne.**
-> **Je ne comprends rien.**
+> §§MDEMPH0§§
+> §§MDEMPH0§§
 
 ## Підмет
 
-> **Personne ne vient.**
-> **Rien ne change.**
+> §§MDEMPH0§§
+> §§MDEMPH0§§
 
 Це важлива позиційна відмінність.
 
 ## Займенник чи визначник
 
-**Aucun** може бути déterminant:
+§§MDEMPH0§§ може бути déterminant:
 
-> **Je n'ai aucune idée.**
+> §§MDEMPH0§§
 
 або займенником:
 
-> **Je n'en ai aucune.**
+> §§MDEMPH0§§
 
 Тому треба аналізувати не лише форму, а й наявність іменника після неї.

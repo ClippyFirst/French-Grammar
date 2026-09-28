@@ -30,21 +30,21 @@ tags: []
 
 ## Особа
 
-> **Avec qui travailles-tu ?**
-> **À qui parles-tu ?**
+> §§MDEMPH0§§
+> §§MDEMPH0§§
 
 ## Річ
 
-> **À quoi penses-tu ?**
-> **De quoi as-tu besoin ?**
+> §§MDEMPH0§§
+> §§MDEMPH0§§
 
 ## Lequel
 
-> **Avec lequel travailles-tu ?**
-> **À laquelle penses-tu ?**
+> §§MDEMPH0§§
+> §§MDEMPH0§§
 
 У формальному мовленні прийменник часто стоїть перед питальним словом. У живій мові можливі інші порядки, особливо в конструкціях із quoi:
 
-> **Tu penses à quoi ?**
+> §§MDEMPH0§§
 
 Для україномовного учня важливо не вилучати прийменник лише тому, що українське питання має іншу структуру.

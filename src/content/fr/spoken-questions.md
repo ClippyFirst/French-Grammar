@@ -30,23 +30,23 @@ tags: []
 
 ## Інтонаційне питання
 
-> **Tu viens demain ?**
+> §§MDEMPH0§§
 
 ## Est-ce que
 
-> **Est-ce que tu viens demain ?**
+> §§MDEMPH0§§
 
 ## Питальне слово + звичайний порядок
 
-> **Pourquoi tu pars ?**
-> **Où tu habites ?**
+> §§MDEMPH0§§
+> §§MDEMPH0§§
 
 Ці конструкції поширені в розмовному мовленні.
 
 ## Quoi final
 
-> **Tu fais quoi ?**
-> **Tu penses à quoi ?**
+> §§MDEMPH0§§
+> §§MDEMPH0§§
 
 Таке розташування питального слова не треба переносити без стилістичного аналізу у формальний текст.
 

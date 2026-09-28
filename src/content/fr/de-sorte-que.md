@@ -30,14 +30,14 @@ tags: []
 
 ## Результат
 
-> **Il a parlé si clairement, de sorte que tout le monde a compris.**
+> §§MDEMPH0§§
 
 Результат представлено як фактичний наслідок.
 
 ## Мета
 
-> **Il parle clairement, de façon que tout le monde puisse comprendre.**
+> §§MDEMPH0§§
 
-Тут ідеться про бажаний результат, тому природний **subjonctif**.
+Тут ідеться про бажаний результат, тому природний §§MDEMPH0§§.
 
 Отже, не перекладайте обидві моделі однаково: спочатку визначте, чи результат уже реалізувався, чи є цільовим.

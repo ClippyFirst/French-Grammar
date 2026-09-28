@@ -26,32 +26,32 @@ tags: []
 ---
 ## Швидка відповідь
 
-**Ce dont** означає приблизно «те, про що / чого / з чим пов’язано» залежно від керування, коли вихідна конструкція містить **de**:
+§§MDEMPH0§§ означає приблизно «те, про що / чого / з чим пов’язано» залежно від керування, коли вихідна конструкція містить §§MDEMPH1§§:
 
-*Je sais ce dont tu parles.*  
-→ *Tu parles de quelque chose.*
+§§MDEMPH0§§  
+→ §§MDEMPH0§§
 
 ## 1. Ce dont і дієслово
 
-*Voilà ce dont j’ai besoin.*  
-→ *J’ai besoin de cela.*
+§§MDEMPH0§§  
+→ §§MDEMPH0§§
 
-*Je comprends ce dont il parle.*  
-→ *Il parle de cela.*
+§§MDEMPH0§§  
+→ §§MDEMPH0§§
 
 ## 2. Ce dont і внутрішня залежність
 
-*Ce dont l’importance est évidente...*
+§§MDEMPH0§§
 
-Тут **dont** пов’язує *importance* з тим, про що говорять.
+Тут §§MDEMPH0§§ пов’язує §§MDEMPH1§§ з тим, про що говорять.
 
 ## 3. Ce dont vs ce que
 
-*Je sais ce que tu veux.*  
-→ *tu veux quelque chose*.
+§§MDEMPH0§§  
+→ §§MDEMPH0§§.
 
-*Je sais ce dont tu as besoin.*  
-→ *tu as besoin de quelque chose*.
+§§MDEMPH0§§  
+→ §§MDEMPH0§§.
 
 Керування дієслова визначає форму.
 
@@ -59,33 +59,33 @@ tags: []
 
 Українське «те, що» не розрізняє ці випадки:
 
-*те, що ти хочеш*  
-*те, що тобі потрібно*
+§§MDEMPH0§§  
+§§MDEMPH0§§
 
-Французька зберігає різницю між **que** і **dont** через структуру керування.
+Французька зберігає різницю між §§MDEMPH0§§ і §§MDEMPH1§§ через структуру керування.
 
 ## 5. Не плутати з dont + nom
 
-*la femme dont le frère...*
+§§MDEMPH0§§
 
 і:
 
-*ce dont je parle*
+§§MDEMPH0§§
 
-У першому випадку **dont** входить до іменникової групи; у другому — до конструкції **ce dont**.
+У першому випадку §§MDEMPH0§§ входить до іменникової групи; у другому — до конструкції §§MDEMPH1§§.
 
 ## Алгоритм
 
 1. Визнач, чи є конструкція «ce + relative».
 2. Віднови залежність без relative.
-3. Якщо вона має **de**, розглянь **ce dont**.
-4. Якщо прямий додаток без *de* → **ce que**.
+3. Якщо вона має §§MDEMPH0§§, розглянь §§MDEMPH1§§.
+4. Якщо прямий додаток без §§MDEMPH1§§ → §§MDEMPH0§§.
 5. Перевір керування конкретного дієслова.
 
 ## Мінітест
 
-*Je sais ___ tu parles.* → **ce dont**.
+§§MDEMPH1§§ → §§MDEMPH0§§.
 
-*Je sais ___ tu veux.* → **ce que**.
+§§MDEMPH1§§ → §§MDEMPH0§§.
 
-*Voilà ___ j’ai besoin.* → **ce dont**.
+§§MDEMPH1§§ → §§MDEMPH0§§.

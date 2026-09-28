@@ -24,40 +24,40 @@ variant: []
 aliases: []
 tags: []
 ---
-*Je vais à Paris.*  
-*Je parle de Paris.*  
-*Je commence à travailler.*  
-*J’essaie de comprendre.*
+§§MDEMPH0§§  
+§§MDEMPH0§§  
+§§MDEMPH0§§  
+§§MDEMPH0§§
 
 ## 1. Базове значення
 
-**À** часто кодує напрямок, адресата або непрямий зв’язок: *aller à Paris, parler à Marie*. **De** часто виражає вихідну точку, належність або залежність: *venir de Paris, le livre de Marie*.
+§§MDEMPH0§§ часто кодує напрямок, адресата або непрямий зв’язок: §§MDEMPH2§§. §§MDEMPH1§§ часто виражає вихідну точку, належність або залежність: §§MDEMPH3§§.
 
 ## 2. Керування дієслів
 
 Прийменник часто визначається дієсловом:
 
-*penser à quelque chose*;
-*parler de quelque chose*;
-*répondre à une question*;
-*avoir besoin de quelque chose*.
+§§MDEMPH0§§;
+§§MDEMPH0§§;
+§§MDEMPH0§§;
+§§MDEMPH0§§.
 
 Тому переклад українського «про» не є достатнім критерієм.
 
 ## 3. Перед інфінітивом
 
-*commencer à travailler*;
-*réussir à comprendre*;
-*essayer de travailler*;
-*éviter de répondre*.
+§§MDEMPH0§§;
+§§MDEMPH0§§;
+§§MDEMPH0§§;
+§§MDEMPH0§§.
 
 Це лексичне керування конкретного дієслова.
 
 ## 4. Належність
 
-*le livre de Paul* — книга Поля.
+§§MDEMPH0§§ — книга Поля.
 
-Конструкції з **à** мають інші функції: *un livre à Paul* можливе в окремих контекстах, але не є простою універсальною заміною *de*.
+Конструкції з §§MDEMPH0§§ мають інші функції: §§MDEMPH1§§ можливе в окремих контекстах, але не є простою універсальною заміною §§MDEMPH2§§.
 
 ## 5. Алгоритм
 
@@ -69,10 +69,10 @@ tags: []
 
 ## Мінітест
 
-*Je pense ___ ce problème.* → **à**.
+§§MDEMPH1§§ → §§MDEMPH0§§.
 
-*Je parle ___ ce problème.* → **de**.
+§§MDEMPH1§§ → §§MDEMPH0§§.
 
-*Je commence ___ travailler.* → **à**.
+§§MDEMPH1§§ → §§MDEMPH0§§.
 
-*J’essaie ___ comprendre.* → **de**.
+§§MDEMPH1§§ → §§MDEMPH0§§.

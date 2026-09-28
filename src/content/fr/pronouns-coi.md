@@ -28,97 +28,97 @@ variant: []
 
 ## Швидка відповідь
 
-**COI (complément d’objet indirect)** — залежний від дієслова компонент, зв'язок якого оформлений прийменником. Для багатьох дієслів конструкція має **à + особа**:
+§§MDEMPH0§§ — залежний від дієслова компонент, зв'язок якого оформлений прийменником. Для багатьох дієслів конструкція має §§MDEMPH1§§:
 
-> **Je parle à Marie.**
+> §§MDEMPH0§§
 
-→ **Je lui parle.**
+→ §§MDEMPH0§§
 
-> **Je parle aux étudiants.**
+> §§MDEMPH0§§
 
-→ **Je leur parle.**
+→ §§MDEMPH0§§
 
 Основні клитичні форми:
 
 | Особа | Форма |
 |---|---|
-| 1 одн. | **me / m’** |
-| 2 одн. | **te / t’** |
-| 3 одн. | **lui** |
-| 1 мн. | **nous** |
-| 2 мн. | **vous** |
-| 3 мн. | **leur** |
+| 1 одн. | §§MDEMPH0§§ |
+| 2 одн. | §§MDEMPH0§§ |
+| 3 одн. | §§MDEMPH0§§ |
+| 1 мн. | §§MDEMPH0§§ |
+| 2 мн. | §§MDEMPH0§§ |
+| 3 мн. | §§MDEMPH0§§ |
 
 ## 1. COI не означає «будь-яке à»
 
 Це головна межа правила.
 
-> **Je parle à Paul. → Je lui parle.**
+> §§MDEMPH0§§
 
 але:
 
-> **Je pense à Paul. → Je pense à lui.**
+> §§MDEMPH0§§
 
 і:
 
-> **Je vais à Paris. → J’y vais.**
+> §§MDEMPH0§§
 
-Тому треба визначати не просто прийменник, а **модель керування конкретного дієслова**.
+Тому треба визначати не просто прийменник, а §§MDEMPH0§§.
 
 ## 2. COD vs COI
 
 Порівняйте:
 
-> **Je vois Paul. → Je le vois.**
+> §§MDEMPH0§§
 
-> **Je parle à Paul. → Je lui parle.**
+> §§MDEMPH0§§
 
-> **J’écoute Marie. → Je l’écoute.**
+> §§MDEMPH0§§
 
-> **Je réponds à Marie. → Je lui réponds.**
+> §§MDEMPH0§§
 
 Французьке керування треба вчити разом із дієсловом:
 
-- **voir quelqu’un**
-- **écouter quelqu’un**
-- **parler à quelqu’un**
-- **répondre à quelqu’un**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
 Український відмінок не є механічним ключем до французької конструкції.
 
 ## 3. Частотні моделі з à + особа
 
-> **parler à quelqu’un → lui parler**
+> §§MDEMPH0§§
 
-> **téléphoner à quelqu’un → lui téléphoner**
+> §§MDEMPH0§§
 
-> **écrire à quelqu’un → lui écrire**
+> §§MDEMPH0§§
 
-> **répondre à quelqu’un → lui répondre**
+> §§MDEMPH0§§
 
-> **obéir à quelqu’un → lui obéir**
+> §§MDEMPH0§§
 
-> **faire confiance à quelqu’un → lui faire confiance**
+> §§MDEMPH0§§
 
-> **faire plaisir à quelqu’un → lui faire plaisir**
+> §§MDEMPH0§§
 
-> **plaire à quelqu’un → lui plaire**
+> §§MDEMPH0§§
 
 Для множини:
 
-> **Je parle aux étudiants. → Je leur parle.**
+> §§MDEMPH0§§
 
 ## 4. lui не розрізняє рід
 
-> **Je lui parle.**
+> §§MDEMPH0§§
 
 може означати:
 
-> Я говорю **йому**.
+> Я говорю §§MDEMPH0§§.
 
 або:
 
-> Я говорю **їй**.
+> Я говорю §§MDEMPH0§§.
 
 Рід відновлюється з контексту.
 
@@ -126,36 +126,36 @@ variant: []
 
 У простому реченні:
 
-> **Je lui parle.**
+> §§MDEMPH0§§
 
-> **Elle leur répond.**
+> §§MDEMPH0§§
 
 У passé composé:
 
-> **Je lui ai parlé.**
+> §§MDEMPH0§§
 
-> **Nous leur avons écrit.**
+> §§MDEMPH0§§
 
 У запереченні:
 
-> **Je ne lui parle pas.**
+> §§MDEMPH0§§
 
-> **Elle ne leur a pas répondu.**
+> §§MDEMPH0§§
 
 ## 6. Два займенники
 
-> **Je donne le livre à Marie.**
+> §§MDEMPH0§§
 
-→ **Je le lui donne.**
+→ §§MDEMPH0§§
 
-> **Nous montrons les photos aux étudiants.**
+> §§MDEMPH0§§
 
-→ **Nous les leur montrons.**
+→ §§MDEMPH0§§
 
 Тут:
 
-- **le / les** = COD;
-- **lui / leur** = COI.
+- §§MDEMPH0§§ = COD;
+- §§MDEMPH0§§ = COI.
 
 Повний порядок кількох clitiques описується окремо.
 
@@ -163,67 +163,67 @@ variant: []
 
 COI не є COD і тому не викликає узгодження participe passé за правилом попереднього COD:
 
-> **La femme à qui j’ai parlé.**
+> §§MDEMPH0§§
 
-> **Les étudiants à qui j’ai répondu.**
+> §§MDEMPH0§§
 
-Форма **parlé / répondu** не узгоджується з *femme* чи *étudiants* через сам факт наявності займенника/прийменникової групи.
+Форма §§MDEMPH0§§ не узгоджується з §§MDEMPH1§§ чи §§MDEMPH2§§ через сам факт наявності займенника/прийменникової групи.
 
 Порівняйте:
 
-> **La lettre que j’ai écrite.**
+> §§MDEMPH0§§
 
-Тут **que** — COD, тому діє правило узгодження COD, розташованого перед participe passé.
+Тут §§MDEMPH0§§ — COD, тому діє правило узгодження COD, розташованого перед participe passé.
 
 ## 8. COI та y
 
 Для багатьох конструкцій:
 
-> **Je pense à ce problème. → J’y pense.**
+> §§MDEMPH0§§
 
-> **Je réponds à cette question. → J’y réponds.**
+> §§MDEMPH0§§
 
 Але з особою вибір залежить від дієслова:
 
-> **Je parle à Marie. → Je lui parle.**
+> §§MDEMPH0§§
 
-> **Je pense à Marie. → Je pense à elle.**
+> §§MDEMPH0§§
 
-Отже, **à + personne ≠ automatiquement lui**.
+Отже, §§MDEMPH0§§.
 
 ## 9. COI та наголошений займенник
 
 Після прийменника може стояти наголошена форма:
 
-> **Je pense à lui.**
+> §§MDEMPH0§§
 
-> **Je compte sur elle.**
+> §§MDEMPH0§§
 
-Не замінюйте її автоматично на **lui/leur**.
+Не замінюйте її автоматично на §§MDEMPH0§§.
 
-> **Je parle à Paul. → Je lui parle.**
+> §§MDEMPH0§§
 
 але
 
-> **Je pense à Paul. → Je pense à lui.**
+> §§MDEMPH0§§
 
 Різницю визначає керування.
 
 ## 10. COI та інфінітив
 
-> **Je commence à travailler.**
+> §§MDEMPH0§§
 
-> **Il apprend à conduire.**
+> §§MDEMPH0§§
 
-Група **à + infinitif** не є COI-займенником. Це інша конструкція керування.
+Група §§MDEMPH0§§ не є COI-займенником. Це інша конструкція керування.
 
 Порівняйте:
 
-> **Je parle à Marie.**
+> §§MDEMPH0§§
 
 і
 
-> **Je commence à travailler.**
+> §§MDEMPH0§§
 
 Формальний прийменник однаковий, але синтаксична структура різна.
 
@@ -233,37 +233,37 @@ COI не є COD і тому не викликає узгодження participe
 
 > йому / їй / їм
 
-Французьке **lui** може відповідати і «йому», і «їй»:
+Французьке §§MDEMPH0§§ може відповідати і «йому», і «їй»:
 
-> **Je lui parle.**
+> §§MDEMPH0§§
 
 Тому французький займенник не можна вибирати лише за українським перекладом. Спочатку треба визначити французьке керування.
 
 ## Типові помилки
 
-❌ *Je lui vois.*
+❌ §§MDEMPH0§§
 
-✅ **Je le/la vois.**
+✅ §§MDEMPH0§§
 
-❌ *Je le parle.*
+❌ §§MDEMPH0§§
 
-✅ **Je lui parle.**
+✅ §§MDEMPH0§§
 
-❌ *Je lui pense.*
+❌ §§MDEMPH0§§
 
-✅ **Je pense à lui/elle.**
+✅ §§MDEMPH0§§
 
-❌ *Je y pense.*
+❌ §§MDEMPH0§§
 
-✅ **J’y pense.**
+✅ §§MDEMPH0§§
 
-❌ *Je leur regarde.*
+❌ §§MDEMPH0§§
 
-✅ **Je les regarde.**
+✅ §§MDEMPH0§§
 
 ## Куди далі
 
-- **COD**
-- **Порядок клитичних займенників**
-- **y / en**
-- **Керування дієслів**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§

@@ -27,60 +27,60 @@ sources: []
 
 | Прийменник + артикль | Злиття | Приклад |
 |---|---|---|
-| **à + le** | **au** | au marché |
-| **à + les** | **aux** | aux étudiants |
-| **à + la** | **à la** | à la gare |
-| **à + l’** | **à l’** | à l’université |
-| **de + le** | **du** | du marché |
-| **de + les** | **des** | des étudiants |
-| **de + la** | **de la** | de la gare |
-| **de + l’** | **de l’** | de l’université |
+| §§MDEMPH0§§ | §§MDEMPH1§§ | au marché |
+| §§MDEMPH0§§ | §§MDEMPH1§§ | aux étudiants |
+| §§MDEMPH0§§ | §§MDEMPH1§§ | à la gare |
+| §§MDEMPH0§§ | §§MDEMPH1§§ | à l’université |
+| §§MDEMPH0§§ | §§MDEMPH1§§ | du marché |
+| §§MDEMPH0§§ | §§MDEMPH1§§ | des étudiants |
+| §§MDEMPH0§§ | §§MDEMPH1§§ | de la gare |
+| §§MDEMPH0§§ | §§MDEMPH1§§ | de l’université |
 
 Ключове правило:
 
-**à + le → au**  
-**à + les → aux**  
-**de + le → du**  
-**de + les → des**
+§§MDEMPH0§§  
+§§MDEMPH0§§  
+§§MDEMPH0§§  
+§§MDEMPH0§§
 
-Злиття відбувається лише з **le/les**, не з **la/l’**.
+Злиття відбувається лише з §§MDEMPH0§§, не з §§MDEMPH1§§.
 
 ## Чому du може означати різне
 
-Форма **du** має щонайменше два важливі граматичні аналізи:
+Форма §§MDEMPH0§§ має щонайменше два важливі граматичні аналізи:
 
-1. **de + le**
-   - **Je parle du livre.**
+1. §§MDEMPH0§§
+   - §§MDEMPH0§§
    - Я говорю про книжку / цю книжку.
 
-2. **partitif du**
-   - **Je mange du pain.**
+2. §§MDEMPH0§§
+   - §§MDEMPH0§§
    - Я їм хліб / певну кількість хліба.
 
 Зовні форма однакова, але синтаксична структура різна.
 
 ## Des також неоднозначне
 
-**des** може бути:
+§§MDEMPH0§§ може бути:
 
 - неозначеним артиклем множини:
-  - **J’ai des livres.**
-- **de + les**:
-  - **Je parle des livres que tu as achetés.**
+  - §§MDEMPH0§§
+- §§MDEMPH0§§:
+  - §§MDEMPH0§§
 
 Контекст і синтаксис визначають аналіз.
 
 ## Українська пастка
 
-Не перекладайте **du** автоматично як «трохи/частину»:
+Не перекладайте §§MDEMPH0§§ автоматично як «трохи/частину»:
 
-- **Je parle du problème.** — Я говорю про проблему.
-- **Je bois du café.** — Я п’ю каву.
+- §§MDEMPH0§§ — Я говорю про проблему.
+- §§MDEMPH0§§ — Я п’ю каву.
 
-Так само **des** не завжди означає «кілька»:
+Так само §§MDEMPH0§§ не завжди означає «кілька»:
 
-- **J’ai des amis.** — У мене є друзі.
-- **Je parle des amis de Paul.** — Я говорю про друзів Поля.
+- §§MDEMPH0§§ — У мене є друзі.
+- §§MDEMPH0§§ — Я говорю про друзів Поля.
 
 ## Позиція та узгодження
 
@@ -88,21 +88,21 @@ sources: []
 
 ## Типові помилки
 
-❌ *à le marché*  
-✅ **au marché**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
-❌ *de les étudiants*  
-✅ **des étudiants**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
-❌ *du* автоматично = partitif  
-✅ Спочатку визначте, чи це **de + le**, чи partitif.
+❌ §§MDEMPH0§§ автоматично = partitif  
+✅ Спочатку визначте, чи це §§MDEMPH0§§, чи partitif.
 
-❌ *au université*  
-✅ **à l’université**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
 ## Алгоритм
 
-1. Знайдіть прийменник: **à** чи **de**.
+1. Знайдіть прийменник: §§MDEMPH0§§ чи §§MDEMPH1§§.
 2. Визначте, який визначник стоїть перед іменником.
-3. Якщо це **le/les**, застосуйте злиття.
-4. Перевірте, чи **du/des** не мають іншого граматичного походження.
+3. Якщо це §§MDEMPH0§§, застосуйте злиття.
+4. Перевірте, чи §§MDEMPH0§§ не мають іншого граматичного походження.

@@ -25,11 +25,11 @@ tags: []
 ---
 ## Швидка відповідь
 
-**Complétive** може залежати від дієслова, прикметника або іншого предикативного центру. Вона може містити ще одну complétive:
+§§MDEMPH0§§ може залежати від дієслова, прикметника або іншого предикативного центру. Вона може містити ще одну complétive:
 
-> *Il pense [que Marie sait [que Paul viendra]].*
+> §§MDEMPH0§§
 
-Перша підрядна залежить від *pense*, друга — від *sait*.
+Перша підрядна залежить від §§MDEMPH0§§, друга — від §§MDEMPH1§§.
 
 Вкладеність не означає, що всі внутрішні частини мають однаковий час або спосіб.
 
@@ -37,45 +37,45 @@ tags: []
 
 У:
 
-> *Je crois que tu sais que nous partons.*
+> §§MDEMPH0§§
 
 структура:
 
-> *Je crois [que tu sais [que nous partons]].*
+> §§MDEMPH0§§
 
-*que tu sais...* є об'єктом *crois*. *que nous partons* є об'єктом *sais*.
+§§MDEMPH0§§ є об'єктом §§MDEMPH1§§. §§MDEMPH2§§ є об'єктом §§MDEMPH3§§.
 
-Це різні синтаксичні зв'язки, хоча обидві частини починаються з *que*.
+Це різні синтаксичні зв'язки, хоча обидві частини починаються з §§MDEMPH0§§.
 
 ## 2. Час у вкладених конструкціях
 
-> *Il pensait qu'elle savait qu'il viendrait.*
+> §§MDEMPH0§§
 
-*viendrait* може бути futur dans le passé щодо відповідної минулої точки відліку.
+§§MDEMPH0§§ може бути futur dans le passé щодо відповідної минулої точки відліку.
 
 Важливо не застосовувати механічне правило «кожен наступний рівень зсуває час назад». Час залежить від точки відліку, типу висловлення та актуальності інформації.
 
 ## 3. Спосіб
 
-Вкладеність сама по собі не вимагає *subjonctif*.
+Вкладеність сама по собі не вимагає §§MDEMPH0§§.
 
 Наприклад:
 
-> *Je pense qu'il vient.*
+> §§MDEMPH0§§
 
-> *Je doute qu'il vienne.*
+> §§MDEMPH0§§
 
 Вибір способу залежить від предиката й модального значення, а не від того, скільки complétives стоїть одна всередині іншої.
 
 ## 4. Reported speech
 
-> *Elle a dit qu'il croyait que nous partirions.*
+> §§MDEMPH0§§
 
 Тут потрібно розрізняти:
 
-- зовнішній центр повідомлення — *elle a dit*;
-- внутрішній центр — *il croyait*;
-- повідомлену подію — *nous partirions*.
+- зовнішній центр повідомлення — §§MDEMPH0§§;
+- внутрішній центр — §§MDEMPH0§§;
+- повідомлену подію — §§MDEMPH0§§.
 
 Займенники, часові маркери та часи можуть залежати від відповідного центру дейксису.
 
@@ -83,7 +83,7 @@ tags: []
 
 Використовуйте дужки:
 
-> *Le directeur affirme [que le rapport montre [que les résultats sont fiables]].*
+> §§MDEMPH0§§
 
 Після цього кожне дієслово аналізуйте у своїй частині.
 
@@ -95,21 +95,21 @@ tags: []
 
 ## Типові помилки
 
-- вважати всі *que* одним типом;
+- вважати всі §§MDEMPH0§§ одним типом;
 - автоматично змінювати всі часи;
 - вважати вкладеність тригером subjonctif;
 - прив'язувати займенник до найближчого іменника.
 
 ## Практична перевірка
 
-> *Le directeur affirme que le rapport montre que les résultats sont fiables.*
+> §§MDEMPH0§§
 
 Розбір:
 
-> *Le directeur affirme [que le rapport montre [que les résultats sont fiables]].*
+> §§MDEMPH0§§
 
-Найглибша частина *les résultats sont fiables* залежить від *montre*, а не безпосередньо від *affirme*.
+Найглибша частина §§MDEMPH0§§ залежить від §§MDEMPH1§§, а не безпосередньо від §§MDEMPH2§§.
 
 ## Куди далі
 
-Дивіться **multiple embedding**, **sequence of tenses**, **indirect speech** та **nested relative clauses**.
+Дивіться §§MDEMPH0§§, §§MDEMPH1§§, §§MDEMPH2§§ та §§MDEMPH3§§.

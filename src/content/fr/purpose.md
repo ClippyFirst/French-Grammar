@@ -28,86 +28,86 @@ tags: []
 ---
 # Мета: exprimer le but
 
-Французька розрізняє способи вираження **мети** залежно від того, чи виконавець основної та цільової дії той самий.
+Французька розрізняє способи вираження §§MDEMPH0§§ залежно від того, чи виконавець основної та цільової дії той самий.
 
 ## Швидко
 
 Основні моделі:
 
-- **pour + infinitif** — мета, коли зручно використовувати інфінітив;
-- **afin de + infinitif** — формальніший варіант;
-- **pour que + subjonctif** — підрядне речення з власним підметом;
-- **afin que + subjonctif** — формальніший варіант;
-- **de peur que / de crainte que + subjonctif** — запобігання небажаній події.
+- §§MDEMPH0§§ — мета, коли зручно використовувати інфінітив;
+- §§MDEMPH0§§ — формальніший варіант;
+- §§MDEMPH0§§ — підрядне речення з власним підметом;
+- §§MDEMPH0§§ — формальніший варіант;
+- §§MDEMPH0§§ — запобігання небажаній події.
 
 ## Формула
 
-**той самий виконавець → pour + infinitif**
+§§MDEMPH0§§
 
-> **Je travaille pour gagner de l'argent.**  
+> §§MDEMPH0§§  
 > Я працюю, щоб заробляти гроші.
 
-**різні виконавці → pour que + subjonctif**
+§§MDEMPH0§§
 
-> **Je parle lentement pour que tu comprennes.**  
+> §§MDEMPH0§§  
 > Я говорю повільно, щоб ти зрозумів / зрозуміла.
 
 ## Використання
 
 ### 1. Pour + infinitif
 
-> **Marie étudie pour réussir.**  
+> §§MDEMPH0§§  
 > Марі навчається, щоб досягти успіху.
 
-> **Nous sommes venus pour vous aider.**  
+> §§MDEMPH0§§  
 > Ми прийшли, щоб вам допомогти.
 
 Інфінітивна конструкція особливо природна, коли суб'єкт цільової дії збігається із суб'єктом головної дії.
 
 ### 2. Pour que + subjonctif
 
-> **Je ferme la porte pour que les enfants puissent dormir.**  
+> §§MDEMPH0§§  
 > Я зачиняю двері, щоб діти могли спати.
 
-Після **pour que** потрібна особова форма дієслова в **subjonctif**.
+Після §§MDEMPH0§§ потрібна особова форма дієслова в §§MDEMPH1§§.
 
 ### 3. Afin de / afin que
 
-> **Il vient tôt afin de préparer la salle.**  
+> §§MDEMPH0§§  
 > Він приходить рано, щоб підготувати залу.
 
-> **Il vient tôt afin que nous puissions commencer à huit heures.**  
+> §§MDEMPH0§§  
 > Він приходить рано, щоб ми могли почати о восьмій.
 
-**Afin de** та **afin que** часто трапляються у формальнішому письмовому стилі.
+§§MDEMPH0§§ та §§MDEMPH1§§ часто трапляються у формальнішому письмовому стилі.
 
 ### 4. De peur que / de crainte que
 
-> **Il parle doucement de peur que les enfants ne se réveillent.**  
+> §§MDEMPH0§§  
 > Він говорить тихо, щоб діти не прокинулися.
 
-Тут **ne** може бути **ne explétif**, а не звичайним запереченням.
+Тут §§MDEMPH0§§ може бути §§MDEMPH1§§, а не звичайним запереченням.
 
 ## Порівняння
 
-> **Je viens pour te voir.**  
+> §§MDEMPH0§§  
 > Я приходжу, щоб побачити тебе.
 
-> **Je viens pour que tu me voies.**  
+> §§MDEMPH0§§  
 > Я приходжу, щоб ти мене побачив / побачила.
 
-Українське **щоб** відповідає обом моделям, але французька розрізняє інфінітив і підрядне речення.
+Українське §§MDEMPH0§§ відповідає обом моделям, але французька розрізняє інфінітив і підрядне речення.
 
 ## Типові помилки
 
-❌ *Je travaille pour que gagner de l'argent.*  
-✅ **Je travaille pour gagner de l'argent.**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
-❌ *Je parle pour que tu comprends.*  
-✅ **Je parle pour que tu comprennes.**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
-❌ *pour que je comprendre*  
-✅ **pour que je comprenne**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
 ## Пов'язані теми
 

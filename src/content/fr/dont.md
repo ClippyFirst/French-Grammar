@@ -26,90 +26,90 @@ tags: []
 ---
 ## Швидка відповідь
 
-**Dont** — відносний займенник, пов’язаний із конструкцією **de + élément**:
+§§MDEMPH0§§ — відносний займенник, пов’язаний із конструкцією §§MDEMPH1§§:
 
-*Je parle de ce livre.*  
-→ *le livre dont je parle.*
+§§MDEMPH0§§  
+→ §§MDEMPH0§§
 
-Він може стосуватися не лише простого «про кого/що», а й інших залежностей із **de**.
+Він може стосуватися не лише простого «про кого/що», а й інших залежностей із §§MDEMPH0§§.
 
 ## 1. De + nom
 
-*J’ai besoin de ce document.*  
-→ *le document dont j’ai besoin.*
+§§MDEMPH0§§  
+→ §§MDEMPH0§§
 
-*Je parle de cette question.*  
-→ *la question dont je parle.*
+§§MDEMPH0§§  
+→ §§MDEMPH0§§
 
 ## 2. Dont і присвійне значення
 
-*La femme dont le frère habite ici...*
+§§MDEMPH0§§
 
 Це можна розуміти як:
 
-*le frère de cette femme*
+§§MDEMPH0§§
 
-**Dont** пов’язує антецедент із компонентом, залежним від *de*.
+§§MDEMPH0§§ пов’язує антецедент із компонентом, залежним від §§MDEMPH1§§.
 
 ## 3. Dont з іменником
 
-*Le film dont la fin est surprenante...*
+§§MDEMPH0§§
 
-Тут *dont* не є прямим додатком дієслова *est*; воно вводить залежність *la fin de ce film*.
+Тут §§MDEMPH0§§ не є прямим додатком дієслова §§MDEMPH1§§; воно вводить залежність §§MDEMPH2§§.
 
 ## 4. Dont і прикметники/іменники
 
-*une question dont l’importance est évidente*
+§§MDEMPH0§§
 
-Залежність із *de* може бути всередині іменникової групи.
+Залежність із §§MDEMPH0§§ може бути всередині іменникової групи.
 
 Тому правило «dont = про який» надто вузьке.
 
 ## 5. Dont vs que
 
-*Le livre que je lis.*  
-→ *je lis le livre* → COD.
+§§MDEMPH0§§  
+→ §§MDEMPH0§§ → COD.
 
-*Le livre dont je parle.*  
-→ *je parle du livre* → залежність із **de**.
+§§MDEMPH0§§  
+→ §§MDEMPH1§§ → залежність із §§MDEMPH0§§.
 
 Функцію слід визначати через вихідну конструкцію.
 
 ## 6. Dont vs duquel
 
-У простій конструкції з **de**:
+У простій конструкції з §§MDEMPH0§§:
 
-*le livre dont je parle*
+§§MDEMPH0§§
 
 Після складеного прийменника:
 
-*la maison près de laquelle...*
+§§MDEMPH0§§
 
 Вибір залежить від структури прийменникової групи.
 
 ## 7. Типові помилки
 
-❌ *le livre que je parle*  
-✅ *le livre dont je parle*
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
-❌ *la femme dont je parle avec* — якщо структура потребує *avec*.
+❌ §§MDEMPH0§§ — якщо структура потребує §§MDEMPH1§§.
 
 Потрібно спочатку відновити керування:
 
-*Je parle de la femme.* → *la femme dont je parle.*
+§§MDEMPH0§§ → §§MDEMPH1§§
 
 ## Алгоритм
 
 1. Віднови речення без relative.
-2. Знайди, чи є залежність із **de**.
-3. Якщо так, розглянь **dont**.
-4. Перевір, чи це не складений прийменник типу *près de*.
-5. Не вибирай *dont* за українським перекладом.
+2. Знайди, чи є залежність із §§MDEMPH0§§.
+3. Якщо так, розглянь §§MDEMPH0§§.
+4. Перевір, чи це не складений прийменник типу §§MDEMPH0§§.
+5. Не вибирай §§MDEMPH0§§ за українським перекладом.
 
 ## Мінітест
 
-*Le livre ___ je parle.* → **dont**.
+§§MDEMPH1§§ → §§MDEMPH0§§.
 
-*La femme ___ le fils travaille ici.* → **dont**.
+§§MDEMPH1§§ → §§MDEMPH0§§.
 
-*Le livre ___ je lis.* → **que**.
+§§MDEMPH1§§ → §§MDEMPH0§§.

@@ -28,54 +28,54 @@ tags: []
 ---
 # Ce qui, ce que, ce dont
 
-Конструкції **ce qui, ce que, ce dont** вводять відносні структури без звичайного іменника-antecedent. Українською вони часто передаються як «те, що», але французький вибір залежить від синтаксичної функції.
+Конструкції §§MDEMPH0§§ вводять відносні структури без звичайного іменника-antecedent. Українською вони часто передаються як «те, що», але французький вибір залежить від синтаксичної функції.
 
 ## Ce qui
 
-**Ce qui** — підмет relative:
+§§MDEMPH0§§ — підмет relative:
 
-> **Je comprends ce qui se passe.**  
+> §§MDEMPH0§§  
 > Я розумію, що відбувається.
 
-Тут **ce qui** є підметом **se passe**.
+Тут §§MDEMPH0§§ є підметом §§MDEMPH1§§.
 
 ## Ce que
 
-**Ce que** — прямий додаток:
+§§MDEMPH0§§ — прямий додаток:
 
-> **Je comprends ce que tu veux.**  
+> §§MDEMPH0§§  
 > Я розумію, чого ти хочеш.
 
 У вихідній структурі:
 
-> **Tu veux quelque chose.**
+> §§MDEMPH0§§
 
-**Ce que** представляє об'єкт **veux**.
+§§MDEMPH0§§ представляє об'єкт §§MDEMPH1§§.
 
 ## Ce dont
 
-**Ce dont** використовується, коли залежність вимагає **de**:
+§§MDEMPH0§§ використовується, коли залежність вимагає §§MDEMPH1§§:
 
-> **Je sais ce dont tu as besoin.**  
+> §§MDEMPH0§§  
 > Я знаю, що тобі потрібно.
 
 Вихідна модель:
 
-> **Tu as besoin de quelque chose.**
+> §§MDEMPH0§§
 
 ## Швидка діагностика
 
-- **ce qui + verbe** → що є підметом;
-- **ce que + sujet + verbe** → що є COD;
-- **ce dont** → залежність із **de**.
+- §§MDEMPH0§§ → що є підметом;
+- §§MDEMPH0§§ → що є COD;
+- §§MDEMPH0§§ → залежність із §§MDEMPH1§§.
 
 ## Не плутайте
 
-❌ **Je comprends ce qui tu veux.**  
-✅ **Je comprends ce que tu veux.**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
-❌ **Je sais ce que tu as besoin.**  
-✅ **Je sais ce dont tu as besoin.**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
 ## Пов'язані теми
 
@@ -89,85 +89,85 @@ tags: []
 ## Розширений алгоритм
 
 1. Перевірте, чи є звичайний іменний антецедент.
-2. Якщо потрібен узагальнений нейтральний зміст, перевірте конструкцію *ce + relative*.
+2. Якщо потрібен узагальнений нейтральний зміст, перевірте конструкцію §§MDEMPH0§§.
 3. Відновіть просте речення.
-4. Якщо пропущений компонент є підметом → **ce qui**.
-5. Якщо COD → **ce que**.
-6. Якщо залежність вимагає **de** → **ce dont**.
-7. Якщо значення — «хто» і референтом є особа → перевірте самостійне **qui**.
+4. Якщо пропущений компонент є підметом → §§MDEMPH0§§.
+5. Якщо COD → §§MDEMPH0§§.
+6. Якщо залежність вимагає §§MDEMPH0§§ → §§MDEMPH1§§.
+7. Якщо значення — «хто» і референтом є особа → перевірте самостійне §§MDEMPH0§§.
 
 | Французька | Вихідна структура | Український зміст |
 |---|---|---|
-| *ce qui arrive* | quelque chose arrive | те, що відбувається |
-| *ce que je vois* | je vois quelque chose | те, що я бачу |
-| *ce dont je parle* | je parle de quelque chose | те, про що я говорю |
-| *qui arrive* | une personne arrive | той/хто приходить |
+| §§MDEMPH0§§ | quelque chose arrive | те, що відбувається |
+| §§MDEMPH0§§ | je vois quelque chose | те, що я бачу |
+| §§MDEMPH0§§ | je parle de quelque chose | те, про що я говорю |
+| §§MDEMPH0§§ | une personne arrive | той/хто приходить |
 
 ### Ce qui і ce que після дієслова
 
-> **Je sais ce qui s'est passé.**
+> §§MDEMPH0§§
 
-→ *ce qui* — підмет *s'est passé*.
+→ §§MDEMPH0§§ — підмет §§MDEMPH1§§.
 
-> **Je sais ce que Paul a fait.**
+> §§MDEMPH0§§
 
-→ *Paul* — підмет *a fait*, *ce que* — COD.
+→ §§MDEMPH0§§ — підмет §§MDEMPH1§§, §§MDEMPH2§§ — COD.
 
 ### Ce dont і керування
 
-> *avoir besoin de quelque chose* → **ce dont j'ai besoin**
+> §§MDEMPH1§§ → §§MDEMPH0§§
 
-> *se souvenir de quelque chose* → **ce dont je me souviens**
+> §§MDEMPH1§§ → §§MDEMPH0§§
 
-> *être fier de quelque chose* → **ce dont je suis fier**
+> §§MDEMPH1§§ → §§MDEMPH0§§
 
-Тому *dont* тут визначається французьким керуванням.
+Тому §§MDEMPH0§§ тут визначається французьким керуванням.
 
 ## Інформаційна структура
 
-> **Ce que je veux, c'est partir.**
+> §§MDEMPH0§§
 
-> **Ce qui est important, c'est la méthode.**
+> §§MDEMPH0§§
 
-Такі конструкції можуть оформлювати тему і фокус, але синтаксична функція *ce qui/ce que* та інформаційна функція — різні рівні аналізу.
+Такі конструкції можуть оформлювати тему і фокус, але синтаксична функція §§MDEMPH0§§ та інформаційна функція — різні рівні аналізу.
 
 ## Український контраст
 
-> **те, що я бачу**  
-> **те, про що я говорю**  
-> **те, що відбувається**
+> §§MDEMPH0§§  
+> §§MDEMPH0§§  
+> §§MDEMPH0§§
 
 Українська часто стискає структуру:
 
-> *Je comprends ce qui se passe.* → **Я розумію, що відбувається.**
+> §§MDEMPH1§§ → §§MDEMPH0§§
 
-> *Je sais ce dont tu as besoin.* → **Я знаю, що тобі потрібно.**
+> §§MDEMPH1§§ → §§MDEMPH0§§
 
-Тому не перекладайте українське «що» назад у французьке *ce que* без синтаксичної перевірки.
+Тому не перекладайте українське «що» назад у французьке §§MDEMPH0§§ без синтаксичної перевірки.
 
 ## Типові помилки
 
-❌ *Je comprends ce qui tu veux.*  
-✅ *Je comprends ce que tu veux.*
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
-❌ *Je comprends ce que se passe.*  
-✅ *Je comprends ce qui se passe.*
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
-❌ *Je sais ce que tu as besoin.*  
-✅ *Je sais ce dont tu as besoin.*
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
-❌ *Je sais qui se passe.*  
+❌ §§MDEMPH0§§  
 Якщо значення «що відбувається»:  
-✅ *Je sais ce qui se passe.*
+✅ §§MDEMPH0§§
 
 ## Мінітест
 
-1. *Je comprends ___ se passe.* → **ce qui**
-2. *Je comprends ___ tu veux.* → **ce que**
-3. *Je sais ___ tu as besoin.* → **ce dont**
-4. *Je ne sais pas ___ vient.* → **qui**
-5. *Montre-moi ___ tu as écrit.* → **ce que**
+1. §§MDEMPH1§§ → §§MDEMPH0§§
+2. §§MDEMPH1§§ → §§MDEMPH0§§
+3. §§MDEMPH1§§ → §§MDEMPH0§§
+4. §§MDEMPH1§§ → §§MDEMPH0§§
+5. §§MDEMPH1§§ → §§MDEMPH0§§
 
 ## Короткий висновок
 
-**Ce qui / ce que / ce dont** треба вибирати через синтаксичну функцію та керування. Українське «що» може відповідати всім трьом формам, тому буквальний переклад ненадійний.
+§§MDEMPH0§§ треба вибирати через синтаксичну функцію та керування. Українське «що» може відповідати всім трьом формам, тому буквальний переклад ненадійний.

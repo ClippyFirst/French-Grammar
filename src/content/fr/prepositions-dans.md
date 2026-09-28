@@ -24,11 +24,11 @@ sources: []
 # 🎯 Прийменник DANS у французькій мові
 
 ## 📌 Швидко
-> ⏳ **DANS** — це прийменник, який вживається для позначення:
-> - **Місця (всередині)**: у кімнаті, у сумці, у воді
-> - **Часу (через)**: через годину, через рік
-> - **Стану/ситуації**: у труднощах, у радості
-> - **Напрямку (куди?)**: у будинок, у школу
+> ⏳ §§MDEMPH0§§ — це прийменник, який вживається для позначення:
+> - §§MDEMPH0§§: у кімнаті, у сумці, у воді
+> - §§MDEMPH0§§: через годину, через рік
+> - §§MDEMPH0§§: у труднощах, у радості
+> - §§MDEMPH0§§: у будинок, у школу
 
 ---
 
@@ -36,20 +36,20 @@ sources: []
 
 | Контекст | Форма | Приклад |
 |----------|-------|---------|
-| **Місце (всередині)** | dans + місце | dans la maison, dans le sac |
-| **Час (через)** | dans + період | dans une heure, dans un an |
-| **Стан/ситуація** | dans + стан | dans la difficulté, dans la joie |
-| **Напрямок** | dans + напрямок | dans la rue, dans le jardin |
+| §§MDEMPH0§§ | dans + місце | dans la maison, dans le sac |
+| §§MDEMPH0§§ | dans + період | dans une heure, dans un an |
+| §§MDEMPH0§§ | dans + стан | dans la difficulté, dans la joie |
+| §§MDEMPH0§§ | dans + напрямок | dans la rue, dans le jardin |
 
 ---
 
 ## 🏗️ Утворення
 
 ### ✅ Правильні форми
-- **dans + le** = dans le (у + чоловічий рід)
-- **dans + la** = dans la (у + жіночий рід)
-- **dans + les** = dans les (у + множина)
-- **dans + l'** = dans l' (у + голосний)
+- §§MDEMPH0§§ = dans le (у + чоловічий рід)
+- §§MDEMPH0§§ = dans la (у + жіночий рід)
+- §§MDEMPH0§§ = dans les (у + множина)
+- §§MDEMPH0§§ = dans l' (у + голосний)
 
 ### ❌ Поширені помилки з артиклями
 ```
@@ -63,89 +63,89 @@ sources: []
 ## 🎯 Вживання
 
 ### 1. 🏠 Місце: всередині чогось
-**DANS + місце** = "у/в + місце" (всередині)
+§§MDEMPH0§§ = "у/в + місце" (всередині)
 
 | Категорія | Приклад | Переклад |
 |-----------|---------|----------|
-| **Будівлі** | dans la maison, dans l'appartement, dans le bureau | у будинку, у квартирі, у офісі |
-| **Кімнати** | dans la chambre, dans la cuisine, dans la salle de bain | у кімнаті, на кухні, у ванній |
-| **Ємності** | dans le sac, dans la boîte, dans le frigo | у сумці, у коробці, у холодильнику |
-| **Транспорт** | dans la voiture, dans le bus, dans le train | у машині, у автобусі, у поїзді |
-| **Міста (рідко)** | dans la ville, dans le village | у місті, у селі |
+| §§MDEMPH0§§ | dans la maison, dans l'appartement, dans le bureau | у будинку, у квартирі, у офісі |
+| §§MDEMPH0§§ | dans la chambre, dans la cuisine, dans la salle de bain | у кімнаті, на кухні, у ванній |
+| §§MDEMPH0§§ | dans le sac, dans la boîte, dans le frigo | у сумці, у коробці, у холодильнику |
+| §§MDEMPH0§§ | dans la voiture, dans le bus, dans le train | у машині, у автобусі, у поїзді |
+| §§MDEMPH0§§ | dans la ville, dans le village | у місті, у селі |
 
-> 💡 **Порівняння з À**:
-> - **DANS**: всередині (dans la maison — у будинку)
-> - **À**: біля/поблизу (à la maison — удома, у свій будинок)
+> 💡 §§MDEMPH0§§:
+> - §§MDEMPH0§§: всередині (dans la maison — у будинку)
+> - §§MDEMPH0§§: біля/поблизу (à la maison — удома, у свій будинок)
 
-**Приклади:**
-- Le chat dort **dans le panier**. (Кіт спить у кошику.)
-- J'ai mis les clés **dans mon sac**. (Я поклав ключі у свою сумку.)
-- Il y a un livre **dans la boîte**. (У коробці є книга.)
-- Nous sommes **dans le train**. (Ми у поїзді.)
+§§MDEMPH0§§
+- Le chat dort §§MDEMPH0§§. (Кіт спить у кошику.)
+- J'ai mis les clés §§MDEMPH0§§. (Я поклав ключі у свою сумку.)
+- Il y a un livre §§MDEMPH0§§. (У коробці є книга.)
+- Nous sommes §§MDEMPH0§§. (Ми у поїзді.)
 
 ---
 
 ### 2. ⏰ Час: через якийсь період
-**DANS + період часу** = "через + період"
+§§MDEMPH0§§ = "через + період"
 
 | Категорія | Приклад | Переклад |
 |-----------|---------|----------|
-| **Година** | dans une heure | через годину |
-| **День** | dans deux jours | через два дні |
-| **Тиждень** | dans une semaine | через тиждень |
-| **Місяць** | dans un mois | через місяць |
-| **Рік** | dans un an | через рік |
-| **Минути/секунди** | dans cinq minutes, dans deux secondes | через п'ять хвилин, через дві секунди |
+| §§MDEMPH0§§ | dans une heure | через годину |
+| §§MDEMPH0§§ | dans deux jours | через два дні |
+| §§MDEMPH0§§ | dans une semaine | через тиждень |
+| §§MDEMPH0§§ | dans un mois | через місяць |
+| §§MDEMPH0§§ | dans un an | через рік |
+| §§MDEMPH0§§ | dans cinq minutes, dans deux secondes | через п'ять хвилин, через дві секунди |
 
-> ⚠️ **УВАГА для українськомовних**:
-> - **Українська**: "через годину" = **DANS une heure**
-> - **Не плутайте з EN**: en une heure = "за годину" (про тривалість дії)
+> ⚠️ §§MDEMPH0§§:
+> - §§MDEMPH0§§: "через годину" = §§MDEMPH1§§
+> - §§MDEMPH0§§: en une heure = "за годину" (про тривалість дії)
 
-**Приклади:**
-- Je te verrai **dans une heure**. (Я побачу тебе через годину.)
-- Le train part **dans cinq minutes**. (Поїзд відходить через п'ять хвилин.)
-- Il reviendra **dans deux jours**. (Він повернеться через два дні.)
-- **Dans un an**, je serai diplômé. (Через рік я отримаю диплом.)
+§§MDEMPH0§§
+- Je te verrai §§MDEMPH0§§. (Я побачу тебе через годину.)
+- Le train part §§MDEMPH0§§. (Поїзд відходить через п'ять хвилин.)
+- Il reviendra §§MDEMPH0§§. (Він повернеться через два дні.)
+- §§MDEMPH0§§, je serai diplômé. (Через рік я отримаю диплом.)
 
 ---
 
 ### 3. 😊 Стан/ситуація
-**DANS + стан** = "у + стан"
+§§MDEMPH0§§ = "у + стан"
 
 | Стан | Приклад | Переклад |
 |-------|---------|----------|
-| **Труднощі** | dans la difficulté | у труднощах |
-| **Радість** | dans la joie | у радості |
-| **Смуток** | dans la tristesse | у смутку |
-| **Любов** | dans l'amour | у коханні |
-| **Гнів** | dans la colère | у гніві |
-| **Небезпека** | dans le danger | у небезпеці |
-| **Спокій** | dans le calme | у спокої |
+| §§MDEMPH0§§ | dans la difficulté | у труднощах |
+| §§MDEMPH0§§ | dans la joie | у радості |
+| §§MDEMPH0§§ | dans la tristesse | у смутку |
+| §§MDEMPH0§§ | dans l'amour | у коханні |
+| §§MDEMPH0§§ | dans la colère | у гніві |
+| §§MDEMPH0§§ | dans le danger | у небезпеці |
+| §§MDEMPH0§§ | dans le calme | у спокої |
 
-**Приклади:**
-- Il est **dans la difficulté**. (Він у труднощах.)
-- Elle vit **dans la joie**. (Вона живе у радості.)
-- Nous sommes **dans le calme**. (Ми у спокої.)
+§§MDEMPH0§§
+- Il est §§MDEMPH0§§. (Він у труднощах.)
+- Elle vit §§MDEMPH0§§. (Вона живе у радості.)
+- Nous sommes §§MDEMPH0§§. (Ми у спокої.)
 
 ---
 
 ### 4. 🧭 Напрямок: куди?
-**DANS + напрямок** = "у/в + напрямок"
+§§MDEMPH0§§ = "у/в + напрямок"
 
 | Категорія | Приклад | Переклад |
 |-----------|---------|----------|
-| **Вулиця** | dans la rue | на вулиці |
-| **Сад** | dans le jardin | у саду |
-| **Парк** | dans le parc | у парку |
-| **Ліс** | dans la forêt | у лісі |
-| **Вода** | dans l'eau | у воді |
-| **Повітря** | dans l'air | у повітрі |
+| §§MDEMPH0§§ | dans la rue | на вулиці |
+| §§MDEMPH0§§ | dans le jardin | у саду |
+| §§MDEMPH0§§ | dans le parc | у парку |
+| §§MDEMPH0§§ | dans la forêt | у лісі |
+| §§MDEMPH0§§ | dans l'eau | у воді |
+| §§MDEMPH0§§ | dans l'air | у повітрі |
 
-**Приклади:**
-- Il marche **dans la rue**. (Він йде вулицею.)
-- Les enfants jouent **dans le jardin**. (Діти граються у саду.)
-- L'oiseau vole **dans l'air**. (Птах летить у повітрі.)
-- Le poisson nage **dans l'eau**. (Риба плаває у воді.)
+§§MDEMPH0§§
+- Il marche §§MDEMPH0§§. (Він йде вулицею.)
+- Les enfants jouent §§MDEMPH0§§. (Діти граються у саду.)
+- L'oiseau vole §§MDEMPH0§§. (Птах летить у повітрі.)
+- Le poisson nage §§MDEMPH0§§. (Риба плаває у воді.)
 
 ---
 
@@ -154,19 +154,19 @@ sources: []
 #### А. У виразах з дієсловами
 | Вираз | Приклад | Переклад |
 |-------|---------|----------|
-| **être dans** | Il est dans son bureau. | Він у своєму офісі. |
-| **entrer dans** | J'entre dans la maison. | Я заходжу у будинок. |
-| **mettre dans** | Mets les livres dans le sac. | Поклади книги у сумку. |
-| **trouver dans** | J'ai trouvé les clés dans ma poche. | Я знайшов ключі у своїй кишені. |
-| **vivre dans** | Il vit dans une petite ville. | Він живе у маленькому містечку. |
+| §§MDEMPH0§§ | Il est dans son bureau. | Він у своєму офісі. |
+| §§MDEMPH0§§ | J'entre dans la maison. | Я заходжу у будинок. |
+| §§MDEMPH0§§ | Mets les livres dans le sac. | Поклади книги у сумку. |
+| §§MDEMPH0§§ | J'ai trouvé les clés dans ma poche. | Я знайшов ключі у своїй кишені. |
+| §§MDEMPH0§§ | Il vit dans une petite ville. | Він живе у маленькому містечку. |
 
 #### Б. У виразах з іменниками
 | Вираз | Приклад | Переклад |
 |-------|---------|----------|
-| **dans le futur** | Dans le futur, tout sera différent. | У майбутньому все буде іншим. |
-| **dans le passé** | Dans le passé, la vie était plus simple. | У минулому життя було простішим. |
-| **dans le monde** | Dans le monde entier, on parle français. | У всьому світі говорять французькою. |
-| **dans la vie** | Dans la vie, il faut travailler. | У житті потрібно працювати. |
+| §§MDEMPH0§§ | Dans le futur, tout sera différent. | У майбутньому все буде іншим. |
+| §§MDEMPH0§§ | Dans le passé, la vie était plus simple. | У минулому життя було простішим. |
+| §§MDEMPH0§§ | Dans le monde entier, on parle français. | У всьому світі говорять французькою. |
+| §§MDEMPH0§§ | Dans la vie, il faut travailler. | У житті потрібно працювати. |
 
 ---
 
@@ -174,17 +174,17 @@ sources: []
 
 | Прийменник | Основне значення | Приклад |
 |------------|------------------|---------|
-| **DANS** | Всередині (місце) | dans la maison (у будинку) |
-| **DANS** | Через (час) | dans une heure (через годину) |
-| **DANS** | Стан/ситуація | dans la joie (у радості) |
-| **À** | Місце (біля/поблизу) | à la maison (удома) |
-| **À** | Час (точний) | à 8 heures (о 8 годині) |
-| **À** | Країни (чол. рід) | au Canada (у Канаді) |
-| **EN** | Країни (жін. рід) | en France (у Франції) |
-| **EN** | Транспорт (жін. рід) | en voiture (на машині) |
-| **EN** | Матеріал | en bois (з дерева) |
-| **DE** | Походження | de Kiev (з Києва) |
-| **DE** | Володіння | le livre de Marie (книга Марії) |
+| §§MDEMPH0§§ | Всередині (місце) | dans la maison (у будинку) |
+| §§MDEMPH0§§ | Через (час) | dans une heure (через годину) |
+| §§MDEMPH0§§ | Стан/ситуація | dans la joie (у радості) |
+| §§MDEMPH0§§ | Місце (біля/поблизу) | à la maison (удома) |
+| §§MDEMPH0§§ | Час (точний) | à 8 heures (о 8 годині) |
+| §§MDEMPH0§§ | Країни (чол. рід) | au Canada (у Канаді) |
+| §§MDEMPH0§§ | Країни (жін. рід) | en France (у Франції) |
+| §§MDEMPH0§§ | Транспорт (жін. рід) | en voiture (на машині) |
+| §§MDEMPH0§§ | Матеріал | en bois (з дерева) |
+| §§MDEMPH0§§ | Походження | de Kiev (з Києва) |
+| §§MDEMPH0§§ | Володіння | le livre de Marie (книга Марії) |
 
 ---
 
@@ -196,9 +196,9 @@ sources: []
 ❌ Il est à Paris. → ✅ Il est à Paris. (виняток: міста з À)
 ❌ Elle entre à la pièce. → ✅ Elle entre dans la pièce.
 ```
-> 🔹 **Правило**:
-> - **DANS**: всередині чогось (dans la maison — у будинку)
-> - **À**: біля/поблизу чогось (à la maison — удома, у свій будинок)
+> 🔹 §§MDEMPH0§§:
+> - §§MDEMPH0§§: всередині чогось (dans la maison — у будинку)
+> - §§MDEMPH0§§: біля/поблизу чогось (à la maison — удома, у свій будинок)
 
 ---
 
@@ -208,9 +208,9 @@ sources: []
 ❌ Il est dans la voiture. (коли мова йде про пересування) → ✅ Il va en voiture.
 ❌ Nous sommes dans le train. (коли мова йде про пересування) → ✅ Nous voyageons en train.
 ```
-> 🔹 **Правило**:
-> - **EN + транспорт**: коли мова йде про **пересування** (en bus, en voiture)
-> - **DANS + транспорт**: коли мова йде про **місцеперебування** (dans le bus, dans la voiture)
+> 🔹 §§MDEMPH0§§:
+> - §§MDEMPH0§§: коли мова йде про §§MDEMPH1§§ (en bus, en voiture)
+> - §§MDEMPH0§§: коли мова йде про §§MDEMPH1§§ (dans le bus, dans la voiture)
 
 ---
 
@@ -219,9 +219,9 @@ sources: []
 ❌ Je suis de la maison. (коли мова йде про місцеперебування) → ✅ Je suis dans la maison.
 ❌ Le chat est de la boîte. → ✅ Le chat est dans la boîte.
 ```
-> 🔹 **Правило**:
-> - **DANS**: місцеперебування (у чомусь)
-> - **DE**: походження (з чогось)
+> 🔹 §§MDEMPH0§§:
+> - §§MDEMPH0§§: місцеперебування (у чомусь)
+> - §§MDEMPH0§§: походження (з чогось)
 
 ---
 
@@ -230,9 +230,9 @@ sources: []
 ❌ Je te verrai en une heure. (через годину) → ✅ Je te verrai dans une heure.
 ❌ Il part en cinq minutes. (через п'ять хвилин) → ✅ Il part dans cinq minutes.
 ```
-> 🔹 **Правило**:
-> - **DANS + період**: через якийсь час (dans une heure)
-> - **EN + період**: за якийсь час (en une heure — тривалість дії)
+> 🔹 §§MDEMPH0§§:
+> - §§MDEMPH0§§: через якийсь час (dans une heure)
+> - §§MDEMPH0§§: за якийсь час (en une heure — тривалість дії)
 
 ---
 
@@ -241,14 +241,14 @@ sources: []
 ❌ Je vis dans le Paris. → ✅ J'habite à Paris.
 ❌ Il va dans la Kiev. → ✅ Il va à Kiev.
 ```
-> 🔹 **Правило**: З **містами** вживається **À** (або **AU** для чоловічого роду), а не DANS.
+> 🔹 §§MDEMPH0§§: З §§MDEMPH1§§ вживається §§MDEMPH2§§ (або §§MDEMPH3§§ для чоловічого роду), а не DANS.
 
 ---
 
 ## 🇺🇦 Для українськомовних
 
 ### 🎯 Чому французи кажуть "dans la maison" а не "à la maison"?
-У французькій мові **DANS** вживається для позначення **фізичного місця всередині** чогось, а **À** — для позначення **місця в загальному сенсі** або **напрямку руху**.
+У французькій мові §§MDEMPH0§§ вживається для позначення §§MDEMPH1§§ чогось, а §§MDEMPH2§§ — для позначення §§MDEMPH3§§ або §§MDEMPH4§§.
 
 ### 🎯 Як запам'ятати різницю між DANS та À?
 | DANS | À |
@@ -258,34 +258,34 @@ sources: []
 | dans une heure (через годину) | à 8 heures (о 8 годині) |
 
 ### 🎯 Чому "у Парижі" — "à Paris", а "у будинку" — "dans la maison"?
-- **Міста**: у французькій мові з містами вживається **À** (або **AU** для чоловічого роду)
-- **Будівлі/кімнати**: з будівлями і кімнатами вживається **DANS**, якщо мова йде про фізичне місце всередині
+- §§MDEMPH0§§: у французькій мові з містами вживається §§MDEMPH1§§ (або §§MDEMPH2§§ для чоловічого роду)
+- §§MDEMPH0§§: з будівлями і кімнатами вживається §§MDEMPH1§§, якщо мова йде про фізичне місце всередині
 
 ### 🎯 Типові українські помилки
-1. **"У будинку" (всередині) → "dans la maison"** (а не "à la maison", якщо не йдеться про "удома")
-2. **"Через годину" → "dans une heure"** (а не "en une heure")
-3. **"У машині" (всередині) → "dans la voiture"** (а не "en voiture", якщо не йдеться про пересування)
-4. **"У Києві" → "à Kiev"** (а не "dans Kiev")
+1. §§MDEMPH0§§ (а не "à la maison", якщо не йдеться про "удома")
+2. §§MDEMPH0§§ (а не "en une heure")
+3. §§MDEMPH0§§ (а не "en voiture", якщо не йдеться про пересування)
+4. §§MDEMPH0§§ (а не "dans Kiev")
 
 ---
 
 ## 📝 Вправи
 
 ### Вправа 1: Оберіть правильний прийменник
-1. Le chat est ___ la boîte. (dans/à/en)
-2. Je te verrai ___ une heure. (dans/en/de)
-3. Il habite ___ Paris. (dans/à/en)
-4. Les clés sont ___ mon sac. (dans/à/sur)
-5. Nous partons ___ cinq minutes. (dans/en/à)
+1. Le chat est §§MDEMPH0§§ la boîte. (dans/à/en)
+2. Je te verrai §§MDEMPH0§§ une heure. (dans/en/de)
+3. Il habite §§MDEMPH0§§ Paris. (dans/à/en)
+4. Les clés sont §§MDEMPH0§§ mon sac. (dans/à/sur)
+5. Nous partons §§MDEMPH0§§ cinq minutes. (dans/en/à)
 
 <details>
 <summary>✅ Відповіді</summary>
 
-1. **dans** (Le chat est dans la boîte.)
-2. **dans** (Je te verrai dans une heure.)
-3. **à** (Il habite à Paris.)
-4. **dans** (Les clés sont dans mon sac.)
-5. **dans** (Nous partons dans cinq minutes.)
+1. §§MDEMPH0§§ (Le chat est dans la boîte.)
+2. §§MDEMPH0§§ (Je te verrai dans une heure.)
+3. §§MDEMPH0§§ (Il habite à Paris.)
+4. §§MDEMPH0§§ (Les clés sont dans mon sac.)
+5. §§MDEMPH0§§ (Nous partons dans cinq minutes.)
 </details>
 
 ---
@@ -300,11 +300,11 @@ sources: []
 <details>
 <summary>✅ Відповіді</summary>
 
-1. Je suis **dans** la maison.
-2. Il part **dans** cinq minutes.
-3. Le livre est **sur** la table. (або **dans** la table, якщо у столі)
-4. Elle entre **dans** la pièce.
-5. Nous sommes **à** Paris.
+1. Je suis §§MDEMPH0§§ la maison.
+2. Il part §§MDEMPH0§§ cinq minutes.
+3. Le livre est §§MDEMPH0§§ la table. (або §§MDEMPH1§§ la table, якщо у столі)
+4. Elle entre §§MDEMPH0§§ la pièce.
+5. Nous sommes §§MDEMPH0§§ Paris.
 </details>
 
 ---
@@ -319,30 +319,30 @@ sources: []
 <details>
 <summary>✅ Відповіді</summary>
 
-1. Le chat dort **dans le panier**.
-2. Je te verrai **dans une heure**.
-3. Les enfants jouent **dans le jardin**.
-4. Les clés sont **dans mon sac**.
-5. Nous sommes **dans la difficulté**.
+1. Le chat dort §§MDEMPH0§§.
+2. Je te verrai §§MDEMPH0§§.
+3. Les enfants jouent §§MDEMPH0§§.
+4. Les clés sont §§MDEMPH0§§.
+5. Nous sommes §§MDEMPH0§§.
 </details>
 
 ---
 
 ### Вправа 4: Доповніть речення
-1. Le chien dort ___ (у будинку).
-2. Je te téléphonerai ___ (через два дні).
-3. Il vit ___ (у Парижі).
-4. Les fleurs sont ___ (у вазі).
-5. Elle est ___ (у радості).
+1. Le chien dort §§MDEMPH0§§ (у будинку).
+2. Je te téléphonerai §§MDEMPH0§§ (через два дні).
+3. Il vit §§MDEMPH0§§ (у Парижі).
+4. Les fleurs sont §§MDEMPH0§§ (у вазі).
+5. Elle est §§MDEMPH0§§ (у радості).
 
 <details>
 <summary>✅ Відповіді</summary>
 
-1. Le chien dort **dans la maison**.
-2. Je te téléphonerai **dans deux jours**.
-3. Il vit **à Paris**.
-4. Les fleurs sont **dans le vase**.
-5. Elle est **dans la joie**.
+1. Le chien dort §§MDEMPH0§§.
+2. Je te téléphonerai §§MDEMPH0§§.
+3. Il vit §§MDEMPH0§§.
+4. Les fleurs sont §§MDEMPH0§§.
+5. Elle est §§MDEMPH0§§.
 </details>
 
 ---
@@ -355,12 +355,12 @@ sources: []
 ---
 
 ## 🎓 Підсумок
-- **DANS** — прийменник для позначення:
-  - **Місця всередині** (dans la maison, dans le sac)
-  - **Часу "через"** (dans une heure, dans deux jours)
-  - **Стану/ситуації** (dans la joie, dans la difficulté)
-  - **Напрямку (всередину)** (dans la rue, dans le jardin)
-- **Основна різниця з À**: DANS = всередині, À = біля/поблизу
-- **Основна різниця з EN**: DANS = через (час), EN = за (тривалість)
-- **З містами**: **À** (або **AU**), а не DANS
-- **З транспортом**: **EN** для пересування, **DANS** для місця всередині
+- §§MDEMPH0§§ — прийменник для позначення:
+  - §§MDEMPH0§§ (dans la maison, dans le sac)
+  - §§MDEMPH0§§ (dans une heure, dans deux jours)
+  - §§MDEMPH0§§ (dans la joie, dans la difficulté)
+  - §§MDEMPH0§§ (dans la rue, dans le jardin)
+- §§MDEMPH0§§: DANS = всередині, À = біля/поблизу
+- §§MDEMPH0§§: DANS = через (час), EN = за (тривалість)
+- §§MDEMPH0§§: §§MDEMPH1§§ (або §§MDEMPH2§§), а не DANS
+- §§MDEMPH0§§: §§MDEMPH1§§ для пересування, §§MDEMPH2§§ для місця всередині

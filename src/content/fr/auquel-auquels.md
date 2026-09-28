@@ -26,65 +26,65 @@ tags: []
 ---
 ## Швидка відповідь
 
-**Auquel** та споріднені форми походять від **à + lequel**:
+§§MDEMPH0§§ та споріднені форми походять від §§MDEMPH1§§:
 
-- *auquel* = à + lequel;
-- *auxquels* = à + lesquels;
-- *auxquelles* = à + lesquelles;
-- *à laquelle* зберігається як окрема форма.
+- §§MDEMPH0§§ = à + lequel;
+- §§MDEMPH0§§ = à + lesquels;
+- §§MDEMPH0§§ = à + lesquelles;
+- §§MDEMPH0§§ зберігається як окрема форма.
 
 Приклади:
 
-*Le projet auquel je pense...*  
-*Les projets auxquels je pense...*  
-*La question à laquelle je réponds...*
+§§MDEMPH0§§  
+§§MDEMPH0§§  
+§§MDEMPH0§§
 
 ## 1. Чоловічий рід
 
 Однина:
 
-*à + lequel → auquel*
+§§MDEMPH0§§
 
-*Le problème auquel je pense est complexe.*
+§§MDEMPH0§§
 
 Множина:
 
-*à + lesquels → auxquels*
+§§MDEMPH0§§
 
-*Les problèmes auxquels nous réfléchissons...*
+§§MDEMPH0§§
 
 ## 2. Жіночий рід
 
 Однина:
 
-*à laquelle*
+§§MDEMPH0§§
 
-*La question à laquelle je réponds...*
+§§MDEMPH0§§
 
 Множина:
 
-*auxquelles*
+§§MDEMPH0§§
 
-*Les questions auxquelles je réponds...*
+§§MDEMPH0§§
 
 ## 3. Чому laquelle не стає «alaquelle»
 
-Скорочення стосується поєднання **à + le/les**, а не всіх форм *lequel* однаково:
+Скорочення стосується поєднання §§MDEMPH0§§, а не всіх форм §§MDEMPH1§§ однаково:
 
-*auquel*  
-*auxquels*  
-*auxquelles*
+§§MDEMPH0§§  
+§§MDEMPH0§§  
+§§MDEMPH0§§
 
 але:
 
-*à laquelle*.
+§§MDEMPH0§§.
 
 ## 4. Питання
 
 Форми можуть бути питальними:
 
-*Auquel penses-tu ?*  
-*Auxquels faites-vous référence ?*
+§§MDEMPH0§§  
+§§MDEMPH0§§
 
 Референт має бути відомий із контексту.
 
@@ -92,33 +92,33 @@ tags: []
 
 Найчастіше в навчальних текстах зустрічаємо:
 
-*Le projet auquel je participe...*  
-*Les règles auxquelles il obéit...*
+§§MDEMPH0§§  
+§§MDEMPH0§§
 
 Тут форма вводить відносну конструкцію.
 
 ## 6. Не плутати auquel і où
 
-*La ville où j’habite...*  
-*La ville à laquelle je pense...*
+§§MDEMPH0§§  
+§§MDEMPH0§§
 
-Вибір визначається керуванням конкретної конструкції. Не можна замінювати *auquel* на *où* лише тому, що обидва можуть стосуватися місця або об'єкта.
+Вибір визначається керуванням конкретної конструкції. Не можна замінювати §§MDEMPH0§§ на §§MDEMPH1§§ лише тому, що обидва можуть стосуватися місця або об'єкта.
 
 ## Алгоритм
 
-1. Знайди конструкцію, яка вимагає **à**.
+1. Знайди конструкцію, яка вимагає §§MDEMPH0§§.
 2. Визнач референт.
-3. Чоловічий однина → **auquel**.
-4. Чоловічий множина → **auxquels**.
-5. Жіночий однина → **à laquelle**.
-6. Жіночий множина → **auxquelles**.
+3. Чоловічий однина → §§MDEMPH0§§.
+4. Чоловічий множина → §§MDEMPH0§§.
+5. Жіночий однина → §§MDEMPH0§§.
+6. Жіночий множина → §§MDEMPH0§§.
 
 ## Мінітест
 
-*Le principe auquel...* → **auquel**.
+§§MDEMPH1§§ → §§MDEMPH0§§.
 
-*Les principes auxquels...* → **auxquels**.
+§§MDEMPH1§§ → §§MDEMPH0§§.
 
-*La règle à laquelle...* → **à laquelle**.
+§§MDEMPH1§§ → §§MDEMPH0§§.
 
-*Les règles auxquelles...* → **auxquelles**.
+§§MDEMPH1§§ → §§MDEMPH0§§.

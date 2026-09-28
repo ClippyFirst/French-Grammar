@@ -30,18 +30,18 @@ variant: []
 
 Французькі «нерегулярні» дієслова не утворюють однієї граматичної групи. Нерегулярність може стосуватися основи, закінчень, чергування голосних і приголосних, participe passé, майбутньої основи або кількох рівнів одночасно.
 
-Тому ефективніше вчити не абстрактний список «неправильних дієслів», а **моделі**:
+Тому ефективніше вчити не абстрактний список «неправильних дієслів», а §§MDEMPH0§§:
 
-**дієслово → ключові основи → характерні форми → похідні → керування**.
+§§MDEMPH0§§.
 
 ## Що означає «нерегулярне»
 
 Наприклад:
 
-- **pouvoir → peux / pouvons / peuvent**;
-- **venir → viens / venons / viennent**;
-- **prendre → prends / prenons / prennent**;
-- **boire → bois / buvons / boivent**.
+- §§MDEMPH0§§;
+- §§MDEMPH0§§;
+- §§MDEMPH0§§;
+- §§MDEMPH0§§.
 
 У кожному випадку змінюється не одна й та сама частина слова.
 
@@ -49,35 +49,35 @@ variant: []
 
 ### 1. Кілька основ у présent
 
-> **venir → viens / venons / viennent**
+> §§MDEMPH0§§
 
-> **boire → bois / buvons / boivent**
+> §§MDEMPH0§§
 
 Тут різні форми потрібно засвоювати як частини однієї парадигми.
 
 ### 2. Нерегулярна основа futur
 
-> **venir → je viendrai**
+> §§MDEMPH0§§
 
-> **tenir → je tiendrai**
+> §§MDEMPH0§§
 
-> **aller → j’irai**
+> §§MDEMPH0§§
 
-> **pouvoir → je pourrai**
+> §§MDEMPH0§§
 
 Тому форма futur не завжди виводиться простим додаванням закінчення до інфінітива.
 
 ### 3. Нерегулярний participe passé
 
-> **prendre → pris**
+> §§MDEMPH0§§
 
-> **mettre → mis**
+> §§MDEMPH0§§
 
-> **voir → vu**
+> §§MDEMPH0§§
 
-> **boire → bu**
+> §§MDEMPH0§§
 
-> **écrire → écrit**
+> §§MDEMPH0§§
 
 У складених часах саме participe passé часто є окремою формою, яку потрібно запам'ятати.
 
@@ -85,11 +85,11 @@ variant: []
 
 Дієслова можуть утворювати сімейства:
 
-> **prendre → apprendre → comprendre → reprendre**
+> §§MDEMPH0§§
 
-> **mettre → permettre → promettre → transmettre**
+> §§MDEMPH0§§
 
-> **venir → devenir → revenir → parvenir**
+> §§MDEMPH0§§
 
 Це дає можливість вивчати не сотні окремих форм, а повторювані моделі.
 
@@ -99,7 +99,7 @@ variant: []
 
 III група містить дуже різні підмоделі.
 
-> **prendre**, **mettre**, **venir**, **voir**, **boire**
+> §§MDEMPH0§§, §§MDEMPH1§§, §§MDEMPH2§§, §§MDEMPH3§§, §§MDEMPH4§§
 
 усі належать до III групи, але не мають однієї парадигми.
 
@@ -126,7 +126,7 @@ III група містить дуже різні підмоделі.
 
 Наприклад:
 
-**venir** → *je viens, nous venons, ils viennent, venu, je viendrai*.
+§§MDEMPH0§§ → §§MDEMPH1§§.
 
 ## Українська перспектива
 
@@ -134,27 +134,27 @@ III група містить дуже різні підмоделі.
 
 ## Типові помилки
 
-❌ *nous prennons*  
-✅ **nous prenons**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
-❌ *j’ai prend*  
-✅ **j’ai pris**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
-❌ *ils buvent*  
-✅ **ils boivent**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
-❌ *j’allerai*  
-✅ **j’irai**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
 ## Практична перевірка
 
 Для кожного нового дієслова назвіть:
 
-**je — nous — ils — participe passé — futur**
+§§MDEMPH0§§
 
 Наприклад:
 
-**mettre → mets — mettons — mettent — mis — mettrai**
+§§MDEMPH0§§
 
 Це швидше виявляє модель, ніж заучування лише інфінітива.
 

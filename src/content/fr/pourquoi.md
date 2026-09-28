@@ -26,21 +26,21 @@ tags: []
 ---
 # Pourquoi
 
-**Pourquoi** питає про причину або мотив:
+§§MDEMPH0§§ питає про причину або мотив:
 
-> **Pourquoi es-tu parti ?**
-> **Pourquoi est-ce qu'il vient ?**
+> §§MDEMPH0§§
+> §§MDEMPH0§§
 
 Типова відповідь може містити причинний конектор:
 
-> **Parce qu'il était fatigué.**
+> §§MDEMPH0§§
 
 ## Порядок слів
 
-**Pourquoi** може поєднуватися з інтонаційним питанням, **est-ce que** або інверсією:
+§§MDEMPH0§§ може поєднуватися з інтонаційним питанням, §§MDEMPH1§§ або інверсією:
 
-> **Pourquoi tu pars ?**
-> **Pourquoi est-ce que tu pars ?**
-> **Pourquoi pars-tu ?**
+> §§MDEMPH0§§
+> §§MDEMPH0§§
+> §§MDEMPH0§§
 
 Перший варіант особливо типовий для розмовного мовлення; третій має більш формальну структуру.

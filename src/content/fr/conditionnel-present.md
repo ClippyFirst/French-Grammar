@@ -23,41 +23,41 @@ next: []
 variant: []
 aliases: []
 ---
-# **Conditionnel présent**
+# §§MDEMPH0§§
 
-**Conditionnel présent** — форма, яка може виражати гіпотезу, наслідок умови, ввічливе прохання, бажання, пораду або майбутню подію, розглянуту з минулої точки відліку.
+§§MDEMPH0§§ — форма, яка може виражати гіпотезу, наслідок умови, ввічливе прохання, бажання, пораду або майбутню подію, розглянуту з минулої точки відліку.
 
-Не зводьте його до українського **«би»**. Французький conditionnel має кілька функцій, а значення визначається конструкцією та контекстом.
+Не зводьте його до українського §§MDEMPH0§§. Французький conditionnel має кілька функцій, а значення визначається конструкцією та контекстом.
 
 ## Швидкий огляд
 
 | Значення | Приклад |
 |---|---|
-| наслідок гіпотетичної умови | *Si j'avais le temps, je voyagerais.* |
-| ввічливе прохання | *Je voudrais un café.* |
-| бажання | *J'aimerais visiter Lyon.* |
-| порада / гіпотетична рекомендація | *Vous devriez vérifier les données.* |
-| майбутнє в минулому | *Il a dit qu'il viendrait.* |
-| обережне / дистанційоване повідомлення | *Selon plusieurs sources, il y aurait un problème.* |
+| наслідок гіпотетичної умови | §§MDEMPH0§§ |
+| ввічливе прохання | §§MDEMPH0§§ |
+| бажання | §§MDEMPH0§§ |
+| порада / гіпотетична рекомендація | §§MDEMPH0§§ |
+| майбутнє в минулому | §§MDEMPH0§§ |
+| обережне / дистанційоване повідомлення | §§MDEMPH0§§ |
 
-Останній тип особливо залежить від жанру та контексту: у журналістиці conditionnel може маркувати **непідтверджену або приписану інформацію**, але сам по собі не доводить її істинність чи хибність.
+Останній тип особливо залежить від жанру та контексту: у журналістиці conditionnel може маркувати §§MDEMPH0§§, але сам по собі не доводить її істинність чи хибність.
 
 ---
 
 ## 1. Як утворюється
 
-Основа **conditionnel présent** збігається з основою **futur simple**.
+Основа §§MDEMPH0§§ збігається з основою §§MDEMPH1§§.
 
-До неї додаються закінчення **imparfait**:
+До неї додаються закінчення §§MDEMPH0§§:
 
 | Особа | Закінчення |
 |---|---|
-| je | **-ais** |
-| tu | **-ais** |
-| il / elle / on | **-ait** |
-| nous | **-ions** |
-| vous | **-iez** |
-| ils / elles | **-aient** |
+| je | §§MDEMPH0§§ |
+| tu | §§MDEMPH0§§ |
+| il / elle / on | §§MDEMPH0§§ |
+| nous | §§MDEMPH0§§ |
+| vous | §§MDEMPH0§§ |
+| ils / elles | §§MDEMPH0§§ |
 
 ### Parler
 
@@ -88,86 +88,86 @@ aliases: []
 
 Практично:
 
-**основа futur simple + закінчення imparfait**
+§§MDEMPH0§§
 
 ---
 
 ## 2. Нерегулярні основи
 
-Оскільки основа збігається з **futur simple**, нерегулярність також переважно збігається.
+Оскільки основа збігається з §§MDEMPH0§§, нерегулярність також переважно збігається.
 
 | Інфінітив | Основа | Conditionnel |
 |---|---|---|
-| être | **ser-** | je serais |
-| avoir | **aur-** | j'aurais |
-| aller | **ir-** | j'irais |
-| faire | **fer-** | je ferais |
-| venir | **viendr-** | je viendrais |
-| pouvoir | **pourr-** | je pourrais |
-| vouloir | **voudr-** | je voudrais |
-| devoir | **devr-** | je devrais |
-| savoir | **saur-** | je saurais |
-| voir | **verr-** | je verrais |
-| envoyer | **enverr-** | j'enverrais |
-| recevoir | **recevr-** | je recevrais |
+| être | §§MDEMPH0§§ | je serais |
+| avoir | §§MDEMPH0§§ | j'aurais |
+| aller | §§MDEMPH0§§ | j'irais |
+| faire | §§MDEMPH0§§ | je ferais |
+| venir | §§MDEMPH0§§ | je viendrais |
+| pouvoir | §§MDEMPH0§§ | je pourrais |
+| vouloir | §§MDEMPH0§§ | je voudrais |
+| devoir | §§MDEMPH0§§ | je devrais |
+| savoir | §§MDEMPH0§§ | je saurais |
+| voir | §§MDEMPH0§§ | je verrais |
+| envoyer | §§MDEMPH0§§ | j'enverrais |
+| recevoir | §§MDEMPH0§§ | je recevrais |
 
 ### Корисний принцип
 
 Не створюйте окремий список нерегулярних conditionnel.
 
-Вивчіть основу **futur simple** — вона працює і для conditionnel:
+Вивчіть основу §§MDEMPH0§§ — вона працює і для conditionnel:
 
-- **je pourrai** → **je pourrais**
-- **je voudrai** → **je voudrais**
-- **je viendrai** → **je viendrais**
-- **je serai** → **je serais**
+- §§MDEMPH0§§ → §§MDEMPH1§§
+- §§MDEMPH0§§ → §§MDEMPH1§§
+- §§MDEMPH0§§ → §§MDEMPH1§§
+- §§MDEMPH0§§ → §§MDEMPH1§§
 
 ---
 
-## 3. Conditionnel після **si**
+## 3. Conditionnel після §§MDEMPH0§§
 
 Найтиповіша конструкція:
 
-**si + imparfait → conditionnel présent**
+§§MDEMPH0§§
 
-- **Si j'avais plus de temps, je voyagerais davantage.**
-- **Si tu travaillais moins, tu serais moins fatigué.**
-- **Si nous habitions à Paris, nous prendrions le métro.**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
-Тут conditionnel позначає **наслідок гіпотетичної умови**.
+Тут conditionnel позначає §§MDEMPH0§§.
 
 Не:
 
-❌ *Si j'aurais plus de temps...*
+❌ §§MDEMPH0§§
 
 А:
 
-✅ **Si j'avais plus de temps, je voyagerais davantage.**
+✅ §§MDEMPH0§§
 
 ### Український контраст
 
-- **Якби я мав більше часу, я більше подорожував би.**
-- **Якби ми жили в Парижі, ми їздили б метро.**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
-Українська частка **би / б** часто допомагає відчути гіпотетичний наслідок, але не слід перекладати її механічно в кожному реченні з conditionnel.
+Українська частка §§MDEMPH0§§ часто допомагає відчути гіпотетичний наслідок, але не слід перекладати її механічно в кожному реченні з conditionnel.
 
 ---
 
-## 4. Conditionnel без **si**
+## 4. Conditionnel без §§MDEMPH0§§
 
-Conditionnel не потребує обов'язково підрядної з **si**.
+Conditionnel не потребує обов'язково підрядної з §§MDEMPH0§§.
 
 ### Ввічливе прохання
 
-- **Je voudrais un café, s'il vous plaît.**
-- **Pourriez-vous m'aider ?**
-- **Voudriez-vous patienter quelques minutes ?**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
 Порівняйте ступінь прямоти:
 
-- **Donnez-moi un café.** — наказ / дуже пряме прохання залежно від контексту.
-- **Je voudrais un café.** — стандартне ввічливе замовлення.
-- **Pourriez-vous m'aider ?** — ввічливе прохання про можливість допомогти.
+- §§MDEMPH0§§ — наказ / дуже пряме прохання залежно від контексту.
+- §§MDEMPH0§§ — стандартне ввічливе замовлення.
+- §§MDEMPH0§§ — ввічливе прохання про можливість допомогти.
 
 ---
 
@@ -175,24 +175,24 @@ Conditionnel не потребує обов'язково підрядної з *
 
 Conditionnel часто використовується для бажань або бажаних, але не гарантованих ситуацій:
 
-- **J'aimerais visiter le Canada.**
-- **Je voudrais apprendre le portugais.**
-- **Nous aimerions rester plus longtemps.**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
 Конструкція:
 
-**aimer / vouloir у conditionnel + infinitif**
+§§MDEMPH0§§
 
 Особливо часто:
 
-- **j'aimerais...**
-- **je voudrais...**
-- **nous aimerions...**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
 Ці форми не означають просто минуле. Не плутайте:
 
-- **je voulais** — я хотів / хотіла; imperfect, часто опис бажання в минулому;
-- **je voudrais** — я хотів би / хотіла б; conditionnel, часто ввічливе бажання або прохання.
+- §§MDEMPH0§§ — я хотів / хотіла; imperfect, часто опис бажання в минулому;
+- §§MDEMPH0§§ — я хотів би / хотіла б; conditionnel, часто ввічливе бажання або прохання.
 
 ---
 
@@ -200,42 +200,42 @@ Conditionnel часто використовується для бажань а�
 
 Conditionnel може пом'якшувати пораду:
 
-- **Tu devrais dormir davantage.**
-- **Vous devriez vérifier les données.**
-- **On pourrait commencer demain.**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
 Порівняйте:
 
-**Tu dois vérifier les données.**  
+§§MDEMPH0§§  
 → обов'язок.
 
-**Tu devrais vérifier les données.**  
+§§MDEMPH0§§  
 → порада / рекомендація.
 
-**On pourrait commencer demain.**  
+§§MDEMPH0§§  
 → одна з можливостей, пропозиція.
 
-Тут conditionnel не означає, що дія обов'язково станеться. Він створює **гіпотетичну або менш категоричну рамку**.
+Тут conditionnel не означає, що дія обов'язково станеться. Він створює §§MDEMPH0§§.
 
 ---
 
 ## 7. Майбутнє в минулому
 
-Conditionnel présent може позначати подію, яка була майбутньою **відносно минулої точки відліку**.
+Conditionnel présent може позначати подію, яка була майбутньою §§MDEMPH0§§.
 
-- **Il a dit qu'il viendrait le lendemain.**
-- **Elle savait qu'elle partirait bientôt.**
-- **Nous pensions qu'ils arriveraient à huit heures.**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
 Порівняйте:
 
-**Il dit qu'il viendra demain.**  
-→ він каже зараз; майбутня подія = *viendra*.
+§§MDEMPH0§§  
+→ він каже зараз; майбутня подія = §§MDEMPH0§§.
 
-**Il a dit qu'il viendrait le lendemain.**  
-→ він сказав у минулому; майбутня щодо того минулого моменту подія = *viendrait*.
+§§MDEMPH0§§  
+→ він сказав у минулому; майбутня щодо того минулого моменту подія = §§MDEMPH0§§.
 
-Тому назва **futur dans le passé** описує часову функцію, а не окремий «п'ятий майбутній час».
+Тому назва §§MDEMPH0§§ описує часову функцію, а не окремий «п'ятий майбутній час».
 
 ---
 
@@ -245,22 +245,22 @@ Conditionnel présent може позначати подію, яка була м
 
 | | Futur simple | Conditionnel présent |
 |---|---|---|
-| je | je parler**ai** | je parler**ais** |
-| tu | tu parler**as** | tu parler**ais** |
-| il | il parler**a** | il parler**ait** |
-| nous | nous parler**ons** | nous parler**ions** |
-| vous | vous parler**ez** | vous parler**iez** |
-| ils | ils parler**ont** | ils parler**aient** |
+| je | je parler§§MDEMPH0§§ | je parler§§MDEMPH1§§ |
+| tu | tu parler§§MDEMPH0§§ | tu parler§§MDEMPH1§§ |
+| il | il parler§§MDEMPH0§§ | il parler§§MDEMPH1§§ |
+| nous | nous parler§§MDEMPH0§§ | nous parler§§MDEMPH1§§ |
+| vous | vous parler§§MDEMPH0§§ | vous parler§§MDEMPH1§§ |
+| ils | ils parler§§MDEMPH0§§ | ils parler§§MDEMPH1§§ |
 
 ### Мінімальні пари
 
-- **Je viendrai demain.** — Я прийду завтра.
-- **Je viendrais si je pouvais.** — Я прийшов би, якби міг.
+- §§MDEMPH0§§ — Я прийду завтра.
+- §§MDEMPH0§§ — Я прийшов би, якби міг.
 
-- **Nous partirons à huit heures.** — Ми вирушимо о восьмій.
-- **Nous partirions plus tôt si c'était possible.** — Ми вирушили б раніше, якби це було можливо.
+- §§MDEMPH0§§ — Ми вирушимо о восьмій.
+- §§MDEMPH0§§ — Ми вирушили б раніше, якби це було можливо.
 
-Особливо уважно слухайте різницю **-ai / -ais** у письмі та вимові: для учня це одна з типових зон плутанини.
+Особливо уважно слухайте різницю §§MDEMPH0§§ у письмі та вимові: для учня це одна з типових зон плутанини.
 
 ---
 
@@ -272,22 +272,22 @@ Conditionnel présent може позначати подію, яка була м
 
 Гіпотетична або потенційна ситуація:
 
-- **Je viendrais si je pouvais.**
-- **Elle accepterait cette offre.**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
 ### Conditionnel passé
 
 Гіпотетична ситуація, що стосується минулого:
 
-- **Je serais venu si j'avais pu.**
-- **Elle aurait accepté cette offre.**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
 Порівняйте:
 
-**Si j'avais le temps, je viendrais.**  
+§§MDEMPH0§§  
 → теперішня / майбутня гіпотеза.
 
-**Si j'avais eu le temps, je serais venu.**  
+§§MDEMPH0§§  
 → нереалізована минула можливість.
 
 ---
@@ -298,24 +298,24 @@ Conditionnel présent може позначати подію, яка була м
 
 ### Imparfait
 
-Описує минуле, звичну дію, фон або гіпотетичну умову після **si**:
+Описує минуле, звичну дію, фон або гіпотетичну умову після §§MDEMPH0§§:
 
-- **Quand j'étais étudiant, je travaillais le soir.**
-- **Si j'avais plus de temps...**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
 ### Conditionnel présent
 
 Може виражати наслідок гіпотези:
 
-- **...je travaillerais moins.**
+- §§MDEMPH0§§
 
 Порівняйте:
 
-**Si j'avais plus de temps, je travaillais moins.** ❌
+§§MDEMPH0§§ ❌
 
-**Si j'avais plus de temps, je travaillerais moins.** ✅
+§§MDEMPH0§§ ✅
 
-Умова → **imparfait**; гіпотетичний наслідок → **conditionnel présent**.
+Умова → §§MDEMPH0§§; гіпотетичний наслідок → §§MDEMPH1§§.
 
 ---
 
@@ -323,8 +323,8 @@ Conditionnel présent може позначати подію, яка була м
 
 У певних жанрах conditionnel може використовуватися для дистанціювання мовця від інформації:
 
-- **Selon plusieurs sources, le ministre serait prêt à démissionner.**
-- **Il y aurait plusieurs erreurs dans le rapport.**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
 Тут conditionnel може сигналізувати:
 
@@ -342,26 +342,26 @@ Conditionnel présent може позначати подію, яка була м
 
 Корисні високочастотні форми:
 
-- **je voudrais**
-- **j'aimerais**
-- **je pourrais**
-- **je souhaiterais**
-- **pourriez-vous... ?**
-- **voudriez-vous... ?**
-- **devriez-vous...** — залежно від контексту, не просто «ввічливість».
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§ — залежно від контексту, не просто «ввічливість».
 
 Порівняйте:
 
-**Je veux un renseignement.**  
+§§MDEMPH0§§  
 → пряме формулювання.
 
-**Je voudrais un renseignement.**  
+§§MDEMPH0§§  
 → ввічливе прохання.
 
-**Pouvez-vous m'aider ?**  
+§§MDEMPH0§§  
 → пряме, але нейтральне питання про можливість.
 
-**Pourriez-vous m'aider ?**  
+§§MDEMPH0§§  
 → більш дистанційоване / ввічливе прохання.
 
 ---
@@ -370,17 +370,17 @@ Conditionnel présent може позначати подію, яка була м
 
 Наприклад:
 
-**Il a dit qu'il viendrait.**
+§§MDEMPH0§§
 
 Українською природніше:
 
 > Він сказав, що прийде.
 
-Тут conditionnel передає **майбутнє відносно минулого**, а не гіпотезу.
+Тут conditionnel передає §§MDEMPH0§§, а не гіпотезу.
 
 Або:
 
-**Je voudrais un café.**
+§§MDEMPH0§§
 
 > Я хотів би каву.
 
@@ -394,41 +394,41 @@ Conditionnel présent може позначати подію, яка була м
 
 Коли бачите conditionnel présent:
 
-### 1. Чи є **si**?
+### 1. Чи є §§MDEMPH0§§?
 
-Якщо так, перевірте, чи це умовне **si**:
+Якщо так, перевірте, чи це умовне §§MDEMPH0§§:
 
-**Si j'avais le temps, je voyagerais.**
+§§MDEMPH0§§
 
 → наслідок гіпотези.
 
 ### 2. Чи це непряме питання?
 
-**Je ne sais pas s'il viendrait.**
+§§MDEMPH0§§
 
-→ *si* = «чи», не умовна конструкція.
+→ §§MDEMPH0§§ = «чи», не умовна конструкція.
 
 ### 3. Чи це ввічливе прохання?
 
-**Pourriez-vous répéter ?**
+§§MDEMPH0§§
 
 → conditionnel пом'якшує прохання.
 
 ### 4. Чи це бажання?
 
-**J'aimerais partir.**
+§§MDEMPH0§§
 
 → бажана ситуація.
 
 ### 5. Чи є дієслово повідомлення в минулому?
 
-**Il a dit qu'il viendrait.**
+§§MDEMPH0§§
 
 → futur dans le passé.
 
 ### 6. Чи джерело інформації дистанційоване?
 
-**Il y aurait un problème.**
+§§MDEMPH0§§
 
 → можливе маркування непідтвердженої / приписаної інформації.
 
@@ -438,42 +438,42 @@ Conditionnel présent може позначати подію, яка була м
 
 ### 1. Плутати futur та conditionnel
 
-❌ *Je parlerais demain.* — якщо ви хотіли сказати просто «я поговорю завтра».
+❌ §§MDEMPH0§§ — якщо ви хотіли сказати просто «я поговорю завтра».
 
-✅ **Je parlerai demain.**
+✅ §§MDEMPH0§§
 
 Conditionnel потрібен, якщо є відповідна модальна або часова причина:
 
-**Je parlerais demain si j'avais le temps.**
+§§MDEMPH0§§
 
 ### 2. Ставити conditionnel після si
 
-❌ **Si j'aurais le temps, je voyagerais.**
+❌ §§MDEMPH0§§
 
-✅ **Si j'avais le temps, je voyagerais.**
+✅ §§MDEMPH0§§
 
 ### 3. Вважати conditionnel лише перекладом «би»
 
-❌ автоматично перекладати кожен conditionnel часткою **б**.
+❌ автоматично перекладати кожен conditionnel часткою §§MDEMPH0§§.
 
 Порівняйте:
 
-**Il a dit qu'il viendrait.**
+§§MDEMPH0§§
 
-→ **Він сказав, що прийде.**
+→ §§MDEMPH0§§
 
 ### 4. Плутати je voudrais та je voulais
 
-**Je voulais vous parler.**  
+§§MDEMPH0§§  
 → я хотів поговорити; контекст визначає, чи це минуле бажання або ввічлива прелюдія до прохання.
 
-**Je voudrais vous parler.**  
+§§MDEMPH0§§  
 → я хотів би з вами поговорити; conditionnel, типово ввічливе прохання.
 
 ### 5. Плутати je pourrai та je pourrais
 
-- **Je pourrai venir demain.** — я зможу прийти завтра.
-- **Je pourrais venir demain.** — я міг би прийти завтра / можливо, зможу, залежно від контексту.
+- §§MDEMPH0§§ — я зможу прийти завтра.
+- §§MDEMPH0§§ — я міг би прийти завтра / можливо, зможу, залежно від контексту.
 
 ---
 
@@ -481,55 +481,55 @@ Conditionnel потрібен, якщо є відповідна модальна
 
 Українська має кілька способів виражати значення, які французька може передавати conditionnel:
 
-- **якби... — ...б** → гіпотеза;
-- **хотів би / хотіла б** → бажання;
-- **міг би / могла б** → потенційна можливість;
-- **варто було б** → рекомендація;
-- **сказав, що прийде** → майбутнє відносно минулого без окремої форми, тотожної французькому conditionnel.
+- §§MDEMPH0§§ → гіпотеза;
+- §§MDEMPH0§§ → бажання;
+- §§MDEMPH0§§ → потенційна можливість;
+- §§MDEMPH0§§ → рекомендація;
+- §§MDEMPH0§§ → майбутнє відносно минулого без окремої форми, тотожної французькому conditionnel.
 
-Тому найкраще вчити conditionnel через **функції**, а не через один український переклад.
+Тому найкраще вчити conditionnel через §§MDEMPH0§§, а не через один український переклад.
 
 ---
 
 ## 17. Самоперевірка
 
-1. **Si j'avais le temps, je ___ (voyager) davantage.**
-2. **Je ___ (vouloir) réserver une table.**
-3. **Il a dit qu'il ___ (venir) le lendemain.**
-4. **Vous ___ (pouvoir) répéter, s'il vous plaît ?**
-5. **Je ___ (venir) si je pouvais.**
-6. **Selon certaines sources, le projet ___ (être) abandonné.**
-7. **Je ___ (pouvoir) venir demain.** — оберіть між *pourrai* та *pourrais* залежно від значення «зможу» / «міг би».
-8. **Si j'avais accepté, je ___ (travailler) à Paris aujourd'hui.**
+1. §§MDEMPH0§§
+2. §§MDEMPH0§§
+3. §§MDEMPH0§§
+4. §§MDEMPH0§§
+5. §§MDEMPH0§§
+6. §§MDEMPH0§§
+7. §§MDEMPH0§§ — оберіть між §§MDEMPH1§§ та §§MDEMPH2§§ залежно від значення «зможу» / «міг би».
+8. §§MDEMPH0§§
 
 ### Відповіді
 
-1. **voyagerais** — наслідок гіпотези.
-2. **voudrais** — ввічливе бажання / прохання.
-3. **viendrait** — futur dans le passé.
-4. **pourriez** — ввічливе прохання.
-5. **viendrais** — гіпотетичний наслідок.
-6. **serait** — дистанційоване повідомлення.
-7. **pourrai** = «зможу»; **pourrais** = «міг би / можливо, зміг би».
-8. **travaillerais** — минула умова з актуальним результатом.
+1. §§MDEMPH0§§ — наслідок гіпотези.
+2. §§MDEMPH0§§ — ввічливе бажання / прохання.
+3. §§MDEMPH0§§ — futur dans le passé.
+4. §§MDEMPH0§§ — ввічливе прохання.
+5. §§MDEMPH0§§ — гіпотетичний наслідок.
+6. §§MDEMPH0§§ — дистанційоване повідомлення.
+7. §§MDEMPH0§§ = «зможу»; §§MDEMPH1§§ = «міг би / можливо, зміг би».
+8. §§MDEMPH0§§ — минула умова з актуальним результатом.
 
 ---
 
 ## Короткий підсумок
 
-**Conditionnel présent** не має одного значення.
+§§MDEMPH0§§ не має одного значення.
 
 Основні функції:
 
-1. **гіпотетичний наслідок** — *je viendrais*;
-2. **ввічливість** — *je voudrais*, *pourriez-vous*;
-3. **бажання** — *j'aimerais*;
-4. **порада / потенційна пропозиція** — *tu devrais*, *on pourrait*;
-5. **майбутнє в минулому** — *il a dit qu'il viendrait*;
-6. **дистанційоване повідомлення** — *il y aurait...* у відповідному контексті.
+1. §§MDEMPH0§§ — §§MDEMPH1§§;
+2. §§MDEMPH0§§ — §§MDEMPH1§§, §§MDEMPH2§§;
+3. §§MDEMPH0§§ — §§MDEMPH1§§;
+4. §§MDEMPH0§§ — §§MDEMPH1§§, §§MDEMPH2§§;
+5. §§MDEMPH0§§ — §§MDEMPH1§§;
+6. §§MDEMPH0§§ — §§MDEMPH1§§ у відповідному контексті.
 
 Формально:
 
-**основа futur simple + закінчення imparfait**
+§§MDEMPH0§§
 
-Але граматичне значення визначає не форма сама по собі, а **синтаксична конструкція та часово-модальна перспектива**.
+Але граматичне значення визначає не форма сама по собі, а §§MDEMPH0§§.

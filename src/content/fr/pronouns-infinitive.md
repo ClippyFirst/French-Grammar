@@ -28,18 +28,18 @@ variant: []
 
 ## Швидка відповідь
 
-У конструкціях із **дієсловом + інфінітивом** французький клітичний займенник зазвичай стоїть **безпосередньо перед тією дієслівною формою, до якої він синтаксично належить**.
+У конструкціях із §§MDEMPH0§§ французький клітичний займенник зазвичай стоїть §§MDEMPH1§§.
 
 Порівняйте:
 
-- **Je vais voir Marie. → Je vais la voir.**
-- **Je veux parler à Paul. → Je veux lui parler.**
-- **Je dois prendre les livres. → Je dois les prendre.**
-- **Je veux parler de ce problème. → Je veux en parler.**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
-Тому не достатньо побачити два дієслова й поставити займенник перед першим. Треба спочатку визначити, **яке дієслово керує відповідним додатком**.
+Тому не достатньо побачити два дієслова й поставити займенник перед першим. Треба спочатку визначити, §§MDEMPH0§§.
 
-> **Головний принцип:** знайдіть дієслово, для якого займенник є COD, COI, y або en, і поставте клітик у його позицію.
+> §§MDEMPH0§§ знайдіть дієслово, для якого займенник є COD, COI, y або en, і поставте клітик у його позицію.
 
 ---
 
@@ -47,30 +47,30 @@ variant: []
 
 Базова структура:
 
-**дієслово + infinitif**
+§§MDEMPH0§§
 
-> **Je veux partir.**  
+> §§MDEMPH0§§  
 > Я хочу піти.
 
-> **Nous devons travailler.**  
+> §§MDEMPH0§§  
 > Ми повинні працювати.
 
 Якщо додаток належить інфінітиву, займенник стоїть перед інфінітивом:
 
-> **Je veux voir Marie. → Je veux la voir.**
+> §§MDEMPH0§§
 
-> **Nous devons appeler nos amis. → Nous devons les appeler.**
+> §§MDEMPH0§§
 
-> **Elle veut parler à Paul. → Elle veut lui parler.**
+> §§MDEMPH0§§
 
-> **Je veux parler de ce problème. → Je veux en parler.**
+> §§MDEMPH0§§
 
 Тут:
 
-- *voir Marie* → **la** належить *voir*;
-- *appeler nos amis* → **les** належить *appeler*;
-- *parler à Paul* → **lui** належить *parler*;
-- *parler de ce problème* → **en** належить *parler*.
+- §§MDEMPH1§§ → §§MDEMPH0§§ належить §§MDEMPH2§§;
+- §§MDEMPH1§§ → §§MDEMPH0§§ належить §§MDEMPH2§§;
+- §§MDEMPH1§§ → §§MDEMPH0§§ належить §§MDEMPH2§§;
+- §§MDEMPH1§§ → §§MDEMPH0§§ належить §§MDEMPH2§§.
 
 ---
 
@@ -78,51 +78,51 @@ variant: []
 
 Порівняйте:
 
-> **Je le veux.**  
+> §§MDEMPH0§§  
 > Я цього хочу.
 
 і:
 
-> **Je veux le voir.**  
+> §§MDEMPH0§§  
 > Я хочу це побачити.
 
-У першому реченні **le** є додатком *veux*.
+У першому реченні §§MDEMPH0§§ є додатком §§MDEMPH1§§.
 
-У другому **le** є додатком *voir*.
+У другому §§MDEMPH0§§ є додатком §§MDEMPH1§§.
 
 Тому позиція визначається не перекладом «це», а синтаксичною структурою.
 
 Порівняйте також:
 
-> **Je lui parle.** — Я з ним / до нього говорю.
+> §§MDEMPH0§§ — Я з ним / до нього говорю.
 
-> **Je veux lui parler.** — Я хочу з ним / до нього поговорити.
+> §§MDEMPH0§§ — Я хочу з ним / до нього поговорити.
 
-У **Je veux lui parler** займенник не належить *veux*: дієслово *parler* керує **à quelqu'un**.
+У §§MDEMPH0§§ займенник не належить §§MDEMPH2§§: дієслово §§MDEMPH3§§ керує §§MDEMPH1§§.
 
 ---
 
 ## 3. Aller + infinitif
 
-У **aller + infinitif** займенник, який належить інфінітиву, стоїть перед інфінітивом:
+У §§MDEMPH0§§ займенник, який належить інфінітиву, стоїть перед інфінітивом:
 
-> **Je vais acheter le livre. → Je vais l'acheter.**
+> §§MDEMPH0§§
 
-> **Nous allons visiter Paris. → Nous allons le visiter.**
+> §§MDEMPH0§§
 
-> **Elle va parler à ses collègues. → Elle va leur parler.**
+> §§MDEMPH0§§
 
-> **Ils vont s'intéresser à ce projet. → Ils vont s'y intéresser.**
+> §§MDEMPH0§§
 
-Не ставте такий займенник перед *aller*:
+Не ставте такий займенник перед §§MDEMPH0§§:
 
-❌ *Je le vais acheter.*
+❌ §§MDEMPH0§§
 
 У нейтральній стандартній конструкції:
 
-✅ **Je vais l'acheter.**
+✅ §§MDEMPH0§§
 
-Це особливо важливо для **futur proche**.
+Це особливо важливо для §§MDEMPH0§§.
 
 ---
 
@@ -130,31 +130,31 @@ variant: []
 
 З модальними й іншими дієсловами, після яких стоїть інфінітив, той самий принцип працює дуже часто:
 
-> **Je peux le faire.**
+> §§MDEMPH0§§
 
-> **Elle doit lui répondre.**
+> §§MDEMPH0§§
 
-> **Nous voulons les voir.**
+> §§MDEMPH0§§
 
-> **Vous pouvez m'aider.**
+> §§MDEMPH0§§
 
-> **Il doit y aller.**
+> §§MDEMPH0§§
 
-> **Elle veut en parler.**
+> §§MDEMPH0§§
 
 Але аналізуйте керування кожного дієслова окремо. Те, що два дієслова стоять поруч, не означає, що всі займенники належать другому дієслову.
 
 Порівняйте:
 
-> **Je lui demande de venir.**
+> §§MDEMPH0§§
 
-Тут **lui** належить *demande*: *demander quelque chose à quelqu'un*.
+Тут §§MDEMPH0§§ належить §§MDEMPH1§§: §§MDEMPH2§§.
 
 Натомість:
 
-> **Je veux lui parler.**
+> §§MDEMPH0§§
 
-Тут **lui** належить *parler*: *parler à quelqu'un*.
+Тут §§MDEMPH0§§ належить §§MDEMPH1§§: §§MDEMPH2§§.
 
 ---
 
@@ -162,19 +162,19 @@ variant: []
 
 У конструкції з двома дієсловами кожне дієслово може мати власну валентність.
 
-> **Je lui demande de me répondre.**
+> §§MDEMPH0§§
 
 Тут:
 
-- **lui** → *demander à quelqu'un*;
-- **me** → *répondre à quelqu'un*.
+- §§MDEMPH0§§ → §§MDEMPH1§§;
+- §§MDEMPH0§§ → §§MDEMPH1§§.
 
 Ще один приклад:
 
-> **Je leur conseille de le lire.**
+> §§MDEMPH0§§
 
-- **leur** → *conseiller quelque chose à quelqu'un*;
-- **le** → *lire quelque chose*.
+- §§MDEMPH0§§ → §§MDEMPH1§§;
+- §§MDEMPH0§§ → §§MDEMPH1§§.
 
 Тому не слід сприймати всю послідовність як один нерозкладний набір займенників.
 
@@ -184,24 +184,24 @@ variant: []
 
 Якщо кілька займенників належать інфінітиву, вони зберігають стандартний порядок клітиків:
 
-**me / te / se / nous / vous → le / la / les → lui / leur → y → en**
+§§MDEMPH0§§
 
-> **Je vais le lui donner.**  
+> §§MDEMPH0§§  
 > Я збираюся дати це йому.
 
-> **Elle veut me le montrer.**  
+> §§MDEMPH0§§  
 > Вона хоче показати мені це.
 
-> **Nous allons vous en parler.**  
+> §§MDEMPH0§§  
 > Ми збираємося поговорити з вами про це.
 
-> **Ils vont s'y habituer.**  
+> §§MDEMPH0§§  
 > Вони звикнуть до цього.
 
 Важливо розрізняти дві речі:
 
-1. **позицію блоку** відносно двох дієслів;
-2. **порядок займенників усередині блоку**.
+1. §§MDEMPH0§§ відносно двох дієслів;
+2. §§MDEMPH0§§.
 
 Спочатку визначте, до якого дієслова належить блок, а потім застосуйте звичайний порядок клітиків.
 
@@ -209,23 +209,23 @@ variant: []
 
 ## 7. Коли займенник належить першому дієслову
 
-Не всі займенники в конструкції **V + infinitif** стоять перед інфінітивом.
+Не всі займенники в конструкції §§MDEMPH0§§ стоять перед інфінітивом.
 
 Порівняйте:
 
-> **Je lui demande de venir.**
+> §§MDEMPH0§§
 
-**lui** належить *demander*.
+§§MDEMPH0§§ належить §§MDEMPH1§§.
 
-> **Je veux lui parler.**
+> §§MDEMPH0§§
 
-**lui** належить *parler*.
+§§MDEMPH0§§ належить §§MDEMPH1§§.
 
 Те саме можна побачити з COD:
 
-> **Je le laisse partir.**
+> §§MDEMPH0§§
 
-Тут **le** є додатком конструкції *laisser quelqu'un partir*: він стосується учасника, який виконує інфінітивну дію.
+Тут §§MDEMPH0§§ є додатком конструкції §§MDEMPH1§§: він стосується учасника, який виконує інфінітивну дію.
 
 Тому механічне правило «з інфінітивом займенник завжди перед infinitif» занадто грубе.
 
@@ -233,94 +233,94 @@ variant: []
 
 ## 8. Faire + infinitif
 
-Каузативна конструкція **faire + infinitif** потребує окремого синтаксичного аналізу.
+Каузативна конструкція §§MDEMPH0§§ потребує окремого синтаксичного аналізу.
 
-> **Je fais réparer la voiture.**  
+> §§MDEMPH0§§  
 > Я віддаю машину в ремонт / доручаю відремонтувати машину.
 
-> **Je fais réparer la voiture par le mécanicien.**
+> §§MDEMPH0§§
 
-Коли в конструкції є займенники, їхня інтерпретація залежить від того, який учасник є об'єктом *faire* і який — учасником інфінітивної дії.
+Коли в конструкції є займенники, їхня інтерпретація залежить від того, який учасник є об'єктом §§MDEMPH0§§ і який — учасником інфінітивної дії.
 
 Порівняйте:
 
-> **Je le fais réparer.**
+> §§MDEMPH0§§
 
-Займенник **le** може представляти те, що ремонтують.
+Займенник §§MDEMPH0§§ може представляти те, що ремонтують.
 
 А в:
 
-> **Je lui fais réparer la voiture.**
+> §§MDEMPH0§§
 
-**lui** представляє особу, якій доручають / наказують виконати дію; сама структура потребує аналізу валентності *faire* та інфінітива.
+§§MDEMPH0§§ представляє особу, якій доручають / наказують виконати дію; сама структура потребує аналізу валентності §§MDEMPH1§§ та інфінітива.
 
-Для каузативних конструкцій не варто переносити механічно просту схему **V + COD**.
+Для каузативних конструкцій не варто переносити механічно просту схему §§MDEMPH0§§.
 
 ---
 
 ## 9. Laisser + infinitif
 
-**Laisser + infinitif** також утворює конструкцію, у якій учасник інфінітивної дії може бути виражений займенником:
+§§MDEMPH0§§ також утворює конструкцію, у якій учасник інфінітивної дії може бути виражений займенником:
 
-> **Je le laisse partir.**  
+> §§MDEMPH0§§  
 > Я дозволяю йому піти / залишаю його йти — залежно від контексту.
 
-> **Laisse-moi entrer !**  
+> §§MDEMPH0§§  
 > Дозволь мені увійти!
 
-Тут **le / moi** не є просто звичайним COD інфінітива на кшталт *le voir*. Вони пов'язані з учасником ситуації, який виконує дію *partir / entrer*.
+Тут §§MDEMPH0§§ не є просто звичайним COD інфінітива на кшталт §§MDEMPH1§§. Вони пов'язані з учасником ситуації, який виконує дію §§MDEMPH2§§.
 
-Це одна з причин, чому конструкції з **faire / laisser** треба аналізувати окремо від простого **vouloir + infinitif**.
+Це одна з причин, чому конструкції з §§MDEMPH0§§ треба аналізувати окремо від простого §§MDEMPH1§§.
 
 ---
 
 ## 10. Дієслова сприйняття + infinitif
 
-Конструкції з **voir, regarder, entendre, écouter, sentir** та ін. можуть поєднуватися з інфінітивом:
+Конструкції з §§MDEMPH0§§ та ін. можуть поєднуватися з інфінітивом:
 
-> **Je vois Paul sortir.**  
+> §§MDEMPH0§§  
 > Я бачу, як Поль виходить.
 
-> **Je le vois sortir.**  
+> §§MDEMPH0§§  
 > Я бачу, як він виходить.
 
-> **J'entends Marie chanter.**  
+> §§MDEMPH0§§  
 > Я чую, як Марі співає.
 
-> **Je l'entends chanter.**  
+> §§MDEMPH0§§  
 > Я чую, як вона співає.
 
 Тут займенник може представляти учасника інфінітивної дії, а не просто COD самого інфінітива.
 
-Тому конструкцію слід аналізувати як **дієслово сприйняття + учасник + infinitif**, а не автоматично як звичайне дієслово з одним COD.
+Тому конструкцію слід аналізувати як §§MDEMPH0§§, а не автоматично як звичайне дієслово з одним COD.
 
 ---
 
 ## 11. Заперечення
 
-Якщо займенник належить інфінітиву, **ne...pas** також може стосуватися інфінітивної конструкції:
+Якщо займенник належить інфінітиву, §§MDEMPH0§§ також може стосуватися інфінітивної конструкції:
 
-> **Je préfère ne pas le dire.**
+> §§MDEMPH0§§
 
-> **Elle décide de ne pas lui répondre.**
+> §§MDEMPH0§§
 
-> **Nous essayons de ne pas en parler.**
+> §§MDEMPH0§§
 
 Тут:
 
-- *ne pas le dire*;
-- *ne pas lui répondre*;
-- *ne pas en parler*
+- §§MDEMPH0§§;
+- §§MDEMPH0§§;
+- §§MDEMPH0§§
 
 утворюють заперечені інфінітивні конструкції.
 
 Порівняйте з запереченням головного дієслова:
 
-> **Je ne veux pas le dire.**
+> §§MDEMPH0§§
 
-Тут **ne...pas** заперечує *veux*, а **le** належить *dire*.
+Тут §§MDEMPH0§§ заперечує §§MDEMPH2§§, а §§MDEMPH1§§ належить §§MDEMPH3§§.
 
-Отже, не плутайте **заперечення головного дієслова** із **запереченням інфінітива**.
+Отже, не плутайте §§MDEMPH0§§ із §§MDEMPH1§§.
 
 ---
 
@@ -328,25 +328,25 @@ variant: []
 
 Якщо інфінітив є прономінальним, займенник належить самому інфінітиву:
 
-> **Je vais me lever.**
+> §§MDEMPH0§§
 
-> **Elle veut se reposer.**
+> §§MDEMPH0§§
 
-> **Nous devons nous dépêcher.**
+> §§MDEMPH0§§
 
 Порівняйте:
 
-> **Je me prépare à partir.**
+> §§MDEMPH0§§
 
-Тут **me** належить *prépare*, а *à partir* є інфінітивною конструкцією.
+Тут §§MDEMPH0§§ належить §§MDEMPH1§§, а §§MDEMPH2§§ є інфінітивною конструкцією.
 
 Натомість:
 
-> **Je vais me préparer.**
+> §§MDEMPH0§§
 
-Тут **me** належить *préparer*.
+Тут §§MDEMPH0§§ належить §§MDEMPH1§§.
 
-Це корисний діагностичний контраст: знайдіть, яке дієслово має форму / значення з **se**.
+Це корисний діагностичний контраст: знайдіть, яке дієслово має форму / значення з §§MDEMPH0§§.
 
 ---
 
@@ -358,26 +358,26 @@ variant: []
 
 Наприклад:
 
-**Je vais lui parler.**
+§§MDEMPH0§§
 
-→ *vais* + *parler*.
+→ §§MDEMPH0§§ + §§MDEMPH1§§.
 
 ### Крок 2. Перевірте керування кожного
 
-- *aller* тут утворює **aller + infinitif**;
-- *parler* керує **à quelqu'un**.
+- §§MDEMPH1§§ тут утворює §§MDEMPH0§§;
+- §§MDEMPH1§§ керує §§MDEMPH0§§.
 
 ### Крок 3. Визначте функцію займенника
 
-**lui** = *à quelqu'un* → він належить *parler*.
+§§MDEMPH0§§ = §§MDEMPH1§§ → він належить §§MDEMPH2§§.
 
 ### Крок 4. Поставте клітик перед відповідною формою
 
-→ **Je vais lui parler.**
+→ §§MDEMPH0§§
 
 ### Крок 5. Якщо є кілька клітиків, застосуйте їхній внутрішній порядок
 
-> **Je vais le lui donner.**
+> §§MDEMPH0§§
 
 Цей алгоритм працює краще, ніж перекладати речення слово за словом.
 
@@ -389,15 +389,15 @@ variant: []
 
 Порівняйте:
 
-> **Я хочу поговорити з ним.**  
-> **Je veux lui parler.**
+> §§MDEMPH0§§  
+> §§MDEMPH0§§
 
-> **Я збираюся це йому показати.**  
-> **Je vais le lui montrer.**
+> §§MDEMPH0§§  
+> §§MDEMPH0§§
 
-В українській порядок компонентів може сильніше залежати від інформаційної структури та контексту. У французькій **le lui**, **lui en**, **le leur** та інші комбінації мають граматично обмежені позиції.
+В українській порядок компонентів може сильніше залежати від інформаційної структури та контексту. У французькій §§MDEMPH0§§, §§MDEMPH1§§, §§MDEMPH2§§ та інші комбінації мають граматично обмежені позиції.
 
-Особливо важливо не переносити українське правило «поставити займенник перед дієсловом» на всю французьку конструкцію. Спочатку треба визначити, **до якого дієслова належить займенник**.
+Особливо важливо не переносити українське правило «поставити займенник перед дієсловом» на всю французьку конструкцію. Спочатку треба визначити, §§MDEMPH0§§.
 
 ---
 
@@ -405,26 +405,26 @@ variant: []
 
 ### 1. Ставити займенник перед aller
 
-❌ **Je le vais voir.**  
-✅ **Je vais le voir.**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
 ### 2. Плутати керування двох дієслів
 
-❌ *Je veux le parler.*  
-✅ **Je veux lui parler.**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
-*parler à quelqu'un* → **lui parler**.
+§§MDEMPH1§§ → §§MDEMPH0§§.
 
 ### 3. Ігнорувати два різні рівні валентності
 
-❌ *Je lui le conseille de lire.*  
-Якщо **lui** належить *conseiller*, а **le** — *lire*:
+❌ §§MDEMPH0§§  
+Якщо §§MDEMPH0§§ належить §§MDEMPH2§§, а §§MDEMPH1§§ — §§MDEMPH3§§:
 
-✅ **Je lui conseille de le lire.**
+✅ §§MDEMPH0§§
 
 ### 4. Вважати всі конструкції V + infinitif однаковими
 
-**Je veux le voir**, **Je le laisse partir** і **Je le fais réparer** мають різну синтаксичну структуру. Позиція займенника пов'язана не лише з формою інфінітива, а й із валентністю всієї конструкції.
+§§MDEMPH0§§, §§MDEMPH1§§ і §§MDEMPH2§§ мають різну синтаксичну структуру. Позиція займенника пов'язана не лише з формою інфінітива, а й із валентністю всієї конструкції.
 
 ---
 
@@ -432,35 +432,35 @@ variant: []
 
 Вставте правильну форму.
 
-1. Je vais ___ voir. (*Marie*)
-2. Nous voulons ___ parler. (*à nos amis*)
-3. Elle doit ___ acheter. (*les billets*)
-4. Je vais ___ ___ donner. (*le + à Paul*)
-5. Je lui conseille de ___ lire. (*le livre*)
-6. Ils vont ___ parler. (*de ce problème*)
-7. Je préfère ne pas ___ dire. (*la vérité*)
-8. Elle veut ___ lever. (*se*)
-9. Je ___ laisse partir. (*Paul*)
-10. Je ___ fais réparer. (*la voiture*)
+1. Je vais §§MDEMPH1§§ voir. (§§MDEMPH0§§)
+2. Nous voulons §§MDEMPH1§§ parler. (§§MDEMPH0§§)
+3. Elle doit §§MDEMPH1§§ acheter. (§§MDEMPH0§§)
+4. Je vais _§§MDEMPH1§§ donner. (§§MDEMPH0§§)
+5. Je lui conseille de §§MDEMPH1§§ lire. (§§MDEMPH0§§)
+6. Ils vont §§MDEMPH1§§ parler. (§§MDEMPH0§§)
+7. Je préfère ne pas §§MDEMPH1§§ dire. (§§MDEMPH0§§)
+8. Elle veut §§MDEMPH1§§ lever. (§§MDEMPH0§§)
+9. Je §§MDEMPH1§§ laisse partir. (§§MDEMPH0§§)
+10. Je §§MDEMPH1§§ fais réparer. (§§MDEMPH0§§)
 
 ### Відповіді
 
-1. **la** — *voir Marie* → **la voir**.
-2. **leur** — *parler à nos amis* → **leur parler**.
-3. **les** — *acheter les billets* → **les acheter**.
-4. **le lui** — *donner le livre à Paul* → **le lui donner**.
-5. **le** — *lire le livre* → **le lire**.
-6. **en** — *parler de ce problème* → **en parler**.
-7. **la** — *dire la vérité* → **ne pas la dire**.
-8. **se** → **se lever**.
-9. **le** — учасник конструкції *laisser Paul partir*.
-10. **la** — об'єкт каузативної конструкції *faire réparer la voiture*.
+1. §§MDEMPH0§§ — §§MDEMPH2§§ → §§MDEMPH1§§.
+2. §§MDEMPH0§§ — §§MDEMPH2§§ → §§MDEMPH1§§.
+3. §§MDEMPH0§§ — §§MDEMPH2§§ → §§MDEMPH1§§.
+4. §§MDEMPH0§§ — §§MDEMPH2§§ → §§MDEMPH1§§.
+5. §§MDEMPH0§§ — §§MDEMPH2§§ → §§MDEMPH1§§.
+6. §§MDEMPH0§§ — §§MDEMPH2§§ → §§MDEMPH1§§.
+7. §§MDEMPH0§§ — §§MDEMPH2§§ → §§MDEMPH1§§.
+8. §§MDEMPH0§§ → §§MDEMPH1§§.
+9. §§MDEMPH0§§ — учасник конструкції §§MDEMPH1§§.
+10. §§MDEMPH0§§ — об'єкт каузативної конструкції §§MDEMPH1§§.
 
 ---
 
 ## Куди далі
 
-- **Порядок об'єктних займенників** — внутрішній порядок *me/te/se → le/la/les → lui/leur → y → en*.
-- **Інфінітив** — форма та керування інфінітивних конструкцій.
-- **Faire** — каузативні конструкції *faire + infinitif*.
-- **Прономінальні дієслова** — *se + verbe* та їхня валентність.
+- §§MDEMPH0§§ — внутрішній порядок §§MDEMPH1§§.
+- §§MDEMPH0§§ — форма та керування інфінітивних конструкцій.
+- §§MDEMPH0§§ — каузативні конструкції §§MDEMPH1§§.
+- §§MDEMPH0§§ — §§MDEMPH1§§ та їхня валентність.

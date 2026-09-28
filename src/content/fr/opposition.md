@@ -28,83 +28,83 @@ tags: []
 ---
 # Протиставлення: exprimer l'opposition
 
-**Opposition** зіставляє два факти, властивості або дії, які розходяться між собою. Французька використовує сполучники, прислівники зв'язку та прийменникові конструкції.
+§§MDEMPH0§§ зіставляє два факти, властивості або дії, які розходяться між собою. Французька використовує сполучники, прислівники зв'язку та прийменникові конструкції.
 
 ## Швидко
 
-- **mais** — але;
-- **cependant / pourtant / toutefois** — однак, проте;
-- **alors que / tandis que** — тоді як;
-- **contrairement à** — на відміну від;
-- **au contraire** — навпаки.
+- §§MDEMPH0§§ — але;
+- §§MDEMPH0§§ — однак, проте;
+- §§MDEMPH0§§ — тоді як;
+- §§MDEMPH0§§ — на відміну від;
+- §§MDEMPH0§§ — навпаки.
 
 ## Формула
 
-**mais + компонент / речення**
+§§MDEMPH0§§
 
-> **Je veux venir, mais je travaille.**  
+> §§MDEMPH0§§  
 > Я хочу прийти, але працюю.
 
-**alors que / tandis que + речення**
+§§MDEMPH0§§
 
-> **Paul travaille alors que Marie se repose.**  
+> §§MDEMPH0§§  
 > Поль працює, тоді як Марі відпочиває.
 
-**contrairement à + GN**
+§§MDEMPH0§§
 
-> **Contrairement à son frère, Paul aime travailler le matin.**  
+> §§MDEMPH0§§  
 > На відміну від свого брата, Поль любить працювати вранці.
 
 ## Mais
 
-> **Il est petit, mais très fort.**  
+> §§MDEMPH0§§  
 > Він маленький, але дуже сильний.
 
-**Mais** може поєднувати не лише два повні речення, а й менші компоненти.
+§§MDEMPH0§§ може поєднувати не лише два повні речення, а й менші компоненти.
 
 ## Cependant, pourtant, toutefois
 
-> **Il pleuvait. Cependant, nous sommes sortis.**  
+> §§MDEMPH0§§  
 > Йшов дощ. Однак ми вийшли.
 
-> **Il pleuvait ; pourtant, nous sommes sortis.**  
+> §§MDEMPH0§§  
 > Йшов дощ; проте ми вийшли.
 
-Ці слова мають більшу синтаксичну свободу, ніж **mais**, і часто організовують зв'язок між уже сформованими реченнями.
+Ці слова мають більшу синтаксичну свободу, ніж §§MDEMPH0§§, і часто організовують зв'язок між уже сформованими реченнями.
 
 ## Alors que / tandis que
 
-> **Je préfère le thé, tandis que mon frère préfère le café.**  
+> §§MDEMPH0§§  
 > Я віддаю перевагу чаю, тоді як мій брат — каві.
 
 Залежно від контексту вони можуть виражати одночасність або контраст.
 
 ## Au contraire
 
-> **Je ne suis pas fatigué. Au contraire, je suis plein d'énergie.**  
+> §§MDEMPH0§§  
 > Я не втомився. Навпаки, я сповнений енергії.
 
-**Au contraire** прямо коригує попереднє очікування; це не універсальний замінник **mais**.
+§§MDEMPH0§§ прямо коригує попереднє очікування; це не універсальний замінник §§MDEMPH1§§.
 
 ## Opposition і concession
 
-> **Paul travaille alors que Marie se repose.**  
+> §§MDEMPH0§§  
 > Поль працює, тоді як Марі відпочиває.
 
 Це контраст.
 
-> **Bien qu'il soit fatigué, Paul travaille.**  
+> §§MDEMPH0§§  
 > Хоча Поль втомлений, він працює.
 
 Це уступка: факт втоми не запобігає результату.
 
 ## Типові помилки
 
-❌ *Contrairement que son frère...*  
-✅ **Contrairement à son frère...**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
-❌ Використовувати **au contraire** для будь-якого «але».  
-✅ Обирайте **mais**, **cependant**, **pourtant** або іншу конструкцію відповідно до зв'язку.
+❌ Використовувати §§MDEMPH0§§ для будь-якого «але».  
+✅ Обирайте §§MDEMPH0§§, §§MDEMPH1§§, §§MDEMPH2§§ або іншу конструкцію відповідно до зв'язку.
 
 ## Пов'язані теми
 

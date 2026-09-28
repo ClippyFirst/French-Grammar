@@ -28,119 +28,119 @@ tags: []
 ---
 # Que як відносний займенник
 
-**Que** як відносний займенник у базовій конструкції без прийменника виконує функцію **прямого додатка (COD)**. Його не слід вибирати за українським перекладом «який/яку»: визначальною є роль антецедента у французькій підрядній частині.
+§§MDEMPH0§§ як відносний займенник у базовій конструкції без прийменника виконує функцію §§MDEMPH1§§. Його не слід вибирати за українським перекладом «який/яку»: визначальною є роль антецедента у французькій підрядній частині.
 
 ## Швидка відповідь
 
-> **Le film que nous regardons est excellent.**
+> §§MDEMPH0§§
 
 Відновлення:
 
-> **Nous regardons le film.**
+> §§MDEMPH0§§
 
-Отже, *que* = COD.
+Отже, §§MDEMPH0§§ = COD.
 
 Порівняйте:
 
-> **Le film qui commence à huit heures est excellent.**
+> §§MDEMPH0§§
 
-→ **Le film commence.**
+→ §§MDEMPH0§§
 
-Тут антецедент є підметом → *qui*.
+Тут антецедент є підметом → §§MDEMPH0§§.
 
 ## 1. Базова модель
 
-> **antecedent + que + sujet + verbe**
+> §§MDEMPH0§§
 
-> **Le livre que je lis est passionnant.**
+> §§MDEMPH0§§
 
-> **La chanson que nous avons entendue était nouvelle.**
+> §§MDEMPH0§§
 
-> **Les documents que vous avez envoyés sont complets.**
+> §§MDEMPH0§§
 
-Після *que* вже є власний підмет: *je, nous, vous*. Антецедент займає позицію COD.
+Після §§MDEMPH0§§ вже є власний підмет: §§MDEMPH1§§. Антецедент займає позицію COD.
 
-Перед голосною *que* переходить у **qu'**:
+Перед голосною §§MDEMPH1§§ переходить у §§MDEMPH0§§:
 
-> **Le livre qu'il lit est ancien.**
+> §§MDEMPH0§§
 
 Це лише орфографічна елізія.
 
 ## 2. Найкращий тест — відновлення
 
-> **La personne que nous avons invitée.**
+> §§MDEMPH0§§
 
-→ **Nous avons invité la personne.**
+→ §§MDEMPH0§§
 
-> **Les résultats que l'équipe analyse.**
+> §§MDEMPH0§§
 
-→ **L'équipe analyse les résultats.**
+→ §§MDEMPH0§§
 
-Якщо антецедент є прямим додатком, *que* є відповідним відносним елементом.
+Якщо антецедент є прямим додатком, §§MDEMPH0§§ є відповідним відносним елементом.
 
 ## 3. Que стосується і людей, і предметів
 
-> **La femme que j'ai rencontrée hier.**
+> §§MDEMPH0§§
 
-> **Le livre que j'ai acheté hier.**
+> §§MDEMPH0§§
 
-Одушевленість не визначає вибір *que*. У першому випадку людина є COD *rencontrée*, у другому предмет є COD *acheté*.
+Одушевленість не визначає вибір §§MDEMPH0§§. У першому випадку людина є COD §§MDEMPH1§§, у другому предмет є COD §§MDEMPH2§§.
 
 ## 4. Que та participe passé з avoir
 
 Це практично важливий наслідок синтаксичної функції:
 
-> **La chanson que j'ai écoutée.**
+> §§MDEMPH0§§
 
 Вихідна структура:
 
-> **J'ai écouté la chanson.**
+> §§MDEMPH0§§
 
-*La chanson* — COD і стоїть перед *participe passé*, тому:
+§§MDEMPH0§§ — COD і стоїть перед §§MDEMPH1§§, тому:
 
-> **écoutée**
+> §§MDEMPH0§§
 
 Порівняйте:
 
-> **Les lettres que j'ai écrites.**
+> §§MDEMPH0§§
 
-> **Le livre que j'ai lu.**
+> §§MDEMPH0§§
 
-> **Les films que nous avons vus.**
+> §§MDEMPH0§§
 
-Не саме слово *que* «вимагає» узгодження. Важливо, що воно представляє попередній прямий додаток.
+Не саме слово §§MDEMPH0§§ «вимагає» узгодження. Важливо, що воно представляє попередній прямий додаток.
 
-## 5. Не плутайте *que* з *dont*
+## 5. Не плутайте §§MDEMPH0§§ з §§MDEMPH1§§
 
-> **Le livre que je lis.**
+> §§MDEMPH0§§
 
-→ **Je lis le livre.**
+→ §§MDEMPH0§§
 
-> **Le livre dont je parle.**
+> §§MDEMPH0§§
 
-→ **Je parle de ce livre.**
+→ §§MDEMPH0§§
 
-*Lire* має прямий COD, тоді як *parler* у цій конструкції керує *de*.
+§§MDEMPH0§§ має прямий COD, тоді як §§MDEMPH1§§ у цій конструкції керує §§MDEMPH2§§.
 
 Так само:
 
-> **Le problème que nous étudions.**
+> §§MDEMPH0§§
 
-> **Le problème dont nous discutons.**
+> §§MDEMPH0§§
 
 ## 6. Que проти прийменникових relatives
 
-*Que* не є універсальним замінником конструкцій із прийменником:
+§§MDEMPH0§§ не є універсальним замінником конструкцій із прийменником:
 
-> **Le projet sur lequel nous travaillons.**
+> §§MDEMPH0§§
 
 Вихідна структура:
 
-> **Nous travaillons sur le projet.**
+> §§MDEMPH0§§
 
 Не:
 
-> ❌ **Le projet sur que nous travaillons.**
+> ❌ §§MDEMPH0§§
 
 Прийменник належить до синтаксичної залежності й має бути правильно реалізований.
 
@@ -148,58 +148,58 @@ tags: []
 
 Українська:
 
-> **книга, яку я читаю**
+> §§MDEMPH0§§
 
-> **жінка, яку я бачу**
+> §§MDEMPH0§§
 
 Французька:
 
-> **le livre que je lis**
+> §§MDEMPH0§§
 
-> **la femme que je vois**
+> §§MDEMPH0§§
 
-Українська форма *яку* показує рід і відмінок. Французьке *que* не змінюється за родом і числом. Тому українську форму не треба буквально «перекодовувати» у французьку.
+Українська форма §§MDEMPH0§§ показує рід і відмінок. Французьке §§MDEMPH1§§ не змінюється за родом і числом. Тому українську форму не треба буквально «перекодовувати» у французьку.
 
 ## 8. Типові помилки
 
-❌ **Le livre que est sur la table.**  
-✅ **Le livre qui est sur la table.**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
-❌ **Le livre qui je lis.**  
-✅ **Le livre que je lis.**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
-❌ **Le livre dont je lis.**  
-✅ **Le livre que je lis.**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
-❌ **La chanson que j'ai écouté.**  
-✅ **La chanson que j'ai écoutée.**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
 ## 9. Алгоритм
 
 1. Знайдіть антецедент.
 2. Відновіть просте речення.
 3. Перевірте, чи антецедент є COD.
-4. Якщо так — *que*.
-5. Якщо підмет — *qui*.
-6. Якщо залежність із *de* — *dont*.
-7. Якщо є інший прийменник — перевірте *lequel / qui*.
-8. Після *avoir* окремо перевірте узгодження *participe passé*.
+4. Якщо так — §§MDEMPH0§§.
+5. Якщо підмет — §§MDEMPH0§§.
+6. Якщо залежність із §§MDEMPH0§§ — §§MDEMPH1§§.
+7. Якщо є інший прийменник — перевірте §§MDEMPH0§§.
+8. Після §§MDEMPH0§§ окремо перевірте узгодження §§MDEMPH1§§.
 
 ## Мінітест
 
-1. **Le film ___ nous regardons est français.**
-2. **Le film ___ commence à huit heures est français.**
-3. **La lettre ___ j'ai écrite est longue.**
-4. **Le sujet ___ je parle est complexe.**
-5. **Le projet sur ___ nous travaillons est important.**
+1. §§MDEMPH0§§
+2. §§MDEMPH0§§
+3. §§MDEMPH0§§
+4. §§MDEMPH0§§
+5. §§MDEMPH0§§
 
-**Відповіді:** 1 *que*; 2 *qui*; 3 *que* + *écrite*; 4 *dont*; 5 *lequel* → *sur lequel*.
+§§MDEMPH0§§ 1 §§MDEMPH1§§; 2 §§MDEMPH2§§; 3 §§MDEMPH3§§ + §§MDEMPH4§§; 4 §§MDEMPH5§§; 5 §§MDEMPH6§§ → §§MDEMPH7§§.
 
 ## Короткий висновок
 
-> **Que** у базовій безприйменниковій relative = COD.
+> §§MDEMPH0§§ у базовій безприйменниковій relative = COD.
 
-Найнадійніший метод: **je lis le livre → le livre que je lis**.
+Найнадійніший метод: §§MDEMPH0§§.
 
 ## Пов'язані теми
 

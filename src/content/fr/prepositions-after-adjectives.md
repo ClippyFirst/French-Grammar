@@ -30,21 +30,21 @@ tags: []
 
 ## 1. Adjectif + de
 
-> **être fier de son travail**
-> **être capable de le faire**
-> **être content de venir**
+> §§MDEMPH0§§
+> §§MDEMPH0§§
+> §§MDEMPH0§§
 
-Після багатьох прикметників **de** вводить об'єкт почуття, оцінки або зміст.
+Після багатьох прикметників §§MDEMPH0§§ вводить об'єкт почуття, оцінки або зміст.
 
 ## 2. Adjectif + à
 
-> **être prêt à partir**
-> **être habitué à travailler**
-> **être difficile à comprendre**
+> §§MDEMPH0§§
+> §§MDEMPH0§§
+> §§MDEMPH0§§
 
 В останньому типі інфінітивна конструкція може бути пов'язана з властивістю предмета:
 
-> **Ce texte est difficile à comprendre.**
+> §§MDEMPH0§§
 
 ## 3. Не кожен переклад передбачає той самий прийменник
 
@@ -54,8 +54,8 @@ tags: []
 
 Порівняйте:
 
-> **Il est prêt à partir.**
-> **Il est heureux de partir.**
+> §§MDEMPH0§§
+> §§MDEMPH0§§
 
 Вибір прийменника пов'язаний із лексичною моделлю прикметника.
 
@@ -65,12 +65,12 @@ tags: []
 
 Корисний словниковий запис:
 
-**prêt à + infinitif**
-**capable de + infinitif**
-**fier de + nom / infinitif**
+§§MDEMPH0§§
+§§MDEMPH0§§
+§§MDEMPH0§§
 
 ## Мінітест
 
-**Elle est prête ___ partir.** → **à**.
-**Il est fier ___ son résultat.** → **de**.
-**Ce problème est difficile ___ résoudre.** → **à**.
+§§MDEMPH0§§ → §§MDEMPH1§§.
+§§MDEMPH0§§ → §§MDEMPH1§§.
+§§MDEMPH0§§ → §§MDEMPH1§§.

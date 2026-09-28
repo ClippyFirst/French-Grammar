@@ -28,37 +28,37 @@ tags: []
 
 ## Швидка відповідь
 
-У непрямій мові **conditionnel** часто виникає як форма **futur dans le passé**:
+У непрямій мові §§MDEMPH0§§ часто виникає як форма §§MDEMPH1§§:
 
-*Il a dit : « Je viendrai. »*
+§§MDEMPH0§§
 
-→ *Il a dit qu'il viendrait.*
+→ §§MDEMPH0§§
 
-Тут *viendrait* не виражає умову. Воно позначає майбутню щодо минулої точки відліку подію.
+Тут §§MDEMPH0§§ не виражає умову. Воно позначає майбутню щодо минулої точки відліку подію.
 
 ## 1. Futur dans le passé
 
-*Il dit : « Je partirai demain. »*
+§§MDEMPH0§§
 
-→ *Il dit qu'il partira demain.*
+→ §§MDEMPH0§§
 
 Якщо рамка минула:
 
-*Il a dit : « Je partirai demain. »*
+§§MDEMPH0§§
 
-→ *Il a dit qu'il partirait le lendemain.*
+→ §§MDEMPH0§§
 
 У другому прикладі conditionnel є граматичною реалізацією майбутнього щодо минулого.
 
 ## 2. Не плутати з умовним значенням
 
-*Il viendrait s'il avait le temps.*
+§§MDEMPH0§§
 
-Тут *viendrait* входить до умовної конструкції.
+Тут §§MDEMPH0§§ входить до умовної конструкції.
 
 А:
 
-*Il a dit qu'il viendrait.*
+§§MDEMPH0§§
 
 не містить умови лише через форму conditionnel.
 
@@ -66,9 +66,9 @@ tags: []
 
 Можлива й форма conditionnel passé:
 
-*Il a dit : « J'aurais terminé avant midi. »*
+§§MDEMPH0§§
 
-→ *Il a dit qu'il aurait terminé avant midi.*
+→ §§MDEMPH0§§
 
 Її значення залежить від часової та модальної структури цитованого висловлення.
 
@@ -76,13 +76,13 @@ tags: []
 
 У медійному або інформаційному тексті conditionnel може також маркувати інформацію, яку автор не подає як власне встановлений факт:
 
-*Le ministre aurait annoncé sa démission.*
+§§MDEMPH0§§
 
 Тут значення не тотожне futur dans le passé. Форма сигналізує дистанціювання від джерела повідомлення.
 
 ## 5. Контекст вирішує
 
-*Il viendrait demain* може бути:
+§§MDEMPH0§§ може бути:
 - наслідком умови;
 - майбутнім у минулому;
 - дистанційованим повідомленням.
@@ -98,7 +98,7 @@ tags: []
 
 ## Алгоритм
 
-**знайти часову точку відліку → перевірити наявність умови → перевірити джерело інформації → визначити функцію conditionnel.**
+§§MDEMPH0§§
 
 ## Пов'язані теми
 

@@ -28,14 +28,14 @@ variant: []
 
 ## Швидко
 
-Для прономінальних дієслів недостатньо знати, що конструкція має **se**. Спочатку потрібно визначити функцію цього займенника.
+Для прономінальних дієслів недостатньо знати, що конструкція має §§MDEMPH0§§. Спочатку потрібно визначити функцію цього займенника.
 
 Головні контрасти:
 
-- **Elles se sont lavées.** → se = COD → **lavées**
-- **Elles se sont lavé les mains.** → COD = *les mains* після participe → **lavé**
-- **Elles se sont parlé.** → se = COI → **parlé**
-- **Ils se sont succédé.** → se = COI → **succédé**
+- §§MDEMPH0§§ → se = COD → §§MDEMPH1§§
+- §§MDEMPH0§§ → COD = §§MDEMPH2§§ після participe → §§MDEMPH1§§
+- §§MDEMPH0§§ → se = COI → §§MDEMPH1§§
+- §§MDEMPH0§§ → se = COI → §§MDEMPH1§§
 
 Це відповідає нормативному опису Académie française.
 
@@ -43,41 +43,41 @@ variant: []
 
 ### Крок 1. Знайдіть базове дієслово
 
-Не аналізуйте **se** ізольовано.
+Не аналізуйте §§MDEMPH0§§ ізольовано.
 
-> **laver quelqu’un** → COD
+> §§MDEMPH0§§ → COD
 
-> **parler à quelqu’un** → COI
+> §§MDEMPH0§§ → COI
 
-> **succéder à quelqu’un** → COI
+> §§MDEMPH0§§ → COI
 
 ### Крок 2. Визначте функцію se
 
 Порівняйте:
 
-> **Elle lave Marie.** → **Elle la lave.**
+> §§MDEMPH0§§ → §§MDEMPH1§§
 
-> **Elle parle à Marie.** → **Elle lui parle.**
+> §§MDEMPH0§§ → §§MDEMPH1§§
 
-Якщо **se** поводиться як COD, воно може бути тим об'єктом, з яким узгоджується participe passé.
+Якщо §§MDEMPH0§§ поводиться як COD, воно може бути тим об'єктом, з яким узгоджується participe passé.
 
 ### Крок 3. Перевірте, чи є інший COD перед participe passé
 
-> **L’action qu’elles se sont reprochée**.
+> §§MDEMPH0§§.
 
-Тут **se** = COI, а **l’action** = COD, який стоїть перед participe passé → **reprochée**.
+Тут §§MDEMPH0§§ = COI, а §§MDEMPH1§§ = COD, який стоїть перед participe passé → §§MDEMPH2§§.
 
 ### Крок 4. Перевірте тип прономінального дієслова
 
-Для деяких **essentiellement pronominaux** дієслів узгодження відбувається з підметом:
+Для деяких §§MDEMPH0§§ дієслів узгодження відбувається з підметом:
 
-> **Ils se sont souvenus.**
+> §§MDEMPH0§§
 
-> **Elles se sont évanouies.**
+> §§MDEMPH0§§
 
 Так само пасивне прономінальне значення може давати узгодження з підметом:
 
-> **La porte s’est ouverte.**
+> §§MDEMPH0§§
 
 Не потрібно перетворювати це на механічне правило «всі прономінальні дієслова узгоджуються з підметом»: нормативний аналіз залежить від типу конструкції та функції займенника.
 
@@ -85,40 +85,40 @@ variant: []
 
 | Конструкція | Чому |
 |---|---|
-| **Elles se sont lavées.** | se = COD |
-| **Elles se sont lavé les mains.** | COD *les mains* стоїть після participe |
-| **Ils se sont parlé.** | parler à → se = COI |
-| **Ils se sont succédé.** | succéder à → se = COI |
-| **L’action qu’ils se sont reprochée.** | COD *que* перед participe |
-| **Ils se sont souvenus.** | essentiellement pronominal |
+| §§MDEMPH0§§ | se = COD |
+| §§MDEMPH0§§ | COD §§MDEMPH1§§ стоїть після participe |
+| §§MDEMPH0§§ | parler à → se = COI |
+| §§MDEMPH0§§ | succéder à → se = COI |
+| §§MDEMPH0§§ | COD §§MDEMPH1§§ перед participe |
+| §§MDEMPH0§§ | essentiellement pronominal |
 
 ## Для україномовного учня
 
-Український суфікс **-ся** не повідомляє автоматично, чи французьке **se** є COD, COI або частиною іншої конструкції.
+Український суфікс §§MDEMPH0§§ не повідомляє автоматично, чи французьке §§MDEMPH1§§ є COD, COI або частиною іншої конструкції.
 
 Тому не варто переносити українську морфологічну модель безпосередньо на французьку.
 
 Правильний маршрут:
 
-**дієслово → керування → функція se → COD перед participe? → узгодження.**
+§§MDEMPH0§§
 
 ## Типові пастки
 
-❌ *Elles se sont parlées.*  
-✅ **Elles se sont parlé.**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
-❌ *Elles se sont lavé.*  
-✅ **Elles se sont lavées.** — якщо вони мили самих себе і se є COD.
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§ — якщо вони мили самих себе і se є COD.
 
-❌ *Ils se sont succédés.*  
-✅ **Ils se sont succédé.**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
-❌ *L’action qu’ils se sont reproché.*  
-✅ **L’action qu’ils se sont reprochée.**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
 ## Межі
 
-Ця сторінка не замінює повний довідник про participe passé. Особливо складні випадки з інфінітивом, дієсловами **se voir / se laisser**, історичними варіантами та окремими лексикалізованими конструкціями потребують окремої перевірки.
+Ця сторінка не замінює повний довідник про participe passé. Особливо складні випадки з інфінітивом, дієсловами §§MDEMPH0§§, історичними варіантами та окремими лексикалізованими конструкціями потребують окремої перевірки.
 
 ## Куди далі
 

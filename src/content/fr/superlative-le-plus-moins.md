@@ -26,24 +26,24 @@ tags: []
 ---
 ## Швидка відповідь
 
-Французький **superlatif relatif** утворюється за допомогою **le plus** або **le moins**.
+Французький §§MDEMPH0§§ утворюється за допомогою §§MDEMPH1§§ або §§MDEMPH2§§.
 
-> *Marie est la plus grande de la classe.*
+> §§MDEMPH0§§
 
-> *C'est le livre le plus intéressant de la bibliothèque.*
+> §§MDEMPH0§§
 
-> *Il court le plus vite.*
+> §§MDEMPH0§§
 
-Але артикль перед *plus/moins* не завжди узгоджується з іменником. Коли порівнюються **різні особи або предмети**, артикль зазвичай узгоджується:
+Але артикль перед §§MDEMPH1§§ не завжди узгоджується з іменником. Коли порівнюються §§MDEMPH0§§, артикль зазвичай узгоджується:
 
-- *le plus grand*;
-- *la plus grande*;
-- *les plus grands*;
-- *les plus grandes*.
+- §§MDEMPH0§§;
+- §§MDEMPH0§§;
+- §§MDEMPH0§§;
+- §§MDEMPH0§§.
 
-Коли йдеться про **найвищий ступінь ознаки в однієї й тієї самої сутності в різних станах або моментах**, *le* може залишатися незмінним:
+Коли йдеться про §§MDEMPH0§§, §§MDEMPH1§§ може залишатися незмінним:
 
-> *C'est le matin que la rose est le plus belle.*
+> §§MDEMPH0§§
 
 Це важливе нормативне розрізнення.
 
@@ -51,57 +51,57 @@ tags: []
 
 Порівняння різних об'єктів:
 
-> *Paul est le plus rapide de l'équipe.*
+> §§MDEMPH0§§
 
-> *Marie est la plus rapide de l'équipe.*
+> §§MDEMPH0§§
 
-> *Paul et Marc sont les plus rapides de l'équipe.*
+> §§MDEMPH0§§
 
-> *Marie et Anna sont les plus rapides de l'équipe.*
+> §§MDEMPH0§§
 
-Тут **артикль узгоджується**, а прикметник також узгоджується.
+Тут §§MDEMPH0§§, а прикметник також узгоджується.
 
 ## 2. Найвищий ступінь із moins
 
 Те саме правило працює для найнижчого ступеня:
 
-> *C'est le film le moins cher.*
+> §§MDEMPH0§§
 
-> *C'est la solution la moins coûteuse.*
+> §§MDEMPH0§§
 
-> *Ce sont les options les moins risquées.*
+> §§MDEMPH0§§
 
-Не плутай *le moins* із просто *moins*:
+Не плутай §§MDEMPH0§§ із просто §§MDEMPH1§§:
 
-> *Cette option est moins chère que l'autre.*  
+> §§MDEMPH0§§  
 > Це порівняльний ступінь.
 
-> *C'est l'option la moins chère.*  
+> §§MDEMPH0§§  
 > Це найнижчий ступінь у певній групі.
 
 ## 3. Le plus із прислівником
 
 Прислівники не мають роду й числа:
 
-> *Il court le plus vite.*
+> §§MDEMPH0§§
 
-> *Elle répond le plus rapidement.*
+> §§MDEMPH0§§
 
-> *Ils travaillent le moins efficacement.*
+> §§MDEMPH0§§
 
-У таких конструкціях **plus/moins не узгоджуються**, а *le* є частиною конструкції найвищого ступеня.
+У таких конструкціях §§MDEMPH0§§, а §§MDEMPH1§§ є частиною конструкції найвищого ступеня.
 
 ## 4. Група порівняння: de
 
-Група, щодо якої визначається найвищий ступінь, часто вводиться **de**:
+Група, щодо якої визначається найвищий ступінь, часто вводиться §§MDEMPH0§§:
 
-> *le plus grand de la classe*
+> §§MDEMPH0§§
 
-> *la moins chère des solutions*
+> §§MDEMPH0§§
 
-> *le plus rapidement possible*
+> §§MDEMPH0§§
 
-У першій моделі *de la classe* — група порівняння. У третій *possible* не є групою осіб чи предметів; це інша конструкція.
+У першій моделі §§MDEMPH0§§ — група порівняння. У третій §§MDEMPH1§§ не є групою осіб чи предметів; це інша конструкція.
 
 ## 5. Le plus + adjectif: коли le не узгоджується
 
@@ -109,33 +109,33 @@ tags: []
 
 Якщо одна сутність порівнюється сама з собою в різних моментах або станах:
 
-> *C'est en hiver que cette plante est le plus résistante.*
+> §§MDEMPH0§§
 
-Йдеться не про «найстійкішу рослину серед інших», а про **найвищий ступінь стійкості цієї рослини**.
+Йдеться не про «найстійкішу рослину серед інших», а про §§MDEMPH0§§.
 
 Якщо порівнюються різні сутності:
 
-> *Cette plante est la plus résistante du jardin.*
+> §§MDEMPH0§§
 
-Тут *la* узгоджується з *plante*.
+Тут §§MDEMPH0§§ узгоджується з §§MDEMPH1§§.
 
 ## 6. Superlatif relatif і superlatif absolu
 
-Не кожне *le plus* означає вибір переможця в групі.
+Не кожне §§MDEMPH0§§ означає вибір переможця в групі.
 
-**Superlatif relatif**:
+§§MDEMPH0§§:
 
-> *C'est le plus grand bâtiment de la ville.*
+> §§MDEMPH0§§
 
 Є група порівняння.
 
-**Superlatif absolu**:
+§§MDEMPH0§§:
 
-> *C'est extrêmement important.*
+> §§MDEMPH0§§
 
 Або:
 
-> *C'est très important.*
+> §§MDEMPH0§§
 
 Тут немає порівняння з іншими об'єктами.
 
@@ -143,23 +143,23 @@ tags: []
 
 Для прикметника:
 
-> *le plus bon* — формально можливе в окремих контекстах, але звичайний нормативний відповідник — *le meilleur*.
+> §§MDEMPH0§§ — формально можливе в окремих контекстах, але звичайний нормативний відповідник — §§MDEMPH1§§.
 
 Для прислівника:
 
-> *bien → mieux → le mieux*.
+> §§MDEMPH0§§.
 
-> *Il travaille le mieux de tous.*
+> §§MDEMPH0§§
 
 Так само:
 
-> *mal → plus mal / le plus mal*; у відповідних конструкціях можливе *pis* у спеціалізованих випадках.
+> §§MDEMPH0§§; у відповідних конструкціях можливе §§MDEMPH1§§ у спеціалізованих випадках.
 
 ## 8. Українсько-французький контраст
 
-Українське **най-** передає найвищий ступінь прикметника, але не показує саме тієї синтаксичної організації, яку має французьке *le plus*.
+Українське §§MDEMPH0§§ передає найвищий ступінь прикметника, але не показує саме тієї синтаксичної організації, яку має французьке §§MDEMPH1§§.
 
-> *найвищий студент у групі* → *l'étudiant le plus grand de la classe*.
+> §§MDEMPH0§§ → §§MDEMPH1§§.
 
 У французькій треба стежити за:
 
@@ -170,35 +170,35 @@ tags: []
 
 ## Типові помилки
 
-❌ *Marie est le plus grande.*  
-✓ *Marie est la plus grande.* — якщо порівнюються різні особи.
+❌ §§MDEMPH0§§  
+✓ §§MDEMPH0§§ — якщо порівнюються різні особи.
 
-❌ *Il court la plus vite.*  
-✓ *Il court le plus vite.*
+❌ §§MDEMPH0§§  
+✓ §§MDEMPH0§§
 
-❌ *Cette plante est la plus résistante en hiver* — якщо порівнюється рослина сама з собою за станами, природніше *le plus résistante*.
+❌ §§MDEMPH0§§ — якщо порівнюється рослина сама з собою за станами, природніше §§MDEMPH1§§.
 
-❌ *le plus meilleur*  
-✓ *le meilleur*.
+❌ §§MDEMPH0§§  
+✓ §§MDEMPH0§§.
 
 ## Алгоритм
 
 1. Визнач, чи це superlatif relatif.
 2. Встанови, чи порівнюються різні сутності, чи одна сутність у різних станах.
-3. Якщо різні сутності — перевір узгодження *le/la/les*.
+3. Якщо різні сутності — перевір узгодження §§MDEMPH0§§.
 4. Узгодь прикметник.
-5. Якщо це прислівник — не змінюй *le* за родом/числом.
-6. Перевір, чи є група порівняння з *de*.
+5. Якщо це прислівник — не змінюй §§MDEMPH0§§ за родом/числом.
+6. Перевір, чи є група порівняння з §§MDEMPH0§§.
 
 ## Мінітест
 
-1. *Marie est ___ plus grande de la classe.*  
-2. *Il court ___ plus vite de tous.*  
-3. *Cette plante est le plus / la plus résistante en hiver* — якщо порівнюємо її саму з собою за сезонами?  
-4. *le plus bon* чи *le meilleur* у звичайному порівнянні?
+1. §§MDEMPH0§§  
+2. §§MDEMPH0§§  
+3. §§MDEMPH0§§ — якщо порівнюємо її саму з собою за сезонами?  
+4. §§MDEMPH0§§ чи §§MDEMPH1§§ у звичайному порівнянні?
 
-**Відповіді:** 1 *la*; 2 *le*; 3 *le plus résistante*; 4 *le meilleur*.
+§§MDEMPH0§§ 1 §§MDEMPH1§§; 2 §§MDEMPH2§§; 3 §§MDEMPH3§§; 4 §§MDEMPH4§§.
 
 ## Підсумок
 
-Не зводь *le plus* до механічного українського «най-». Спочатку визнач **тип порівняння**, а потім форму артикля, прикметника або прислівника.
+Не зводь §§MDEMPH1§§ до механічного українського «най-». Спочатку визнач §§MDEMPH0§§, а потім форму артикля, прикметника або прислівника.

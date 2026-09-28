@@ -26,21 +26,21 @@ variant: []
 ---
 ## Швидка відповідь
 
-**Infinitif passé** — складена неособова форма:
+§§MDEMPH0§§ — складена неособова форма:
 
-**avoir / être à l’infinitif + participe passé**
+§§MDEMPH0§§
 
-> *avoir parlé*
+> §§MDEMPH0§§
 
-> *être parti*
+> §§MDEMPH0§§
 
-Його головна функція — виражати **попередність** інфінітивної дії щодо іншої часової точки, коли така інтерпретація доступна конкретній конструкції.
+Його головна функція — виражати §§MDEMPH0§§ інфінітивної дії щодо іншої часової точки, коли така інтерпретація доступна конкретній конструкції.
 
-> *Après avoir mangé, ils sont partis.*
+> §§MDEMPH0§§
 
 → Спочатку вони поїли, потім пішли.
 
-> *Je regrette d’avoir oublié.*
+> §§MDEMPH0§§
 
 → Я шкодую, що забув.
 
@@ -48,29 +48,29 @@ Infinitif passé не означає «дуже давню» дію. Він ви
 
 ## 1. Формула
 
-Для дієслів із *avoir*:
+Для дієслів із §§MDEMPH0§§:
 
-> **avoir + participe passé**
+> §§MDEMPH0§§
 
-- *avoir parlé*;
-- *avoir fini*;
-- *avoir pris*;
-- *avoir compris*.
+- §§MDEMPH0§§;
+- §§MDEMPH0§§;
+- §§MDEMPH0§§;
+- §§MDEMPH0§§.
 
-Для дієслів із *être*:
+Для дієслів із §§MDEMPH0§§:
 
-> **être + participe passé**
+> §§MDEMPH0§§
 
-- *être parti*;
-- *être arrivé*;
-- *être venu*;
-- *être né*.
+- §§MDEMPH0§§;
+- §§MDEMPH0§§;
+- §§MDEMPH0§§;
+- §§MDEMPH0§§.
 
-У конструкціях із *être* participe passé може узгоджуватися:
+У конструкціях із §§MDEMPH0§§ participe passé може узгоджуватися:
 
-> *Après être partie, Marie a appelé.*
+> §§MDEMPH0§§
 
-> *Après être partis, Paul et Marie ont appelé.*
+> §§MDEMPH0§§
 
 Отже, infinitif не скасовує правила узгодження participe passé.
 
@@ -78,14 +78,14 @@ Infinitif passé не означає «дуже давню» дію. Він ви
 
 Найвідоміша модель:
 
-> *Après avoir terminé le travail, elle est partie.*
+> §§MDEMPH0§§
 
 Послідовність:
 
 1. вона завершила роботу;
 2. вона пішла.
 
-Точка відліку — подія *elle est partie*.
+Точка відліку — подія §§MDEMPH0§§.
 
 Попередність не дорівнює давності: обидві події могли відбутися майже одна за одною.
 
@@ -95,25 +95,25 @@ Infinitif passé не означає «дуже давню» дію. Він ви
 
 Порівняй:
 
-> *Après avoir travaillé, il est rentré.*
+> §§MDEMPH0§§
 
-> *Après être arrivé, il a téléphoné.*
+> §§MDEMPH0§§
 
-Не можна вибирати *avoir* або *être* лише за українським перекладом.
+Не можна вибирати §§MDEMPH0§§ або §§MDEMPH1§§ лише за українським перекладом.
 
 ## 4. Infinitif passé в інших конструкціях
 
-Infinitif passé не обмежується *après*:
+Infinitif passé не обмежується §§MDEMPH0§§:
 
-> *Je regrette d’avoir parlé.*
+> §§MDEMPH0§§
 
 → Я шкодую, що сказав це.
 
-> *Il affirme avoir compris.*
+> §§MDEMPH0§§
 
 → Він стверджує, що зрозумів.
 
-> *Nous sommes heureux d’avoir réussi.*
+> §§MDEMPH0§§
 
 → Ми раді, що нам вдалося.
 
@@ -123,11 +123,11 @@ Infinitif passé не обмежується *après*:
 
 Порівняй:
 
-> *Je regrette de partir.*
+> §§MDEMPH0§§
 
 → Я шкодую, що йду / збираюся піти.
 
-> *Je regrette d’être parti.*
+> §§MDEMPH0§§
 
 → Я шкодую, що пішов.
 
@@ -137,11 +137,11 @@ Infinitif passé не обмежується *après*:
 
 Прийменник перед формою визначається головним словом:
 
-> *Elle regrette d’avoir oublié le rendez-vous.*
+> §§MDEMPH0§§
 
-> *Il prétend avoir vu la scène.*
+> §§MDEMPH0§§
 
-У першому *de* є частиною моделі *regretter de + infinitif*. У другому *prétendre* може безпосередньо керувати інфінітивом.
+У першому §§MDEMPH0§§ є частиною моделі §§MDEMPH1§§. У другому §§MDEMPH2§§ може безпосередньо керувати інфінітивом.
 
 Отже, infinitif passé не створює нового універсального правила керування.
 
@@ -149,13 +149,13 @@ Infinitif passé не обмежується *après*:
 
 Порівняй:
 
-> *Je regrette d’avoir oublié.*
+> §§MDEMPH0§§
 
-> *Je regrette que j’aie oublié.*
+> §§MDEMPH0§§
 
 В обох випадках зміст близький, але структура різна.
 
-У першій конструкції немає особового дієслова в інфінітивній частині. У другій *aie oublié* виражає особу та число.
+У першій конструкції немає особового дієслова в інфінітивній частині. У другій §§MDEMPH0§§ виражає особу та число.
 
 Це ще один приклад того, що інфінітив і підрядне речення не слід розглядати як механічні синоніми.
 
@@ -163,21 +163,21 @@ Infinitif passé не обмежується *après*:
 
 У:
 
-> *Après être arrivée, Marie est partie.*
+> §§MDEMPH0§§
 
-*arrivée* узгоджується з *Marie*.
+§§MDEMPH0§§ узгоджується з §§MDEMPH1§§.
 
 У:
 
-> *Après être arrivés, Paul et Marie sont partis.*
+> §§MDEMPH0§§
 
 форма має множину.
 
 Водночас:
 
-> *Après avoir mangé, Marie est partie.*
+> §§MDEMPH0§§
 
-*mangé* не узгоджується просто з наступним підметом *Marie*. Правило залежить від синтаксичної структури та допоміжного дієслова.
+§§MDEMPH0§§ не узгоджується просто з наступним підметом §§MDEMPH1§§. Правило залежить від синтаксичної структури та допоміжного дієслова.
 
 ## 9. Український контраст
 
@@ -190,11 +190,11 @@ Infinitif passé не обмежується *après*:
 
 Наприклад:
 
-> *Après avoir terminé, il est parti.*
+> §§MDEMPH0§§
 
 → Після того як він закінчив, він пішов.
 
-> *Je regrette d’avoir parlé.*
+> §§MDEMPH0§§
 
 → Я шкодую, що сказав це.
 
@@ -202,40 +202,40 @@ Infinitif passé не обмежується *après*:
 
 ## 10. Типові помилки
 
-❌ *Après avoir parti.*
+❌ §§MDEMPH0§§
 
-✅ *Après être parti.*
+✅ §§MDEMPH0§§
 
-❌ *Après être mangé*, якщо йдеться про людину, яка поїла.
+❌ §§MDEMPH0§§, якщо йдеться про людину, яка поїла.
 
-✅ *Après avoir mangé.*
+✅ §§MDEMPH0§§
 
-❌ *Après avoir mangée, Marie est partie.*
+❌ §§MDEMPH0§§
 
-✅ *Après avoir mangé, Marie est partie.*
+✅ §§MDEMPH0§§
 
-Останній приклад особливо важливий: наступний підмет не створює автоматичного узгодження participe passé з *avoir*.
+Останній приклад особливо важливий: наступний підмет не створює автоматичного узгодження participe passé з §§MDEMPH0§§.
 
 ## 11. Практичний алгоритм
 
-1. Знайди *avoir* або *être* в інфінітиві.
+1. Знайди §§MDEMPH0§§ або §§MDEMPH1§§ в інфінітиві.
 2. Визнач participe passé.
 3. Знайди головний компонент конструкції.
 4. Визнач часову точку відліку.
 5. Перевір, чи виражається попередність.
-6. Встанови вибір *avoir / être*.
-7. Якщо використано *être*, перевір узгодження.
-8. Порівняй із *que + особова форма*, якщо потрібно пояснити структуру.
+6. Встанови вибір §§MDEMPH0§§.
+7. Якщо використано §§MDEMPH0§§, перевір узгодження.
+8. Порівняй із §§MDEMPH0§§, якщо потрібно пояснити структуру.
 
 ## Практична перевірка
 
-1. Après ___ (manger), ils sont partis.
-2. Après ___ (arriver), Marie a téléphoné.
-3. Il regrette ___ (oublier) le document.
-4. Elle affirme ___ (comprendre) le problème.
-5. Après ___ (finir) son travail, Paul est sorti.
+1. Après §§MDEMPH0§§ (manger), ils sont partis.
+2. Après §§MDEMPH0§§ (arriver), Marie a téléphoné.
+3. Il regrette §§MDEMPH0§§ (oublier) le document.
+4. Elle affirme §§MDEMPH0§§ (comprendre) le problème.
+5. Après §§MDEMPH0§§ (finir) son travail, Paul est sorti.
 
-**Відповіді:** 1 — *avoir mangé*, 2 — *être arrivée*, 3 — *d’avoir oublié*, 4 — *avoir compris*, 5 — *avoir fini*.
+§§MDEMPH0§§ 1 — §§MDEMPH1§§, 2 — §§MDEMPH2§§, 3 — §§MDEMPH3§§, 4 — §§MDEMPH4§§, 5 — §§MDEMPH5§§.
 
 ## Куди далі
 

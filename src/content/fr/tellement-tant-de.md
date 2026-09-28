@@ -26,176 +26,176 @@ tags: []
 ---
 ## Швидка відповідь
 
-**Tellement** і **tant** виражають високу міру. Перед іменником вони утворюють:
+§§MDEMPH0§§ і §§MDEMPH1§§ виражають високу міру. Перед іменником вони утворюють:
 
-- **tellement de + nom**;
-- **tant de + nom**.
+- §§MDEMPH0§§;
+- §§MDEMPH0§§.
 
-Але перед прикметником і прислівником **de не потрібне**:
+Але перед прикметником і прислівником §§MDEMPH0§§:
 
-- *tellement intéressant*;
-- *tellement vite*;
-- *tant de travail*;
-- *Il travaille tant.*
+- §§MDEMPH0§§;
+- §§MDEMPH0§§;
+- §§MDEMPH0§§;
+- §§MDEMPH0§§
 
-У конструкції **tellement/tant ... que** можливе вираження наслідку:
+У конструкції §§MDEMPH0§§ можливе вираження наслідку:
 
-> *Il y avait tellement de monde que nous sommes partis.*
+> §§MDEMPH0§§
 
 ## 1. Tellement de + іменник
 
-> *Il y a tellement de monde !*
+> §§MDEMPH0§§
 
-> *Elle a tellement de travail !*
+> §§MDEMPH0§§
 
-> *Nous recevons tellement de demandes.*
+> §§MDEMPH0§§
 
-*De* не змінюється за родом або числом.
+§§MDEMPH0§§ не змінюється за родом або числом.
 
 Перед голосним:
 
-> *tellement d'argent*  
-> *tellement d'informations*
+> §§MDEMPH0§§  
+> §§MDEMPH0§§
 
 ## 2. Tant de + іменник
 
-> *Il a tant de travail.*
+> §§MDEMPH0§§
 
-> *Tant de personnes ont répondu.*
+> §§MDEMPH0§§
 
-*Tant de* може звучати більш книжно, риторично або виразно, особливо в окличних і стилістично підкреслених конструкціях:
+§§MDEMPH0§§ може звучати більш книжно, риторично або виразно, особливо в окличних і стилістично підкреслених конструкціях:
 
-> *Tant de choses restent à faire !*
+> §§MDEMPH0§§
 
-Це не означає, що *tant de* автоматично є «літературним» у кожному контексті; регістр визначає конкретне речення.
+Це не означає, що §§MDEMPH0§§ автоматично є «літературним» у кожному контексті; регістр визначає конкретне речення.
 
 ## 3. Без іменника: tellement / tant
 
-Якщо після прислівника немає іменника, *de* не потрібне:
+Якщо після прислівника немає іменника, §§MDEMPH0§§ не потрібне:
 
-> *Il travaille tellement !*
+> §§MDEMPH0§§
 
-> *Il travaille tant !*
+> §§MDEMPH0§§
 
-> *Elle parle tellement vite !*
+> §§MDEMPH0§§
 
-У *tellement vite* слово *tellement* визначає міру прислівника *vite*.
+У §§MDEMPH0§§ слово §§MDEMPH1§§ визначає міру прислівника §§MDEMPH2§§.
 
 Порівняй:
 
-> *tellement de bruit*  
-> *tellement bruyant*  
-> *tellement vite*
+> §§MDEMPH0§§  
+> §§MDEMPH0§§  
+> §§MDEMPH0§§
 
 ## 4. Tellement + adjectif
 
-> *Le film est tellement intéressant.*
+> §§MDEMPH0§§
 
-> *Elle est tellement fatiguée.*
+> §§MDEMPH0§§
 
 Це конструкція міри ознаки.
 
 Якщо додати наслідок:
 
-> *Le film est tellement intéressant que je l'ai regardé deux fois.*
+> §§MDEMPH0§§
 
-Тут *tellement ... que* пов'язує високий ступінь із результатом.
+Тут §§MDEMPH0§§ пов'язує високий ступінь із результатом.
 
 ## 5. Tant + verbe
 
-*Tant* може визначати міру дії:
+§§MDEMPH0§§ може визначати міру дії:
 
-> *Il travaille tant qu'il n'a plus de temps libre.*
+> §§MDEMPH0§§
 
-> *Elle parle tant !*
+> §§MDEMPH0§§
 
-У багатьох нейтральних сучасних контекстах для простого значення «дуже / багато» природнішими можуть бути інші форми, але *tant* залишається нормативною частиною системи.
+У багатьох нейтральних сучасних контекстах для простого значення «дуже / багато» природнішими можуть бути інші форми, але §§MDEMPH0§§ залишається нормативною частиною системи.
 
 ## 6. Tellement ... que і tant ... que
 
 Обидві конструкції можуть виражати наслідок:
 
-> *Il y avait tellement de monde que nous sommes partis.*
+> §§MDEMPH0§§
 
-> *Il avait tant travaillé qu'il était épuisé.*
+> §§MDEMPH0§§
 
-У першому випадку *tellement de* визначає іменник *monde*, у другому *tant* визначає дію *avait travaillé*.
+У першому випадку §§MDEMPH0§§ визначає іменник §§MDEMPH1§§, у другому §§MDEMPH2§§ визначає дію §§MDEMPH3§§.
 
 ## 7. Не плутай tellement із très
 
 Обидва можуть підсилювати прикметник:
 
-> *C'est très intéressant.*
+> §§MDEMPH0§§
 
-> *C'est tellement intéressant !*
+> §§MDEMPH0§§
 
-Але *tellement* часто сильніше пов'язане з контекстом, емоційною мірою або подальшим наслідком:
+Але §§MDEMPH0§§ часто сильніше пов'язане з контекстом, емоційною мірою або подальшим наслідком:
 
-> *C'était tellement intéressant que j'ai pris des notes.*
+> §§MDEMPH0§§
 
-Не варто механічно перекладати кожне *tellement* одним українським словом.
+Не варто механічно перекладати кожне §§MDEMPH0§§ одним українським словом.
 
 ## 8. Tant de і tellement de: не механічна заміна
 
 У нейтральному описі:
 
-> *Il y a tellement de bruit ici.*
+> §§MDEMPH0§§
 
 У виразному чи риторичному контексті:
 
-> *Tant de bruit pour rien !*
+> §§MDEMPH0§§
 
 Форми можуть бути близькими за значенням, але стилістична й дискурсивна функція різниться.
 
 ## 9. Українсько-французький контраст
 
-Українське **стільки** може відповідати *tant*, *tellement* або конструкції з іншими кількісними словами.
+Українське §§MDEMPH0§§ може відповідати §§MDEMPH1§§, §§MDEMPH2§§ або конструкції з іншими кількісними словами.
 
-> *стільки роботи* → *tellement de travail / tant de travail*.
+> §§MDEMPH0§§ → §§MDEMPH1§§.
 
-Українське **так сильно / настільки** часто передається *tellement*:
+Українське §§MDEMPH0§§ часто передається §§MDEMPH1§§:
 
-> *настільки цікаво* → *tellement intéressant*.
+> §§MDEMPH0§§ → §§MDEMPH1§§.
 
-Українське **дуже багато людей**:
+Українське §§MDEMPH0§§:
 
-> *tellement de personnes*.
+> §§MDEMPH0§§.
 
-Не переносимо українське «стільки» буквально: визначай, чи йдеться про **кількість іменника**, **міру ознаки** чи **міру дії**.
+Не переносимо українське «стільки» буквально: визначай, чи йдеться про §§MDEMPH0§§, §§MDEMPH1§§ чи §§MDEMPH2§§.
 
 ## Типові помилки
 
-❌ *tellement travaux*  
-✓ *tellement de travail*
+❌ §§MDEMPH0§§  
+✓ §§MDEMPH0§§
 
-❌ *tant intéressant* у значенні звичайного підсилення прикметника  
-✓ *tellement intéressant*.
+❌ §§MDEMPH0§§ у значенні звичайного підсилення прикметника  
+✓ §§MDEMPH0§§.
 
-❌ *Il travaille tellement de.*  
-✓ *Il travaille tellement.*
+❌ §§MDEMPH0§§  
+✓ §§MDEMPH0§§
 
-❌ *tellement des personnes* у звичайному значенні «стільки людей»  
-✓ *tellement de personnes*.
+❌ §§MDEMPH0§§ у звичайному значенні «стільки людей»  
+✓ §§MDEMPH0§§.
 
 ## Алгоритм
 
-1. Якщо після quantifieur стоїть іменник → **tellement/tant de**.
-2. Якщо прикметник → **tellement + adjectif**.
-3. Якщо прислівник → **tellement + adverbe**.
-4. Якщо дієслово → *tellement/tant + verbe* залежно від потрібного відтінку.
-5. Перевір *... que* на значення наслідку.
-6. Для *tant de* врахуй можливий риторичний або книжніший відтінок.
+1. Якщо після quantifieur стоїть іменник → §§MDEMPH0§§.
+2. Якщо прикметник → §§MDEMPH0§§.
+3. Якщо прислівник → §§MDEMPH0§§.
+4. Якщо дієслово → §§MDEMPH0§§ залежно від потрібного відтінку.
+5. Перевір §§MDEMPH0§§ на значення наслідку.
+6. Для §§MDEMPH0§§ врахуй можливий риторичний або книжніший відтінок.
 
 ## Мінітест
 
-1. *___ de travail !*  
-2. *Il est ___ fatigué.*  
-3. *Elle court ___ vite.*  
-4. *Il avait ___ travaillé qu'il était épuisé.*  
-5. Чи потрібне *de* в *Il travaille tellement*?
+1. §§MDEMPH0§§  
+2. §§MDEMPH0§§  
+3. §§MDEMPH0§§  
+4. §§MDEMPH0§§  
+5. Чи потрібне §§MDEMPH0§§ в §§MDEMPH1§§?
 
-**Відповіді:** 1 *tellement de / tant de*; 2 *tellement*; 3 *tellement*; 4 *tant / tellement*; 5 ні.
+§§MDEMPH0§§ 1 §§MDEMPH1§§; 2 §§MDEMPH2§§; 3 §§MDEMPH3§§; 4 §§MDEMPH4§§; 5 ні.
 
 ## Підсумок
 
-Ключове розрізнення — **кількість іменника проти міри ознаки або дії**. Саме воно визначає, чи потрібне *de*.
+Ключове розрізнення — §§MDEMPH0§§. Саме воно визначає, чи потрібне §§MDEMPH1§§.

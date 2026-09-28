@@ -27,43 +27,43 @@ tags: []
 ---
 ## Швидка відповідь
 
-**Plus que**, **moins que** та **aussi ... que** утворюють порівняльні конструкції, але форма залежить від того, що порівнюється.
+§§MDEMPH0§§, §§MDEMPH1§§ та §§MDEMPH2§§ утворюють порівняльні конструкції, але форма залежить від того, що порівнюється.
 
-> *Paul est plus grand que Marc.*
+> §§MDEMPH0§§
 
-> *Paul court plus vite que Marc.*
+> §§MDEMPH0§§
 
-> *Paul a plus de temps que Marc.*
+> §§MDEMPH0§§
 
-> *Paul travaille plus que Marc.*
+> §§MDEMPH0§§
 
 Для рівності:
 
-> *Paul est aussi grand que Marc.*
+> §§MDEMPH0§§
 
-> *Paul court aussi vite que Marc.*
+> §§MDEMPH0§§
 
-> *Paul a autant de temps que Marc.*
+> §§MDEMPH0§§
 
-> *Paul travaille autant que Marc.*
+> §§MDEMPH0§§
 
-Отже, **aussi** і **autant** не є взаємозамінними: *aussi* типово модифікує прикметник або прислівник, тоді як *autant* виражає рівну кількість або міру дії.
+Отже, §§MDEMPH0§§ і §§MDEMPH1§§ не є взаємозамінними: §§MDEMPH2§§ типово модифікує прикметник або прислівник, тоді як §§MDEMPH3§§ виражає рівну кількість або міру дії.
 
 ## 1. Порівнюємо прикметник
 
 Схема:
 
-> **sujet + être + plus/moins/aussi + adjectif + que**
+> §§MDEMPH0§§
 
-> *Cette route est plus longue que l'autre.*
+> §§MDEMPH0§§
 
-> *Cette route est moins dangereuse que l'autre.*
+> §§MDEMPH0§§
 
-> *Cette route est aussi large que l'autre.*
+> §§MDEMPH0§§
 
 Прикметник узгоджується з підметом:
 
-> *Ces routes sont plus longues que les autres.*
+> §§MDEMPH0§§
 
 Порівняльний елемент не узгоджується.
 
@@ -71,60 +71,60 @@ tags: []
 
 Схема:
 
-> **verbe + plus/moins/aussi + adverbe + que**
+> §§MDEMPH0§§
 
-> *Elle travaille plus rapidement que moi.*
+> §§MDEMPH0§§
 
-> *Il répond moins clairement que son collègue.*
+> §§MDEMPH0§§
 
-> *Nous avançons aussi rapidement qu'eux.*
+> §§MDEMPH0§§
 
-Тут **que** вводить другий член порівняння, а не підрядне речення в кожному випадку. Повторювати присудок часто не потрібно.
+Тут §§MDEMPH0§§ вводить другий член порівняння, а не підрядне речення в кожному випадку. Повторювати присудок часто не потрібно.
 
 ## 3. Порівнюємо іменник
 
 Схема:
 
-> **plus/moins/autant de + nom + que**
+> §§MDEMPH0§§
 
-> *Il a plus de livres que moi.*
+> §§MDEMPH0§§
 
-> *Elle a moins de temps que son frère.*
+> §§MDEMPH0§§
 
-> *Nous avons autant de travail qu'eux.*
+> §§MDEMPH0§§
 
 Перед голосним:
 
-> *plus d'argent*, *moins d'eau*, *autant d'informations*.
+> §§MDEMPH0§§, §§MDEMPH1§§, §§MDEMPH2§§.
 
-Не ставте **de** перед прикметником лише тому, що українською є «більше/менше»:
+Не ставте §§MDEMPH0§§ перед прикметником лише тому, що українською є «більше/менше»:
 
-> *plus intéressant*, але *plus de livres*.
+> §§MDEMPH0§§, але §§MDEMPH1§§.
 
 ## 4. Порівнюємо дію
 
 Схема:
 
-> **verbe + plus/moins/autant + que**
+> §§MDEMPH0§§
 
-> *Je lis plus que lui.*
+> §§MDEMPH0§§
 
-> *Elle dort moins qu'avant.*
+> §§MDEMPH0§§
 
-> *Nous voyageons autant qu'eux.*
+> §§MDEMPH0§§
 
-Тут не потрібне **de**, бо кількість або міра стосується самої дії.
+Тут не потрібне §§MDEMPH0§§, бо кількість або міра стосується самої дії.
 
 ## 5. Що може стояти після que
 
 Другим членом може бути:
 
-- іменникова група: *plus grand que son frère*;
-- займенник: *plus grand que lui*;
-- прислівниковий або часовий вираз: *plus complexe qu'avant*;
+- іменникова група: §§MDEMPH0§§;
+- займенник: §§MDEMPH0§§;
+- прислівниковий або часовий вираз: §§MDEMPH0§§;
 - інша пропозиція, якщо порівняння має відповідну структуру.
 
-> *La procédure est plus simple qu'elle ne l'était auparavant.*
+> §§MDEMPH0§§
 
 Повна форма корисна, коли треба зробити структуру явною; у звичайному мовленні часто достатньо короткої.
 
@@ -132,89 +132,89 @@ tags: []
 
 У реченні:
 
-> *Il travaille plus que je ne pensais.*
+> §§MDEMPH0§§
 
-**que** вводить частину, з якою порівнюється очікувана міра.
-
-У:
-
-> *Je pense qu'il viendra.*
-
-**que** є сполучником додаткового речення.
+§§MDEMPH0§§ вводить частину, з якою порівнюється очікувана міра.
 
 У:
 
-> *La personne que j'ai vue.*
+> §§MDEMPH0§§
 
-**que** — відносний займенник, COD.
+§§MDEMPH0§§ є сполучником додаткового речення.
 
-Одна форма **que** має різні синтаксичні функції. Її не можна класифікувати лише за перекладом.
+У:
+
+> §§MDEMPH0§§
+
+§§MDEMPH0§§ — відносний займенник, COD.
+
+Одна форма §§MDEMPH0§§ має різні синтаксичні функції. Її не можна класифікувати лише за перекладом.
 
 ## 7. Нерівність та рівність
 
 Порівняння може бути:
 
-- **supériorité** — *plus ... que*;
-- **infériorité** — *moins ... que*;
-- **égalité** — *aussi ... que* або *autant ... que* залежно від категорії.
+- §§MDEMPH0§§ — §§MDEMPH1§§;
+- §§MDEMPH0§§ — §§MDEMPH1§§;
+- §§MDEMPH0§§ — §§MDEMPH1§§ або §§MDEMPH2§§ залежно від категорії.
 
 Приклад:
 
-> *Ce modèle est plus rapide que l'ancien.*
+> §§MDEMPH0§§
 
-> *Ce modèle est moins cher que l'ancien.*
+> §§MDEMPH0§§
 
-> *Ce modèle est aussi fiable que l'ancien.*
+> §§MDEMPH0§§
 
-> *Ce modèle consomme autant d'énergie que l'ancien.*
+> §§MDEMPH0§§
 
 ## 8. Український контраст
 
-Українське «ніж» часто дозволяє не задумуватися про категорію порівнюваного елемента. У французькій конструкція перед **que** вже кодує тип міри:
+Українське «ніж» часто дозволяє не задумуватися про категорію порівнюваного елемента. У французькій конструкція перед §§MDEMPH0§§ вже кодує тип міри:
 
-> вищий → *plus grand*;
+> вищий → §§MDEMPH0§§;
 
-> швидше → *plus vite*;
+> швидше → §§MDEMPH0§§;
 
-> більше книжок → *plus de livres*;
+> більше книжок → §§MDEMPH0§§;
 
-> працювати більше → *travailler plus*.
+> працювати більше → §§MDEMPH0§§.
 
 Тому корисно спочатку назвати категорію українською, а вже потім будувати французьку модель.
 
 ## Типові помилки
 
-❌ *Il a plus livres que moi.*
+❌ §§MDEMPH0§§
 
-✅ *Il a plus de livres que moi.*
+✅ §§MDEMPH0§§
 
-❌ *Il est autant grand que moi.*
+❌ §§MDEMPH0§§
 
-✅ *Il est aussi grand que moi.*
+✅ §§MDEMPH0§§
 
-❌ *Il travaille aussi que moi.*
+❌ §§MDEMPH0§§
 
-✅ *Il travaille autant que moi.*
+✅ §§MDEMPH0§§
 
-❌ *Elle est plus rapide que moi ne suis.*
+❌ §§MDEMPH0§§
 
-Якщо потрібна повна конструкція, природніше: *Elle est plus rapide que je ne le suis*; у простому порівнянні достатньо *Elle est plus rapide que moi*.
+Якщо потрібна повна конструкція, природніше: §§MDEMPH0§§; у простому порівнянні достатньо §§MDEMPH1§§.
 
 ## Практичний алгоритм
 
 1. Визнач головний порівнюваний елемент.
 2. Визнач його категорію.
-3. Побудуй основу *plus/moins/aussi/autant*.
-4. Для іменника додай *de/d'*.
-5. Для рівності перевір, чи потрібне *aussi* чи *autant*.
-6. Визнач функцію *que*: порівняння, сполучник чи відносний займенник.
-7. Якщо повтор після *que* опущено, віднови його подумки для перевірки структури.
+3. Побудуй основу §§MDEMPH0§§.
+4. Для іменника додай §§MDEMPH0§§.
+5. Для рівності перевір, чи потрібне §§MDEMPH0§§ чи §§MDEMPH1§§.
+6. Визнач функцію §§MDEMPH0§§: порівняння, сполучник чи відносний займенник.
+7. Якщо повтор після §§MDEMPH0§§ опущено, віднови його подумки для перевірки структури.
 
 ## Мінітест
 
-1. *Cette solution est ___ simple que l'autre.*  
-2. *Elle dispose de ___ ressources que nous.*  
-3. *Elle travaille ___ que nous.*  
-4. *Il répond ___ vite que son collègue.*
+1. §§MDEMPH0§§  
+2. §§MDEMPH0§§  
+3. §§MDEMPH0§§  
+4. §§MDEMPH0§§
 
-Відповіді: **1 aussi, 2 autant de, 3 plus/moins/autant залежно від значення, 4 aussi**.
+Відповіді: §§MDEMPH0§§.

@@ -26,17 +26,17 @@ tags: []
 ---
 # à condition que
 
-**À condition que** вводить необхідну умову.
+§§MDEMPH0§§ вводить необхідну умову.
 
-> **Je viendrai à condition que tu sois là.**
-> **Vous pouvez entrer à condition que vous soyez inscrit.**
+> §§MDEMPH0§§
+> §§MDEMPH0§§
 
-Після конструкції вживається **subjonctif**.
+Після конструкції вживається §§MDEMPH0§§.
 
-Порівняйте з **si**:
+Порівняйте з §§MDEMPH0§§:
 
-> **Si tu viens, je partirai.**
+> §§MDEMPH0§§
 
-> **Je partirai à condition que tu viennes.**
+> §§MDEMPH0§§
 
-**À condition que** сильніше підкреслює вимогу до виконання головної дії, тоді як **si** є ширшим умовним конектором.
+§§MDEMPH0§§ сильніше підкреслює вимогу до виконання головної дії, тоді як §§MDEMPH1§§ є ширшим умовним конектором.

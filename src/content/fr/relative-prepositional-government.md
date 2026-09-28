@@ -28,43 +28,43 @@ tags: []
 ---
 # Відносні речення з прийменниковим керуванням
 
-Відносний займенник має відтворювати зв'язок, який вимагає дієслово, прикметник або іменник. Тому перед вибором **que, dont, lequel** треба встановити керування.
+Відносний займенник має відтворювати зв'язок, який вимагає дієслово, прикметник або іменник. Тому перед вибором §§MDEMPH0§§ треба встановити керування.
 
 ## Дієслово + de
 
-> **Le sujet dont nous parlons.**
+> §§MDEMPH0§§
 
 Вихідна модель:
 
-> **Nous parlons de ce sujet.**
+> §§MDEMPH0§§
 
 ## Дієслово + à
 
-> **Le projet auquel je pense.**
+> §§MDEMPH0§§
 
 Вихідна модель:
 
-> **Je pense à ce projet.**
+> §§MDEMPH0§§
 
 ## Дієслово + sur
 
-> **Le projet sur lequel nous travaillons.**
+> §§MDEMPH0§§
 
 Вихідна модель:
 
-> **Nous travaillons sur ce projet.**
+> §§MDEMPH0§§
 
 ## Особа після прийменника
 
-> **La collègue avec qui je travaille.**
+> §§MDEMPH0§§
 
-Для особового референта **qui** часто є природною формою після прийменника.
+Для особового референта §§MDEMPH0§§ часто є природною формою після прийменника.
 
 ## Предмет після прийменника
 
-> **Le système avec lequel je travaille.**
+> §§MDEMPH0§§
 
-Тут **lequel** узгоджується з **système**.
+Тут §§MDEMPH0§§ узгоджується з §§MDEMPH1§§.
 
 ## Метод
 
@@ -75,14 +75,14 @@ tags: []
 
 ## Типові помилки
 
-❌ **Le sujet que je parle.**  
-✅ **Le sujet dont je parle.**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
-❌ **Le projet que je pense.**  
-✅ **Le projet auquel je pense.**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
-❌ **Le système qui je travaille avec.**  
-→ У нейтральному письмі: **le système avec lequel je travaille**.
+❌ §§MDEMPH0§§  
+→ У нейтральному письмі: §§MDEMPH0§§.
 
 ## Пов'язані теми
 

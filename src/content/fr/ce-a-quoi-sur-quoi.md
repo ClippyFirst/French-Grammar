@@ -26,53 +26,53 @@ tags: []
 ---
 ## Швидка відповідь
 
-Якщо вихідна конструкція вимагає прийменника, у конструкції **ce + relative** прийменник зберігається:
+Якщо вихідна конструкція вимагає прийменника, у конструкції §§MDEMPH0§§ прийменник зберігається:
 
-*ce à quoi je pense*  
-*ce sur quoi je travaille*  
-*ce avec quoi je travaille*
+§§MDEMPH0§§  
+§§MDEMPH0§§  
+§§MDEMPH0§§
 
 Вибір визначається керуванням, а не перекладом українського «що».
 
 ## 1. Ce à quoi
 
-*Je pense à quelque chose.*  
-→ *Je pense à ce à quoi...* — у відповідній структурі.
+§§MDEMPH0§§  
+→ §§MDEMPH0§§ — у відповідній структурі.
 
 Найпростіший приклад:
 
-*Je ne comprends pas ce à quoi tu fais référence.*
+§§MDEMPH0§§
 
-Тут *faire référence à* вимагає **à**.
+Тут §§MDEMPH1§§ вимагає §§MDEMPH0§§.
 
 ## 2. Ce sur quoi
 
-*Je travaille sur ce problème.*  
-→ *ce sur quoi je travaille.*
+§§MDEMPH0§§  
+→ §§MDEMPH0§§
 
-Прийменник **sur** зберігається.
+Прийменник §§MDEMPH0§§ зберігається.
 
 ## 3. Ce avec quoi
 
-*J’écris avec cet outil.*  
-→ *Voilà ce avec quoi j’écris.*
+§§MDEMPH0§§  
+→ §§MDEMPH0§§
 
-Тут **avec** не можна вилучити.
+Тут §§MDEMPH0§§ не можна вилучити.
 
 ## 4. Ce de quoi
 
-*Je parle de ce sujet.*  
-→ *ce de quoi je parle*.
+§§MDEMPH0§§  
+→ §§MDEMPH0§§.
 
-У частині конструкцій це перетинається з **ce dont**; вибір залежить від структури та стилістичної організації.
+У частині конструкцій це перетинається з §§MDEMPH0§§; вибір залежить від структури та стилістичної організації.
 
 ## 5. Ce que vs ce à quoi
 
-*Je sais ce que tu fais.*  
-→ *faire quelque chose*.
+§§MDEMPH0§§  
+→ §§MDEMPH0§§.
 
-*Je sais ce à quoi tu penses.*  
-→ *penser à quelque chose*.
+§§MDEMPH0§§  
+→ §§MDEMPH0§§.
 
 Саме прийменникове керування розрізняє конструкції.
 
@@ -81,13 +81,13 @@ tags: []
 1. Віднови просте речення.
 2. Визнач керування дієслова.
 3. Якщо дієслово вимагає прийменник, збережи його.
-4. Побудуй **ce + préposition + quoi**.
-5. Перевір, чи є спеціальна форма типу **ce dont**.
+4. Побудуй §§MDEMPH0§§.
+5. Перевір, чи є спеціальна форма типу §§MDEMPH0§§.
 
 ## Мінітест
 
-*Je ne sais pas ___ tu penses.* → **ce à quoi**.
+§§MDEMPH1§§ → §§MDEMPH0§§.
 
-*Voilà ___ je travaille.* → **ce sur quoi**.
+§§MDEMPH1§§ → §§MDEMPH0§§.
 
-*Je sais ___ tu fais.* → **ce que**.
+§§MDEMPH1§§ → §§MDEMPH0§§.

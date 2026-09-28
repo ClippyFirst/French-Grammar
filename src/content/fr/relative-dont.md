@@ -28,174 +28,174 @@ tags: []
 ---
 # Dont як відносний займенник
 
-**Dont** — відносний займенник, який пов'язує антецедент із компонентом, що у вихідній конструкції залежить від **de**. Це може бути залежність від дієслова, іменника або прикметника. Тому *dont* не варто перекладати одним українським словом: його вибір визначає французьке керування.
+§§MDEMPH0§§ — відносний займенник, який пов'язує антецедент із компонентом, що у вихідній конструкції залежить від §§MDEMPH1§§. Це може бути залежність від дієслова, іменника або прикметника. Тому §§MDEMPH2§§ не варто перекладати одним українським словом: його вибір визначає французьке керування.
 
 ## Швидка відповідь
 
-> **Le livre dont je parle est intéressant.**
+> §§MDEMPH0§§
 
 Відновлення:
 
-> **Je parle de ce livre.**
+> §§MDEMPH0§§
 
-Отже, *dont* представляє залежність із *de*.
+Отже, §§MDEMPH0§§ представляє залежність із §§MDEMPH1§§.
 
 Порівняйте:
 
-> **Le livre que je lis est intéressant.**
+> §§MDEMPH0§§
 
-→ **Je lis le livre.**
+→ §§MDEMPH0§§
 
-Тут *de* немає, тому *que*.
+Тут §§MDEMPH0§§ немає, тому §§MDEMPH1§§.
 
 ## 1. Dont після дієслова
 
-> **Le sujet dont nous parlons est complexe.**
+> §§MDEMPH0§§
 
-> **La personne dont je me souviens habite à Paris.**
+> §§MDEMPH0§§
 
-> **Le problème dont ils discutent est important.**
+> §§MDEMPH0§§
 
 Відновлення:
 
-> **Nous parlons de ce sujet.**
+> §§MDEMPH0§§
 
-> **Je me souviens de cette personne.**
+> §§MDEMPH0§§
 
-> **Ils discutent de ce problème.**
+> §§MDEMPH0§§
 
-Вибір *dont* визначається керуванням.
+Вибір §§MDEMPH0§§ визначається керуванням.
 
 ## 2. Dont після прикметника
 
-Якщо прикметник утворює залежність із *de*, *dont* також може бути відповідним відносним елементом:
+Якщо прикметник утворює залежність із §§MDEMPH0§§, §§MDEMPH1§§ також може бути відповідним відносним елементом:
 
-> **Le résultat dont je suis fier.**
+> §§MDEMPH0§§
 
-→ **Je suis fier de ce résultat.**
+→ §§MDEMPH0§§
 
-> **La qualité dont il est conscient.**
+> §§MDEMPH0§§
 
-→ **Il est conscient de cette qualité.**
+→ §§MDEMPH0§§
 
 Тому перевіряти треба не лише дієслово.
 
 ## 3. Dont у конструкції з іменником
 
-> **La femme dont le frère travaille ici.**
+> §§MDEMPH0§§
 
 Відновлення:
 
-> **Le frère de cette femme travaille ici.**
+> §§MDEMPH0§§
 
 Інші приклади:
 
-> **L'entreprise dont les produits sont connus...**
+> §§MDEMPH0§§
 
-> **Un écrivain dont les romans ont été traduits...**
+> §§MDEMPH0§§
 
-У таких конструкціях *dont* виражає зв'язок, який у простій іменній групі реалізувався б через *de*.
+У таких конструкціях §§MDEMPH0§§ виражає зв'язок, який у простій іменній групі реалізувався б через §§MDEMPH1§§.
 
 ## 4. Dont — не лише «чий»
 
 Порівняйте:
 
-> **le livre dont je parle**
+> §§MDEMPH0§§
 
-> **la femme dont je me souviens**
+> §§MDEMPH0§§
 
-> **le résultat dont je suis fier**
+> §§MDEMPH0§§
 
-Семантичні відношення різні, але французьке керування містить *de*.
+Семантичні відношення різні, але французьке керування містить §§MDEMPH0§§.
 
-Тому правило «*dont* = чий» занадто вузьке.
+Тому правило «§§MDEMPH0§§ = чий» занадто вузьке.
 
 ## 5. Українське «про який» не визначає dont
 
-> **Le livre dont je parle.**  
+> §§MDEMPH0§§  
 > Книга, про яку я говорю.
 
 Але:
 
-> **Le projet sur lequel nous travaillons.**  
+> §§MDEMPH0§§  
 > Проєкт, над яким ми працюємо.
 
 Український прийменник не визначає французький. Потрібно перевіряти:
 
-> **parler de** → *dont*
+> §§MDEMPH0§§ → §§MDEMPH1§§
 
-> **travailler sur** → *sur lequel*.
+> §§MDEMPH0§§ → §§MDEMPH1§§.
 
 ## 6. Dont проти que та lequel
 
 | Вихідна конструкція | Relative |
 |---|---|
-| **Je lis le livre.** | *le livre que je lis* |
-| **Je parle du livre.** | *le livre dont je parle* |
-| **Je pense au projet.** | *le projet auquel je pense* |
-| **Je travaille sur le projet.** | *le projet sur lequel je travaille* |
+| §§MDEMPH0§§ | §§MDEMPH1§§ |
+| §§MDEMPH0§§ | §§MDEMPH1§§ |
+| §§MDEMPH0§§ | §§MDEMPH1§§ |
+| §§MDEMPH0§§ | §§MDEMPH1§§ |
 
 Це одна система керування, а не чотири незалежні правила.
 
 ## 7. Dont і participe passé
 
-Не можна переносити правило COD на будь-який *dont*:
+Не можна переносити правило COD на будь-який §§MDEMPH0§§:
 
-> **La chanson que j'ai écoutée.**
+> §§MDEMPH0§§
 
-Тут *que* представляє COD.
+Тут §§MDEMPH0§§ представляє COD.
 
-> **La chanson dont je me souviens.**
+> §§MDEMPH0§§
 
-Тут *dont* представляє залежність від **se souvenir de**.
+Тут §§MDEMPH1§§ представляє залежність від §§MDEMPH0§§.
 
 Тому спочатку визначайте синтаксичну функцію, а вже потім застосовуйте правила узгодження.
 
 ## 8. Не дублюйте de
 
-❌ **Le livre dont je parle de.**
+❌ §§MDEMPH0§§
 
-✅ **Le livre dont je parle.**
+✅ §§MDEMPH0§§
 
-У цій конструкції *dont* уже реалізує зв'язок із *de*.
+У цій конструкції §§MDEMPH0§§ уже реалізує зв'язок із §§MDEMPH1§§.
 
-Так само Академія французької застерігає від конструкцій, де *dont* дублює вже виражений *de*: нормативними є, наприклад, **C'est l'affaire dont je vous parle** або **C'est de cette affaire que je vous parle**, а не *C'est de cette affaire dont je vous parle*. citeturn0search4turn0search2
+Так само Академія французької застерігає від конструкцій, де §§MDEMPH2§§ дублює вже виражений §§MDEMPH3§§: нормативними є, наприклад, §§MDEMPH0§§ або §§MDEMPH1§§, а не §§MDEMPH4§§. citeturn0search4turn0search2
 
 ## 9. Dont не замінює будь-який прийменник
 
-> **Le problème auquel je pense.**
+> §§MDEMPH0§§
 
-> **Le système avec lequel je travaille.**
+> §§MDEMPH0§§
 
-> **Le projet sur lequel nous travaillons.**
+> §§MDEMPH0§§
 
-Не треба використовувати *dont* лише тому, що український переклад містить «про», «з», «над» тощо.
+Не треба використовувати §§MDEMPH0§§ лише тому, що український переклад містить «про», «з», «над» тощо.
 
 ## 10. Український контраст
 
-Одна французька форма *dont* може відповідати різним українським конструкціям:
+Одна французька форма §§MDEMPH0§§ може відповідати різним українським конструкціям:
 
-> **le livre dont je parle** — книга, про яку я говорю
+> §§MDEMPH0§§ — книга, про яку я говорю
 
-> **la femme dont le frère travaille ici** — жінка, брат якої працює тут
+> §§MDEMPH0§§ — жінка, брат якої працює тут
 
-> **le résultat dont je suis fier** — результат, яким я пишаюся
+> §§MDEMPH0§§ — результат, яким я пишаюся
 
-Отже, *dont* не дорівнює одному українському відмінку.
+Отже, §§MDEMPH0§§ не дорівнює одному українському відмінку.
 
 ## 11. Типові помилки
 
-❌ **Le sujet que je parle.**  
-✅ **Le sujet dont je parle.**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
-❌ **Le livre dont je lis.**  
-✅ **Le livre que je lis.**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
-❌ **Le projet dont je travaille sur.**  
-✅ **Le projet sur lequel je travaille.**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
-❌ **La femme dont son frère travaille ici.**  
-✅ **La femme dont le frère travaille ici.**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
 ## 12. Алгоритм
 
@@ -203,28 +203,28 @@ tags: []
 2. Відновіть просте речення.
 3. Знайдіть дієслово, прикметник або іменник, від якого залежить компонент.
 4. Перевірте керування.
-5. **de** → перевірте *dont*.
-6. Інший прийменник → перевірте *qui / lequel*.
-7. COD без прийменника → *que*.
-8. Не дублюйте *de* після *dont*.
+5. §§MDEMPH0§§ → перевірте §§MDEMPH1§§.
+6. Інший прийменник → перевірте §§MDEMPH0§§.
+7. COD без прийменника → §§MDEMPH0§§.
+8. Не дублюйте §§MDEMPH0§§ після §§MDEMPH1§§.
 
 ## Мінітест
 
-1. **Le livre ___ je parle est nouveau.**
-2. **Le livre ___ je lis est nouveau.**
-3. **Le projet sur ___ nous travaillons est complexe.**
-4. **La personne ___ je me souviens habite ici.**
-5. **La chercheuse ___ les travaux sont connus donnera une conférence.**
+1. §§MDEMPH0§§
+2. §§MDEMPH0§§
+3. §§MDEMPH0§§
+4. §§MDEMPH0§§
+5. §§MDEMPH0§§
 
-**Відповіді:** 1 *dont*; 2 *que*; 3 *lequel* → *sur lequel*; 4 *dont*; 5 *dont*.
+§§MDEMPH0§§ 1 §§MDEMPH1§§; 2 §§MDEMPH2§§; 3 §§MDEMPH3§§ → §§MDEMPH4§§; 4 §§MDEMPH5§§; 5 §§MDEMPH6§§.
 
 ## Короткий висновок
 
-> **Dont** треба розуміти як частину системи французького керування.
+> §§MDEMPH0§§ треба розуміти як частину системи французького керування.
 
 Найнадійніший тест:
 
-> **Je parle de X → le X dont je parle.**
+> §§MDEMPH0§§
 
 ## Пов'язані теми
 

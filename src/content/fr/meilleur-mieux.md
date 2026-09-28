@@ -26,104 +26,104 @@ tags: []
 ---
 ## Швидка відповідь
 
-**Meilleur** — прикметник, порівняльна форма **bon**; **mieux** — прислівник, порівняльна форма **bien**.
+§§MDEMPH0§§ — прикметник, порівняльна форма §§MDEMPH1§§; §§MDEMPH2§§ — прислівник, порівняльна форма §§MDEMPH3§§.
 
-> *C'est un meilleur résultat.*
+> §§MDEMPH0§§
 
-> *Cette solution est meilleure.*
+> §§MDEMPH0§§
 
-> *Il travaille mieux.*
+> §§MDEMPH0§§
 
-> *Elle répond mieux.*
+> §§MDEMPH0§§
 
-**Meilleur** узгоджується з іменником: *meilleur, meilleure, meilleurs, meilleures*. **Mieux** не узгоджується.
+§§MDEMPH0§§ узгоджується з іменником: §§MDEMPH2§§. §§MDEMPH1§§ не узгоджується.
 
 Головний тест:
 
-- «кращий **який / що**?» → **meilleur**;
-- «робити / працювати **як**?» → **mieux**.
+- «кращий §§MDEMPH0§§?» → §§MDEMPH1§§;
+- «робити / працювати §§MDEMPH0§§?» → §§MDEMPH1§§.
 
-Але **mieux** може вживатися після *aller* у значенні стану:
+Але §§MDEMPH0§§ може вживатися після §§MDEMPH1§§ у значенні стану:
 
-> *Je vais mieux.*
+> §§MDEMPH0§§
 
-Тут немає іменника, який *mieux* характеризує як прикметник.
+Тут немає іменника, який §§MDEMPH0§§ характеризує як прикметник.
 
 ## 1. Meilleur як прикметник
 
-> *C'est un meilleur choix.*
+> §§MDEMPH0§§
 
-> *C'est une meilleure solution.*
+> §§MDEMPH0§§
 
-> *Ce sont de meilleurs résultats.*
+> §§MDEMPH0§§
 
-> *Ce sont de meilleures conditions.*
+> §§MDEMPH0§§
 
 Форма залежить від роду та числа іменника.
 
 Порівняйте:
 
-> *Cette solution est meilleure que l'autre.*
+> §§MDEMPH0§§
 
-> *Ces solutions sont meilleures que les autres.*
+> §§MDEMPH0§§
 
-Після **être** слово все одно залишається прикметником, якщо воно характеризує іменник.
+Після §§MDEMPH0§§ слово все одно залишається прикметником, якщо воно характеризує іменник.
 
 ## 2. Mieux як прислівник
 
-**Mieux** модифікує дію або інший предикативний компонент:
+§§MDEMPH0§§ модифікує дію або інший предикативний компонент:
 
-> *Elle comprend mieux maintenant.*
+> §§MDEMPH0§§
 
-> *Il travaille mieux sous pression.*
+> §§MDEMPH0§§
 
-> *Nous répondons mieux aux besoins des utilisateurs.*
+> §§MDEMPH0§§
 
-У таких випадках *mieux* не має форм **mieuxe* чи **mieuxs*.
+У таких випадках §§MDEMPH0§§ не має форм **mieuxe§§MDEMPH1§§mieuxs*.
 
 ## 3. Mieux після être
 
 Порівняйте:
 
-> *Cette méthode est meilleure.*
+> §§MDEMPH0§§
 
-> *Je vais mieux.*
+> §§MDEMPH0§§
 
 У першому реченні йдеться про якість методу; у другому — про стан суб'єкта.
 
-Можливі й інші конструкції, де *mieux* має прислівникову або предикативну функцію. Тому правило «після être завжди meilleur» неправильне.
+Можливі й інші конструкції, де §§MDEMPH0§§ має прислівникову або предикативну функцію. Тому правило «після être завжди meilleur» неправильне.
 
 ## 4. Meilleur + nom
 
-Якщо **meilleur** стоїть перед іменником, узгодження очевидне:
+Якщо §§MDEMPH0§§ стоїть перед іменником, узгодження очевидне:
 
-> *le meilleur moment*
+> §§MDEMPH0§§
 
-> *la meilleure option*
+> §§MDEMPH0§§
 
-> *les meilleurs exemples*
+> §§MDEMPH0§§
 
-> *les meilleures données*
+> §§MDEMPH0§§
 
 У конструкціях із кількісними або негативними детермінативами також стежте за реальною структурою іменникової групи.
 
 ## 5. Comparatif та superlatif
 
-**Meilleur** може бути порівняльним:
+§§MDEMPH0§§ може бути порівняльним:
 
-> *Ce modèle est meilleur que l'ancien.*
+> §§MDEMPH0§§
 
 Або суперлативним:
 
-> *C'est le meilleur modèle.*
+> §§MDEMPH0§§
 
-Те саме слово може входити в обидві конструкції; не потрібно механічно будувати *plus bon* у нейтральній сучасній мові там, де нормативною спеціалізованою формою є *meilleur*.
+Те саме слово може входити в обидві конструкції; не потрібно механічно будувати §§MDEMPH0§§ у нейтральній сучасній мові там, де нормативною спеціалізованою формою є §§MDEMPH1§§.
 
-Для **bien** відповідна форма:
+Для §§MDEMPH0§§ відповідна форма:
 
-> *Il travaille mieux que moi.*
+> §§MDEMPH0§§
 
-> *C'est lui qui travaille le mieux.*
+> §§MDEMPH0§§
 
 ## 6. Український контраст
 
@@ -135,44 +135,44 @@ tags: []
 
 Французька розводить це морфологічно:
 
-> *un meilleur système*;
+> §§MDEMPH0§§;
 
-> *il fonctionne mieux*.
+> §§MDEMPH0§§.
 
 Тому переклад «краще → mieux» без перевірки іменника може породжувати помилки.
 
 ## Типові помилки
 
-❌ *une mieux solution*
+❌ §§MDEMPH0§§
 
-✅ *une meilleure solution*
+✅ §§MDEMPH0§§
 
-❌ *il travaille meilleur*
+❌ §§MDEMPH0§§
 
-✅ *il travaille mieux*
+✅ §§MDEMPH0§§
 
 ❌ **plus mieux*
 
-✅ *mieux*
+✅ §§MDEMPH0§§
 
 ❌ **plus meilleur*
 
-У нейтральному порівнянні використовуйте спеціальні форми **meilleur / mieux**, а не подвійні порівняльні утворення.
+У нейтральному порівнянні використовуйте спеціальні форми §§MDEMPH0§§, а не подвійні порівняльні утворення.
 
 ## Практичний алгоритм
 
 1. Знайди слово, яке описуєш.
-2. Якщо це іменник, перевір **meilleur** та його узгодження.
-3. Якщо це дія або спосіб виконання дії, перевір **mieux**.
-4. Після *être* не роби механічного висновку: визнач функцію слова.
-5. Якщо йдеться про *bon/bien*, перевір спеціальну порівняльну форму.
-6. Для найвищого ступеня перевір *le/la/les meilleur(s)* або *le mieux*.
+2. Якщо це іменник, перевір §§MDEMPH0§§ та його узгодження.
+3. Якщо це дія або спосіб виконання дії, перевір §§MDEMPH0§§.
+4. Після §§MDEMPH0§§ не роби механічного висновку: визнач функцію слова.
+5. Якщо йдеться про §§MDEMPH0§§, перевір спеціальну порівняльну форму.
+6. Для найвищого ступеня перевір §§MDEMPH0§§ або §§MDEMPH1§§.
 
 ## Мінітест
 
-1. *C'est une ___ solution.*  
-2. *Elle travaille ___.*
-3. *Je vais ___ aujourd'hui.*
-4. *Ce sont les ___ résultats.*
+1. §§MDEMPH0§§  
+2. §§MDEMPH0§§
+3. §§MDEMPH0§§
+4. §§MDEMPH0§§
 
-Відповіді: **1 meilleure, 2 mieux, 3 mieux, 4 meilleurs**.
+Відповіді: §§MDEMPH0§§.

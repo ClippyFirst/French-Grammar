@@ -28,37 +28,37 @@ tags: []
 
 Після складеного прийменникового виразу треба зберігати його структуру:
 
-*la maison à côté de laquelle...*  
-*le projet au sujet duquel...*  
-*la personne auprès de laquelle...*
+§§MDEMPH0§§  
+§§MDEMPH0§§  
+§§MDEMPH0§§
 
-Не можна механічно замінювати весь вираз на просте **auquel** або **dont**.
+Не можна механічно замінювати весь вираз на просте §§MDEMPH0§§ або §§MDEMPH1§§.
 
 ## 1. À côté de
 
-*La maison à côté de laquelle il habite.*
+§§MDEMPH0§§
 
 Розбір:
 
-**à côté de + laquelle**.
+§§MDEMPH0§§.
 
 ## 2. Près de
 
-*Le village près duquel nous travaillons.*
+§§MDEMPH0§§
 
 Чоловічий однина:
 
-**près de + lequel → près duquel**.
+§§MDEMPH0§§.
 
 ## 3. Au sujet de
 
-*Les questions au sujet desquelles nous discutons.*
+§§MDEMPH0§§
 
-Тут *au sujet de* — складений прийменниковий вираз.
+Тут §§MDEMPH0§§ — складений прийменниковий вираз.
 
 ## 4. Auprès de
 
-*La personne auprès de laquelle il travaille.*
+§§MDEMPH0§§
 
 Прийменникова група не зникає після вибору relative.
 
@@ -66,37 +66,37 @@ tags: []
 
 З простим прийменником:
 
-*avec lequel*  
-*sur laquelle*  
-*pour lesquels*
+§§MDEMPH0§§  
+§§MDEMPH0§§  
+§§MDEMPH0§§
 
 Зі складеним:
 
-*à côté duquel*  
-*près de laquelle*.
+§§MDEMPH0§§  
+§§MDEMPH0§§.
 
 Структуру потрібно аналізувати цілком.
 
 ## 6. Чому не завжди dont
 
-**Dont** добре працює, коли залежність безпосередньо пов’язана з **de**:
+§§MDEMPH0§§ добре працює, коли залежність безпосередньо пов’язана з §§MDEMPH1§§:
 
-*le livre dont je parle*.
+§§MDEMPH0§§.
 
-Але в *la maison à côté de laquelle...* прийменниковий вираз *à côté de* має власне значення, тому заміна на *dont* змінює структуру.
+Але в §§MDEMPH0§§ прийменниковий вираз §§MDEMPH1§§ має власне значення, тому заміна на §§MDEMPH2§§ змінює структуру.
 
 ## Алгоритм
 
 1. Виділи весь прийменниковий вираз.
 2. Не відкидай його початкову частину.
 3. Визнач рід і число антецедента.
-4. Узгодь *lequel*.
-5. Застосуй злиття **de + lequel → duquel** тощо, якщо воно потрібне.
+4. Узгодь §§MDEMPH0§§.
+5. Застосуй злиття §§MDEMPH0§§ тощо, якщо воно потрібне.
 
 ## Мінітест
 
-*La table à côté de ___ je suis assis.* → **laquelle**.
+§§MDEMPH1§§ → §§MDEMPH0§§.
 
-*Le bâtiment près de ___ ils travaillent.* → **duquel**.
+§§MDEMPH1§§ → §§MDEMPH0§§.
 
-*Les sujets au sujet de ___ nous parlons.* → **desquels**.
+§§MDEMPH1§§ → §§MDEMPH0§§.

@@ -30,9 +30,9 @@ variant: []
 
 Деякі дієслова можуть одночасно керувати двома залежними компонентами:
 
-> **Je donne le livre à Marie.**
+> §§MDEMPH0§§
 
-**le livre** — COD, **à Marie** — COI.
+§§MDEMPH0§§ — COD, §§MDEMPH1§§ — COI.
 
 Важливо розрізняти функцію компонента і його форму.
 
@@ -40,9 +40,9 @@ variant: []
 
 Типова модель:
 
-**donner + chose + à + personne**
+§§MDEMPH0§§
 
-> **Elle donne un cadeau à son frère.**
+> §§MDEMPH0§§
 
 Обидва компоненти залежать від одного дієслова, але їхні граматичні функції різні.
 
@@ -50,15 +50,15 @@ variant: []
 
 При заміні:
 
-> **Elle donne le livre à Marie.**
+> §§MDEMPH0§§
 
 можливі:
 
-> **Elle le donne à Marie.**
+> §§MDEMPH0§§
 
 або за відповідної конструкції:
 
-> **Elle lui donne le livre.**
+> §§MDEMPH0§§
 
 Комбінації двох клитик мають власний порядок.
 
@@ -66,15 +66,15 @@ variant: []
 
 Інші дієслова можуть мати складніші моделі:
 
-> **Il parle de son projet à ses collègues.**
+> §§MDEMPH0§§
 
-Тут **de son projet** та **à ses collègues** не слід механічно прирівнювати до COD + COI: функцію визначає вся конструкція.
+Тут §§MDEMPH0§§ та §§MDEMPH1§§ не слід механічно прирівнювати до COD + COI: функцію визначає вся конструкція.
 
 ## 4. Український контраст
 
 Українська відмінкова система може приховувати структурну різницю:
 
-> **дати комусь щось** → **donner quelque chose à quelqu'un**
+> §§MDEMPH0§§ → §§MDEMPH1§§
 
 Французький аналіз треба будувати на французьких формах.
 
@@ -88,10 +88,10 @@ variant: []
 
 ## Практична перевірка
 
-У **Je donne le livre à Marie**:
+У §§MDEMPH0§§:
 
-- **le livre** → COD;
-- **à Marie** → COI.
+- §§MDEMPH0§§ → COD;
+- §§MDEMPH0§§ → COI.
 
-У **Elle le donne à Marie** займенник **le** замінює COD.
+У §§MDEMPH0§§ займенник §§MDEMPH1§§ замінює COD.
 

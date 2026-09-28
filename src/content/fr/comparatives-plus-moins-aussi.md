@@ -26,20 +26,20 @@ tags: []
 ---
 ## Швидка відповідь
 
-Французьке **plus**, **moins** та **aussi** виражає порівняльну міру. Ключове питання — не «як перекласти слово *більше/менше/так само*», а **що саме має міру**.
+Французьке §§MDEMPH0§§, §§MDEMPH1§§ та §§MDEMPH2§§ виражає порівняльну міру. Ключове питання — не «як перекласти слово §§MDEMPH4§§», а §§MDEMPH3§§.
 
-- **plus/moins/aussi + adjectif + que**: *Marie est plus grande que Paul.*
-- **plus/moins/aussi + adverbe + que**: *Il court aussi vite que moi.*
-- **plus/moins/autant de + nom**: *Elle a plus de temps que moi.*
-- **verbe + plus/moins/autant**: *Nous travaillons moins qu'avant.*
+- §§MDEMPH0§§: §§MDEMPH1§§
+- §§MDEMPH0§§: §§MDEMPH1§§
+- §§MDEMPH0§§: §§MDEMPH1§§
+- §§MDEMPH0§§: §§MDEMPH1§§
 
-Для рівності **aussi** типово вживається з прикметником або прислівником, а **autant** — з іменником і з дієсловом:
+Для рівності §§MDEMPH0§§ типово вживається з прикметником або прислівником, а §§MDEMPH1§§ — з іменником і з дієсловом:
 
-> *Il est aussi patient que son frère.*
+> §§MDEMPH0§§
 
-> *Il a autant de patience que son frère.*
+> §§MDEMPH0§§
 
-> *Il travaille autant que son frère.*
+> §§MDEMPH0§§
 
 Це не механічна відповідність українським «так само» і «стільки ж»: французький вибір залежить від синтаксичної категорії.
 
@@ -47,19 +47,19 @@ tags: []
 
 Модель:
 
-> **plus / moins / aussi + adjectif + que**
+> §§MDEMPH0§§
 
-> *Cette solution est plus simple que l'autre.*
+> §§MDEMPH0§§
 
-> *Cette solution est moins coûteuse que l'autre.*
+> §§MDEMPH0§§
 
-> *Cette solution est aussi efficace que l'autre.*
+> §§MDEMPH0§§
 
-Прикметник узгоджується з іменником, а **plus, moins, aussi** не змінюються.
+Прикметник узгоджується з іменником, а §§MDEMPH0§§ не змінюються.
 
 Порівняння може стосуватися не лише двох людей:
 
-> *Cette année, la procédure est plus complexe qu'en 2025.*
+> §§MDEMPH0§§
 
 Тут порівнюються два стани тієї самої системи в різний час.
 
@@ -67,83 +67,83 @@ tags: []
 
 Модель:
 
-> **plus / moins / aussi + adverbe + que**
+> §§MDEMPH0§§
 
-> *Elle répond plus rapidement que moi.*
+> §§MDEMPH0§§
 
-> *Il travaille moins efficacement qu'avant.*
+> §§MDEMPH0§§
 
-> *Nous avançons aussi rapidement qu'eux.*
+> §§MDEMPH0§§
 
-Прислівник описує спосіб або міру дії, тому **plus/moins/aussi** стоїть перед ним.
+Прислівник описує спосіб або міру дії, тому §§MDEMPH0§§ стоїть перед ним.
 
 Не переносіть модель прикметника на кількість:
 
-> *Il travaille autant que moi.*
+> §§MDEMPH0§§
 
 а не **aussi que moi*, якщо йдеться саме про однакову міру роботи.
 
 ## 3. Кількість: plus/moins/autant de
 
-Перед іменником потрібен **de/d'**:
+Перед іменником потрібен §§MDEMPH0§§:
 
-> *plus de temps*
+> §§MDEMPH0§§
 
-> *moins de problèmes*
+> §§MDEMPH0§§
 
-> *autant de possibilités*
+> §§MDEMPH0§§
 
-> *plus d'informations*
+> §§MDEMPH0§§
 
 Тут порівнюється не якість предмета, а його кількість.
 
 Порівняйте:
 
-> *Il est aussi prudent que son collègue.* — однакова міра ознаки.
+> §§MDEMPH0§§ — однакова міра ознаки.
 
-> *Il a autant de dossiers que son collègue.* — однакова кількість.
+> §§MDEMPH0§§ — однакова кількість.
 
 ## 4. Дієслово: plus, moins, autant
 
-З дієсловом кількісно-міровий прислівник стоїть без **de**:
+З дієсловом кількісно-міровий прислівник стоїть без §§MDEMPH0§§:
 
-> *Je travaille plus que lui.*
+> §§MDEMPH0§§
 
-> *Elle voyage moins qu'avant.*
+> §§MDEMPH0§§
 
-> *Nous travaillons autant qu'eux.*
+> §§MDEMPH0§§
 
 Міра може бути частотою, обсягом, інтенсивністю або кількістю виконаної дії — її точна інтерпретація залежить від дієслова й контексту.
 
 ## 5. Que та другий член порівняння
 
-Після **que** може стояти іменникова група:
+Після §§MDEMPH0§§ може стояти іменникова група:
 
-> *Paul est plus patient que Marie.*
+> §§MDEMPH0§§
 
 Можливий також займенник:
 
-> *Paul travaille plus que moi.*
+> §§MDEMPH0§§
 
 У багатьох випадках повне повторення присудка не потрібне:
 
-> *Paul travaille plus que Marie.*
+> §§MDEMPH0§§
 
-Розгорнута інтерпретація може бути *Paul travaille plus que Marie ne travaille*, але в нейтральній конструкції еліптичний варіант є звичайним.
+Розгорнута інтерпретація може бути §§MDEMPH0§§, але в нейтральній конструкції еліптичний варіант є звичайним.
 
 ## 6. Заперечення
 
 Заперечення не змінює саму модель:
 
-> *Il n'est pas plus rapide que moi.*
+> §§MDEMPH0§§
 
-> *Elle ne travaille pas moins qu'avant.*
+> §§MDEMPH0§§
 
 Але логічна інтерпретація заперечення може бути ширшою за просте «не + порівняльний ступінь». У складних контекстах визначайте, що саме заперечується: наявність переваги, її величина чи вся пропозиція.
 
 ## 7. Український контраст
 
-Українська часто використовує одне слово **так само** для різних синтаксичних ситуацій:
+Українська часто використовує одне слово §§MDEMPH0§§ для різних синтаксичних ситуацій:
 
 > так само швидкий;
 
@@ -155,48 +155,48 @@ tags: []
 
 Французька розводить ці моделі:
 
-> *aussi rapide*;
+> §§MDEMPH0§§;
 
-> *aussi rapidement*;
+> §§MDEMPH0§§;
 
-> *autant de temps*;
+> §§MDEMPH0§§;
 
-> *travailler autant*.
+> §§MDEMPH0§§.
 
-Тому найнадійніший спосіб навчання — запам'ятовувати **конструкцію**, а не окремий переклад.
+Тому найнадійніший спосіб навчання — запам'ятовувати §§MDEMPH0§§, а не окремий переклад.
 
 ## Типові помилки
 
-❌ *Il est autant grand que moi.*
+❌ §§MDEMPH0§§
 
-✅ *Il est aussi grand que moi.*
+✅ §§MDEMPH0§§
 
-❌ *Il a aussi de livres que moi.*
+❌ §§MDEMPH0§§
 
-✅ *Il a autant de livres que moi.*
+✅ §§MDEMPH0§§
 
-❌ *Il travaille aussi que moi.*
+❌ §§MDEMPH0§§
 
-✅ *Il travaille autant que moi.*
+✅ §§MDEMPH0§§
 
 ## Практичний алгоритм
 
 1. Знайди елемент, міру якого порівнюють.
-2. Якщо це **прикметник або прислівник**, перевір *plus/moins/aussi*.
-3. Якщо це **іменник**, використовуй *plus/moins/autant de + nom*.
-4. Якщо це **дія**, перевір *plus/moins/autant*.
-5. Додай другий член після *que*.
+2. Якщо це §§MDEMPH0§§, перевір §§MDEMPH1§§.
+3. Якщо це §§MDEMPH0§§, використовуй §§MDEMPH1§§.
+4. Якщо це §§MDEMPH0§§, перевір §§MDEMPH1§§.
+5. Додай другий член після §§MDEMPH0§§.
 6. Перевір, чи не змінився тип порівняння через заперечення або контекст.
 
 ## Мінітест
 
-1. *Elle est ___ attentive que son collègue.*  
-2. *Elle a ___ dossiers que son collègue.*  
-3. *Elle travaille ___ que son collègue.*  
-4. *Elle répond ___ rapidement que son collègue.*
+1. §§MDEMPH0§§  
+2. §§MDEMPH0§§  
+3. §§MDEMPH0§§  
+4. §§MDEMPH0§§
 
-Відповіді: **1 aussi, 2 autant de, 3 autant, 4 aussi**.
+Відповіді: §§MDEMPH0§§.
 
 ## Висновок
 
-Система **plus / moins / aussi / autant** стає прозорою, якщо починати із синтаксичної категорії. **Plus** і **moins** виражають більшу або меншу міру, **aussi** — рівність ознаки чи способу дії, **autant** — рівність кількості або міри дії.
+Система §§MDEMPH0§§ стає прозорою, якщо починати із синтаксичної категорії. §§MDEMPH1§§ і §§MDEMPH2§§ виражають більшу або меншу міру, §§MDEMPH3§§ — рівність ознаки чи способу дії, §§MDEMPH4§§ — рівність кількості або міри дії.

@@ -26,7 +26,7 @@ variant: []
 
 ## Швидко
 
-**Discours rapporté** — це спосіб передати чиїсь слова, думки, запитання або накази. У французькій потрібно розрізняти **discours direct**, **discours indirect** та, переважно в писемному наративі, **discours indirect libre**.
+§§MDEMPH0§§ — це спосіб передати чиїсь слова, думки, запитання або накази. У французькій потрібно розрізняти §§MDEMPH1§§, §§MDEMPH2§§ та, переважно в писемному наративі, §§MDEMPH3§§.
 
 Непряма мова не є простим механічним «перекладанням лапок у que». Під час переходу потрібно перевірити:
 
@@ -45,30 +45,30 @@ variant: []
 
 У прямій мові слова мовця передаються як окреме висловлювання:
 
-> **Marie a dit : « Je suis fatiguée. »**  
+> §§MDEMPH0§§  
 > Марі сказала: «Я втомилася».
 
 Оригінальний вислів зберігає власну граматичну перспективу.
 
 У письмі його часто оформлюють лапками або тире діалогу:
 
-> **Il a répondu : « Je viendrai demain. »**  
+> §§MDEMPH0§§  
 > Він відповів: «Я прийду завтра».
 
-Дієслово **a répondu** належить до слів автора, а **Je viendrai demain** — до переданого висловлювання.
+Дієслово §§MDEMPH0§§ належить до слів автора, а §§MDEMPH1§§ — до переданого висловлювання.
 
 ## Пряма мова і два центри висловлювання
 
 У:
 
-> **Paul a dit : « Je reviendrai demain. »**
+> §§MDEMPH0§§
 
 є два центри:
 
 1. теперішній момент автора повідомлення;
 2. момент, з якого говорив Поль.
 
-Тому **je** і **demain** визначаються з позиції первісного мовця.
+Тому §§MDEMPH0§§ і §§MDEMPH1§§ визначаються з позиції первісного мовця.
 
 ---
 
@@ -78,28 +78,28 @@ variant: []
 
 У непрямій мові переданий зміст граматично вбудовується в речення:
 
-> **Marie a dit qu'elle était fatiguée.**  
+> §§MDEMPH0§§  
 > Марі сказала, що вона втомилася / була втомлена.
 
 Тут немає окремої цитати. Підрядна частина:
 
-> **qu'elle était fatiguée**
+> §§MDEMPH0§§
 
 є частиною структури всього речення.
 
 ## Пряма → непряма
 
-> **Il dit : « Je travaille ici. »**
+> §§MDEMPH0§§
 
-→ **Il dit qu'il travaille ici.**
+→ §§MDEMPH0§§
 
 Якщо головне дієслово в теперішньому, час переданого висловлювання часто не потребує формального зсуву.
 
 Якщо перспектива минула:
 
-> **Il a dit : « Je travaille ici. »**
+> §§MDEMPH0§§
 
-→ **Il a dit qu'il travaillait ici.**
+→ §§MDEMPH0§§
 
 Але це не означає, що présent після минулого дієслова завжди неправильний: актуальність факту може бути важливою для мовця.
 
@@ -109,38 +109,38 @@ variant: []
 
 ## Que
 
-Звичайне твердження в непрямій мові часто вводиться **que**:
+Звичайне твердження в непрямій мові часто вводиться §§MDEMPH0§§:
 
-> **Elle dit : « Je comprends. »**
+> §§MDEMPH0§§
 
-→ **Elle dit qu'elle comprend.**  
+→ §§MDEMPH0§§  
 Вона каже, що розуміє.
 
 Заперечення зберігається всередині підрядної:
 
-> **Elle dit : « Je ne comprends pas. »**
+> §§MDEMPH0§§
 
-→ **Elle dit qu'elle ne comprend pas.**
+→ §§MDEMPH0§§
 
 ## Після дієслів повідомлення
 
 Типові дієслова:
 
-- **dire** — казати;
-- **déclarer** — заявляти;
-- **annoncer** — повідомляти;
-- **expliquer** — пояснювати;
-- **affirmer** — стверджувати;
-- **répondre** — відповідати;
-- **ajouter** — додавати;
-- **prétendre** — стверджувати / заявляти.
+- §§MDEMPH0§§ — казати;
+- §§MDEMPH0§§ — заявляти;
+- §§MDEMPH0§§ — повідомляти;
+- §§MDEMPH0§§ — пояснювати;
+- §§MDEMPH0§§ — стверджувати;
+- §§MDEMPH0§§ — відповідати;
+- §§MDEMPH0§§ — додавати;
+- §§MDEMPH0§§ — стверджувати / заявляти.
 
 Наприклад:
 
-> **Il a expliqué qu'il ne pouvait pas venir.**  
+> §§MDEMPH0§§  
 > Він пояснив, що не міг прийти.
 
-Не кожне дієслово передавання автоматично вимагає **que**: конструкція залежить від його керування.
+Не кожне дієслово передавання автоматично вимагає §§MDEMPH0§§: конструкція залежить від його керування.
 
 ---
 
@@ -150,15 +150,15 @@ variant: []
 
 Пряме:
 
-> **Il demande : « Tu viens ? »**  
+> §§MDEMPH0§§  
 > Він питає: «Ти приходиш?»
 
 Непряме:
 
-> **Il demande si tu viens.**  
+> §§MDEMPH0§§  
 > Він питає, чи ти приходиш.
 
-Тут **si** означає **«чи»**, а не «якщо».
+Тут §§MDEMPH0§§ означає §§MDEMPH1§§, а не «якщо».
 
 ## Головне правило
 
@@ -170,34 +170,34 @@ variant: []
 
 Порівняйте:
 
-> **Où habites-tu ?**  
+> §§MDEMPH0§§  
 > Де ти живеш?
 
-→ **Je demande où tu habites.**  
+→ §§MDEMPH0§§  
 > Я питаю, де ти живеш.
 
 Не:
 
-> ❌ **Je demande où habites-tu.**
+> ❌ §§MDEMPH0§§
 
 Академія французької мови прямо застерігає від перенесення інверсії прямого питання в непряме.
 
 ## Питальні слова
 
-> **Quand viendras-tu ?**  
+> §§MDEMPH0§§  
 > Коли ти прийдеш?
 
-→ **Je demande quand tu viendras.**
+→ §§MDEMPH0§§
 
-> **Pourquoi est-il parti ?**  
+> §§MDEMPH0§§  
 > Чому він пішов?
 
-→ **Je demande pourquoi il est parti.**
+→ §§MDEMPH0§§
 
-> **Comment faites-vous ?**  
+> §§MDEMPH0§§  
 > Як ви це робите?
 
-→ **Expliquez-moi comment vous faites.**
+→ §§MDEMPH0§§
 
 ---
 
@@ -205,7 +205,7 @@ variant: []
 
 ## Не механічна таблиця
 
-**Concordance des temps** — це узгодження часової перспективи між головною та залежною частинами.
+§§MDEMPH0§§ — це узгодження часової перспективи між головною та залежною частинами.
 
 Типова модель після дієслова в минулому:
 
@@ -216,51 +216,51 @@ variant: []
 | passé composé | plus-que-parfait |
 | futur antérieur | conditionnel passé |
 
-Це **типові співвідношення**, а не автоматичний алгоритм без винятків.
+Це §§MDEMPH0§§, а не автоматичний алгоритм без винятків.
 
 Академія французької мови зазначає, що після головного дієслова в минулому для нейтральної нормативної мови зазвичай перевага надається відповідному минулому часу, але вибір залежить і від змісту та актуальності повідомлення.
 
 ## Présent → imparfait
 
-> **Elle a dit : « Je travaille à Paris. »**
+> §§MDEMPH0§§
 
-→ **Elle a dit qu'elle travaillait à Paris.**
+→ §§MDEMPH0§§
 
-**Imparfait** переносить стан або дію в минулу часову рамку.
+§§MDEMPH0§§ переносить стан або дію в минулу часову рамку.
 
 Але:
 
-> **Elle a dit qu'elle travaille à Paris.**
+> §§MDEMPH0§§
 
 може бути виправданим, якщо мовець подає роботу в Парижі як актуальний факт.
 
 ## Futur → conditionnel
 
-> **Il a dit : « Je viendrai demain. »**
+> §§MDEMPH0§§
 
-→ **Il a dit qu'il viendrait le lendemain.**
+→ §§MDEMPH0§§
 
-Тут **viendrait** — **futur dans le passé**, тобто майбутня щодо минулого моменту подія.
+Тут §§MDEMPH0§§ — §§MDEMPH1§§, тобто майбутня щодо минулого моменту подія.
 
 Не перекладайте його автоматично як умовне:
 
-> **Il a dit qu'il viendrait.**
+> §§MDEMPH0§§
 
 = «Він сказав, що прийде», а не обов'язково «що він прийшов би».
 
 ## Passé composé → plus-que-parfait
 
-> **Il a dit : « J'ai déjà vu ce film. »**
+> §§MDEMPH0§§
 
-→ **Il a dit qu'il avait déjà vu ce film.**
+→ §§MDEMPH0§§
 
 Подія передує моменту, щодо якого ведеться розповідь.
 
 ## Futur antérieur → conditionnel passé
 
-> **Il a dit : « J'aurai terminé avant midi. »**
+> §§MDEMPH0§§
 
-→ **Il a dit qu'il aurait terminé avant midi.**
+→ §§MDEMPH0§§
 
 Тут зберігається ідея завершення до іншої точки, але вся перспектива переноситься в минуле.
 
@@ -270,31 +270,31 @@ variant: []
 
 Перехід до непрямої мови може змінювати особу.
 
-> **Paul a dit : « Je viendrai. »**
+> §§MDEMPH0§§
 
-→ **Paul a dit qu'il viendrait.**
+→ §§MDEMPH0§§
 
-**Je** первісного мовця стає **il**, якщо переданий зміст тепер розглядається з позиції оповідача.
+§§MDEMPH0§§ первісного мовця стає §§MDEMPH1§§, якщо переданий зміст тепер розглядається з позиції оповідача.
 
 Так само змінюються присвійні форми:
 
-> **Paul a dit : « C'est mon livre. »**
+> §§MDEMPH0§§
 
-→ **Paul a dit que c'était son livre.**
+→ §§MDEMPH0§§
 
-Але не робіть заміну займенників механічно. Потрібно визначити, **хто є референтом** кожного займенника в новому контексті.
+Але не робіть заміну займенників механічно. Потрібно визначити, §§MDEMPH0§§ кожного займенника в новому контексті.
 
 ## Може залишитися je
 
-> **Je dis : « Je suis prêt. »**
+> §§MDEMPH0§§
 
-→ **Je dis que je suis prêt.**
+→ §§MDEMPH0§§
 
-Оповідач і первісний мовець — одна людина, тому **je** залишається **je**.
+Оповідач і первісний мовець — одна людина, тому §§MDEMPH0§§ залишається §§MDEMPH1§§.
 
 Отже, правильне правило:
 
-> змінюється не «je» саме по собі, а **граматична особа відповідно до нового центру висловлювання**.
+> змінюється не «je» саме по собі, а §§MDEMPH0§§.
 
 ---
 
@@ -304,25 +304,25 @@ variant: []
 
 | Пряма мова | Типовий варіант при зміні точки відліку |
 |---|---|
-| **aujourd'hui** | **ce jour-là** |
-| **demain** | **le lendemain** |
-| **hier** | **la veille** |
-| **ici** | **là** |
-| **maintenant** | **à ce moment-là** |
-| **la semaine prochaine** | **la semaine suivante** |
-| **la semaine dernière** | **la semaine précédente** |
+| §§MDEMPH0§§ | §§MDEMPH1§§ |
+| §§MDEMPH0§§ | §§MDEMPH1§§ |
+| §§MDEMPH0§§ | §§MDEMPH1§§ |
+| §§MDEMPH0§§ | §§MDEMPH1§§ |
+| §§MDEMPH0§§ | §§MDEMPH1§§ |
+| §§MDEMPH0§§ | §§MDEMPH1§§ |
+| §§MDEMPH0§§ | §§MDEMPH1§§ |
 
 Наприклад:
 
-> **Il a dit : « Je viendrai demain. »**
+> §§MDEMPH0§§
 
-→ **Il a dit qu'il viendrait le lendemain.**
+→ §§MDEMPH0§§
 
 Але ці заміни не є автоматичним ритуалом. Якщо точка відліку залишається тією самою, деїктичний елемент може бути збережений.
 
 Для аналізу запитайте:
 
-> **Хто говорить? Де? Коли? Відносно якого моменту?**
+> §§MDEMPH0§§
 
 ---
 
@@ -332,40 +332,40 @@ variant: []
 
 Наказ або прохання часто передається конструкцією:
 
-> **Il me dit : « Viens ! »**
+> §§MDEMPH0§§
 
-→ **Il me dit de venir.**  
+→ §§MDEMPH0§§  
 Він каже мені прийти.
 
-> **Elle m'a demandé : « Attendez ici. »**
+> §§MDEMPH0§§
 
-→ **Elle m'a demandé d'attendre ici.**  
+→ §§MDEMPH0§§  
 Вона попросила мене зачекати тут.
 
 ## Заперечний наказ
 
-> **Il me dit : « Ne pars pas ! »**
+> §§MDEMPH0§§
 
-→ **Il me dit de ne pas partir.**  
+→ §§MDEMPH0§§  
 Він каже мені не йти.
 
 Формула:
 
-> **dire / demander / conseiller + de + infinitif**
+> §§MDEMPH0§§
 
 Заперечення:
 
-> **de + ne pas + infinitif**
+> §§MDEMPH0§§
 
 ## Не плутайте з que
 
 Не потрібно механічно будувати:
 
-> ❌ **Il me dit que venir.**
+> ❌ §§MDEMPH0§§
 
 Після відповідного дієслова наказового типу потрібна інша синтаксична конструкція:
 
-> **Il me dit de venir.**
+> §§MDEMPH0§§
 
 ---
 
@@ -373,33 +373,33 @@ variant: []
 
 ## Пряма мова
 
-> **Il a déclaré : « Nous continuerons. »**
+> §§MDEMPH0§§
 
 Лапки або оформлення діалогу показують межу між словами автора та цитованими словами.
 
 ## Непряма мова
 
-> **Il a déclaré qu'ils continueraient.**
+> §§MDEMPH0§§
 
 Окремої цитати немає.
 
 Питальне речення також не зберігає знак питання всередині:
 
-> **Il demande : « Où allez-vous ? »**
+> §§MDEMPH0§§
 
-→ **Il demande où vous allez.**
+→ §§MDEMPH0§§
 
 Це важливо для письма: знак питання належить прямому питанню, але не всій конструкції непрямого повідомлення.
 
 ## Discours indirect libre
 
-У художньій мові можливий **discours indirect libre** — вільна непряма мова. Вона поєднує властивості прямої та непрямої передачі: голос персонажа може відчуватися без формального **il dit que**.
+У художньій мові можливий §§MDEMPH0§§ — вільна непряма мова. Вона поєднує властивості прямої та непрямої передачі: голос персонажа може відчуватися без формального §§MDEMPH1§§.
 
 Наприклад:
 
-> **Il regarda la porte. Pourquoi était-elle encore fermée ?**
+> §§MDEMPH0§§
 
-Читач сприймає питання як пов'язане з внутрішньою перспективою персонажа, хоча автор не вводить його словами **il se demanda pourquoi...**
+Читач сприймає питання як пов'язане з внутрішньою перспективою персонажа, хоча автор не вводить його словами §§MDEMPH0§§
 
 Це передусім наративний та стилістичний засіб, а не базова модель для механічної трансформації речень.
 
@@ -428,19 +428,19 @@ Cambridge окремо розрізняє direct reported speech, indirect repor
 
 | Тип | Модель |
 |---|---|
-| твердження | **dire que...** |
-| питання так/ні | **demander si...** |
-| питання з питальним словом | **demander où/quand/comment/pourquoi...** |
-| наказ / прохання | **dire/demander de + infinitif** |
-| заборона | **dire de ne pas + infinitif** |
+| твердження | §§MDEMPH0§§ |
+| питання так/ні | §§MDEMPH0§§ |
+| питання з питальним словом | §§MDEMPH0§§ |
+| наказ / прохання | §§MDEMPH0§§ |
+| заборона | §§MDEMPH0§§ |
 
 ### 3. Перевірте особи
 
-> **je → il/elle**?
+> §§MDEMPH0§§?
 
-> **mon → son**?
+> §§MDEMPH0§§?
 
-> **nous → ils/elles**?
+> §§MDEMPH0§§?
 
 Не замінюйте без аналізу.
 
@@ -456,15 +456,15 @@ Cambridge окремо розрізняє direct reported speech, indirect repor
 
 Але потім поставте питання:
 
-> **Чи зберігається актуальність факту?**
+> §§MDEMPH0§§
 
 ### 5. Перевірте деїксис
 
-> **demain → le lendemain**?
+> §§MDEMPH0§§?
 
-> **ici → là**?
+> §§MDEMPH0§§?
 
-> **aujourd'hui → ce jour-là**?
+> §§MDEMPH0§§?
 
 Заміна залежить від зміни точки відліку.
 
@@ -472,25 +472,25 @@ Cambridge окремо розрізняє direct reported speech, indirect repor
 
 Пряме:
 
-> **Où habites-tu ?**
+> §§MDEMPH0§§
 
 Непряме:
 
-> **où tu habites**
+> §§MDEMPH0§§
 
 Не:
 
-> ❌ **où habites-tu**
+> ❌ §§MDEMPH0§§
 
 ### 7. Перевірте пунктуацію
 
 Непряме питання:
 
-> **Je demande où il habite.**
+> §§MDEMPH0§§
 
 Не:
 
-> ❌ **Je demande où il habite ?**
+> ❌ §§MDEMPH0§§
 
 якщо знак питання не належить до всього зовнішнього речення.
 
@@ -500,39 +500,39 @@ Cambridge окремо розрізняє direct reported speech, indirect repor
 
 ### Твердження
 
-> **Il dit : « Je suis prêt. »**
+> §§MDEMPH0§§
 
-> **Il dit qu'il est prêt.**
+> §§MDEMPH0§§
 
 ### Питання так/ні
 
-> **Il demande : « Tu viens ? »**
+> §§MDEMPH0§§
 
-> **Il demande si tu viens.**
+> §§MDEMPH0§§
 
 ### Питальне слово
 
-> **Elle demande : « Où vas-tu ? »**
+> §§MDEMPH0§§
 
-> **Elle demande où tu vas.**
+> §§MDEMPH0§§
 
 ### Наказ
 
-> **Il dit : « Pars ! »**
+> §§MDEMPH0§§
 
-> **Il dit de partir.**
+> §§MDEMPH0§§
 
 ### Заперечний наказ
 
-> **Il dit : « Ne pars pas ! »**
+> §§MDEMPH0§§
 
-> **Il dit de ne pas partir.**
+> §§MDEMPH0§§
 
 ### Futur dans le passé
 
-> **Il a dit : « Je viendrai. »**
+> §§MDEMPH0§§
 
-> **Il a dit qu'il viendrait.**
+> §§MDEMPH0§§
 
 ---
 
@@ -540,29 +540,29 @@ Cambridge окремо розрізняє direct reported speech, indirect repor
 
 Українське:
 
-> **Він сказав, що прийде.**
+> §§MDEMPH0§§
 
 не потрібно перекладати за формою українського майбутнього:
 
-> ❌ *Il a dit qu'il viendra* — якщо потрібна типова минула перспектива.
+> ❌ §§MDEMPH0§§ — якщо потрібна типова минула перспектива.
 
 Нейтральна модель:
 
-> **Il a dit qu'il viendrait.**
+> §§MDEMPH0§§
 
 Але французький вибір часу залежить від перспективи та актуальності, тому не перетворюйте це на абсолютну заборону présent/futur після минулого дієслова.
 
 Так само українське:
 
-> **Він запитав, де вона живе.**
+> §§MDEMPH0§§
 
 дає:
 
-> **Il a demandé où elle habitait.**
+> §§MDEMPH0§§
 
 Не:
 
-> ❌ **Il a demandé où habitait-elle.**
+> ❌ §§MDEMPH0§§
 
 Українська й французька обидві мають непрямі питання, але французька нормативна конструкція чітко розрізняє прямий порядок питання та порядок слів у залежній конструкції.
 
@@ -572,27 +572,27 @@ Cambridge окремо розрізняє direct reported speech, indirect repor
 
 ### 1. Інверсія в непрямому питанні
 
-❌ **Je demande où habite-t-il.**
+❌ §§MDEMPH0§§
 
-✅ **Je demande où il habite.**
+✅ §§MDEMPH0§§
 
 ---
 
 ### 2. Знак питання всередині непрямого питання
 
-❌ **Je ne sais pas où il habite ?**
+❌ §§MDEMPH0§§
 
 Якщо це твердження:
 
-✅ **Je ne sais pas où il habite.**
+✅ §§MDEMPH0§§
 
 ---
 
 ### 3. Механічне перекладання conditionnel
 
-❌ трактувати **viendrait** у **Il a dit qu'il viendrait** лише як «прийшов би».
+❌ трактувати §§MDEMPH0§§ у §§MDEMPH1§§ лише як «прийшов би».
 
-✅ Тут це може бути **futur dans le passé**: «прийде / мав прийти» залежно від контексту.
+✅ Тут це може бути §§MDEMPH0§§: «прийде / мав прийти» залежно від контексту.
 
 ---
 
@@ -604,11 +604,11 @@ Cambridge окремо розрізняє direct reported speech, indirect repor
 
 Краще:
 
-> **Il a dit qu'il travaillait à Paris.**
+> §§MDEMPH0§§
 
 але можливий контекст, у якому:
 
-> **Il a dit qu'il travaille à Paris.**
+> §§MDEMPH0§§
 
 підкреслює актуальний факт.
 
@@ -616,23 +616,23 @@ Cambridge окремо розрізняє direct reported speech, indirect repor
 
 ### 5. Неправильна конструкція наказу
 
-❌ **Il me dit que venir.**
+❌ §§MDEMPH0§§
 
-✅ **Il me dit de venir.**
+✅ §§MDEMPH0§§
 
 ---
 
 ### 6. Автоматичне збереження je
 
-> **Paul a dit : « Je suis prêt. »**
+> §§MDEMPH0§§
 
-→ **Paul a dit qu'il était prêt.**
+→ §§MDEMPH0§§
 
 Але:
 
-> **Je dis : « Je suis prêt. »**
+> §§MDEMPH0§§
 
-→ **Je dis que je suis prêt.**
+→ §§MDEMPH0§§
 
 Все залежить від референта.
 
@@ -642,78 +642,78 @@ Cambridge окремо розрізняє direct reported speech, indirect repor
 
 ## 1. Перетворіть на непряму мову
 
-> **Paul a dit : « Je viendrai demain. »**
+> §§MDEMPH0§§
 
-→ **Paul a dit qu'il viendrait le lendemain.**
+→ §§MDEMPH0§§
 
-> **Elle demande : « Tu comprends ? »**
+> §§MDEMPH0§§
 
-→ **Elle demande si tu comprends.**
+→ §§MDEMPH0§§
 
-> **Il demande : « Où habitez-vous ? »**
+> §§MDEMPH0§§
 
-→ **Il demande où vous habitez.**
+→ §§MDEMPH0§§
 
-> **Marie dit : « Ne partez pas ! »**
+> §§MDEMPH0§§
 
-→ **Marie dit de ne pas partir.**
+→ §§MDEMPH0§§
 
 ---
 
 ## 2. Виправте помилки
 
-❌ **Je demande si viens-tu demain.**
+❌ §§MDEMPH0§§
 
-✅ **Je demande si tu viens demain.**
+✅ §§MDEMPH0§§
 
-❌ **Il a dit qu'il viendra le lendemain.**
+❌ §§MDEMPH0§§
 
 У типовій минулій перспективі:
 
-✅ **Il a dit qu'il viendrait le lendemain.**
+✅ §§MDEMPH0§§
 
-❌ **Elle demande où habite-t-il.**
+❌ §§MDEMPH0§§
 
-✅ **Elle demande où il habite.**
+✅ §§MDEMPH0§§
 
-❌ **Il me demande que venir.**
+❌ §§MDEMPH0§§
 
-✅ **Il me demande de venir.**
+✅ §§MDEMPH0§§
 
 ---
 
 ## 3. Визначте, що змінилося
 
-> **Il a dit : « Je partirai demain. »**
+> §§MDEMPH0§§
 
-→ **Il a dit qu'il partirait le lendemain.**
+→ §§MDEMPH0§§
 
 Зміни:
 
-- **je → il**;
-- **futur → conditionnel**;
-- **demain → le lendemain**.
+- §§MDEMPH0§§;
+- §§MDEMPH0§§;
+- §§MDEMPH0§§.
 
-Це і є корисна модель аналізу: не запам'ятовуйте лише кінцеве речення — визначайте, **які компоненти змінили точку відліку**.
+Це і є корисна модель аналізу: не запам'ятовуйте лише кінцеве речення — визначайте, §§MDEMPH0§§.
 
 ---
 
 # Головне
 
-1. **Discours direct** зберігає передане висловлювання як окрему цитату.
-2. **Discours indirect** вбудовує його в синтаксис головного речення.
-3. Твердження часто вводиться через **que**.
-4. Питання так/ні вводиться через **si**.
+1. §§MDEMPH0§§ зберігає передане висловлювання як окрему цитату.
+2. §§MDEMPH0§§ вбудовує його в синтаксис головного речення.
+3. Твердження часто вводиться через §§MDEMPH0§§.
+4. Питання так/ні вводиться через §§MDEMPH0§§.
 5. Питальне слово в непрямому питанні зберігається.
 6. В інформативному непрямому питанні не переноситься інверсія прямого питання.
-7. Накази й прохання часто передаються через **de + infinitif**.
-8. При минулій перспективі типовими є зсуви **présent → imparfait**, **futur → conditionnel**, **passé composé → plus-que-parfait**.
+7. Накази й прохання часто передаються через §§MDEMPH0§§.
+8. При минулій перспективі типовими є зсуви §§MDEMPH0§§, §§MDEMPH1§§, §§MDEMPH2§§.
 9. Ці співвідношення не слід перетворювати на механічні правила без урахування змісту.
-10. **Conditionnel** у **Il a dit qu'il viendrait** може бути **futur dans le passé**, а не умовністю.
+10. §§MDEMPH0§§ у §§MDEMPH1§§ може бути §§MDEMPH2§§, а не умовністю.
 11. Займенники змінюються відповідно до нового референта, а не за механічною формулою.
-12. **Demain, hier, ici, aujourd'hui** можуть змінюватися разом із точкою відліку.
-13. **Discours indirect libre** — окремий наративний засіб, характерний передусім для писемного тексту.
-14. Найнадійніший порядок аналізу: **тип висловлювання → синтаксична модель → особи → час → деїксис → порядок слів → пунктуація**.
+12. §§MDEMPH0§§ можуть змінюватися разом із точкою відліку.
+13. §§MDEMPH0§§ — окремий наративний засіб, характерний передусім для писемного тексту.
+14. Найнадійніший порядок аналізу: §§MDEMPH0§§.
 
 ## Пов'язані теми
 

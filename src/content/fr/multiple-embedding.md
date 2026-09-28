@@ -25,11 +25,11 @@ tags: []
 ---
 ## Швидка відповідь
 
-**Вкладеність** означає, що одна синтаксична конструкція є складником іншої.
+§§MDEMPH0§§ означає, що одна синтаксична конструкція є складником іншої.
 
-> *Je sais [qu'il affirme [que Marie viendra]].*
+> §§MDEMPH0§§
 
-Перша *complétive* залежить від *sais*, друга — від *affirme*.
+Перша §§MDEMPH0§§ залежить від §§MDEMPH1§§, друга — від §§MDEMPH2§§.
 
 Вкладеність може поєднувати complétives, relatives, часові, умовні та інші підрядні частини.
 
@@ -37,53 +37,53 @@ tags: []
 
 Розглянемо:
 
-> *Je pense que l'étudiant qui a écrit ce texte sait que le professeur le corrigera.*
+> §§MDEMPH0§§
 
 Є щонайменше чотири рівні:
 
-1. *Je pense*;
-2. *que ... sait ...* — complétive;
-3. *qui a écrit ce texte* — relative всередині іменної групи;
-4. *que le professeur le corrigera* — complétive, залежна від *sait*.
+1. §§MDEMPH0§§;
+2. §§MDEMPH0§§ — complétive;
+3. §§MDEMPH0§§ — relative всередині іменної групи;
+4. §§MDEMPH0§§ — complétive, залежна від §§MDEMPH1§§.
 
-Ці конструкції не можна аналізувати лише за найближчим *que/qui*.
+Ці конструкції не можна аналізувати лише за найближчим §§MDEMPH0§§.
 
 ## 2. Кожна підрядна має свій предикат
 
 У:
 
-> *Il affirme que Marie pense que Paul viendra.*
+> §§MDEMPH0§§
 
-*affirme*, *pense* і *viendra* належать до різних предикативних рівнів.
+§§MDEMPH0§§, §§MDEMPH1§§ і §§MDEMPH2§§ належать до різних предикативних рівнів.
 
 Час і спосіб кожної форми визначаються не просто кількістю вкладень, а її власною синтаксичною та модальною позицією.
 
 ## 3. Вкладені relatives
 
-> *J'ai rencontré l'homme qui connaît la femme que tu as appelée.*
+> §§MDEMPH0§§
 
-Перша relative стосується *l'homme*, друга — *la femme*.
+Перша relative стосується §§MDEMPH0§§, друга — §§MDEMPH1§§.
 
-Тому одна конструкція може містити кілька *qui/que*, кожне з власною функцією та antecedent.
+Тому одна конструкція може містити кілька §§MDEMPH0§§, кожне з власною функцією та antecedent.
 
 ## 4. Вкладені complétives
 
-> *Elle a dit qu'il croyait que nous partirions.*
+> §§MDEMPH0§§
 
 Потрібно встановити:
 
-> *Elle a dit [qu'il croyait [que nous partirions]].*
+> §§MDEMPH0§§
 
-Внутрішня частина не залежить безпосередньо від *a dit*. Це має значення для аналізу reported speech і futur dans le passé.
+Внутрішня частина не залежить безпосередньо від §§MDEMPH0§§. Це має значення для аналізу reported speech і futur dans le passé.
 
 ## 5. Вкладеність та узгодження
 
-> *Les lettres que la secrétaire que tu as rencontrée a envoyées sont importantes.*
+> §§MDEMPH0§§
 
 Тут є кілька незалежних зв'язків:
 
-- *rencontrée* пов'язане з *la secrétaire*;
-- *envoyées* — з *les lettres*.
+- §§MDEMPH0§§ пов'язане з §§MDEMPH1§§;
+- §§MDEMPH0§§ — з §§MDEMPH1§§.
 
 Вкладеність збільшує лінійну відстань, але не змінює синтаксичного контролера.
 
@@ -95,7 +95,7 @@ tags: []
 2. визначте головний предикат;
 3. поставте дужки навколо підрядних;
 4. для кожної relative знайдіть antecedent;
-5. визначте функції *qui/que/dont/où*;
+5. визначте функції §§MDEMPH0§§;
 6. лише потім аналізуйте час, спосіб і узгодження.
 
 ## Український контраст
@@ -106,11 +106,11 @@ tags: []
 
 ## Типові помилки
 
-- вважати всі *que* однаковими;
+- вважати всі §§MDEMPH0§§ однаковими;
 - прив'язувати participe passé до найближчого іменника;
 - змінювати часи лише через кількість рівнів;
 - втрачати antecedent у nested relatives.
 
 ## Куди далі
 
-Дивіться **nested relative clauses**, **nested complement clauses** та **long-distance dependencies**.
+Дивіться §§MDEMPH0§§, §§MDEMPH1§§ та §§MDEMPH2§§.

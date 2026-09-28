@@ -25,11 +25,11 @@ tags: []
 ---
 ## Швидка відповідь
 
-**Далека залежність** виникає, коли компонент і його синтаксичний партнер розділені словами, словосполученнями або цілими підрядними частинами.
+§§MDEMPH0§§ виникає, коли компонент і його синтаксичний партнер розділені словами, словосполученнями або цілими підрядними частинами.
 
-> *Le livre que Marie pense que Paul a acheté est intéressant.*
+> §§MDEMPH0§§
 
-*que* пов'язаний із *le livre*, хоча між ними стоїть *Marie pense que*.
+§§MDEMPH0§§ пов'язаний із §§MDEMPH1§§, хоча між ними стоїть §§MDEMPH2§§.
 
 Для студента це важливо насамперед у relative clauses, узгодженні та вкладених конструкціях.
 
@@ -37,50 +37,50 @@ tags: []
 
 Порівняйте:
 
-> *Les informations que les chercheurs ont publiées sont fiables.*
+> §§MDEMPH0§§
 
 і:
 
-> *Les informations que les chercheurs qui travaillent à Lyon ont publiées sont fiables.*
+> §§MDEMPH0§§
 
-У другому реченні між *informations* та *publiées* вставлено relative про дослідників. Але контролер узгодження не змінюється.
+У другому реченні між §§MDEMPH0§§ та §§MDEMPH1§§ вставлено relative про дослідників. Але контролер узгодження не змінюється.
 
 ## 2. Relative extraction
 
 У:
 
-> *Le livre que Paul a acheté est intéressant.*
+> §§MDEMPH0§§
 
-*que* виконує функцію COD усередині relative, а antecedent — *le livre* — знаходиться поза нею.
+§§MDEMPH0§§ виконує функцію COD усередині relative, а antecedent — §§MDEMPH1§§ — знаходиться поза нею.
 
 У довшій структурі:
 
-> *Le livre que Marie pense que Paul a acheté est intéressant.*
+> §§MDEMPH0§§
 
-залежність проходить через додаткову частину *Marie pense que...*.
+залежність проходить через додаткову частину §§MDEMPH0§§.
 
-Необхідно розрізняти поверхневу позицію *que* і його функцію у внутрішньому предикаті.
+Необхідно розрізняти поверхневу позицію §§MDEMPH0§§ і його функцію у внутрішньому предикаті.
 
 ## 3. Далека залежність і узгодження
 
-> *Les décisions que la commission que nous avons consultée a prises seront publiées.*
+> §§MDEMPH0§§
 
 Є два різні зв'язки:
 
-- *consultée* → *la commission*;
-- *prises* → *les décisions*.
+- §§MDEMPH0§§ → §§MDEMPH1§§;
+- §§MDEMPH0§§ → §§MDEMPH1§§.
 
-Лінійно найближчим іменником до *prises* є *commission*, але саме вона не є контролером цієї форми.
+Лінійно найближчим іменником до §§MDEMPH0§§ є §§MDEMPH1§§, але саме вона не є контролером цієї форми.
 
 ## 4. Як відновлювати базову структуру
 
 Корисний метод — тимчасово прибрати вставлені частини:
 
-> *Les décisions [que ... a prises] seront publiées.*
+> §§MDEMPH0§§
 
 Потім відновити внутрішню структуру:
 
-> *Les décisions [que la commission [que nous avons consultée] a prises] seront publiées.*
+> §§MDEMPH0§§
 
 Так стає видно, який елемент із яким пов'язаний.
 
@@ -88,7 +88,7 @@ tags: []
 
 Вкладеність може також віддаляти antecedent або керуючий предикат від займенника. Тому порядок слів не можна читати як просту послідовність «слово → найближчий зв'язок».
 
-Для *qui, que, dont, lequel* завжди потрібно встановлювати:
+Для §§MDEMPH0§§ завжди потрібно встановлювати:
 
 1. antecedent;
 2. внутрішню функцію;
@@ -103,21 +103,21 @@ tags: []
 ## Типові помилки
 
 - вибирати найближчий іменник як antecedent;
-- вважати *que* автоматично COD головного дієслова;
+- вважати §§MDEMPH0§§ автоматично COD головного дієслова;
 - узгоджувати participe passé з найближчим іменником;
 - плутати syntactic dependency з лінійною близькістю.
 
 ## Практична перевірка
 
-> *Les articles que le chercheur dont nous avons lu le livre a publiés sont récents.*
+> §§MDEMPH0§§
 
 Відновіть:
 
-> *Les articles [que ... a publiés]*  
-> *le chercheur [dont nous avons lu le livre]*
+> §§MDEMPH0§§  
+> §§MDEMPH0§§
 
-Отже, *publiés* узгоджується з *articles*, а *dont* залежить від *avons lu* через модель *lire le livre de quelqu'un*.
+Отже, §§MDEMPH0§§ узгоджується з §§MDEMPH1§§, а §§MDEMPH2§§ залежить від §§MDEMPH3§§ через модель §§MDEMPH4§§.
 
 ## Куди далі
 
-Дивіться **agreement across intervening phrases**, **nested relative clauses**, **multiple embedding** та **grammatical ambiguity**.
+Дивіться §§MDEMPH0§§, §§MDEMPH1§§, §§MDEMPH2§§ та §§MDEMPH3§§.

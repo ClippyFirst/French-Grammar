@@ -30,31 +30,31 @@ tags: []
 
 ## 1. Дієслово + à
 
-> **penser à quelque chose**
-> **répondre à quelqu'un**
-> **réussir à faire quelque chose**
+> §§MDEMPH0§§
+> §§MDEMPH0§§
+> §§MDEMPH0§§
 
 Перед інфінітивом:
 
-> **Elle commence à travailler.**
+> §§MDEMPH0§§
 
 ## 2. Дієслово + de
 
-> **parler de quelque chose**
-> **avoir besoin de quelque chose**
-> **décider de partir**
+> §§MDEMPH0§§
+> §§MDEMPH0§§
+> §§MDEMPH0§§
 
 Перед інфінітивом:
 
-> **Il essaie de comprendre.**
+> §§MDEMPH0§§
 
 ## 3. Дієслово без прийменника
 
 Частина дієслів безпосередньо приймає COD:
 
-> **lire un livre**
-> **attendre le train**
-> **écouter la musique**
+> §§MDEMPH0§§
+> §§MDEMPH0§§
+> §§MDEMPH0§§
 
 Тут українське «чекати на» не означає, що французька повинна мати прийменник.
 
@@ -62,8 +62,8 @@ tags: []
 
 Порівняйте:
 
-> **demander quelque chose à quelqu'un**
-> **parler à quelqu'un de quelque chose**
+> §§MDEMPH0§§
+> §§MDEMPH0§§
 
 Кількість додатків і прийменникова модель залежать від конкретного дієслова.
 
@@ -71,10 +71,10 @@ tags: []
 
 Модель може бути частиною словникової інформації:
 
-> **réussir à comprendre**
-> **éviter de répondre**
-> **continuer à travailler**
-> **arrêter de parler**
+> §§MDEMPH0§§
+> §§MDEMPH0§§
+> §§MDEMPH0§§
+> §§MDEMPH0§§
 
 Не слід переносити модель одного дієслова на інше за аналогією.
 
@@ -82,10 +82,10 @@ tags: []
 
 Запам'ятовуйте дієслово разом із моделлю:
 
-**penser à + nom / infinitif**
-**parler de + nom**
-**avoir besoin de + nom**
-**attendre + COD**
+§§MDEMPH0§§
+§§MDEMPH0§§
+§§MDEMPH0§§
+§§MDEMPH0§§
 
 Для рівня B1+ корисно фіксувати не лише переклад, а всю valence frame.
 
@@ -95,12 +95,12 @@ tags: []
 
 1. визначте дієслово;
 2. встановіть тип додатка;
-3. перевірте, чи керує дієслово **à**, **de** або іншим прийменником;
+3. перевірте, чи керує дієслово §§MDEMPH0§§, §§MDEMPH1§§ або іншим прийменником;
 4. не робіть висновок з української конструкції;
 5. перевірте можливу зміну значення при зміні керування.
 
 ## Мінітест
 
-**Je pense ___ mon travail.** → **à**.
-**Je parle ___ mon travail.** → **de**.
-**J'attends ___ mon ami.** → без прийменника перед COD.
+§§MDEMPH0§§ → §§MDEMPH1§§.
+§§MDEMPH0§§ → §§MDEMPH1§§.
+§§MDEMPH0§§ → без прийменника перед COD.

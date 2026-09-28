@@ -28,131 +28,131 @@ variant: []
 
 ## Швидка відповідь
 
-**Quel** — визначник, який стоїть перед іменником і узгоджується з ним за родом і числом:
+§§MDEMPH0§§ — визначник, який стоїть перед іменником і узгоджується з ним за родом і числом:
 
-- **quel** — чоловічий однина;
-- **quelle** — жіночий однина;
-- **quels** — чоловічий множина;
-- **quelles** — жіночий множина.
+- §§MDEMPH0§§ — чоловічий однина;
+- §§MDEMPH0§§ — жіночий однина;
+- §§MDEMPH0§§ — чоловічий множина;
+- §§MDEMPH0§§ — жіночий множина.
 
-> **Quel livre lis-tu ?**
+> §§MDEMPH0§§
 
-> **Quelle question poses-tu ?**
+> §§MDEMPH0§§
 
-> **Quels livres cherches-tu ?**
+> §§MDEMPH0§§
 
-> **Quelles langues apprends-tu ?**
+> §§MDEMPH0§§
 
 ## 1. Узгодження
 
-Форма **quel** залежить від іменника, а не від статі людини, яка ставить питання.
+Форма §§MDEMPH0§§ залежить від іменника, а не від статі людини, яка ставить питання.
 
 | Іменник | Форма |
 |---|---|
-| **livre** | **quel livre** |
-| **problème** | **quel problème** |
-| **question** | **quelle question** |
-| **langues** | **quelles langues** |
-| **étudiants** | **quels étudiants** |
+| §§MDEMPH0§§ | §§MDEMPH1§§ |
+| §§MDEMPH0§§ | §§MDEMPH1§§ |
+| §§MDEMPH0§§ | §§MDEMPH1§§ |
+| §§MDEMPH0§§ | §§MDEMPH1§§ |
+| §§MDEMPH0§§ | §§MDEMPH1§§ |
 
 ## 2. Quel + іменник у питанні
 
 Базова структура:
 
-**quel + nom + reste de la question**
+§§MDEMPH0§§
 
-> **Quel film regardes-tu ?**
+> §§MDEMPH0§§
 
-> **Quelle heure est-il ?**
+> §§MDEMPH0§§
 
-> **Quels étudiants sont absents ?**
+> §§MDEMPH0§§
 
-> **Quelles langues parlez-vous ?**
+> §§MDEMPH0§§
 
-Питальна конструкція може мати інтонацію, **est-ce que** або інверсію:
+Питальна конструкція може мати інтонацію, §§MDEMPH0§§ або інверсію:
 
-> **Quel film tu regardes ?** — розмовна/інтонаційна конструкція.
+> §§MDEMPH0§§ — розмовна/інтонаційна конструкція.
 
-> **Quel film est-ce que tu regardes ?**
+> §§MDEMPH0§§
 
-> **Quel film regardes-tu ?**
+> §§MDEMPH0§§
 
-Форма **quel** не змінюється через спосіб формування питання; змінюється синтаксична конструкція.
+Форма §§MDEMPH0§§ не змінюється через спосіб формування питання; змінюється синтаксична конструкція.
 
 ## 3. Quel ≠ lequel
 
-> **Quel livre veux-tu ?**
+> §§MDEMPH0§§
 
-> **Lequel veux-tu ?**
+> §§MDEMPH0§§
 
-**Quel** супроводжує іменник.
+§§MDEMPH0§§ супроводжує іменник.
 
-**Lequel / laquelle / lesquels / lesquelles** є займенниковими формами й самі замінюють іменникову групу.
+§§MDEMPH0§§ є займенниковими формами й самі замінюють іменникову групу.
 
 ## 4. Quel ≠ quoi
 
-> **Quelle langue apprends-tu ?**
+> §§MDEMPH0§§
 
-> **Tu apprends quoi ?**
+> §§MDEMPH0§§
 
-У першому випадку **quelle** визначає **langue**. У другому **quoi** є займенниковою формою.
+У першому випадку §§MDEMPH0§§ визначає §§MDEMPH1§§. У другому §§MDEMPH2§§ є займенниковою формою.
 
 ## 5. Окличне вживання
 
 Ті самі форми використовуються в окличних конструкціях:
 
-> **Quelle bonne idée !**
+> §§MDEMPH0§§
 
-> **Quel dommage !**
+> §§MDEMPH0§§
 
-> **Quels beaux paysages !**
+> §§MDEMPH0§§
 
-Тут **quel** не запитує інформацію, а формує окличну іменникову групу.
+Тут §§MDEMPH0§§ не запитує інформацію, а формує окличну іменникову групу.
 
 ## 6. Quel + adjectif + nom
 
-> **Quelle belle maison !**
+> §§MDEMPH0§§
 
-> **Quel grand problème !**
+> §§MDEMPH0§§
 
-> **Quels nouveaux projets ?**
+> §§MDEMPH0§§
 
-Позиція прикметника визначається окремими правилами прикметникової системи; **quel** їх не скасовує.
+Позиція прикметника визначається окремими правилами прикметникової системи; §§MDEMPH0§§ їх не скасовує.
 
 ## Для україномовного учня
 
-Українські **який, яка, які** також узгоджуються з іменником, але французька має інший розподіл між **quel + nom**, **lequel** як займенником, **quoi** та іншими питальними формами.
+Українські §§MDEMPH0§§ також узгоджуються з іменником, але французька має інший розподіл між §§MDEMPH1§§, §§MDEMPH2§§ як займенником, §§MDEMPH3§§ та іншими питальними формами.
 
-Корисно спочатку визначити: **після питального слова є іменник?**
+Корисно спочатку визначити: §§MDEMPH0§§
 
-Якщо так, перевірте **quel / quelle / quels / quelles**.
+Якщо так, перевірте §§MDEMPH0§§.
 
 ## Типові помилки
 
-❌ **Quelle livre ?**  
-✅ **Quel livre ?**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
-❌ **Quel langues ?**  
-✅ **Quelles langues ?**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
-❌ **Lequel livre ?**  
-✅ **Quel livre ?** або **lequel ?** — залежно від структури.
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§ або §§MDEMPH1§§ — залежно від структури.
 
-❌ **Quel tu veux ?**  
-✅ **Quel livre veux-tu ?** або **Lequel veux-tu ?**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§ або §§MDEMPH1§§
 
 ## Практична перевірка
 
-1. ___ livre lis-tu ?
-2. ___ langue apprends-tu ?
-3. ___ étudiants arrivent demain ?
-4. ___ questions avez-vous ?
-5. ___ belle journée !
+1. §§MDEMPH0§§ livre lis-tu ?
+2. §§MDEMPH0§§ langue apprends-tu ?
+3. §§MDEMPH0§§ étudiants arrivent demain ?
+4. §§MDEMPH0§§ questions avez-vous ?
+5. §§MDEMPH0§§ belle journée !
 
-**Відповіді:** 1. **Quel**; 2. **Quelle**; 3. **Quels**; 4. **Quelles**; 5. **Quelle**.
+§§MDEMPH0§§ 1. §§MDEMPH1§§; 2. §§MDEMPH2§§; 3. §§MDEMPH3§§; 4. §§MDEMPH4§§; 5. §§MDEMPH5§§.
 
 ## Куди далі
 
-- **Питання** — інтонація, est-ce que, інверсія та інші конструкції.
-- **Вказівні займенники** — celui, celle, ceux, celles.
-- **Визначники** — ширша система déterminants.
+- §§MDEMPH0§§ — інтонація, est-ce que, інверсія та інші конструкції.
+- §§MDEMPH0§§ — celui, celle, ceux, celles.
+- §§MDEMPH0§§ — ширша система déterminants.

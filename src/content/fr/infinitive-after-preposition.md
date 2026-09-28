@@ -27,23 +27,23 @@ variant: []
 
 Інфінітив може залежати від прийменника. Найважливіші моделі:
 
-- **pour + infinitif** — мета;
-- **sans + infinitif** — відсутність супровідної дії;
-- **avant de + infinitif** — передування;
-- **après + infinitif passé** — попередня дія;
-- **à / de + infinitif** — часто частина керування попереднього слова.
+- §§MDEMPH0§§ — мета;
+- §§MDEMPH0§§ — відсутність супровідної дії;
+- §§MDEMPH0§§ — передування;
+- §§MDEMPH0§§ — попередня дія;
+- §§MDEMPH0§§ — часто частина керування попереднього слова.
 
 Однаковий інфінітив може входити до різних конструкцій, тому функцію потрібно визначати за всім словосполученням.
 
 ## 1. pour + infinitif
 
-Найтиповіше *pour + infinitif* виражає мету:
+Найтиповіше §§MDEMPH0§§ виражає мету:
 
-> *Je travaille pour apprendre le français.*
+> §§MDEMPH0§§
 
 → Я працюю, щоб вивчати французьку.
 
-> *Elle est venue pour nous aider.*
+> §§MDEMPH0§§
 
 → Вона прийшла, щоб нам допомогти.
 
@@ -51,33 +51,33 @@ variant: []
 
 ## 2. sans + infinitif
 
-*sans + infinitif* показує, що одна дія відбувається без іншої:
+§§MDEMPH0§§ показує, що одна дія відбувається без іншої:
 
-> *Il est parti sans prévenir.*
+> §§MDEMPH0§§
 
 → Він пішов, не попередивши.
 
-> *Elle a répondu sans réfléchir.*
+> §§MDEMPH0§§
 
 → Вона відповіла, не замислившись.
 
 Порівняй:
 
-> *Il est parti sans parler.*
+> §§MDEMPH0§§
 
-> *Il n’est pas parti.*
+> §§MDEMPH0§§
 
 Перше означає відсутність супровідної дії, друге — заперечення самої події.
 
 ## 3. avant de + infinitif
 
-*Avant de + infinitif* виражає подію, що передує іншій:
+§§MDEMPH0§§ виражає подію, що передує іншій:
 
-> *Avant de partir, elle a fermé la porte.*
+> §§MDEMPH0§§
 
 → Перед тим як піти, вона зачинила двері.
 
-> *Réfléchissez avant de répondre.*
+> §§MDEMPH0§§
 
 → Подумайте, перш ніж відповідати.
 
@@ -87,13 +87,13 @@ variant: []
 
 Порівняй:
 
-> *Avant de partir, Marie ferme la porte.*
+> §§MDEMPH0§§
 
-> *Avant que Paul parte, Marie ferme la porte.*
+> §§MDEMPH0§§
 
 У першому випадку інфінітивна конструкція природно читається як така, що стосується Marie.
 
-У другому окремий виконавець *Paul* виражений явно, тому використано *avant que + особова форма*.
+У другому окремий виконавець §§MDEMPH0§§ виражений явно, тому використано §§MDEMPH1§§.
 
 Це не просто різні переклади одного українського «перед тим як», а різні синтаксичні моделі.
 
@@ -101,53 +101,53 @@ variant: []
 
 Для попередньої дії використовується infinitif passé:
 
-> *Après avoir terminé son travail, il est parti.*
+> §§MDEMPH0§§
 
 → Після того як він закінчив роботу, він пішов.
 
-> *Après être arrivée, Marie a téléphoné.*
+> §§MDEMPH0§§
 
 → Після того як Марі приїхала, вона зателефонувала.
 
 Формула:
 
-**après + avoir / être + participe passé**
+§§MDEMPH0§§
 
 Простий інфінітив тут не є стандартною заміною:
 
-> ❌ *Après terminer son travail...*
+> ❌ §§MDEMPH0§§
 
-> ✅ *Après avoir terminé son travail...*
+> ✅ §§MDEMPH0§§
 
 ## 6. à + infinitif
 
-*À + infinitif* має кілька функцій.
+§§MDEMPH0§§ має кілька функцій.
 
-Якщо *à* входить до керування дієслова:
+Якщо §§MDEMPH0§§ входить до керування дієслова:
 
-> *Il apprend à conduire.*
+> §§MDEMPH0§§
 
-> *Elle réussit à comprendre.*
+> §§MDEMPH0§§
 
 В інших конструкціях:
 
-> *Il n’y a rien à faire.*
+> §§MDEMPH0§§
 
-Тут *à faire* входить до іншої синтаксичної моделі.
+Тут §§MDEMPH0§§ входить до іншої синтаксичної моделі.
 
 Тому «à + infinitif» не слід вчити як одну універсальну функцію.
 
 ## 7. de + infinitif
 
-Так само *de + infinitif* може бути частиною різних структур:
+Так само §§MDEMPH0§§ може бути частиною різних структур:
 
-> *J’essaie de comprendre.*
+> §§MDEMPH0§§
 
-> *Elle est heureuse de venir.*
+> §§MDEMPH0§§
 
-> *Avant de partir, elle ferme la porte.*
+> §§MDEMPH0§§
 
-У першому випадку *de* входить до керування *essayer*; у другому — до моделі прикметника; у третьому — до складеної часової конструкції *avant de*.
+У першому випадку §§MDEMPH0§§ входить до керування §§MDEMPH1§§; у другому — до моделі прикметника; у третьому — до складеної часової конструкції §§MDEMPH2§§.
 
 Одна форма не означає одну функцію.
 
@@ -155,37 +155,37 @@ variant: []
 
 Порівняй:
 
-> *Je viens pour parler à Marie.*
+> §§MDEMPH0§§
 
 → Я приходжу, щоб поговорити з Марі.
 
-> *Je viens pour que Marie me parle.*
+> §§MDEMPH0§§
 
 → Я приходжу, щоб Марі поговорила зі мною.
 
-У першому випадку інфінітив природно пов’язаний із тим самим учасником. У другому окремий виконавець *Marie* виражений явно.
+У першому випадку інфінітив природно пов’язаний із тим самим учасником. У другому окремий виконавець §§MDEMPH0§§ виражений явно.
 
-Тому *pour que + особова форма* не є просто «довшим pour + infinitif».
+Тому §§MDEMPH0§§ не є просто «довшим pour + infinitif».
 
 ## 9. Інфінітив після прийменника не завжди є обставиною
 
 У:
 
-> *Il est capable de répondre.*
+> §§MDEMPH0§§
 
-*de répondre* залежить від прикметника.
-
-У:
-
-> *Il travaille pour apprendre.*
-
-*pour apprendre* виражає мету.
+§§MDEMPH0§§ залежить від прикметника.
 
 У:
 
-> *Il part sans prévenir.*
+> §§MDEMPH0§§
 
-*sans prévenir* виражає відсутність супровідної дії.
+§§MDEMPH0§§ виражає мету.
+
+У:
+
+> §§MDEMPH0§§
+
+§§MDEMPH0§§ виражає відсутність супровідної дії.
 
 Отже, прийменник не визначає функцію автоматично. Потрібно знайти головний компонент усієї конструкції.
 
@@ -202,11 +202,11 @@ variant: []
 
 | Значення | Французька |
 |---|---|
-| мета | *pour + infinitif* |
-| відсутність дії | *sans + infinitif* |
-| передування | *avant de + infinitif* |
-| попередня дія | *après + infinitif passé* |
-| керування | *V/Adj + à/de + infinitif* |
+| мета | §§MDEMPH0§§ |
+| відсутність дії | §§MDEMPH0§§ |
+| передування | §§MDEMPH0§§ |
+| попередня дія | §§MDEMPH0§§ |
+| керування | §§MDEMPH0§§ |
 
 Переклад допомагає зрозуміти функцію, але не вибирає французький прийменник.
 
@@ -217,36 +217,36 @@ variant: []
 3. Знайди головне слово, від якого залежить конструкція.
 4. Встанови функцію: керування, мета, час, відсутність дії тощо.
 5. Визнач виконавця інфінітива.
-6. Перевір, чи потрібна форма *que + особове дієслово*.
-7. Після *après* перевір, чи виражена попередність через infinitif passé.
+6. Перевір, чи потрібна форма §§MDEMPH0§§.
+7. Після §§MDEMPH0§§ перевір, чи виражена попередність через infinitif passé.
 
 ## Типові помилки
 
-❌ *Avant partir, elle est sortie.*
+❌ §§MDEMPH0§§
 
-✅ *Avant de partir, elle est sortie.*
+✅ §§MDEMPH0§§
 
-❌ *Après avoir parti...*
+❌ §§MDEMPH0§§
 
-✅ *Après être parti...*
+✅ §§MDEMPH0§§
 
-❌ *Je viens sans de parler.*
+❌ §§MDEMPH0§§
 
-✅ *Je viens sans parler.*
+✅ §§MDEMPH0§§
 
-❌ *Je travaille pour que apprendre.*
+❌ §§MDEMPH0§§
 
-✅ *Je travaille pour apprendre.*
+✅ §§MDEMPH0§§
 
 ## Практична перевірка
 
-1. Il est parti ___ prévenir.
-2. ___ de sortir, vérifiez la porte.
-3. ___ avoir mangé, ils sont partis.
-4. Elle vient ___ aider.
-5. Il apprend ___ conduire.
+1. Il est parti §§MDEMPH0§§ prévenir.
+2. §§MDEMPH0§§ de sortir, vérifiez la porte.
+3. §§MDEMPH0§§ avoir mangé, ils sont partis.
+4. Elle vient §§MDEMPH0§§ aider.
+5. Il apprend §§MDEMPH0§§ conduire.
 
-**Відповіді:** 1 — *sans*, 2 — *avant*, 3 — *après*, 4 — *pour*, 5 — *à*.
+§§MDEMPH0§§ 1 — §§MDEMPH1§§, 2 — §§MDEMPH2§§, 3 — §§MDEMPH3§§, 4 — §§MDEMPH4§§, 5 — §§MDEMPH5§§.
 
 ## Куди далі
 

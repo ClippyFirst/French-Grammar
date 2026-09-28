@@ -30,34 +30,34 @@ aliases: []
 
 Перед дієсловом у звичайному реченні:
 
-**me / te / se / nous / vous → le / la / les → lui / leur → y → en**
+§§MDEMPH0§§
 
 Приклади:
 
-- **Je le lui donne.**
+- §§MDEMPH0§§
 - Я даю це йому.
-- **Je vous en parle.**
+- §§MDEMPH0§§
 - Я говорю вам про це.
 
-Французька має значно жорсткішу систему **клітичних займенників**, ніж українська, тому порядок краще вчити як систему позицій, а не як буквальний переклад.
+Французька має значно жорсткішу систему §§MDEMPH0§§, ніж українська, тому порядок краще вчити як систему позицій, а не як буквальний переклад.
 
 ## COD
 
-**le, la, les** замінюють прямий додаток:
+§§MDEMPH0§§ замінюють прямий додаток:
 
-- **Je vois Marie. → Je la vois.**
-- **Je prends les livres. → Je les prends.**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
 ## COI
 
-**lui, leur** замінюють типові непрямі додатки з **à + особа**:
+§§MDEMPH0§§ замінюють типові непрямі додатки з §§MDEMPH1§§:
 
-- **Je parle à Paul. → Je lui parle.**
-- **Je téléphone aux étudiants. → Je leur téléphone.**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
-Але **à + особа** не автоматично означає **lui / leur**. Наприклад:
+Але §§MDEMPH0§§ не автоматично означає §§MDEMPH1§§. Наприклад:
 
-- **Je pense à Paul. → Je pense à lui.**
+- §§MDEMPH0§§
 
 Вибір залежить від валентності дієслова та типу конструкції.
 
@@ -65,10 +65,10 @@ aliases: []
 
 Типові комбінації:
 
-- **Je le lui donne.**
-- **Je les leur montre.**
-- **Je lui en parle.**
-- **Je vous y conduis.**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
 Порядок визначається позицією кожного клітика, а не українським порядком слів.
 
@@ -76,86 +76,86 @@ aliases: []
 
 У складених часах об'єктні клітики стоять перед допоміжним дієсловом:
 
-- **Je le lui ai donné.**
-- **Nous les avons vus.**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
-Якщо потрібне узгодження **participe passé**, воно визначається окремими правилами, а не самим фактом наявності займенника.
+Якщо потрібне узгодження §§MDEMPH0§§, воно визначається окремими правилами, а не самим фактом наявності займенника.
 
 ## Заперечення
 
 У звичайному реченні:
 
-**ne + pronoms + verbe + pas**
+§§MDEMPH0§§
 
-- **Je ne le lui donne pas.**
-- **Je ne leur en parle pas.**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
 У складеному часі заперечення оточує групу навколо допоміжного дієслова:
 
-- **Je ne le lui ai pas donné.**
+- §§MDEMPH0§§
 
 ## Два дієслова та інфінітив
 
 Якщо займенник належить інфінітиву, він зазвичай стоїть безпосередньо перед ним:
 
-- **Je vais le lui donner.**
-- **Je veux lui en parler.**
-- **Nous devons nous lever.**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
-Але це не означає, що будь-який займенник у конструкції **verbe + infinitif** належить інфінітиву. Порівняйте:
+Але це не означає, що будь-який займенник у конструкції §§MDEMPH0§§ належить інфінітиву. Порівняйте:
 
-- **Je lui demande de venir.** — *lui* належить *demande*.
-- **Je veux lui parler.** — *lui* належить *parler*.
+- §§MDEMPH0§§ — §§MDEMPH1§§ належить §§MDEMPH2§§.
+- §§MDEMPH0§§ — §§MDEMPH1§§ належить §§MDEMPH2§§.
 
-Для складніших випадків із **faire, laisser** і дієсловами сприйняття див. [Займенники з інфінітивом](./pronouns-infinitive).
+Для складніших випадків із §§MDEMPH0§§ і дієсловами сприйняття див. [Займенники з інфінітивом](./pronouns-infinitive).
 
 ## Impératif affirmatif: окрема схема
 
-У **стверджувальному impératif** клітики переходять **після дієслова** й відділяються дефісами. Для типових комбінацій використовується окрема схема:
+У §§MDEMPH0§§ клітики переходять §§MDEMPH1§§ й відділяються дефісами. Для типових комбінацій використовується окрема схема:
 
-**le / la / les → moi / toi / lui / nous / vous / leur → y → en**
+§§MDEMPH0§§
 
-- **Donne-le-moi !**
-- **Donnez-le-lui !**
-- **Montrez-les-nous !**
-- **Parlez-lui-en !**
-- **Mets-y le livre !**
-- **Donne-m'en !**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
-Форми **me → moi** і **te → toi** характерні для цієї позиції:
+Форми §§MDEMPH0§§ і §§MDEMPH1§§ характерні для цієї позиції:
 
-- **Donne-moi le livre !**
-- **Lève-toi !**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
 ### y та en у ствердному impératif
 
 Вони також стоять після дієслова:
 
-- **Vas-y !**
-- **Parles-en !**
-- **Manges-en !**
-- **Va-t'en !**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
-Для дієслів на **-er** та **aller** кінцеве **-s**, якого немає у формі *tu* у звичайному ствердному impératif, з'являється перед **y/en**:
+Для дієслів на §§MDEMPH0§§ та §§MDEMPH1§§ кінцеве §§MDEMPH2§§, якого немає у формі §§MDEMPH4§§ у звичайному ствердному impératif, з'являється перед §§MDEMPH3§§:
 
-- **Parle ! → Parles-en !**
-- **Va ! → Vas-y !**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
 У заперечному наказі повертається звичайний порядок:
 
-- **Ne me le donne pas !**
-- **Ne lui en parle pas !**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
 ## Типові помилки
 
-❌ *Je lui le donne.*  
-✅ **Je le lui donne.**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
-❌ *Je les lui donne pas.*  
-✅ **Je ne les lui donne pas.**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
-❌ *Donne-moi-le.*  
-✅ **Donne-le-moi !**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
 ## Метод запам’ятовування
 
@@ -163,8 +163,8 @@ aliases: []
 
 1. хто / що є COD?
 2. хто є COI?
-3. чи є конструкція місця або **à + chose**, яку замінює **y**?
-4. чи є **de + chose / кількість**, яку замінює **en**?
+3. чи є конструкція місця або §§MDEMPH0§§, яку замінює §§MDEMPH1§§?
+4. чи є §§MDEMPH0§§, яку замінює §§MDEMPH1§§?
 5. до якого дієслова належить кожен займенник?
 6. розташуйте займенники за схемою;
 7. окремо перевірте, чи це impératif affirmatif.
@@ -173,19 +173,19 @@ aliases: []
 
 ## Самоперевірка
 
-1. **Je ___ ___ donne.** (*le* + *lui*)
-2. **Je ___ ___ parle.** (*leur* + *en*)
-3. **Je ne ___ ___ ai pas donné.** (*le* + *lui*)
-4. **Donne-___-___ !** (*le* + *moi*)
-5. **___-y !** (*aller, tu*)
+1. §§MDEMPH0§§ (§§MDEMPH1§§ + §§MDEMPH2§§)
+2. §§MDEMPH0§§ (§§MDEMPH1§§ + §§MDEMPH2§§)
+3. §§MDEMPH0§§ (§§MDEMPH1§§ + §§MDEMPH2§§)
+4. §§MDEMPH0§§ (§§MDEMPH1§§ + §§MDEMPH2§§)
+5. §§MDEMPH0§§ (§§MDEMPH1§§)
 
 ### Відповіді
 
-1. **Je le lui donne.**
-2. **Je leur en parle.**
-3. **Je ne le lui ai pas donné.**
-4. **Donne-le-moi !**
-5. **Vas-y !**
+1. §§MDEMPH0§§
+2. §§MDEMPH0§§
+3. §§MDEMPH0§§
+4. §§MDEMPH0§§
+5. §§MDEMPH0§§
 
 ## Куди далі
 

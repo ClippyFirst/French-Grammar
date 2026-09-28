@@ -28,201 +28,201 @@ tags: []
 ---
 # Qui як відносний займенник
 
-**Qui** як відносний займенник (*pronom relatif*) вводить відносне речення і в базовій конструкції без прийменника виконує функцію **підмета**. Вибір *qui* визначається не українським перекладом «який/яка», а роллю антецедента всередині французької relative.
+§§MDEMPH0§§ як відносний займенник (§§MDEMPH2§§) вводить відносне речення і в базовій конструкції без прийменника виконує функцію §§MDEMPH1§§. Вибір §§MDEMPH3§§ визначається не українським перекладом «який/яка», а роллю антецедента всередині французької relative.
 
 ## Швидка відповідь
 
-> **La femme qui travaille ici est ma collègue.**  
+> §§MDEMPH0§§  
 > Жінка, яка працює тут, — моя колега.
 
-Тут **la femme travaille** → антецедент є підметом → **qui**.
+Тут §§MDEMPH0§§ → антецедент є підметом → §§MDEMPH1§§.
 
 Порівняйте:
 
-> **La femme que je connais est ma collègue.**
+> §§MDEMPH0§§
 
-Тут **je connais la femme** → антецедент є COD → **que**.
+Тут §§MDEMPH0§§ → антецедент є COD → §§MDEMPH1§§.
 
 Отже, базова діагностика:
 
-> **qui = підмет relative**  
-> **que = COD relative**
+> §§MDEMPH0§§  
+> §§MDEMPH0§§
 
 ## 1. Антецедент і функція — не те саме
 
-Антецедент (*antécédent*) — слово або група слів, до яких відноситься relative. Але його функцію треба визначати **всередині підрядної частини**.
+Антецедент (§§MDEMPH1§§) — слово або група слів, до яких відноситься relative. Але його функцію треба визначати §§MDEMPH0§§.
 
-> **Le livre qui est sur la table.**
-
-Відновлення:
-
-> **Le livre est sur la table.**
-
-Отже, *qui* — підмет.
-
-> **Le livre que je lis.**
+> §§MDEMPH0§§
 
 Відновлення:
 
-> **Je lis le livre.**
+> §§MDEMPH0§§
 
-Отже, *que* — COD.
+Отже, §§MDEMPH0§§ — підмет.
+
+> §§MDEMPH0§§
+
+Відновлення:
+
+> §§MDEMPH0§§
+
+Отже, §§MDEMPH0§§ — COD.
 
 Найнадійніший метод — тимчасово повернути антецедент у пропущену позицію.
 
 ## 2. Qui вживається і щодо людей, і щодо предметів
 
-*Qui* не обмежується особами:
+§§MDEMPH0§§ не обмежується особами:
 
-> **La personne qui arrive est ma sœur.**
+> §§MDEMPH0§§
 
-> **Le livre qui est sur la table est à Paul.**
+> §§MDEMPH0§§
 
-> **Le train qui vient de Paris est en retard.**
+> §§MDEMPH0§§
 
 В усіх трьох випадках антецедент є підметом relative.
 
-Тому правило «*qui* — для людей» неправильне. Людина, предмет або абстрактне поняття можуть бути антецедентом *qui*.
+Тому правило «§§MDEMPH0§§ — для людей» неправильне. Людина, предмет або абстрактне поняття можуть бути антецедентом §§MDEMPH1§§.
 
 ## 3. Типова модель
 
-> **antecedent + qui + verbe**
+> §§MDEMPH0§§
 
-> **Les étudiants qui travaillent régulièrement progressent.**
+> §§MDEMPH0§§
 
-> **Le système qui fonctionne correctement n'a pas besoin de cette option.**
+> §§MDEMPH0§§
 
-У нейтральній конструкції *qui* безпосередньо передує дієслову, оскільки сам є підметом.
+У нейтральній конструкції §§MDEMPH0§§ безпосередньо передує дієслову, оскільки сам є підметом.
 
 Порівняйте:
 
-> **Les étudiants que le professeur félicite...**
+> §§MDEMPH0§§
 
-Після *que* стоїть окремий підмет *le professeur*, тому *que* не є підметом.
+Після §§MDEMPH0§§ стоїть окремий підмет §§MDEMPH1§§, тому §§MDEMPH2§§ не є підметом.
 
 ## 4. Qui після прийменника
 
-Після прийменника *qui* може вживатися з особовим антецедентом:
+Після прийменника §§MDEMPH0§§ може вживатися з особовим антецедентом:
 
-> **La personne avec qui je travaille habite à Lyon.**
+> §§MDEMPH0§§
 
-> **Le collègue à qui j'ai écrit m'a répondu.**
+> §§MDEMPH0§§
 
 Вихідні конструкції:
 
-> **Je travaille avec cette personne.**
+> §§MDEMPH0§§
 
-> **J'ai écrit à ce collègue.**
+> §§MDEMPH0§§
 
-Для предметних антецедентів після прийменника часто використовують *lequel*:
+Для предметних антецедентів після прийменника часто використовують §§MDEMPH0§§:
 
-> **Le système avec lequel je travaille est ancien.**
+> §§MDEMPH0§§
 
 Не зводьте це до абсолютної формули «людина = qui, предмет = lequel»: важливі прийменник, синтаксична конструкція та стиль.
 
 ## 5. Qui в складених часах
 
-> **La femme qui est arrivée hier est ma directrice.**
+> §§MDEMPH0§§
 
 Відновлення:
 
-> **La femme est arrivée hier.**
+> §§MDEMPH0§§
 
-*Qui* є підметом *est arrivée*, тому форма *arrivée* узгоджується з *la femme*.
+§§MDEMPH0§§ є підметом §§MDEMPH1§§, тому форма §§MDEMPH2§§ узгоджується з §§MDEMPH3§§.
 
 Порівняйте:
 
-> **La femme que j'ai rencontrée hier.**
+> §§MDEMPH0§§
 
-Тут *que* є COD перед *ai rencontrée*, тому діє правило узгодження *participe passé* з *avoir*.
+Тут §§MDEMPH0§§ є COD перед §§MDEMPH1§§, тому діє правило узгодження §§MDEMPH2§§ з §§MDEMPH3§§.
 
-Таким чином, вибір *qui/que* може мати наслідки для подальшого граматичного аналізу.
+Таким чином, вибір §§MDEMPH0§§ може мати наслідки для подальшого граматичного аналізу.
 
 ## 6. Qui проти que, dont і où
 
 | Форма | Базова функція | Приклад |
 |---|---|---|
-| **qui** | підмет | *le film qui commence* |
-| **que** | COD | *le film que je regarde* |
-| **dont** | залежність із *de* | *le film dont je parle* |
-| **où** | місце/час | *la ville où je travaille* |
+| §§MDEMPH0§§ | підмет | §§MDEMPH1§§ |
+| §§MDEMPH0§§ | COD | §§MDEMPH1§§ |
+| §§MDEMPH0§§ | залежність із §§MDEMPH1§§ | §§MDEMPH2§§ |
+| §§MDEMPH0§§ | місце/час | §§MDEMPH1§§ |
 
 Порівняйте:
 
-> **Le film qui commence à huit heures...**  
+> §§MDEMPH0§§  
 > Фільм починається о восьмій.
 
-> **Le film que nous regardons...**  
+> §§MDEMPH0§§  
 > Ми дивимося фільм.
 
-> **Le film dont nous parlons...**  
+> §§MDEMPH0§§  
 > Ми говоримо про фільм.
 
-> **La ville où nous travaillons...**  
+> §§MDEMPH0§§  
 > Ми працюємо в місті.
 
 ## 7. Український контраст
 
 Українська розрізняє:
 
-> **жінка, яка працює**
+> §§MDEMPH0§§
 
-> **жінка, яку я бачу**
+> §§MDEMPH0§§
 
 через форму відносного займенника та відмінювання.
 
 Французька використовує іншу систему:
 
-> **la femme qui travaille**
+> §§MDEMPH0§§
 
-> **la femme que je vois**
+> §§MDEMPH0§§
 
-Тому не варто починати з питання «як перекладається *яка/яку*?». Починайте з французького питання:
+Тому не варто починати з питання «як перекладається §§MDEMPH0§§?». Починайте з французького питання:
 
-> **Хто виконує дію?**
+> §§MDEMPH0§§
 
 або:
 
-> **Кого/що я бачу?**
+> §§MDEMPH0§§
 
 ## 8. Типові помилки
 
-❌ **La femme qui je connais.**  
-✅ **La femme que je connais.**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
-❌ **Le livre que est sur la table.**  
-✅ **Le livre qui est sur la table.**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
-❌ «*Qui* використовується тільки для людей».  
-✅ *Qui* може мати предметний антецедент.
+❌ «§§MDEMPH0§§ використовується тільки для людей».  
+✅ §§MDEMPH0§§ може мати предметний антецедент.
 
-❌ **La personne avec que je travaille.**  
-✅ **La personne avec qui je travaille.**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
 ## 9. Алгоритм
 
 1. Знайдіть антецедент.
 2. Відновіть його в простому реченні.
 3. Визначте функцію.
-4. Підмет → *qui*.
-5. COD → *que*.
-6. Залежність із *de* → перевірте *dont*.
-7. Місце/час → перевірте *où*.
-8. Після прийменника → перевірте *qui / lequel* відповідно до референта й конструкції.
+4. Підмет → §§MDEMPH0§§.
+5. COD → §§MDEMPH0§§.
+6. Залежність із §§MDEMPH0§§ → перевірте §§MDEMPH1§§.
+7. Місце/час → перевірте §§MDEMPH0§§.
+8. Після прийменника → перевірте §§MDEMPH0§§ відповідно до референта й конструкції.
 
 ## Мінітест
 
-1. **La femme ___ travaille ici est médecin.**
-2. **La femme ___ je connais est médecin.**
-3. **Le livre ___ est sur la table est ancien.**
-4. **La personne avec ___ je travaille habite à Lille.**
-5. **Le sujet ___ nous parlons est complexe.**
+1. §§MDEMPH0§§
+2. §§MDEMPH0§§
+3. §§MDEMPH0§§
+4. §§MDEMPH0§§
+5. §§MDEMPH0§§
 
-**Відповіді:** 1 *qui*; 2 *que*; 3 *qui*; 4 *qui*; 5 *dont*.
+§§MDEMPH0§§ 1 §§MDEMPH1§§; 2 §§MDEMPH2§§; 3 §§MDEMPH3§§; 4 §§MDEMPH4§§; 5 §§MDEMPH5§§.
 
 ## Короткий висновок
 
-> **Qui** у базовій безприйменниковій relative — маркер підметової функції.
+> §§MDEMPH0§§ у базовій безприйменниковій relative — маркер підметової функції.
 
 Не визначайте його за одушевленістю або українським перекладом. Відновіть просте речення й перевірте, ким є антецедент у відносній частині.
 

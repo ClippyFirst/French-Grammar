@@ -26,60 +26,60 @@ tags: []
 ---
 ## Швидка відповідь
 
-**Lequel** узгоджується з референтом за **родом і числом**:
+§§MDEMPH0§§ узгоджується з референтом за §§MDEMPH1§§:
 
-*le livre → lequel*  
-*la question → laquelle*  
-*les livres → lesquels*  
-*les questions → lesquelles*.
+§§MDEMPH0§§  
+§§MDEMPH0§§  
+§§MDEMPH0§§  
+§§MDEMPH0§§.
 
 Прийменник не змінює цього принципу.
 
 ## 1. Рід
 
-*Laquelle des réponses est correcte ?*
+§§MDEMPH0§§
 
-Референт *réponse* жіночого роду → **laquelle**.
+Референт §§MDEMPH1§§ жіночого роду → §§MDEMPH0§§.
 
-*Lequel des livres préfères-tu ?*
+§§MDEMPH0§§
 
-*livre* чоловічого роду → **lequel**.
+§§MDEMPH1§§ чоловічого роду → §§MDEMPH0§§.
 
 ## 2. Число
 
-*Lesquels choisissez-vous ?*  
-*Lesquelles choisissez-vous ?*
+§§MDEMPH0§§  
+§§MDEMPH0§§
 
 Форма множини вказує на кілька референтів.
 
 ## 3. Після прийменника
 
-*Avec laquelle travailles-tu ?*  
-*Avec lesquels travailles-tu ?*
+§§MDEMPH0§§  
+§§MDEMPH0§§
 
-Прийменник **avec** не визначає рід; його визначає референт.
+Прийменник §§MDEMPH0§§ не визначає рід; його визначає референт.
 
 ## 4. Злиті форми
 
-*auquel* і *auxquels* поєднують прийменник **à** з формами чоловічого роду.
+§§MDEMPH1§§ і §§MDEMPH2§§ поєднують прийменник §§MDEMPH0§§ з формами чоловічого роду.
 
-*duquel* і *desquels* поєднують **de** з чоловічими формами.
+§§MDEMPH1§§ і §§MDEMPH2§§ поєднують §§MDEMPH0§§ з чоловічими формами.
 
 Жіночі форми:
 
-*à laquelle*  
-*de laquelle*  
-*auxquelles*  
-*desquelles*.
+§§MDEMPH0§§  
+§§MDEMPH0§§  
+§§MDEMPH0§§  
+§§MDEMPH0§§.
 
 ## 5. Антецедент і форма
 
 Порівняй:
 
-*la proposition à laquelle...*  
-*les propositions auxquelles...*
+§§MDEMPH0§§  
+§§MDEMPH0§§
 
-Не можна вибирати форму лише за найближчим словом, якщо воно не є референтом. Визнач, який саме іменник замінює **lequel**.
+Не можна вибирати форму лише за найближчим словом, якщо воно не є референтом. Визнач, який саме іменник замінює §§MDEMPH0§§.
 
 ## Алгоритм
 
@@ -87,12 +87,12 @@ tags: []
 2. Визнач його рід.
 3. Визнач число.
 4. Додай потрібний прийменник.
-5. Застосуй злиття для **à/de**, якщо потрібно.
+5. Застосуй злиття для §§MDEMPH0§§, якщо потрібно.
 
 ## Мінітест
 
-*La règle selon ___...* → **laquelle**.
+§§MDEMPH1§§ → §§MDEMPH0§§.
 
-*Les règles selon ___...* → **lesquelles**.
+§§MDEMPH1§§ → §§MDEMPH0§§.
 
-*Le principe auquel...* → **auquel**.
+§§MDEMPH1§§ → §§MDEMPH0§§.

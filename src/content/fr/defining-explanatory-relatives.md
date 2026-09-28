@@ -28,38 +28,38 @@ tags: []
 
 Відносна частина може:
 
-- **обмежувати референцію**: *Les étudiants qui ont réussi continuent leurs études.*
-- **додавати пояснювальну інформацію**: *Paul, qui habite à Lyon, arrive demain.*
+- §§MDEMPH0§§: §§MDEMPH1§§
+- §§MDEMPH0§§: §§MDEMPH1§§
 
 Коми та контекст важливі, але різницю не слід зводити лише до пунктуації.
 
 ## 1. Визначальна relative
 
-*Les étudiants qui ont réussi continuent.*
+§§MDEMPH0§§
 
 Відносна частина допомагає визначити, про яких студентів ідеться.
 
 Без неї:
 
-*Les étudiants continuent.*
+§§MDEMPH0§§
 
 Референція може стати ширшою.
 
 ## 2. Пояснювальна relative
 
-*Paul, qui habite à Lyon, arrive demain.*
+§§MDEMPH0§§
 
-*Paul* уже ідентифікований. Relative додає інформацію, а не вибирає Пола з кількох кандидатів.
+§§MDEMPH0§§ уже ідентифікований. Relative додає інформацію, а не вибирає Пола з кількох кандидатів.
 
 Коми сигналізують таку інтерпретацію.
 
 ## 3. Порівняння
 
-*Les étudiants qui ont réussi recevront un certificat.*
+§§MDEMPH0§§
 
 → лише підгрупа.
 
-*Les étudiants, qui ont réussi, recevront un certificat.*
+§§MDEMPH0§§
 
 → за відповідної інтерпретації вся вже визначена група подається як така, що успішно склала.
 
@@ -94,8 +94,8 @@ tags: []
 
 ## Мінітест
 
-*Les livres qui sont sur la table sont à moi.* → визначальна інтерпретація.
+§§MDEMPH0§§ → визначальна інтерпретація.
 
-*Ce livre, qui est ancien, vaut cher.* → пояснювальна.
+§§MDEMPH0§§ → пояснювальна.
 
-*Marie, qui habite ici, travaille avec nous.* → пояснювальна.
+§§MDEMPH0§§ → пояснювальна.

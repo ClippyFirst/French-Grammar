@@ -26,32 +26,32 @@ tags: []
 ---
 # Quel / lequel
 
-**Quel** супроводжує іменник:
+§§MDEMPH0§§ супроводжує іменник:
 
-> **Quel livre lis-tu ?**
-> **Quelle ville préfères-tu ?**
+> §§MDEMPH0§§
+> §§MDEMPH0§§
 
-**Lequel** замінює іменну групу:
+§§MDEMPH0§§ замінює іменну групу:
 
-> **Lequel préfères-tu ?**
-> **Laquelle choisis-tu ?**
+> §§MDEMPH0§§
+> §§MDEMPH0§§
 
 ## Узгодження
 
-**Quel** узгоджується з іменником:
+§§MDEMPH0§§ узгоджується з іменником:
 
-> **quel livre**
-> **quelle question**
-> **quels livres**
-> **quelles questions**
+> §§MDEMPH0§§
+> §§MDEMPH0§§
+> §§MDEMPH0§§
+> §§MDEMPH0§§
 
-**Lequel** також має рід і число:
+§§MDEMPH0§§ також має рід і число:
 
-> **lequel, laquelle, lesquels, lesquelles**
+> §§MDEMPH0§§
 
 ## Контраст
 
-> **Quel livre ?** — який/котрий + іменник.
-> **Lequel ?** — котрий із них, без повторення іменника.
+> §§MDEMPH0§§ — який/котрий + іменник.
+> §§MDEMPH0§§ — котрий із них, без повторення іменника.
 
 Це класичний приклад різниці déterminant ↔ pronom.

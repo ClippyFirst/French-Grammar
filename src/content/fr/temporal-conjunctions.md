@@ -27,7 +27,7 @@ variant: []
 
 ## Швидко
 
-Часовий сполучник не «вимагає одного часу» незалежно від контексту. Спочатку визначте **часову відношеність** між двома ситуаціями:
+Часовий сполучник не «вимагає одного часу» незалежно від контексту. Спочатку визначте §§MDEMPH0§§ між двома ситуаціями:
 
 - одночасність;
 - наступність;
@@ -39,123 +39,123 @@ variant: []
 
 | Сполучник / конструкція | Основна функція | Типовий приклад |
 |---|---|---|
-| **quand** | коли | Quand tu arriveras, nous commencerons. |
-| **lorsque** | коли | Lorsque tu arriveras, nous commencerons. |
-| **dès que** | щойно, як тільки | Dès qu'il arrivera, appelle-moi. |
-| **aussitôt que** | щойно | Aussitôt qu'elle sera arrivée, nous partirons. |
-| **pendant que** | у той час як | Je lisais pendant qu'il travaillait. |
-| **avant que** | перед тим як | Avant que tu partes, préviens-moi. |
-| **après que** | після того як | Après que tu seras arrivé, nous commencerons. |
-| **depuis que** | відтоді як | Depuis qu'il est parti, je travaille seul. |
+| §§MDEMPH0§§ | коли | Quand tu arriveras, nous commencerons. |
+| §§MDEMPH0§§ | коли | Lorsque tu arriveras, nous commencerons. |
+| §§MDEMPH0§§ | щойно, як тільки | Dès qu'il arrivera, appelle-moi. |
+| §§MDEMPH0§§ | щойно | Aussitôt qu'elle sera arrivée, nous partirons. |
+| §§MDEMPH0§§ | у той час як | Je lisais pendant qu'il travaillait. |
+| §§MDEMPH0§§ | перед тим як | Avant que tu partes, préviens-moi. |
+| §§MDEMPH0§§ | після того як | Après que tu seras arrivé, nous commencerons. |
+| §§MDEMPH0§§ | відтоді як | Depuis qu'il est parti, je travaille seul. |
 
 ## 1. Quand і lorsque
 
-**Quand** і **lorsque** часто можуть бути взаємозамінними:
+§§MDEMPH0§§ і §§MDEMPH1§§ часто можуть бути взаємозамінними:
 
-- **Quand tu arriveras, nous commencerons.**
-- **Lorsque tu arriveras, nous commencerons.**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
-**Lorsque** часто має трохи більш письмовий або формальніший відтінок, але не створюйте з цього жорсткого правила про регістр.
+§§MDEMPH0§§ часто має трохи більш письмовий або формальніший відтінок, але не створюйте з цього жорсткого правила про регістр.
 
 ### Майбутній контекст
 
-У французькій стандартній мові підрядна частина після **quand/lorsque** може містити futur, якщо подія належить до майбутньої часової рамки:
+У французькій стандартній мові підрядна частина після §§MDEMPH0§§ може містити futur, якщо подія належить до майбутньої часової рамки:
 
-**Quand tu arriveras, nous commencerons.**
+§§MDEMPH0§§
 
-Не переносіть автоматично англійське правило про present після *when*.
+Не переносіть автоматично англійське правило про present після §§MDEMPH0§§.
 
 ### Futur antérieur
 
-Якщо підрядна ситуація має бути завершена **до** іншої майбутньої ситуації:
+Якщо підрядна ситуація має бути завершена §§MDEMPH0§§ іншої майбутньої ситуації:
 
-**Quand tu auras fini, nous partirons.**
+§§MDEMPH0§§
 
 Порівняйте:
 
-**Quand tu finiras, nous partirons.**  
+§§MDEMPH0§§  
 → обидві майбутні ситуації; контекст визначає відношення.
 
-**Quand tu auras fini, nous partirons.**  
+§§MDEMPH0§§  
 → завершення першої ситуації явно передує відправленню.
 
 ## 2. Dès que і aussitôt que
 
-Обидва сполучники означають приблизно **«щойно / як тільки»** і часто підкреслюють безпосередню часову послідовність.
+Обидва сполучники означають приблизно §§MDEMPH0§§ і часто підкреслюють безпосередню часову послідовність.
 
-- **Dès que tu arriveras, appelle-moi.**
-- **Aussitôt qu'il aura terminé, il sortira.**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
 У майбутньому контексті можливі futur simple та futur antérieur залежно від того, чи важливо просто локалізувати майбутню подію, чи підкреслити її завершення до наступної.
 
 ## 3. Pendant que
 
-**Pendant que** позначає одночасність або часовий інтервал, у межах якого відбувається інша ситуація:
+§§MDEMPH0§§ позначає одночасність або часовий інтервал, у межах якого відбувається інша ситуація:
 
-**Je lisais pendant qu'elle préparait le dîner.**
+§§MDEMPH0§§
 
 Не вивчайте правило «pendant que = imparfait». Час залежить від перспективи:
 
-**Pendant qu'il travaillait, je préparais le dîner.**
+§§MDEMPH0§§
 
 Але в іншому контексті можливі й інші часи:
 
-**Pendant que tu seras à Paris, je resterai ici.**
+§§MDEMPH0§§
 
 Тут йдеться про дві майбутні ситуації.
 
 ## 4. Avant que
 
-**Avant que + subjonctif** позначає ситуацію, яка ще не подається як здійснений факт на момент відліку:
+§§MDEMPH0§§ позначає ситуацію, яка ще не подається як здійснений факт на момент відліку:
 
-- **Avant que tu partes, préviens-moi.**
-- **Avant qu'il ne soit trop tard, agissons.**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
 ### Ne explétif
 
-Після **avant que** можливе **ne** без заперечного значення:
+Після §§MDEMPH0§§ можливе §§MDEMPH1§§ без заперечного значення:
 
-**Avant qu'il ne parte...**
+§§MDEMPH0§§
 
-Це не означає «перед тим, як він не піде». **Ne** тут є *ne explétif*.
+Це не означає «перед тим, як він не піде». §§MDEMPH0§§ тут є §§MDEMPH1§§.
 
 Не плутайте:
 
-**Il ne part pas.**  
+§§MDEMPH0§§  
 → заперечення.
 
-**Avant qu'il ne parte...**  
-→ **ne** не заперечує дію.
+§§MDEMPH0§§  
+→ §§MDEMPH0§§ не заперечує дію.
 
 ## 5. Après que
 
-У нормативній стандартній конструкції **après que + indicatif**.
+У нормативній стандартній конструкції §§MDEMPH0§§.
 
-- **Après qu'il est arrivé, nous avons commencé.**
-- **Après que tu auras fini, nous partirons.**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
-Причина традиційно пов'язується з тим, що **après que** вводить подію, яку подано як здійснену / фактичну відносно точки відліку, тоді як **avant que** вводить ще не здійснену ситуацію.
+Причина традиційно пов'язується з тим, що §§MDEMPH0§§ вводить подію, яку подано як здійснену / фактичну відносно точки відліку, тоді як §§MDEMPH1§§ вводить ще не здійснену ситуацію.
 
 Тому:
 
-❌ *Après que tu finisses...*
+❌ §§MDEMPH0§§
 
-✅ **Après que tu auras fini...** — у майбутньому контексті.
+✅ §§MDEMPH0§§ — у майбутньому контексті.
 
-Але не робіть висновок, що після **après que** можливий лише один час: **indicatif** має кілька часових форм.
+Але не робіть висновок, що після §§MDEMPH0§§ можливий лише один час: §§MDEMPH1§§ має кілька часових форм.
 
 ## 6. Depuis que
 
-**Depuis que** позначає початкову точку ситуації:
+§§MDEMPH0§§ позначає початкову точку ситуації:
 
-**Depuis qu'il est arrivé, nous travaillons ensemble.**
+§§MDEMPH0§§
 
 Вибір часу залежить від того, як мовець організує часову перспективу:
 
-- **Depuis qu'il est arrivé, tout va mieux.**
-- **Depuis qu'il est parti, elle travaillait seule.** — можливе в оповіді з минулою точкою відліку.
+- §§MDEMPH0§§
+- §§MDEMPH0§§ — можливе в оповіді з минулою точкою відліку.
 
-Не зводьте **depuis que** до механічного «після нього завжди présent».
+Не зводьте §§MDEMPH0§§ до механічного «після нього завжди présent».
 
 ## 7. Часові відношення як система
 
@@ -163,111 +163,111 @@ variant: []
 
 ### Одночасність
 
-**Je travaillais pendant qu'elle étudiait.**
+§§MDEMPH0§§
 
 → дві ситуації подані як одночасні.
 
 ### Подія після іншої
 
-**Quand il est arrivé, nous avons commencé.**
+§§MDEMPH0§§
 
 → прибуття стало часовою точкою, після якої почалася інша подія.
 
 ### Передування майбутній ситуації
 
-**Quand il aura fini, nous partirons.**
+§§MDEMPH0§§
 
 → завершення відбудеться раніше за відправлення.
 
 ### Початок періоду до точки відліку
 
-**Depuis qu'elle habite ici, elle connaît mieux la ville.**
+§§MDEMPH0§§
 
 → ситуація почалася раніше й має часовий зв'язок із точкою відліку.
 
 ## 8. Не плутайте часові сполучники з умовним si
 
-**Quand tu viendras, nous parlerons.**  
+§§MDEMPH0§§  
 → коли ти прийдеш.
 
-**Si tu viens, nous parlerons.**  
+§§MDEMPH0§§  
 → якщо ти прийдеш.
 
 У першому випадку мовець організує подію як часову рамку; у другому — як умову.
 
 Саме тому:
 
-**Si tu viendras...** ❌
+§§MDEMPH0§§ ❌
 
 але
 
-**Quand tu viendras...** ✅
+§§MDEMPH0§§ ✅
 
-Це не суперечність: **si** в умовній конструкції та **quand** виконують різні синтаксичні функції.
+Це не суперечність: §§MDEMPH0§§ в умовній конструкції та §§MDEMPH1§§ виконують різні синтаксичні функції.
 
 ## 9. Не плутайте часовий si з непрямим питанням
 
-**Je ne sais pas s'il viendra.**
+§§MDEMPH0§§
 
-Тут **si** означає **«чи»**, а не «якщо». Тому futur simple можливий.
+Тут §§MDEMPH0§§ означає §§MDEMPH1§§, а не «якщо». Тому futur simple можливий.
 
 Це важливий контраст із:
 
-**S'il vient, nous partirons.**
+§§MDEMPH0§§
 
-→ умовне **si**.
+→ умовне §§MDEMPH0§§.
 
 ## 10. Український контраст
 
-Українська часто передає часові відношення через **коли, щойно, після того як, перед тим як, відтоді як**, але французький вибір часу та способу не завжди є буквальним відповідником.
+Українська часто передає часові відношення через §§MDEMPH0§§, але французький вибір часу та способу не завжди є буквальним відповідником.
 
 Особливо важливі два контрасти:
 
-- **avant que + subjonctif**
-- **après que + indicatif**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
 А також:
 
-- **quand/lorsque + futur** у майбутній часовій рамці;
-- **quand/lorsque + futur antérieur** для завершення до іншої майбутньої ситуації.
+- §§MDEMPH0§§ у майбутній часовій рамці;
+- §§MDEMPH0§§ для завершення до іншої майбутньої ситуації.
 
 ## Типові помилки
 
-❌ *Quand tu viendras, nous commencerions.* — якщо йдеться про звичайний майбутній наслідок.
+❌ §§MDEMPH0§§ — якщо йдеться про звичайний майбутній наслідок.
 
-✅ **Quand tu viendras, nous commencerons.**
+✅ §§MDEMPH0§§
 
-❌ *Si tu viendras demain...*
+❌ §§MDEMPH0§§
 
-✅ **Si tu viens demain...**
+✅ §§MDEMPH0§§
 
-❌ *Après que tu sois arrivé...*
+❌ §§MDEMPH0§§
 
-✅ **Après que tu es arrivé...** — у минулому контексті.
+✅ §§MDEMPH0§§ — у минулому контексті.
 
 У майбутньому:
 
-✅ **Après que tu seras arrivé, nous commencerons.**
+✅ §§MDEMPH0§§
 
-❌ *Avant que tu pars...*
+❌ §§MDEMPH0§§
 
-✅ **Avant que tu partes...**
+✅ §§MDEMPH0§§
 
-❌ вважати, що **pendant que** автоматично вимагає imparfait.
+❌ вважати, що §§MDEMPH0§§ автоматично вимагає imparfait.
 
 Точний час залежить від часової перспективи.
 
 ## Міні-тест
 
-1. Quand tu ___ (arriver), nous commencerons demain.
-2. Quand tu ___ (finir), nous partirons. — потрібне завершення до відправлення.
-3. Avant que tu ___ (partir), appelle-moi.
-4. Après que tu ___ (arriver), nous commencerons. — майбутня ситуація.
-5. Je ne sais pas s'il ___ (venir).
-6. S'il ___ (venir), nous partirons.
-7. Je lisais pendant qu'elle ___ (travailler).
+1. Quand tu §§MDEMPH0§§ (arriver), nous commencerons demain.
+2. Quand tu §§MDEMPH0§§ (finir), nous partirons. — потрібне завершення до відправлення.
+3. Avant que tu §§MDEMPH0§§ (partir), appelle-moi.
+4. Après que tu §§MDEMPH0§§ (arriver), nous commencerons. — майбутня ситуація.
+5. Je ne sais pas s'il §§MDEMPH0§§ (venir).
+6. S'il §§MDEMPH0§§ (venir), nous partirons.
+7. Je lisais pendant qu'elle §§MDEMPH0§§ (travailler).
 
-**Відповіді:** 1. **arriveras**; 2. **auras fini**; 3. **partes**; 4. **seras arrivé**; 5. **viendra**; 6. **vient**; 7. **travaillait**.
+§§MDEMPH0§§ 1. §§MDEMPH1§§; 2. §§MDEMPH2§§; 3. §§MDEMPH3§§; 4. §§MDEMPH4§§; 5. §§MDEMPH5§§; 6. §§MDEMPH6§§; 7. §§MDEMPH7§§.
 
 ## Пов'язані теми
 

@@ -26,20 +26,20 @@ tags: []
 ---
 # bien que / quoique
 
-**Bien que** та **quoique** вводять допустову підрядну частину.
+§§MDEMPH0§§ та §§MDEMPH1§§ вводять допустову підрядну частину.
 
-> **Bien qu'il soit tard, il continue.**
-> **Quoiqu'elle soit fatiguée, elle travaille.**
+> §§MDEMPH0§§
+> §§MDEMPH0§§
 
-Після цих конструкцій використовується **subjonctif**.
+Після цих конструкцій використовується §§MDEMPH0§§.
 
 Допустовість створює контраст між очікуванням і фактом:
 
-> **Bien qu'il pleuve, nous sortons.**
+> §§MDEMPH0§§
 
 Не плутайте її з причиною:
 
-> **Je reste parce qu'il pleut.**
-> **Je sors bien qu'il pleuve.**
+> §§MDEMPH0§§
+> §§MDEMPH0§§
 
 У першому випадку дощ пояснює дію; у другому він створює обставину, яка не перешкоджає дії.

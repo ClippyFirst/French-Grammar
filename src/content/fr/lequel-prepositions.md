@@ -28,63 +28,63 @@ tags: []
 ---
 # Lequel після прийменника
 
-Після багатьох прийменників **lequel / laquelle / lesquels / lesquelles** утворює відносну конструкцію з предметним або абстрактним antecedent.
+Після багатьох прийменників §§MDEMPH0§§ утворює відносну конструкцію з предметним або абстрактним antecedent.
 
 ## Базова схема
 
-> **préposition + lequel**
+> §§MDEMPH0§§
 
-> **Le projet sur lequel je travaille.**  
+> §§MDEMPH0§§  
 > Проєкт, над яким я працюю.
 
-> **La question à laquelle je réponds.**  
+> §§MDEMPH0§§  
 > Питання, на яке я відповідаю.
 
 ## Злиття à і de
 
 Форми:
 
-- **à + lequel → auquel**;
-- **à + lesquels → auxquels**;
-- **à + lesquelles → auxquelles**;
-- **de + lequel → duquel**;
-- **de + lesquels → desquels**;
-- **de + lesquelles → desquelles**.
+- §§MDEMPH0§§;
+- §§MDEMPH0§§;
+- §§MDEMPH0§§;
+- §§MDEMPH0§§;
+- §§MDEMPH0§§;
+- §§MDEMPH0§§.
 
-Жіноча однина з **à**:
+Жіноча однина з §§MDEMPH0§§:
 
-> **à laquelle**
+> §§MDEMPH0§§
 
-а з **de**:
+а з §§MDEMPH0§§:
 
-> **de laquelle**.
+> §§MDEMPH0§§.
 
 ## Приклади
 
-> **Le problème auquel je pense.**  
+> §§MDEMPH0§§  
 > Проблема, про яку я думаю.
 
-> **La personne à laquelle je parle.**  
+> §§MDEMPH0§§  
 > Людина, з якою я розмовляю.
 
-> **Les principes auxquels nous adhérons.**  
+> §§MDEMPH0§§  
 > Принципи, яких ми дотримуємося.
 
 ## Не плутайте з dont
 
-**Dont** відповідає керуванню **de** в певних структурах, але не є універсальною заміною будь-якої конструкції з прийменником.
+§§MDEMPH0§§ відповідає керуванню §§MDEMPH1§§ в певних структурах, але не є універсальною заміною будь-якої конструкції з прийменником.
 
-> **Le livre dont je parle.**
+> §§MDEMPH0§§
 
-> **Le problème auquel je pense.**
+> §§MDEMPH0§§
 
 ## Типові помилки
 
-❌ *le problème à lequel je pense*  
-✅ **le problème auquel je pense**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
-❌ *la question auquel...*  
-✅ **la question à laquelle...**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
 ## Пов'язані теми
 

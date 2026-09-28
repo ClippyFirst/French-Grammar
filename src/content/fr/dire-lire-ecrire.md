@@ -30,110 +30,110 @@ variant: []
 
 Ці три високочастотні дієслова мають різні парадигми, але всі належать до III групи та часто використовуються з прямими або непрямими додатками.
 
-> **Je dis la vérité.** — Я кажу правду.
+> §§MDEMPH0§§ — Я кажу правду.
 
-> **Je lis un livre.** — Я читаю книжку.
+> §§MDEMPH0§§ — Я читаю книжку.
 
-> **J’écris une lettre.** — Я пишу листа.
+> §§MDEMPH0§§ — Я пишу листа.
 
 ## Présent
 
 | Особа | dire | lire | écrire |
 |---|---|---|---|
-| je | **dis** | **lis** | **écris** |
-| tu | **dis** | **lis** | **écris** |
-| il / elle | **dit** | **lit** | **écrit** |
-| nous | **disons** | **lisons** | **écrivons** |
-| vous | **dites** | **lisez** | **écrivez** |
-| ils / elles | **disent** | **lisent** | **écrivent** |
+| je | §§MDEMPH0§§ | §§MDEMPH1§§ | §§MDEMPH2§§ |
+| tu | §§MDEMPH0§§ | §§MDEMPH1§§ | §§MDEMPH2§§ |
+| il / elle | §§MDEMPH0§§ | §§MDEMPH1§§ | §§MDEMPH2§§ |
+| nous | §§MDEMPH0§§ | §§MDEMPH1§§ | §§MDEMPH2§§ |
+| vous | §§MDEMPH0§§ | §§MDEMPH1§§ | §§MDEMPH2§§ |
+| ils / elles | §§MDEMPH0§§ | §§MDEMPH1§§ | §§MDEMPH2§§ |
 
-Особливо важлива форма **vous dites**, а не *vous disez*.
+Особливо важлива форма §§MDEMPH0§§, а не §§MDEMPH1§§.
 
 ## Dire
 
 ### Dire quelque chose à quelqu’un
 
-> **Je dis la vérité à Paul.** — Я кажу правду Полю.
+> §§MDEMPH0§§ — Я кажу правду Полю.
 
 Модель:
 
-**dire + COD + à + personne**
+§§MDEMPH0§§
 
-> **Je lui dis la vérité.**
+> §§MDEMPH0§§
 
 ### Dire que
 
-> **Elle dit qu’elle viendra.** — Вона каже, що прийде.
+> §§MDEMPH0§§ — Вона каже, що прийде.
 
 ### Dire de + infinitif
 
 У конструкціях наказу / прохання:
 
-> **Je lui ai dit de venir.** — Я сказав йому прийти.
+> §§MDEMPH0§§ — Я сказав йому прийти.
 
 Це відрізняється від:
 
-> **Je lui ai dit qu’il viendrait.**
+> §§MDEMPH0§§
 
-У першій конструкції **de + infinitif** пов'язаний із наказом/спонуканням; у другій — підрядне повідомлення.
+У першій конструкції §§MDEMPH0§§ пов'язаний із наказом/спонуканням; у другій — підрядне повідомлення.
 
 ## Lire
 
-> **Je lis le journal.**
+> §§MDEMPH0§§
 
-> **Elle lit un roman.**
+> §§MDEMPH0§§
 
 Керування переважно пряме:
 
-**lire + COD**
+§§MDEMPH0§§
 
-> **Je lis ce livre.**
+> §§MDEMPH0§§
 
 Participe passé:
 
-**lu**
+§§MDEMPH0§§
 
-> **J’ai lu ce livre.**
+> §§MDEMPH0§§
 
 ## Écrire
 
 Типова модель:
 
-**écrire quelque chose à quelqu’un**
+§§MDEMPH0§§
 
-> **J’écris une lettre à Marie.**
+> §§MDEMPH0§§
 
-> **Je lui écris une lettre.**
+> §§MDEMPH0§§
 
 Також:
 
-> **J’écris à Marie.** — Я пишу Марі.
+> §§MDEMPH0§§ — Я пишу Марі.
 
-Тут **à Marie** є непрямим додатком.
+Тут §§MDEMPH0§§ є непрямим додатком.
 
 Participe passé:
 
-**écrit**
+§§MDEMPH0§§
 
-> **J’ai écrit un message.**
+> §§MDEMPH0§§
 
 ## Типові помилки
 
-❌ *vous disez*  
-✅ **vous dites**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
-❌ *Je dis à lui la vérité.*  
-✅ **Je lui dis la vérité.**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
-❌ *J’ai écrivé une lettre.*  
-✅ **J’ai écrit une lettre.**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
-❌ *J’ai lis ce livre.*  
-✅ **J’ai lu ce livre.**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
 ## Українська перспектива
 
-Українські «казати», «читати», «писати» близькі за базовим значенням, але моделі додатків не завжди збігаються. Особливо важливо вивчати **dire + COD + à + personne** та **écrire + à + personne** разом із займенниковими формами.
+Українські «казати», «читати», «писати» близькі за базовим значенням, але моделі додатків не завжди збігаються. Особливо важливо вивчати §§MDEMPH0§§ та §§MDEMPH1§§ разом із займенниковими формами.
 
 ## Куди далі
 

@@ -27,19 +27,19 @@ tags: []
 
 Відносне речення може містити інше relative:
 
-> *J'ai lu le livre que l'auteur dont tu m'as parlé a publié.*
+> §§MDEMPH0§§
 
-Тут *que ... a publié* стосується *le livre*, а *dont tu m'as parlé* — *l'auteur*.
+Тут §§MDEMPH0§§ стосується §§MDEMPH1§§, а §§MDEMPH2§§ — §§MDEMPH3§§.
 
-Головна навичка — встановлювати **antecedent** і функцію кожного relative marker незалежно від лінійної близькості.
+Головна навичка — встановлювати §§MDEMPH0§§ і функцію кожного relative marker незалежно від лінійної близькості.
 
 ## 1. Вкладеність як структура
 
 Схема:
 
-> *le livre [que l'auteur [dont tu m'as parlé] a publié]*
+> §§MDEMPH0§§
 
-Зовнішня relative описує *le livre*. Усередині неї іменна група *l'auteur dont tu m'as parlé* містить ще одну relative.
+Зовнішня relative описує §§MDEMPH0§§. Усередині неї іменна група §§MDEMPH1§§ містить ще одну relative.
 
 Це приклад вкладення одного dependency у другий.
 
@@ -47,21 +47,21 @@ tags: []
 
 У:
 
-> *le livre que l'auteur dont tu parles a publié*
+> §§MDEMPH0§§
 
-*que* є COD від *a publié* і має antecedent *le livre*.
+§§MDEMPH0§§ є COD від §§MDEMPH1§§ і має antecedent §§MDEMPH2§§.
 
-*dont* належить до *tu parles de l'auteur* і має antecedent *l'auteur*.
+§§MDEMPH0§§ належить до §§MDEMPH1§§ і має antecedent §§MDEMPH2§§.
 
 Не можна вибирати antecedent лише за найближчим іменником.
 
 ## 3. Узгодження через nested relative
 
-> *Les lettres que la secrétaire que tu as rencontrée a envoyées sont importantes.*
+> §§MDEMPH0§§
 
-*rencontrée* пов'язане з *la secrétaire*.
+§§MDEMPH0§§ пов'язане з §§MDEMPH1§§.
 
-*envoyées* пов'язане з *les lettres*.
+§§MDEMPH0§§ пов'язане з §§MDEMPH1§§.
 
 Отже, в одному реченні можуть діяти кілька незалежних правил узгодження.
 
@@ -71,11 +71,11 @@ tags: []
 
 Порівняйте:
 
-> *la femme que j'ai rencontrée qui habite à Lyon*
+> §§MDEMPH0§§
 
 із:
 
-> *la femme que j'ai rencontrée et qui habite à Lyon*
+> §§MDEMPH0§§
 
 Координація може зробити структуру легшою для читача, якщо дві характеристики мають однаковий рівень залежності.
 
@@ -85,15 +85,15 @@ tags: []
 
 Вкладення не обмежується relative → relative:
 
-> *Je pense que le chercheur qui travaille à Lyon publiera les résultats.*
+> §§MDEMPH0§§
 
-Relative *qui travaille à Lyon* знаходиться всередині complétive *que le chercheur ... publiera...*.
+Relative §§MDEMPH0§§ знаходиться всередині complétive §§MDEMPH1§§.
 
 Тому під час аналізу потрібно спочатку встановити зовнішні межі, а потім внутрішні.
 
 ## 6. Алгоритм
 
-1. знайдіть усі *qui, que, dont, où, lequel*;
+1. знайдіть усі §§MDEMPH0§§;
 2. визначте межі кожної relative;
 3. знайдіть antecedent;
 4. визначте синтаксичну функцію relative marker;
@@ -104,26 +104,26 @@ Relative *qui travaille à Lyon* знаходиться всередині compl
 
 Українська також допускає вкладені відносні конструкції, але відмінкова система часто сильніше маркує синтаксичні ролі. У французькій особливо важливі порядок слів і вибір relative pronoun.
 
-Не перекладайте *dont* механічно одним українським відмінком: його функція залежить від керування.
+Не перекладайте §§MDEMPH0§§ механічно одним українським відмінком: його функція залежить від керування.
 
 ## Типові помилки
 
-- прив'язувати *qui/que/dont* до найближчого іменника;
+- прив'язувати §§MDEMPH0§§ до найближчого іменника;
 - змішувати antecedent і grammatical function;
 - застосовувати одне правило узгодження до всіх дієслів у реченні;
 - вважати глибоку вкладеність автоматично помилковою.
 
 ## Практична перевірка
 
-> *Les articles que le chercheur dont nous avons lu le livre a publiés sont récents.*
+> §§MDEMPH0§§
 
 Розгортання:
 
-> *Les articles [que ... a publiés]*  
-> *le chercheur [dont nous avons lu le livre]*
+> §§MDEMPH0§§  
+> §§MDEMPH0§§
 
-*publiés* узгоджується з *les articles*.
+§§MDEMPH0§§ узгоджується з §§MDEMPH1§§.
 
 ## Куди далі
 
-Дивіться **relative pronouns**, **nested complement clauses**, **multiple embedding** і **long-distance dependencies**.
+Дивіться §§MDEMPH0§§, §§MDEMPH1§§, §§MDEMPH2§§ і §§MDEMPH3§§.

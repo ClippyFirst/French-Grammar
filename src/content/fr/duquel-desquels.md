@@ -26,61 +26,61 @@ tags: []
 ---
 ## Швидка відповідь
 
-**Duquel, desquels, desquelles** та **de laquelle** — форми **de + lequel**:
+§§MDEMPH0§§ та §§MDEMPH1§§ — форми §§MDEMPH2§§:
 
-- *duquel* — чол. одн.;
-- *de laquelle* — жін. одн.;
-- *desquels* — чол. мн.;
-- *desquelles* — жін. мн.
+- §§MDEMPH0§§ — чол. одн.;
+- §§MDEMPH0§§ — жін. одн.;
+- §§MDEMPH0§§ — чол. мн.;
+- §§MDEMPH0§§ — жін. мн.
 
 Особливо важливі вони після складених прийменників:
 
-*près duquel*, *à côté de laquelle*, *au sujet desquels*.
+§§MDEMPH0§§, §§MDEMPH1§§, §§MDEMPH2§§.
 
 ## 1. Базове утворення
 
-*de + lequel → duquel*  
-*de + lesquels → desquels*  
-*de + lesquelles → desquelles*
+§§MDEMPH0§§  
+§§MDEMPH0§§  
+§§MDEMPH0§§
 
 Жіноча однина:
 
-*de laquelle*.
+§§MDEMPH0§§.
 
 ## 2. Після простого de
 
 Форма може бути відносною:
 
-*Le problème duquel il parle...*
+§§MDEMPH0§§
 
-Але в багатьох конструкціях, де керування просто **de**, природнішим є **dont**:
+Але в багатьох конструкціях, де керування просто §§MDEMPH0§§, природнішим є §§MDEMPH1§§:
 
-*Le problème dont il parle...*
+§§MDEMPH0§§
 
-Тому **duquel** не слід вважати універсальною заміною *dont*.
+Тому §§MDEMPH0§§ не слід вважати універсальною заміною §§MDEMPH1§§.
 
 ## 3. Після складених прийменників
 
-Після *près de*:
+Після §§MDEMPH0§§:
 
-*la maison près de laquelle il habite*
+§§MDEMPH0§§
 
-Після *à côté de*:
+Після §§MDEMPH0§§:
 
-*le bâtiment à côté duquel se trouve le musée*
+§§MDEMPH0§§
 
-Після *au sujet de*:
+Після §§MDEMPH0§§:
 
-*les questions au sujet desquelles nous discutons*
+§§MDEMPH0§§
 
-Тут частина прийменникового виразу передує формі **lequel**.
+Тут частина прийменникового виразу передує формі §§MDEMPH0§§.
 
 ## 4. Рід і число
 
-*duquel* ↔ чоловічий однина  
-*de laquelle* ↔ жіночий однина  
-*desquels* ↔ чоловічий множина  
-*desquelles* ↔ жіночий множина
+§§MDEMPH0§§ ↔ чоловічий однина  
+§§MDEMPH0§§ ↔ жіночий однина  
+§§MDEMPH0§§ ↔ чоловічий множина  
+§§MDEMPH0§§ ↔ жіночий множина
 
 Рід визначає референт, а не прийменник.
 
@@ -88,23 +88,23 @@ tags: []
 
 Порівняй:
 
-*Le livre dont je parle.*  
-*La maison près de laquelle je travaille.*
+§§MDEMPH0§§  
+§§MDEMPH0§§
 
-У першому випадку **dont** достатньо. У другому складений прийменник *près de* потребує збереження **de** перед *laquelle*.
+У першому випадку §§MDEMPH0§§ достатньо. У другому складений прийменник §§MDEMPH2§§ потребує збереження §§MDEMPH1§§ перед §§MDEMPH3§§.
 
 ## Алгоритм
 
 1. Знайди прийменниковий вираз.
-2. Визнач, чи він закінчується на **de**.
+2. Визнач, чи він закінчується на §§MDEMPH0§§.
 3. Визнач рід і число референта.
-4. Вибери *duquel/de laquelle/desquels/desquelles*.
-5. Перевір, чи замість цього в простій конструкції не вживається **dont**.
+4. Вибери §§MDEMPH0§§.
+5. Перевір, чи замість цього в простій конструкції не вживається §§MDEMPH0§§.
 
 ## Мінітест
 
-*Le projet près ___ je travaille...* → **duquel**.
+§§MDEMPH1§§ → §§MDEMPH0§§.
 
-*La maison à côté ___ je passe...* → **de laquelle**.
+§§MDEMPH1§§ → §§MDEMPH0§§.
 
-*Les sujets au sujet ___ nous discutons...* → **desquels**.
+§§MDEMPH1§§ → §§MDEMPH0§§.

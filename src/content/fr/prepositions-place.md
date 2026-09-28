@@ -28,93 +28,93 @@ variant: []
 
 ## Швидка відповідь
 
-Не існує однієї французької форми для українських **у / на / до / біля / перед / за**. Треба розрізняти місце, рух до цілі, напрямок, внутрішній простір, поверхню та місце, пов'язане з особою.
+Не існує однієї французької форми для українських §§MDEMPH0§§. Треба розрізняти місце, рух до цілі, напрямок, внутрішній простір, поверхню та місце, пов'язане з особою.
 
 ## Основні моделі
 
 | Значення | Французька модель | Приклад |
 |---|---|---|
-| місто | **à + ville** | **à Paris** |
-| жіноча країна | **en + pays** | **en France** |
-| чоловіча країна | **au + pays** | **au Canada** |
-| країна множини | **aux + pays** | **aux États-Unis** |
-| всередині | **dans + GN** | **dans la maison** |
-| поверхня | **sur + GN** | **sur la table** |
-| нижнє положення | **sous + GN** | **sous le lit** |
-| перед | **devant + GN** | **devant la maison** |
-| позаду | **derrière + GN** | **derrière la maison** |
-| між | **entre + GN** | **entre les maisons** |
-| у когось / у професіонала | **chez + GN** | **chez Marie**, **chez le médecin** |
-| у напрямку | **vers + GN** | **vers la gare** |
+| місто | §§MDEMPH0§§ | §§MDEMPH1§§ |
+| жіноча країна | §§MDEMPH0§§ | §§MDEMPH1§§ |
+| чоловіча країна | §§MDEMPH0§§ | §§MDEMPH1§§ |
+| країна множини | §§MDEMPH0§§ | §§MDEMPH1§§ |
+| всередині | §§MDEMPH0§§ | §§MDEMPH1§§ |
+| поверхня | §§MDEMPH0§§ | §§MDEMPH1§§ |
+| нижнє положення | §§MDEMPH0§§ | §§MDEMPH1§§ |
+| перед | §§MDEMPH0§§ | §§MDEMPH1§§ |
+| позаду | §§MDEMPH0§§ | §§MDEMPH1§§ |
+| між | §§MDEMPH0§§ | §§MDEMPH1§§ |
+| у когось / у професіонала | §§MDEMPH0§§ | §§MDEMPH1§§, §§MDEMPH2§§ |
+| у напрямку | §§MDEMPH0§§ | §§MDEMPH1§§ |
 
 ## À: місце і напрямок
 
-**à** може виражати і місце, і напрямок:
+§§MDEMPH0§§ може виражати і місце, і напрямок:
 
-> **Je suis à Paris.**
+> §§MDEMPH0§§
 
-> **Je vais à Paris.**
+> §§MDEMPH0§§
 
 Значення визначається дієсловом і контекстом.
 
 ## Dans: усередині
 
-**dans** підкреслює внутрішній простір:
+§§MDEMPH0§§ підкреслює внутрішній простір:
 
-> **Le livre est dans le sac.**
+> §§MDEMPH0§§
 
-> **Les enfants sont dans la maison.**
+> §§MDEMPH0§§
 
-Але **à** може описувати перебування в установі як місці діяльності:
+Але §§MDEMPH0§§ може описувати перебування в установі як місці діяльності:
 
-> **Je suis à l'école.**
+> §§MDEMPH0§§
 
-Це не означає, що **dans l'école** неправильне: воно може означати фізичне перебування всередині будівлі.
+Це не означає, що §§MDEMPH0§§ неправильне: воно може означати фізичне перебування всередині будівлі.
 
 ## Sur, sous, devant, derrière, entre
 
-> **Le livre est sur la table.**
+> §§MDEMPH0§§
 
-> **Le chat est sous le lit.**
+> §§MDEMPH0§§
 
-> **La voiture est devant la maison.**
+> §§MDEMPH0§§
 
-> **Le jardin est derrière la maison.**
+> §§MDEMPH0§§
 
-> **La ville est entre Paris et Lyon.**
+> §§MDEMPH0§§
 
 ## Chez
 
-**chez** пов'язаний з особою, її домом, середовищем або місцем професійної діяльності:
+§§MDEMPH0§§ пов'язаний з особою, її домом, середовищем або місцем професійної діяльності:
 
-> **Je suis chez Marie.**
+> §§MDEMPH0§§
 
-> **Je vais chez le médecin.**
+> §§MDEMPH0§§
 
-> **Il travaille chez Renault.**
+> §§MDEMPH0§§
 
-Тому **chez** не означає просто «всередині».
+Тому §§MDEMPH0§§ не означає просто «всередині».
 
 ## Vers
 
-**vers** виражає напрямок у бік чогось, але не обов'язково точну кінцеву точку:
+§§MDEMPH0§§ виражає напрямок у бік чогось, але не обов'язково точну кінцеву точку:
 
-> **Nous marchons vers la gare.**
+> §§MDEMPH0§§
 
 Порівняйте:
 
-> **Nous allons à la gare.** — станція як ціль.
+> §§MDEMPH0§§ — станція як ціль.
 
-> **Nous marchons vers la gare.** — рух у напрямку станції.
+> §§MDEMPH0§§ — рух у напрямку станції.
 
 ## Географічні назви
 
 Базові моделі:
 
-- **à Paris**
-- **en France**
-- **au Canada**
-- **aux États-Unis**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
 Для конкретних країн, островів, регіонів та інших назв треба перевіряти лексичну модель. Не виводьте її лише з роду української назви.
 
@@ -122,42 +122,42 @@ variant: []
 
 Порівняйте:
 
-- **у Парижі** → **à Paris**
-- **до Парижа** → **à Paris**
-- **у будинку** → **dans la maison**
-- **у школі** → **à l'école** / **dans l'école** залежно від значення
-- **у лікаря** → **chez le médecin**
+- §§MDEMPH0§§ → §§MDEMPH1§§
+- §§MDEMPH0§§ → §§MDEMPH1§§
+- §§MDEMPH0§§ → §§MDEMPH1§§
+- §§MDEMPH0§§ → §§MDEMPH1§§ / §§MDEMPH2§§ залежно від значення
+- §§MDEMPH0§§ → §§MDEMPH1§§
 
 Один український прийменник або відмінок не задає французьку форму автоматично.
 
 ## Типові помилки
 
-❌ *Je vais en Paris.*
+❌ §§MDEMPH0§§
 
-✅ **Je vais à Paris.**
+✅ §§MDEMPH0§§
 
-❌ *Je vais à le cinéma.*
+❌ §§MDEMPH0§§
 
-✅ **Je vais au cinéma.**
+✅ §§MDEMPH0§§
 
-❌ Вважати **dans l'école** завжди помилковим.
+❌ Вважати §§MDEMPH0§§ завжди помилковим.
 
-✅ Розрізняйте **à l'école** як установу та **dans l'école** як фізичний простір.
+✅ Розрізняйте §§MDEMPH0§§ як установу та §§MDEMPH1§§ як фізичний простір.
 
-❌ Вважати **chez** синонімом **dans**.
+❌ Вважати §§MDEMPH0§§ синонімом §§MDEMPH1§§.
 
-✅ **chez** пов'язує місце з особою, її домом або професійним середовищем.
+✅ §§MDEMPH0§§ пов'язує місце з особою, її домом або професійним середовищем.
 
 ## Практична перевірка
 
-1. Je vais ___ Paris.
-2. Je suis ___ France.
-3. Le livre est ___ le sac.
-4. Le chat est ___ la table.
-5. Je vais ___ le médecin.
-6. Nous marchons ___ la gare.
+1. Je vais §§MDEMPH0§§ Paris.
+2. Je suis §§MDEMPH0§§ France.
+3. Le livre est §§MDEMPH0§§ le sac.
+4. Le chat est §§MDEMPH0§§ la table.
+5. Je vais §§MDEMPH0§§ le médecin.
+6. Nous marchons §§MDEMPH0§§ la gare.
 
-**Відповіді:** 1. **à**; 2. **en**; 3. **dans**; 4. **sous**; 5. **chez**; 6. **vers**.
+§§MDEMPH0§§ 1. §§MDEMPH1§§; 2. §§MDEMPH2§§; 3. §§MDEMPH3§§; 4. §§MDEMPH4§§; 5. §§MDEMPH5§§; 6. §§MDEMPH6§§.
 
 ## Куди далі
 

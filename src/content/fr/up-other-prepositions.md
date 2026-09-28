@@ -26,53 +26,53 @@ tags: []
 ---
 ## Швидка відповідь
 
-**Auprès de**, **autour de** та **parmi** мають різні базові відношення:
+§§MDEMPH0§§, §§MDEMPH1§§ та §§MDEMPH2§§ мають різні базові відношення:
 
-- *auprès de* — біля, при, у середовищі/під опікою певної особи чи установи;
-- *autour de* — навколо;
-- *parmi* — серед множини.
+- §§MDEMPH0§§ — біля, при, у середовищі/під опікою певної особи чи установи;
+- §§MDEMPH0§§ — навколо;
+- §§MDEMPH0§§ — серед множини.
 
 ## 1. Auprès de
 
-*Il travaille auprès du ministre.*
+§§MDEMPH0§§
 
 Тут ідеться про близькість у професійному або інституційному середовищі.
 
 ## 2. Autour de
 
-*Les enfants sont autour de la table.*
+§§MDEMPH0§§
 
 Фізична конфігурація — об’єкт у центрі, інші навколо нього.
 
-**Autour de** має також абстрактні значення:
+§§MDEMPH0§§ має також абстрактні значення:
 
-*une discussion autour de ce thème*.
+§§MDEMPH0§§.
 
 ## 3. Parmi
 
-*Parmi les candidats, trois ont réussi.*
+§§MDEMPH0§§
 
 Елемент виділяється з множини.
 
 ## 4. Порівняння
 
-*auprès des étudiants* — у середовищі/при студентах залежно від контексту.
+§§MDEMPH0§§ — у середовищі/при студентах залежно від контексту.
 
-*autour des étudiants* — навколо студентів.
+§§MDEMPH0§§ — навколо студентів.
 
-*parmi les étudiants* — серед студентів.
+§§MDEMPH0§§ — серед студентів.
 
 ## Алгоритм
 
-1. Близькість/середовище → **auprès de**.
-2. Просторове або тематичне «навколо» → **autour de**.
-3. Вибір із множини → **parmi**.
+1. Близькість/середовище → §§MDEMPH0§§.
+2. Просторове або тематичне «навколо» → §§MDEMPH0§§.
+3. Вибір із множини → §§MDEMPH0§§.
 4. Перевір повну прийменникову групу, а не лише останнє слово.
 
 ## Мінітест
 
-*___ les candidats, deux ont été retenus.* → **Parmi**.
+§§MDEMPH1§§ → §§MDEMPH0§§.
 
-*Les gens se rassemblent ___ la table.* → **autour de**.
+§§MDEMPH1§§ → §§MDEMPH0§§.
 
-*un conseiller ___ du président* → **auprès**.
+§§MDEMPH1§§ → §§MDEMPH0§§.

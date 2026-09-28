@@ -32,11 +32,11 @@ tags: []
 
 Порівняй:
 
-- *un étudiant → une étudiante*;
-- *un président → une présidente*;
-- *un directeur → une directrice*;
-- *un acteur → une actrice*;
-- *un vendeur → une vendeuse*.
+- §§MDEMPH0§§;
+- §§MDEMPH0§§;
+- §§MDEMPH0§§;
+- §§MDEMPH0§§;
+- §§MDEMPH0§§.
 
 Ці приклади показують, що одного суфікса для всіх професій немає.
 
@@ -44,12 +44,12 @@ tags: []
 
 Деякі назви мають однакову форму:
 
-*un ministre / une ministre*;  
-*un journaliste / une journaliste*.
+§§MDEMPH0§§;  
+§§MDEMPH0§§.
 
 Тут граматичний рід визначають детермінативи та узгодження:
 
-*une journaliste compétente*.
+§§MDEMPH0§§.
 
 ## 3. Посада й назва особи
 
@@ -61,12 +61,12 @@ tags: []
 
 ## Український контраст
 
-Українські моделі на *-ка, -иця, -иня* не можна переносити на французьку. Наприклад, *directeur → directrice* не є просто механічною заміною українського суфікса.
+Українські моделі на §§MDEMPH0§§ не можна переносити на французьку. Наприклад, §§MDEMPH1§§ не є просто механічною заміною українського суфікса.
 
 ## Типові помилки
 
-❌ *une directeur* → ✅ *une directrice*  
-❌ *une journalistee* → ✅ *une journaliste*
+❌ §§MDEMPH0§§ → ✅ §§MDEMPH1§§  
+❌ §§MDEMPH0§§ → ✅ §§MDEMPH1§§
 
 ## Алгоритм
 
@@ -77,4 +77,4 @@ tags: []
 
 ## Мінітест
 
-*directeur* → **directrice**; *journaliste* → **journaliste**.
+§§MDEMPH2§§ → §§MDEMPH0§§; §§MDEMPH3§§ → §§MDEMPH1§§.

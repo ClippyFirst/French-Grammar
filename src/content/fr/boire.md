@@ -28,36 +28,36 @@ variant: []
 
 ## Швидко
 
-**Boire** — нерегулярне дієслово III групи зі значенням «пити». У présent воно має різні основи:
+§§MDEMPH0§§ — нерегулярне дієслово III групи зі значенням «пити». У présent воно має різні основи:
 
-**boi- / buv- / boiv-**
+§§MDEMPH0§§
 
-> **Je bois de l’eau.** — Я п'ю воду.
+> §§MDEMPH0§§ — Я п'ю воду.
 
-> **Nous buvons de l’eau.** — Ми п'ємо воду.
+> §§MDEMPH0§§ — Ми п'ємо воду.
 
-> **Ils boivent de l’eau.** — Вони п'ють воду.
+> §§MDEMPH0§§ — Вони п'ють воду.
 
 ## Présent
 
 | Особа | Форма |
 |---|---|
-| je | **bois** |
-| tu | **bois** |
-| il / elle / on | **boit** |
-| nous | **buvons** |
-| vous | **buvez** |
-| ils / elles | **boivent** |
+| je | §§MDEMPH0§§ |
+| tu | §§MDEMPH0§§ |
+| il / elle / on | §§MDEMPH0§§ |
+| nous | §§MDEMPH0§§ |
+| vous | §§MDEMPH0§§ |
+| ils / elles | §§MDEMPH0§§ |
 
 Це не помилки в написанні, а частини нормативної парадигми.
 
 ## Керування
 
-**Boire + COD**:
+§§MDEMPH0§§:
 
-> **Je bois de l’eau.** — Я п'ю воду.
+> §§MDEMPH0§§ — Я п'ю воду.
 
-> **Elle boit un café.** — Вона п'є каву.
+> §§MDEMPH0§§ — Вона п'є каву.
 
 З артиклями потрібно розрізняти загальну/невизначену кількість і конкретний об'єкт; див. сторінки про partitifs та articles.
 
@@ -65,40 +65,40 @@ variant: []
 
 Imparfait:
 
-> **je buvais**
+> §§MDEMPH0§§
 
 Futur simple:
 
-> **je boirai**
+> §§MDEMPH0§§
 
 Conditionnel:
 
-> **je boirais**
+> §§MDEMPH0§§
 
 Participe passé:
 
-> **bu**
+> §§MDEMPH0§§
 
-> **J’ai bu de l’eau.** — Я випив води.
+> §§MDEMPH0§§ — Я випив води.
 
 ## Типові помилки
 
-❌ *nous boissons*  
-→ у présent: **nous buvons**.
+❌ §§MDEMPH0§§  
+→ у présent: §§MDEMPH0§§.
 
-❌ *ils buvent*  
-→ **ils boivent**.
+❌ §§MDEMPH0§§  
+→ §§MDEMPH0§§.
 
-❌ *j’ai boire*  
-→ **j’ai bu**.
+❌ §§MDEMPH0§§  
+→ §§MDEMPH0§§.
 
 ## Українська перспектива
 
 Українське «пити» має одну лексему для базової дії, тоді як французькі артиклі можуть змінювати оформлення об'єкта:
 
-> **Je bois de l’eau.** — Я п'ю воду.
+> §§MDEMPH0§§ — Я п'ю воду.
 
-> **Je bois l’eau.** — Я п'ю цю / конкретну воду.
+> §§MDEMPH0§§ — Я п'ю цю / конкретну воду.
 
 Тут вибір артикля є окремою граматичною проблемою.
 

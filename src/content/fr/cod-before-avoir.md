@@ -26,66 +26,66 @@ tags: []
 ---
 ## Швидка відповідь
 
-Якщо **COD стоїть перед participe passé**, *participe passé* узгоджується з COD:
+Якщо §§MDEMPH0§§, §§MDEMPH1§§ узгоджується з COD:
 
-*Les lettres que j’ai écrites.*
+§§MDEMPH0§§
 
-*que* = *les lettres*, тому *écrites* — жіночий множинний рід.
+§§MDEMPH0§§ = §§MDEMPH1§§, тому §§MDEMPH2§§ — жіночий множинний рід.
 
 ## 1. COD після
 
-*J’ai écrit les lettres.*
+§§MDEMPH0§§
 
-COD стоїть після дієприкметника → *écrit*.
+COD стоїть після дієприкметника → §§MDEMPH0§§.
 
 ## 2. COD перед
 
-*Les lettres, je les ai écrites.*
+§§MDEMPH0§§
 
-*les* — прямий додаток і стоїть перед *ai écrites* → узгодження.
+§§MDEMPH0§§ — прямий додаток і стоїть перед §§MDEMPH1§§ → узгодження.
 
 ## 3. Відносний займенник que
 
-*Les chansons que nous avons écoutées.*
+§§MDEMPH0§§
 
-*que* є COD *avons écouté*, а його референт *les chansons* — жіночий множинний.
+§§MDEMPH0§§ є COD §§MDEMPH1§§, а його референт §§MDEMPH2§§ — жіночий множинний.
 
 ## 4. Хто визначає узгодження?
 
 Не підмет:
 
-*Marie a écrit les lettres.*
+§§MDEMPH0§§
 
-Не *Marie* визначає форму *écrit*. Якщо COD передує:
+Не §§MDEMPH0§§ визначає форму §§MDEMPH1§§. Якщо COD передує:
 
-*Marie les a écrites.*
+§§MDEMPH0§§
 
-Тут форму визначає *les* = *les lettres*.
+Тут форму визначає §§MDEMPH0§§ = §§MDEMPH1§§.
 
 ## 5. Відрізняй COD від COI
 
-*Les personnes à qui j’ai parlé.*
+§§MDEMPH0§§
 
-*à qui* — непрямий додаток, тому воно не створює такого узгодження, як COD.
+§§MDEMPH0§§ — непрямий додаток, тому воно не створює такого узгодження, як COD.
 
 Це принципово: не кожен займенник перед дієприкметником є COD.
 
 ## 6. Алгоритм
 
-1. Знайди *avoir + participe passé*.
+1. Знайди §§MDEMPH0§§.
 2. Знайди прямий додаток.
 3. Перевір, чи стоїть він перед дієприкметником.
 4. Визнач рід і число COD.
-5. Узгодь *participe passé* за потреби.
+5. Узгодь §§MDEMPH0§§ за потреби.
 
 ## Типові помилки
 
-*Les lettres que j’ai écrit.* ❌  
-*Les lettres que j’ai écrites.* ✓
+§§MDEMPH0§§ ❌  
+§§MDEMPH0§§ ✓
 
-*Les personnes à qui j’ai parlées.* ❌  
-*Les personnes à qui j’ai parlé.* ✓
+§§MDEMPH0§§ ❌  
+§§MDEMPH0§§ ✓
 
 ## Висновок
 
-Ключове питання для *avoir*: **де COD?** Якщо він стоїть перед *participe passé*, узгодження залежить від його роду й числа.
+Ключове питання для §§MDEMPH1§§: §§MDEMPH0§§ Якщо він стоїть перед §§MDEMPH2§§, узгодження залежить від його роду й числа.

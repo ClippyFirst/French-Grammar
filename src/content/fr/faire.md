@@ -28,98 +28,98 @@ variant: []
 
 ## Швидка відповідь
 
-**Faire** — одне з найчастотніших французьких дієслів. Воно не має одного українського відповідника.
+§§MDEMPH0§§ — одне з найчастотніших французьких дієслів. Воно не має одного українського відповідника.
 
 Основні моделі:
 
-- **faire + nom** — виконувати / робити дію;
-- **faire + activité** — займатися;
-- **faire + météo** — описувати погоду;
-- **faire + infinitif** — каузативна конструкція «змусити / організувати, щоб хтось щось зробив»;
+- §§MDEMPH0§§ — виконувати / робити дію;
+- §§MDEMPH0§§ — займатися;
+- §§MDEMPH0§§ — описувати погоду;
+- §§MDEMPH0§§ — каузативна конструкція «змусити / організувати, щоб хтось щось зробив»;
 - сталі словосполучення з власним значенням.
 
 ## 1. Présent
 
 | Особа | Форма |
 |---|---|
-| je | **fais** |
-| tu | **fais** |
-| il / elle / on | **fait** |
-| nous | **faisons** |
-| vous | **faites** |
-| ils / elles | **font** |
+| je | §§MDEMPH0§§ |
+| tu | §§MDEMPH0§§ |
+| il / elle / on | §§MDEMPH0§§ |
+| nous | §§MDEMPH0§§ |
+| vous | §§MDEMPH0§§ |
+| ils / elles | §§MDEMPH0§§ |
 
-Нерегулярність видно особливо у **faites** та **font**.
+Нерегулярність видно особливо у §§MDEMPH0§§ та §§MDEMPH1§§.
 
 ## 2. Основне значення: робити / виконувати
 
-> **Je fais mes devoirs.** — Я роблю домашнє завдання.
+> §§MDEMPH0§§ — Я роблю домашнє завдання.
 
-> **Elle fait un gâteau.** — Вона пече / готує торт.
+> §§MDEMPH0§§ — Вона пече / готує торт.
 
-> **Nous faisons un exercice.** — Ми виконуємо вправу.
+> §§MDEMPH0§§ — Ми виконуємо вправу.
 
-Переклад **faire = робити** корисний лише як стартова опора. У реальному словосполученні український відповідник залежить від іменника.
+Переклад §§MDEMPH0§§ корисний лише як стартова опора. У реальному словосполученні український відповідник залежить від іменника.
 
 ## 3. Активність і заняття
 
 Французька широко використовує:
 
-**faire + activité**
+§§MDEMPH0§§
 
-> **faire du sport**
+> §§MDEMPH0§§
 
-> **faire de la natation**
+> §§MDEMPH0§§
 
-> **faire du vélo**
+> §§MDEMPH0§§
 
-> **faire une promenade**
+> §§MDEMPH0§§
 
-Артикль та форма після *faire* залежать від конкретної іменникової конструкції. Не замінюйте автоматично будь-яке українське «займатися» одним французьким дієсловом.
+Артикль та форма після §§MDEMPH0§§ залежать від конкретної іменникової конструкції. Не замінюйте автоматично будь-яке українське «займатися» одним французьким дієсловом.
 
 ## 4. Погода
 
-Безособове **il fait**:
+Безособове §§MDEMPH0§§:
 
-> **Il fait beau.**
+> §§MDEMPH0§§
 
-> **Il fait mauvais.**
+> §§MDEMPH0§§
 
-> **Il fait chaud.**
+> §§MDEMPH0§§
 
-> **Il fait froid.**
+> §§MDEMPH0§§
 
-> **Il fait gris.**
+> §§MDEMPH0§§
 
 Порівняйте з:
 
-> **Il pleut.**
+> §§MDEMPH0§§
 
-> **Il neige.**
+> §§MDEMPH0§§
 
-Не всі погодні явища виражаються через *faire*.
+Не всі погодні явища виражаються через §§MDEMPH0§§.
 
 ## 5. Частотні конструкції
 
 ### faire attention à
 
-> **Fais attention à la voiture.**
+> §§MDEMPH0§§
 
 ### faire confiance à
 
-> **Je lui fais confiance.**
+> §§MDEMPH0§§
 
 ### faire partie de
 
-> **Elle fait partie de l'équipe.**
+> §§MDEMPH0§§
 
 ### faire connaissance avec
 
-> **Nous avons fait connaissance avec nos voisins.**
+> §§MDEMPH0§§
 
 ### faire peur à
 
-> **Ce film lui fait peur.**
+> §§MDEMPH0§§
 
 Ці конструкції варто вчити як словосполучення з керуванням.
 
@@ -127,19 +127,19 @@ variant: []
 
 Конструкція:
 
-**faire + infinitif**
+§§MDEMPH0§§
 
 може означати, що суб'єкт спричиняє виконання іншої дії:
 
-> **Je fais réparer ma voiture.**
+> §§MDEMPH0§§
 
 → Я організовую / доручаю відремонтувати автомобіль.
 
-> **Le professeur fait travailler les étudiants.**
+> §§MDEMPH0§§
 
 → Викладач змушує / спонукає студентів працювати.
 
-Тут *faire* не просто означає «робити». Воно створює каузативну конструкцію.
+Тут §§MDEMPH0§§ не просто означає «робити». Воно створює каузативну конструкцію.
 
 У складніших реченнях треба окремо визначати:
 
@@ -160,81 +160,81 @@ variant: []
 - організувати;
 - зробити так, щоб...
 
-Тому один французький **faire + infinitif** може мати кілька природних українських перекладів.
+Тому один французький §§MDEMPH0§§ може мати кілька природних українських перекладів.
 
-> **Je fais réparer mon vélo.**
+> §§MDEMPH0§§
 
-Не обов'язково означає, що **я сам ремонтую велосипед**. Часто означає, що я забезпечую виконання ремонту іншою особою.
+Не обов'язково означає, що §§MDEMPH0§§. Часто означає, що я забезпечую виконання ремонту іншою особою.
 
 ## 8. Faire у складених часах
 
 Як звичайне повнозначне дієслово:
 
-> **J'ai fait mes devoirs.**
+> §§MDEMPH0§§
 
-> **Elle a fait un gâteau.**
+> §§MDEMPH0§§
 
 Participe passé:
 
-> **fait**
+> §§MDEMPH0§§
 
-Не використовуйте *être* лише тому, що дія має результат.
+Не використовуйте §§MDEMPH0§§ лише тому, що дія має результат.
 
 ## 9. Інші основні форми
 
 | Час / спосіб | Форма від je |
 |---|---|
-| présent | **je fais** |
-| imparfait | **je faisais** |
-| futur simple | **je ferai** |
-| conditionnel présent | **je ferais** |
-| passé composé | **j'ai fait** |
-| impératif | **fais, faisons, faites** |
-| participe passé | **fait** |
+| présent | §§MDEMPH0§§ |
+| imparfait | §§MDEMPH0§§ |
+| futur simple | §§MDEMPH0§§ |
+| conditionnel présent | §§MDEMPH0§§ |
+| passé composé | §§MDEMPH0§§ |
+| impératif | §§MDEMPH0§§ |
+| participe passé | §§MDEMPH0§§ |
 
 Порівняйте:
 
-> **je ferai** — futur simple
+> §§MDEMPH0§§ — futur simple
 
-> **je ferais** — conditionnel présent
+> §§MDEMPH0§§ — conditionnel présent
 
 ## 10. Типові помилки
 
-❌ *Je suis fait mes devoirs.*  
-✅ **J'ai fait mes devoirs.**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
-❌ *Il est chaud* для значення «йому жарко».  
+❌ §§MDEMPH0§§ для значення «йому жарко».  
 У стандартній конструкції про відчуття:  
-✅ **Il a chaud.**
+✅ §§MDEMPH0§§
 
-❌ *Je fais du français* як універсальний відповідник «я вивчаю французьку».  
-Залежно від значення природніше **j'étudie le français**, **j'apprends le français** тощо.
+❌ §§MDEMPH0§§ як універсальний відповідник «я вивчаю французьку».  
+Залежно від значення природніше §§MDEMPH0§§, §§MDEMPH1§§ тощо.
 
-❌ перекладати кожне *faire* як «робити».  
+❌ перекладати кожне §§MDEMPH0§§ як «робити».  
 → Спочатку визначте словосполучення та його значення.
 
 ## 11. Для україномовного учня
 
-Особливо корисно запам'ятовувати **faire** разом із залежним компонентом:
+Особливо корисно запам'ятовувати §§MDEMPH0§§ разом із залежним компонентом:
 
-- **faire attention à**
-- **faire confiance à**
-- **faire partie de**
-- **faire peur à**
-- **faire du sport**
-- **faire + infinitif**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
 Це зменшує ризик буквального перекладу.
 
 ## Практична перевірка
 
-1. Je ___ mes devoirs. (*faire*)
-2. Il ___ beau aujourd'hui.
-3. Nous ___ du sport.
-4. Elle ___ réparer sa voiture.
-5. Vous ___ attention.
+1. Je §§MDEMPH1§§ mes devoirs. (§§MDEMPH0§§)
+2. Il §§MDEMPH0§§ beau aujourd'hui.
+3. Nous §§MDEMPH0§§ du sport.
+4. Elle §§MDEMPH0§§ réparer sa voiture.
+5. Vous §§MDEMPH0§§ attention.
 
-**Відповіді:** 1 **fais**, 2 **fait**, 3 **faisons**, 4 **fait**, 5 **faites**.
+§§MDEMPH0§§ 1 §§MDEMPH1§§, 2 §§MDEMPH2§§, 3 §§MDEMPH3§§, 4 §§MDEMPH4§§, 5 §§MDEMPH5§§.
 
 ## Куди далі
 

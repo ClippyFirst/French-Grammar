@@ -27,39 +27,39 @@ variant: []
 
 ## Швидка відповідь
 
-**Passé antérieur** — складений минулий час, характерний насамперед для писемного, особливо літературного або історичного наративу.
+§§MDEMPH0§§ — складений минулий час, характерний насамперед для писемного, особливо літературного або історичного наративу.
 
-Він утворюється з **passé simple** допоміжного **avoir** або **être** + **participe passé**:
+Він утворюється з §§MDEMPH0§§ допоміжного §§MDEMPH1§§ або §§MDEMPH2§§ + §§MDEMPH3§§:
 
-> **Quand il eut terminé, il sortit.**
+> §§MDEMPH0§§
 
-Подія **eut terminé** відбулася перед **sortit**.
+Подія §§MDEMPH0§§ відбулася перед §§MDEMPH1§§.
 
 Його не слід сприймати як звичайний розмовний аналог українського «закінчив був».
 
 ## 1. Формула
 
-**passé simple de avoir / être + participe passé**
+§§MDEMPH0§§
 
-> **j’eus parlé**
+> §§MDEMPH0§§
 
-> **il eut fini**
+> §§MDEMPH0§§
 
-> **elle fut arrivée**
+> §§MDEMPH0§§
 
-> **ils furent partis**
+> §§MDEMPH0§§
 
 Допоміжне дієслово стоїть у passé simple, а participe passé зберігає правила, пов’язані з відповідним допоміжним.
 
 ## 2. Основна функція
 
-Passé antérieur виражає дію, яка завершилася **до іншої минулої події**, часто вираженої passé simple.
+Passé antérieur виражає дію, яка завершилася §§MDEMPH0§§, часто вираженої passé simple.
 
-> **Lorsqu’il eut terminé son travail, il partit.**
+> §§MDEMPH0§§
 
 Часова вісь:
 
-**termina → partit**
+§§MDEMPH0§§
 
 Тобто:
 
@@ -70,17 +70,17 @@ Passé antérieur виражає дію, яка завершилася **до і
 
 Особливо характерні часові сполучники:
 
-- **quand**
-- **lorsque**
-- **dès que**
-- **aussitôt que**
-- **après que**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
 Наприклад:
 
-> **Dès qu’il eut reçu la lettre, il répondit.**
+> §§MDEMPH0§§
 
-> **Quand elle eut fini, elle quitta la salle.**
+> §§MDEMPH0§§
 
 Форма створює виразно писемний наративний регістр.
 
@@ -90,11 +90,11 @@ Passé antérieur виражає дію, яка завершилася **до і
 
 Порівняйте:
 
-> **Quand il eut fini, il sortit.**
+> §§MDEMPH0§§
 
 і
 
-> **Quand il avait fini, il sortait.**
+> §§MDEMPH0§§
 
 У першому реченні passé antérieur працює разом із passé simple і є типовим для писемної оповіді.
 
@@ -106,49 +106,49 @@ Passé antérieur виражає дію, яка завершилася **до і
 
 У сучасному нейтральному мовленні аналогічну часову послідовність часто передають іншими формами:
 
-> **Quand il a terminé, il est parti.**
+> §§MDEMPH0§§
 
 У літературному наративі:
 
-> **Quand il eut terminé, il partit.**
+> §§MDEMPH0§§
 
 Зміна форми відображає не лише часовий порядок, а й жанр та регістр.
 
 ## 6. Утворення з être
 
-Для дієслів, які утворюють складені часи з **être**:
+Для дієслів, які утворюють складені часи з §§MDEMPH0§§:
 
-> **Quand elle fut arrivée, nous commençâmes.**
+> §§MDEMPH0§§
 
-> **Dès qu’ils furent partis, la salle devint silencieuse.**
+> §§MDEMPH0§§
 
 Participe passé узгоджується з підметом:
 
-> **elle fut arrivée**
+> §§MDEMPH0§§
 
-> **ils furent partis**
+> §§MDEMPH0§§
 
 ## 7. Утворення з avoir
 
-> **Quand il eut lu le rapport, il répondit.**
+> §§MDEMPH0§§
 
-> **Lorsqu’elle eut pris sa décision, elle téléphona.**
+> §§MDEMPH0§§
 
-Правила узгодження participe passé з **avoir** залишаються актуальними.
+Правила узгодження participe passé з §§MDEMPH0§§ залишаються актуальними.
 
 Наприклад:
 
-> **Les lettres qu’il eut écrites furent publiées.**
+> §§MDEMPH0§§
 
 ## 8. Не плутайте з futur antérieur
 
 Порівняйте:
 
-> **Quand il aura fini, il partira.**
+> §§MDEMPH0§§
 
 → майбутнє: завершить → піде.
 
-> **Quand il eut fini, il partit.**
+> §§MDEMPH0§§
 
 → писемний наратив минулого: завершив → пішов.
 
@@ -158,11 +158,11 @@ Participe passé узгоджується з підметом:
 
 Український переклад часто використовує звичайний минулий час:
 
-> **Quand il eut fini, il partit.**
+> §§MDEMPH0§§
 
-→ *Коли він закінчив, він пішов.*
+→ §§MDEMPH0§§
 
-Тому форму **passé antérieur** треба розпізнавати не за перекладом, а за французькою морфологією та контекстом.
+Тому форму §§MDEMPH0§§ треба розпізнавати не за перекладом, а за французькою морфологією та контекстом.
 
 ## 10. Типові помилки
 
@@ -176,24 +176,24 @@ Participe passé узгоджується з підметом:
 
 ❌ Плутати:
 
-**aura fini** → futur antérieur
+§§MDEMPH0§§ → futur antérieur
 
-**eut fini** → passé antérieur
+§§MDEMPH0§§ → passé antérieur
 
 ## Практична перевірка
 
 Визначте часову вісь:
 
-> **Quand il eut ouvert la porte, il entra.**
+> §§MDEMPH0§§
 
-**eut ouvert** → раніше.
+§§MDEMPH0§§ → раніше.
 
-**entra** → пізніше.
+§§MDEMPH0§§ → пізніше.
 
 Якщо контекст — літературний/історичний наратив, passé antérieur є очікуваною формою для такого передування.
 
 ## Куди далі
 
-- **passe-simple** — основний простий минулий час писемного наративу.
-- **plus-que-parfait** — передування в інших часових конфігураціях.
-- **passe-compose** — сучасна нейтральна система минулого.
+- §§MDEMPH0§§ — основний простий минулий час писемного наративу.
+- §§MDEMPH0§§ — передування в інших часових конфігураціях.
+- §§MDEMPH0§§ — сучасна нейтральна система минулого.

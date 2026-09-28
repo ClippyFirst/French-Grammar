@@ -28,125 +28,125 @@ variant: []
 
 ## Швидка відповідь
 
-**Неозначені визначники** стоять перед іменником і задають кількість, розподіл, невизначеність або заперечення, не називаючи конкретного референта.
+§§MDEMPH0§§ стоять перед іменником і задають кількість, розподіл, невизначеність або заперечення, не називаючи конкретного референта.
 
 Для довідника особливо важливі:
 
-- **chaque** — кожен / кожна;
-- **quelques** — кілька;
-- **plusieurs** — кілька / декілька;
-- **certains / certaines** — деякі;
-- **aucun / aucune** — жоден / жодна;
-- **tout / toute / tous / toutes** у визначальних конструкціях;
-- **tel / telle / tels / telles** у відповідних значеннях.
+- §§MDEMPH0§§ — кожен / кожна;
+- §§MDEMPH0§§ — кілька;
+- §§MDEMPH0§§ — кілька / декілька;
+- §§MDEMPH0§§ — деякі;
+- §§MDEMPH0§§ — жоден / жодна;
+- §§MDEMPH0§§ у визначальних конструкціях;
+- §§MDEMPH0§§ у відповідних значеннях.
 
 ## 1. Chaque
 
-**Chaque** вживається перед іменником в однині:
+§§MDEMPH0§§ вживається перед іменником в однині:
 
-> **Chaque étudiant reçoit un message.**
+> §§MDEMPH0§§
 
-> **Chaque semaine, nous travaillons ensemble.**
+> §§MDEMPH0§§
 
 Не:
 
-❌ **chaques étudiants**
+❌ §§MDEMPH0§§
 
 Порівняйте:
 
-> **Chaque étudiant** — кожен студент окремо.
+> §§MDEMPH0§§ — кожен студент окремо.
 
-> **Tous les étudiants** — усі студенти як група.
+> §§MDEMPH0§§ — усі студенти як група.
 
 ## 2. Quelques
 
-**Quelques** вживається з множиною:
+§§MDEMPH0§§ вживається з множиною:
 
-> **Quelques étudiants sont absents.**
+> §§MDEMPH0§§
 
-> **J’ai quelques questions.**
+> §§MDEMPH0§§
 
 Воно означає невелику, неуточнену кількість.
 
 ## 3. Plusieurs
 
-**Plusieurs** означає кілька / декілька і вживається з множиною:
+§§MDEMPH0§§ означає кілька / декілька і вживається з множиною:
 
-> **Plusieurs personnes ont répondu.**
+> §§MDEMPH0§§
 
-> **Plusieurs solutions sont possibles.**
+> §§MDEMPH0§§
 
-Порівняння з **quelques**:
+Порівняння з §§MDEMPH0§§:
 
-- **quelques personnes** — кілька, часто з відчуттям невеликої кількості;
-- **plusieurs personnes** — кілька / декілька без обов’язкової числової межі.
+- §§MDEMPH0§§ — кілька, часто з відчуттям невеликої кількості;
+- §§MDEMPH0§§ — кілька / декілька без обов’язкової числової межі.
 
 Не встановлюйте між ними жорстку числову межу.
 
 ## 4. Certains / certaines
 
-> **Certains étudiants travaillent le soir.**
+> §§MDEMPH0§§
 
-> **Certaines personnes préfèrent attendre.**
+> §§MDEMPH0§§
 
 Форма узгоджується з іменником за родом і числом.
 
-У контексті **certains** може протиставляти одну частину групи іншій:
+У контексті §§MDEMPH0§§ може протиставляти одну частину групи іншій:
 
-> **Certains étudiants travaillent le soir, d’autres le matin.**
+> §§MDEMPH0§§
 
 ## 5. Aucun / aucune
 
-**Aucun / aucune** перед іменником означає відсутність навіть одного релевантного представника:
+§§MDEMPH0§§ перед іменником означає відсутність навіть одного релевантного представника:
 
-> **Aucun étudiant n’est absent.**
+> §§MDEMPH0§§
 
-> **Aucune solution n’est parfaite.**
+> §§MDEMPH0§§
 
-У стандартній конструкції з **aucun** присудок оформлюється в однині:
+У стандартній конструкції з §§MDEMPH0§§ присудок оформлюється в однині:
 
-> **Aucun étudiant n’est venu.**
+> §§MDEMPH0§§
 
 Форма:
 
-- **aucun** — чоловічий;
-- **aucune** — жіночий.
+- §§MDEMPH0§§ — чоловічий;
+- §§MDEMPH0§§ — жіночий.
 
 Не плутайте з займенниковим уживанням:
 
-> **Aucun n’est venu.**
+> §§MDEMPH0§§
 
 ## 6. Tout / toute / tous / toutes
 
 Перед іменником:
 
-> **tout le travail**
+> §§MDEMPH0§§
 
-> **toute la journée**
+> §§MDEMPH0§§
 
-> **tous les étudiants**
+> §§MDEMPH0§§
 
-> **toutes les questions**
+> §§MDEMPH0§§
 
 Порівняйте:
 
-> **Tous les étudiants sont là.**
+> §§MDEMPH0§§
 
-> **Tous sont là.**
+> §§MDEMPH0§§
 
-У другому реченні **tous** функціонує займенниково.
+У другому реченні §§MDEMPH0§§ функціонує займенниково.
 
 ## 7. Tel
 
-У відповідних конструкціях **tel** узгоджується з іменником:
+У відповідних конструкціях §§MDEMPH0§§ узгоджується з іменником:
 
-> **un tel comportement**
+> §§MDEMPH0§§
 
-> **une telle décision**
+> §§MDEMPH0§§
 
-> **de tels problèmes**
+> §§MDEMPH0§§
 
-> **de telles situations**
+> §§MDEMPH0§§
 
 Його значення залежить від конкретної конструкції; це не просто числівниковий еквівалент.
 
@@ -154,55 +154,55 @@ variant: []
 
 | Перед іменником | Без іменника |
 |---|---|
-| **chaque étudiant** | — |
-| **plusieurs étudiants** | **plusieurs sont venus** |
-| **certains étudiants** | **certains sont partis** |
-| **aucun étudiant** | **aucun n’a répondu** |
-| **tous les étudiants** | **tous sont prêts** |
+| §§MDEMPH0§§ | — |
+| §§MDEMPH0§§ | §§MDEMPH1§§ |
+| §§MDEMPH0§§ | §§MDEMPH1§§ |
+| §§MDEMPH0§§ | §§MDEMPH1§§ |
+| §§MDEMPH0§§ | §§MDEMPH1§§ |
 
-Це розрізнення важливе: **plusieurs, certains, aucun, tous** не мають однієї синтаксичної функції в усіх позиціях.
+Це розрізнення важливе: §§MDEMPH0§§ не мають однієї синтаксичної функції в усіх позиціях.
 
 ## Для україномовного учня
 
-Українські **кожен, кілька, деякі, жоден, усі** не дають механічної французької форми.
+Українські §§MDEMPH0§§ не дають механічної французької форми.
 
 Особливо важливі обмеження:
 
-- **chaque** → однина;
-- **quelques** → множина;
-- **plusieurs** → множина;
-- **aucun / aucune** → однина;
-- **tout / toute / tous / toutes** узгоджується в конкретній конструкції.
+- §§MDEMPH0§§ → однина;
+- §§MDEMPH0§§ → множина;
+- §§MDEMPH0§§ → множина;
+- §§MDEMPH0§§ → однина;
+- §§MDEMPH0§§ узгоджується в конкретній конструкції.
 
-Тому корисніше запам’ятовувати **форму + структуру**, а не лише переклад.
+Тому корисніше запам’ятовувати §§MDEMPH0§§, а не лише переклад.
 
 ## Типові помилки
 
-❌ **chaques étudiants**  
-✅ **chaque étudiant**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
-❌ **quelques étudiant**  
-✅ **quelques étudiants**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
-❌ **aucuns étudiants** — у базовому значенні «жоден студент»  
-✅ **aucun étudiant**
+❌ §§MDEMPH0§§ — у базовому значенні «жоден студент»  
+✅ §§MDEMPH0§§
 
-❌ **tous étudiant**  
-✅ **tous les étudiants** — якщо йдеться про всіх конкретних студентів.
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§ — якщо йдеться про всіх конкретних студентів.
 
 ## Практична перевірка
 
-1. ___ étudiant doit répondre. (кожен)
-2. J’ai ___ questions. (кілька)
-3. ___ personnes sont absentes. (деякі)
-4. ___ étudiant n’a répondu. (жоден)
-5. ___ les étudiants sont présents. (усі)
+1. §§MDEMPH0§§ étudiant doit répondre. (кожен)
+2. J’ai §§MDEMPH0§§ questions. (кілька)
+3. §§MDEMPH0§§ personnes sont absentes. (деякі)
+4. §§MDEMPH0§§ étudiant n’a répondu. (жоден)
+5. §§MDEMPH0§§ les étudiants sont présents. (усі)
 
-**Відповіді:** 1. **Chaque**; 2. **quelques**; 3. **Certaines**; 4. **Aucun**; 5. **Tous**.
+§§MDEMPH0§§ 1. §§MDEMPH1§§; 2. §§MDEMPH2§§; 3. §§MDEMPH3§§; 4. §§MDEMPH4§§; 5. §§MDEMPH5§§.
 
 ## Куди далі
 
-- **Неозначені займенники** — коли визначник заміщується займенниковою формою.
-- **Кількісні звороти** — beaucoup de, peu de, trop de.
-- **Невизначений артикль** — un, une, des.
-- **Артикль після заперечення** — взаємодія aucun, pas de та інших негативних конструкцій.
+- §§MDEMPH0§§ — коли визначник заміщується займенниковою формою.
+- §§MDEMPH0§§ — beaucoup de, peu de, trop de.
+- §§MDEMPH0§§ — un, une, des.
+- §§MDEMPH0§§ — взаємодія aucun, pas de та інших негативних конструкцій.

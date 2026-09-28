@@ -28,43 +28,43 @@ variant: []
 
 ## Швидка відповідь
 
-У французькій прийменник часто є частиною **керування дієслова**:
+У французькій прийменник часто є частиною §§MDEMPH0§§:
 
-> **penser à quelqu'un**
+> §§MDEMPH0§§
 
-> **parler de quelque chose**
+> §§MDEMPH0§§
 
-> **essayer de comprendre**
+> §§MDEMPH0§§
 
-> **réussir à comprendre**
+> §§MDEMPH0§§
 
-Не вибирайте **à** чи **de** лише за українським перекладом.
+Не вибирайте §§MDEMPH0§§ чи §§MDEMPH1§§ лише за українським перекладом.
 
 ## 1. Дієслово + à + іменник
 
-> **Je pense à mon travail.**
+> §§MDEMPH0§§
 
-> **Elle répond à la question.**
+> §§MDEMPH0§§
 
 Прийменник належить конструкції.
 
 ## 2. Дієслово + de + іменник
 
-> **Il parle de son projet.**
+> §§MDEMPH0§§
 
-> **Je me souviens de cette histoire.**
+> §§MDEMPH0§§
 
-Інше дієслово може вимагати **à**.
+Інше дієслово може вимагати §§MDEMPH0§§.
 
 ## 3. Дієслово + infinitif
 
-> **commencer à travailler**
+> §§MDEMPH0§§
 
-> **réussir à comprendre**
+> §§MDEMPH0§§
 
-> **essayer de comprendre**
+> §§MDEMPH0§§
 
-> **éviter de répondre**
+> §§MDEMPH0§§
 
 Ці моделі треба вчити як лексичну граматику.
 
@@ -74,9 +74,9 @@ variant: []
 
 ## 5. Український контраст
 
-> **залежати від** → **dépendre de**
+> §§MDEMPH0§§ → §§MDEMPH1§§
 
-> **думати про** → **penser à**
+> §§MDEMPH0§§ → §§MDEMPH1§§
 
 Формально різні українські прийменники не дозволяють передбачити французький.
 
@@ -90,9 +90,9 @@ variant: []
 
 ## Перевірка
 
-1. penser ___ quelqu'un
-2. parler ___ quelqu'un
-3. essayer ___ comprendre
-4. réussir ___ comprendre
+1. penser §§MDEMPH0§§ quelqu'un
+2. parler §§MDEMPH0§§ quelqu'un
+3. essayer §§MDEMPH0§§ comprendre
+4. réussir §§MDEMPH0§§ comprendre
 
-**Відповіді:** 1 **à**; 2 **à**; 3 **de**; 4 **à**.
+§§MDEMPH0§§ 1 §§MDEMPH1§§; 2 §§MDEMPH2§§; 3 §§MDEMPH3§§; 4 §§MDEMPH4§§.

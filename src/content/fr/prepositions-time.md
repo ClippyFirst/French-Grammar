@@ -25,138 +25,138 @@ sources: []
 
 ## Швидко
 
-Не перекладайте українське **«за»**, **«через»**, **«протягом»** або **«з»** одним французьким прийменником. Спочатку визначте часову функцію:
+Не перекладайте українське §§MDEMPH0§§, §§MDEMPH1§§, §§MDEMPH2§§ або §§MDEMPH3§§ одним французьким прийменником. Спочатку визначте часову функцію:
 
 | Функція | Типова конструкція | Приклад |
 |---|---|---|
-| точка часу | **à** | à 8 heures |
-| початок / межі | **de... à...** | de 9 h à 17 h |
-| час, потрібний для виконання | **en** | finir en deux heures |
-| час до майбутньої події | **dans** | partir dans deux heures |
-| тривалість / період | **pendant** | travailler pendant deux heures |
-| початок періоду, який триває до точки відліку | **depuis** | habiter ici depuis 2020 |
-| кінцева межа | **jusqu'à** | travailler jusqu'à 18 h |
-| раніше за момент | **avant** | avant midi |
-| пізніше за момент | **après** | après le travail |
+| точка часу | §§MDEMPH0§§ | à 8 heures |
+| початок / межі | §§MDEMPH0§§ | de 9 h à 17 h |
+| час, потрібний для виконання | §§MDEMPH0§§ | finir en deux heures |
+| час до майбутньої події | §§MDEMPH0§§ | partir dans deux heures |
+| тривалість / період | §§MDEMPH0§§ | travailler pendant deux heures |
+| початок періоду, який триває до точки відліку | §§MDEMPH0§§ | habiter ici depuis 2020 |
+| кінцева межа | §§MDEMPH0§§ | travailler jusqu'à 18 h |
+| раніше за момент | §§MDEMPH0§§ | avant midi |
+| пізніше за момент | §§MDEMPH0§§ | après le travail |
 
 ## 1. À: точка часу
 
-**À** типово позначає точку на часовій шкалі:
+§§MDEMPH0§§ типово позначає точку на часовій шкалі:
 
-- **à 8 heures**
-- **à midi**
-- **à minuit**
-- **À quelle heure ?**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
-Не робіть із цього абсолютне правило «à лише для годинника»: контекст може точково локалізувати й ширший часовий період. Наприклад, **à l'été 1944** можливе, коли літо подається як датована точка в історичній послідовності.
+Не робіть із цього абсолютне правило «à лише для годинника»: контекст може точково локалізувати й ширший часовий період. Наприклад, §§MDEMPH0§§ можливе, коли літо подається як датована точка в історичній послідовності.
 
 ## 2. De... à...: початок і кінець
 
-- **de 9 h à 17 h**
-- **de lundi à vendredi**
-- **de janvier à mars**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
-Конструкція описує межі інтервалу; конкретний вибір **à**, **jusqu'à** та інших форм залежить від того, як подано кінцеву межу.
+Конструкція описує межі інтервалу; конкретний вибір §§MDEMPH0§§, §§MDEMPH1§§ та інших форм залежить від того, як подано кінцеву межу.
 
 ## 3. En: час, потрібний для завершення
 
-**En + тривалість** відповідає на питання «за який час це було / буде виконано?»
+§§MDEMPH0§§ відповідає на питання «за який час це було / буде виконано?»
 
-- **J'ai lu le livre en deux jours.**
-- **Je finirai le travail en une heure.**
-- **Il a réparé la voiture en trente minutes.**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
-Тут **en** не означає просто «протягом». Воно часто визначає часовий проміжок, необхідний для досягнення результату.
+Тут §§MDEMPH0§§ не означає просто «протягом». Воно часто визначає часовий проміжок, необхідний для досягнення результату.
 
 Порівняйте:
 
-- **J'ai écrit le rapport en deux heures.** — написав його за дві години.
-- **J'ai travaillé pendant deux heures.** — працював протягом двох годин.
+- §§MDEMPH0§§ — написав його за дві години.
+- §§MDEMPH0§§ — працював протягом двох годин.
 
 ## 4. Dans: через певний час
 
-**Dans + часовий проміжок** локалізує майбутню подію відносно моменту відліку:
+§§MDEMPH0§§ локалізує майбутню подію відносно моменту відліку:
 
-- **Je partirai dans une heure.**
-- **Le train arrivera dans dix minutes.**
-- **Nous nous reverrons dans deux jours.**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
 Порівняння:
 
-**Je finirai en deux heures.**  
+§§MDEMPH0§§  
 → завершення потребує двох годин.
 
-**Je partirai dans deux heures.**  
+§§MDEMPH0§§  
 → відправлення відбудеться через дві години.
 
-Українське **«за дві години»** може відповідати обом конструкціям залежно від значення, тому переклад сам по собі недостатній.
+Українське §§MDEMPH0§§ може відповідати обом конструкціям залежно від значення, тому переклад сам по собі недостатній.
 
 ## 5. Pendant: тривалість або період
 
-**Pendant** позначає часовий інтервал, у межах якого триває або відбувається ситуація:
+§§MDEMPH0§§ позначає часовий інтервал, у межах якого триває або відбувається ситуація:
 
-- **J'ai travaillé pendant deux heures.**
-- **Nous avons parlé pendant toute la soirée.**
-- **Pendant les vacances, je lis beaucoup.**
-- **Je travaillerai pendant deux heures demain.**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
-Останній приклад важливий: **pendant** цілком сумісний із майбутнім контекстом. Твердження «pendant не вживається з майбутнім часом» є неправильним.
+Останній приклад важливий: §§MDEMPH0§§ цілком сумісний із майбутнім контекстом. Твердження «pendant не вживається з майбутнім часом» є неправильним.
 
-**En** і **pendant** не є взаємозамінними:
+§§MDEMPH0§§ і §§MDEMPH1§§ не є взаємозамінними:
 
-- **Il a écrit le rapport en deux heures.** — за дві години, досягнувши результату.
-- **Il a travaillé pendant deux heures.** — протягом двох годин.
+- §§MDEMPH0§§ — за дві години, досягнувши результату.
+- §§MDEMPH0§§ — протягом двох годин.
 
 ## 6. Depuis: від минулої точки до точки відліку
 
-**Depuis** позначає початкову точку періоду, який триває до іншої часової точки, часто до моменту мовлення:
+§§MDEMPH0§§ позначає початкову точку періоду, який триває до іншої часової точки, часто до моменту мовлення:
 
-- **J'habite ici depuis 2020.**
-- **Je travaille depuis trois heures.**
-- **Je l'attends depuis lundi.**
-- **Depuis qu'il est arrivé, tout va mieux.**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
-У сучасній французькій **depuis** часто поєднується з présent, коли ситуація почалася в минулому й триває зараз:
+У сучасній французькій §§MDEMPH0§§ часто поєднується з présent, коли ситуація почалася в минулому й триває зараз:
 
-**J'habite ici depuis cinq ans.**
+§§MDEMPH0§§
 
-Але не зводьте **depuis** до правила «дія обов'язково триває досі»: точку відліку та часову перспективу потрібно читати з контексту.
+Але не зводьте §§MDEMPH0§§ до правила «дія обов'язково триває досі»: точку відліку та часову перспективу потрібно читати з контексту.
 
 ## 7. Jusqu'à: до кінцевої межі
 
-- **Je travaille jusqu'à 18 heures.**
-- **Restez ici jusqu'à demain.**
-- **Il a attendu jusqu'à la fin.**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
-**Jusqu'à** фокусує увагу на кінцевій межі. Воно може поєднуватися з різними часовими контекстами.
+§§MDEMPH0§§ фокусує увагу на кінцевій межі. Воно може поєднуватися з різними часовими контекстами.
 
 ## 8. Avant і après
 
 ### Avant
 
-- **avant midi**
-- **avant le départ**
-- **avant de partir**
-- **avant que tu partes**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
-Перед підметом, відмінним від підмета головного речення, для підрядної конструкції використовується **avant que + subjonctif**:
+Перед підметом, відмінним від підмета головного речення, для підрядної конструкції використовується §§MDEMPH0§§:
 
-**Avant que tu partes, préviens-moi.**
+§§MDEMPH0§§
 
 ### Après
 
-- **après midi**
-- **après le travail**
-- **après son arrivée**
-- **après être arrivé**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
 З підрядним реченням:
 
-**Après qu'il est arrivé, nous avons commencé.**
+§§MDEMPH0§§
 
-У стандартній нормі **après que** керує **indicatif**, на відміну від **avant que + subjonctif**. У майбутньому контексті:
+У стандартній нормі §§MDEMPH0§§ керує §§MDEMPH1§§, на відміну від §§MDEMPH2§§. У майбутньому контексті:
 
-**Après que tu auras signé, nous enverrons le document.**
+§§MDEMPH0§§
 
 Це узгоджується з центральним правилом futur antérieur: завершення підрядної ситуації перед іншою майбутньою ситуацією.
 
@@ -164,108 +164,108 @@ sources: []
 
 З назвами днів часто немає прийменника:
 
-- **Je travaille lundi.**
-- **Je travaille tous les lundis.**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
-Артикль **le** можливий для значення конкретного дня або повторюваного дня тижня:
+Артикль §§MDEMPH0§§ можливий для значення конкретного дня або повторюваного дня тижня:
 
-- **le lundi 15 juin**
-- **Le lundi, je travaille à domicile.**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
-З місяцями та роками типово **en**:
+З місяцями та роками типово §§MDEMPH0§§:
 
-- **en janvier**
-- **en 2020**
-- **en 1995**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
 Пори року:
 
-- **en hiver**
-- **au printemps**
-- **en été**
-- **en automne**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
 ## 10. Часові слова без прийменника
 
 Французька часто використовує часові обставини без прийменника:
 
-- **lundi**
-- **demain**
-- **hier**
-- **aujourd'hui**
-- **la semaine prochaine**
-- **l'année dernière**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
-Не додавайте прийменник лише тому, що в українській є **у**, **на**, **до** або **через**.
+Не додавайте прийменник лише тому, що в українській є §§MDEMPH0§§, §§MDEMPH1§§, §§MDEMPH2§§ або §§MDEMPH3§§.
 
 ## 11. Найважливіші контрасти
 
 ### En vs dans
 
-**Je terminerai le rapport en deux heures.**  
+§§MDEMPH0§§  
 → на виконання піде дві години.
 
-**Je terminerai le rapport dans deux heures.**  
+§§MDEMPH0§§  
 → завершення буде через дві години.
 
-У конкретному контексті можливі різні інтерпретації часової перспективи, тому запитуйте: **йдеться про тривалість виконання чи про момент у майбутньому?**
+У конкретному контексті можливі різні інтерпретації часової перспективи, тому запитуйте: §§MDEMPH0§§
 
 ### En vs pendant
 
-**J'ai lu le livre en deux jours.**  
+§§MDEMPH0§§  
 → результат досягнуто за два дні.
 
-**J'ai lu pendant deux jours.**  
+§§MDEMPH0§§  
 → читання тривало два дні; результат не є частиною самої конструкції.
 
 ### Depuis vs pendant
 
-**J'habite ici depuis 2020.**  
+§§MDEMPH0§§  
 → від 2020 року до точки відліку.
 
-**J'ai habité ici pendant cinq ans.**  
+§§MDEMPH0§§  
 → період проживання мав тривалість п'ять років; чи завершився він, визначає контекст і час.
 
 ### Dans vs depuis
 
-**Je pars dans une heure.**  
+§§MDEMPH0§§  
 → через годину.
 
-**J'attends depuis une heure.**  
+§§MDEMPH0§§  
 → чекаю вже годину, від минулої точки до тепер.
 
 ## Типові помилки
 
-❌ *Je partirai en une heure.* — якщо ви хотіли сказати «я поїду через годину».
+❌ §§MDEMPH0§§ — якщо ви хотіли сказати «я поїду через годину».
 
-✅ **Je partirai dans une heure.**
+✅ §§MDEMPH0§§
 
-❌ *Je travaillerai pendant deux ans est impossible.* — **pendant** не заборонений у майбутньому.
+❌ §§MDEMPH1§§ — §§MDEMPH0§§ не заборонений у майбутньому.
 
-✅ **Je travaillerai pendant deux ans.**
+✅ §§MDEMPH0§§
 
-❌ *J'habite ici de 2020.*
+❌ §§MDEMPH0§§
 
-✅ **J'habite ici depuis 2020.**
+✅ §§MDEMPH0§§
 
-❌ *Avant que tu pars...*
+❌ §§MDEMPH0§§
 
-✅ **Avant que tu partes...**
+✅ §§MDEMPH0§§
 
-❌ *Après que tu finisses, nous partirons.* — у нормативному стандартному варіанті для цієї часової конструкції потрібен indicatif.
+❌ §§MDEMPH0§§ — у нормативному стандартному варіанті для цієї часової конструкції потрібен indicatif.
 
-✅ **Après que tu auras fini, nous partirons.**
+✅ §§MDEMPH0§§
 
 ## Міні-тест
 
-1. Je partirai ___ deux heures. (**dans / en**)
-2. Je finirai le rapport ___ deux heures. (**dans / en**)
-3. J'habite ici ___ 2020. (**depuis / pendant**)
-4. J'ai travaillé ___ trois heures. (**depuis / pendant**)
-5. ___ que tu partes, appelle-moi. (**Avant / Après**)
-6. ___ que tu auras fini, nous sortirons. (**Avant / Après**)
+1. Je partirai §§MDEMPH1§§ deux heures. (§§MDEMPH0§§)
+2. Je finirai le rapport §§MDEMPH1§§ deux heures. (§§MDEMPH0§§)
+3. J'habite ici §§MDEMPH1§§ 2020. (§§MDEMPH0§§)
+4. J'ai travaillé §§MDEMPH1§§ trois heures. (§§MDEMPH0§§)
+5. §§MDEMPH1§§ que tu partes, appelle-moi. (§§MDEMPH0§§)
+6. §§MDEMPH1§§ que tu auras fini, nous sortirons. (§§MDEMPH0§§)
 
-**Відповіді:** 1. **dans**; 2. **en**; 3. **depuis**; 4. **pendant**; 5. **Avant**; 6. **Après**.
+§§MDEMPH0§§ 1. §§MDEMPH1§§; 2. §§MDEMPH2§§; 3. §§MDEMPH3§§; 4. §§MDEMPH4§§; 5. §§MDEMPH5§§; 6. §§MDEMPH6§§.
 
 ## Пов'язані теми
 

@@ -28,59 +28,59 @@ tags: []
 
 Приблизну кількість треба аналізувати за реальною синтаксичною конструкцією, а не за самим словом, що виражає приблизність.
 
-> **Environ vingt personnes sont venues.**
+> §§MDEMPH0§§
 
-> **Près de cent personnes ont répondu.**
+> §§MDEMPH0§§
 
 Числівникова група позначає множину, тому присудок має множинну форму.
 
-Окремо поводяться конструкції **plus d’un** та **moins de deux**, де форма числа визначається не просто арифметичним значенням.
+Окремо поводяться конструкції §§MDEMPH0§§ та §§MDEMPH1§§, де форма числа визначається не просто арифметичним значенням.
 
 ## 1. Environ + числівник
 
-> **Environ vingt étudiants sont présents.**
+> §§MDEMPH0§§
 
-> **Environ trois cents personnes ont participé.**
+> §§MDEMPH0§§
 
-*Environ* не змінює числа числівника. Якщо кількість позначена множиною, присудок узгоджується з множинною групою.
+§§MDEMPH0§§ не змінює числа числівника. Якщо кількість позначена множиною, присудок узгоджується з множинною групою.
 
 ## 2. Près de + числівник
 
-> **Près de cinquante candidats ont répondu.**
+> §§MDEMPH0§§
 
-> **Près d’un millier de personnes sont venues.**
+> §§MDEMPH0§§
 
-Не сприймайте *près de* як головний іменник. Це модифікатор кількості.
+Не сприймайте §§MDEMPH0§§ як головний іменник. Це модифікатор кількості.
 
 ## 3. Autour de
 
-> **Autour de trente personnes travaillent ici.**
+> §§MDEMPH0§§
 
-> **Autour d’une centaine de personnes sont présentes.**
+> §§MDEMPH0§§
 
 Конструкція приблизної кількості сама по собі не створює особливого однинного узгодження.
 
 ## 4. Plus de / moins de + числівник
 
-> **Plus de dix étudiants sont absents.**
+> §§MDEMPH0§§
 
-> **Moins de cinq personnes ont répondu.**
+> §§MDEMPH0§§
 
 За множинного значення присудок має множину.
 
 Порівняйте з незлічуваним:
 
-> **Plus de dix litres d’eau sont nécessaires.**
+> §§MDEMPH0§§
 
-Граматична форма визначається структурою всієї групи, а не словом *plus*.
+Граматична форма визначається структурою всієї групи, а не словом §§MDEMPH0§§.
 
 ## 5. Plus d’un
 
-Конструкція **plus d’un + nom singulier** має особливу поведінку:
+Конструкція §§MDEMPH0§§ має особливу поведінку:
 
-> **Plus d’un étudiant a répondu.**
+> §§MDEMPH0§§
 
-Хоча за змістом ідеться про більше ніж одну особу, іменник після *un* стоїть в однині, а в нормативній базовій моделі дієслово також стоїть в однині.
+Хоча за змістом ідеться про більше ніж одну особу, іменник після §§MDEMPH0§§ стоїть в однині, а в нормативній базовій моделі дієслово також стоїть в однині.
 
 Це важливий виняток для учня, який очікує множину лише через значення «більше одного».
 
@@ -88,23 +88,23 @@ tags: []
 
 У конструкції:
 
-> **Plus d’un étudiant a répondu.**
+> §§MDEMPH0§§
 
 не треба робити:
 
-❌ *Plus d’un étudiant ont répondu.*
+❌ §§MDEMPH0§§
 
-Якщо автор спеціально будує іншу синтаксичну конструкцію, її треба аналізувати окремо; базову модель не слід змішувати з випадками, де *plus d’un* повторюється.
+Якщо автор спеціально будує іншу синтаксичну конструкцію, її треба аналізувати окремо; базову модель не слід змішувати з випадками, де §§MDEMPH0§§ повторюється.
 
 ## 7. Plus d’un + coordination
 
 Порівняйте:
 
-> **Plus d’un étudiant a répondu.**
+> §§MDEMPH0§§
 
 з:
 
-> **Plus d’un étudiant et plus d’une étudiante ont répondu.**
+> §§MDEMPH0§§
 
 У другому реченні маємо координацію двох підметових груп, тому множина природно випливає із синтаксичної структури.
 
@@ -112,37 +112,37 @@ tags: []
 
 ## 8. Moins d’un
 
-> **Moins d’un étudiant n’a répondu.**
+> §§MDEMPH0§§
 
-Тут кількісний вираз із *un* не треба автоматично трактувати як множину. Утім, такі конструкції рідші й потребують уваги до того, що саме підраховується.
+Тут кількісний вираз із §§MDEMPH0§§ не треба автоматично трактувати як множину. Утім, такі конструкції рідші й потребують уваги до того, що саме підраховується.
 
 ## 9. Круглі числа та назви кількості
 
-> **Une centaine de personnes sont venues.**
+> §§MDEMPH0§§
 
-> **Un millier de visiteurs sont arrivés.**
+> §§MDEMPH0§§
 
-У таких конструкціях можливі два рівні аналізу: формальне ядро *centaine / millier* та смислова референція до множини людей/предметів. У реальному французькому вживанні узгодження треба перевіряти за конкретною конструкцією й регістром.
+У таких конструкціях можливі два рівні аналізу: формальне ядро §§MDEMPH0§§ та смислова референція до множини людей/предметів. У реальному французькому вживанні узгодження треба перевіряти за конкретною конструкцією й регістром.
 
-Для навчання корисно не ототожнювати *une centaine de personnes* з простим *une personne* лише через форму *une*.
+Для навчання корисно не ототожнювати §§MDEMPH0§§ з простим §§MDEMPH1§§ лише через форму §§MDEMPH2§§.
 
 ## 10. Approximation без числівника
 
-> **Une trentaine de personnes sont venues.**
+> §§MDEMPH0§§
 
-> **Une vingtaine d’étudiants ont répondu.**
+> §§MDEMPH0§§
 
-Суфіксальні назви приблизної кількості (*vingtaine, trentaine, centaine* тощо) утворюють кількісну групу. У типовій конструкції з множинним іменником після *de* присудок орієнтується на множинну референцію.
+Суфіксальні назви приблизної кількості (§§MDEMPH0§§ тощо) утворюють кількісну групу. У типовій конструкції з множинним іменником після §§MDEMPH1§§ присудок орієнтується на множинну референцію.
 
 ## 11. Не плутайте з конкретним іменником
 
-> **Le nombre de participants est élevé.**
+> §§MDEMPH0§§
 
-Тут підмет — *le nombre*, тому однина.
+Тут підмет — §§MDEMPH0§§, тому однина.
 
 Порівняйте:
 
-> **Un grand nombre de participants sont présents.**
+> §§MDEMPH0§§
 
 Тут конструкція функціонує як кількісна група, що реферує до учасників; множина природна.
 
@@ -150,59 +150,59 @@ tags: []
 
 ## 12. Контраст: число як предмет опису
 
-> **Le nombre de participants augmente.**
+> §§MDEMPH0§§
 
-> **Le nombre de participants a augmenté de dix.**
+> §§MDEMPH0§§
 
-В обох випадках дієслово узгоджується з *nombre*, а не з *participants*.
+В обох випадках дієслово узгоджується з §§MDEMPH0§§, а не з §§MDEMPH1§§.
 
 Тому перед вибором числа поставте питання:
 
-> «Чи говорю я про **кількість як величину**, чи про **людей/предмети, що становлять цю кількість**?»
+> «Чи говорю я про §§MDEMPH0§§, чи про §§MDEMPH1§§?»
 
 ## 13. Алгоритм
 
 1. Знайдіть кількісний вираз.
-2. Визначте, чи це *environ, près de, autour de*, числівник, *plus d’un* або назва кількості.
+2. Визначте, чи це §§MDEMPH0§§, числівник, §§MDEMPH1§§ або назва кількості.
 3. Визначте головний компонент.
 4. Встановіть референцію.
-5. Перевірте спеціальні моделі *plus d’un* та *nombre de*.
+5. Перевірте спеціальні моделі §§MDEMPH0§§ та §§MDEMPH1§§.
 6. Узгодьте дієслово з відповідним граматичним центром.
 
 ## 14. Типові помилки
 
-❌ *Environ vingt personnes est venues.*
+❌ §§MDEMPH0§§
 
-✅ **Environ vingt personnes sont venues.**
+✅ §§MDEMPH0§§
 
-❌ *Plus d’un étudiant ont répondu.*
+❌ §§MDEMPH0§§
 
-✅ **Plus d’un étudiant a répondu.**
+✅ §§MDEMPH0§§
 
-❌ *Le nombre de participants sont élevé.*
+❌ §§MDEMPH0§§
 
-✅ **Le nombre de participants est élevé.**
+✅ §§MDEMPH0§§
 
 ## 15. Мінітест
 
-1. **Environ vingt personnes ___ venues.**
-2. **Près de cent candidats ___ répondu.**
-3. **Plus d’un étudiant ___ réussi.**
-4. **Le nombre de candidats ___ augmenté.**
-5. **Une trentaine de personnes ___ présentes.**
-6. **Plus d’un étudiant et plus d’une étudiante ___ répondu.**
+1. §§MDEMPH0§§
+2. §§MDEMPH0§§
+3. §§MDEMPH0§§
+4. §§MDEMPH0§§
+5. §§MDEMPH0§§
+6. §§MDEMPH0§§
 
-Відповіді: **1 sont, 2 ont, 3 a, 4 a, 5 sont, 6 ont**.
+Відповіді: §§MDEMPH0§§.
 
 ## Коротка карта
 
 | Конструкція | Приклад | Типове узгодження |
 |---|---|---|
-| environ + числівник | *environ vingt personnes* | множина |
-| près de + числівник | *près de cent personnes* | множина |
-| autour de + числівник | *autour de trente personnes* | множина |
-| plus de + множинна кількість | *plus de dix étudiants* | множина |
-| moins de + множинна кількість | *moins de cinq candidats* | множина |
-| plus d’un + nom singulier | *plus d’un étudiant* | однина |
-| une trentaine de + nom | *une trentaine de personnes* | множина за референцією |
-| le nombre de + nom | *le nombre de participants* | однина |
+| environ + числівник | §§MDEMPH0§§ | множина |
+| près de + числівник | §§MDEMPH0§§ | множина |
+| autour de + числівник | §§MDEMPH0§§ | множина |
+| plus de + множинна кількість | §§MDEMPH0§§ | множина |
+| moins de + множинна кількість | §§MDEMPH0§§ | множина |
+| plus d’un + nom singulier | §§MDEMPH0§§ | однина |
+| une trentaine de + nom | §§MDEMPH0§§ | множина за референцією |
+| le nombre de + nom | §§MDEMPH0§§ | однина |

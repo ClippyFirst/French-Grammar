@@ -29,100 +29,100 @@ tags: []
 
 Кількісні слова не визначають число дієслова самі по собі:
 
-*Beaucoup d’étudiants travaillent.*  
-*Beaucoup de travail reste.*
+§§MDEMPH0§§  
+§§MDEMPH0§§
 
 ## 1. Beaucoup de + множина
 
-*Beaucoup d’étudiants sont partis.*
+§§MDEMPH0§§
 
 Множинний іменник → множинне узгодження.
 
 ## 2. Beaucoup de + незлічуване
 
-*Beaucoup de travail reste à faire.*
+§§MDEMPH0§§
 
-*travail* — граматично однина.
+§§MDEMPH0§§ — граматично однина.
 
 ## 3. Peu de
 
-*Peu de candidats ont répondu.*  
-*Peu de temps reste.*
+§§MDEMPH0§§  
+§§MDEMPH0§§
 
 Число знову залежить від іменникової групи.
 
 ## 4. Trop de та assez de
 
-*Trop de personnes parlent.*  
-*Assez de temps est disponible.*
+§§MDEMPH0§§  
+§§MDEMPH0§§
 
 ## 5. Кількість як головний іменник
 
-*Une grande quantité de données est disponible.*
+§§MDEMPH0§§
 
-Головний компонент — *quantité*, тому однина є базовою. Узгодження за змістом може з'являтися в іншому дискурсивному оформленні.
+Головний компонент — §§MDEMPH0§§, тому однина є базовою. Узгодження за змістом може з'являтися в іншому дискурсивному оформленні.
 
 ## 6. Українська інтерференція
 
 Українське «багато» легко сприймати як множину. У французькій треба дивитися на структуру:
 
-*beaucoup de personnes sont...*  
+§§MDEMPH0§§  
 але  
-*beaucoup de travail est...*
+§§MDEMPH0§§
 
 ## Висновок
 
-Не узгоджуй дієслово автоматично з *beaucoup, peu, trop, assez*. Визнач **граматичний центр кількісної групи** та число референта.
+Не узгоджуй дієслово автоматично з §§MDEMPH1§§. Визнач §§MDEMPH0§§ та число референта.
 
 ## Розширений розбір
 
-### 1. *Beaucoup de* не має власного числа для узгодження
+### 1. §§MDEMPH0§§ не має власного числа для узгодження
 
-*Beaucoup d’étudiants travaillent.*  
-*Beaucoup de travail reste.*
+§§MDEMPH0§§  
+§§MDEMPH0§§
 
-Те саме *beaucoup de* поєднується з множинним іменником і з незлічуваним іменником в однині.
+Те саме §§MDEMPH0§§ поєднується з множинним іменником і з незлічуваним іменником в однині.
 
-### 2. *Peu de*
+### 2. §§MDEMPH0§§
 
-*Peu de candidats ont répondu.*  
-*Peu de temps reste.*
+§§MDEMPH0§§  
+§§MDEMPH0§§
 
 Важливо відрізняти число референта від кількісного значення «мало».
 
-### 3. *Trop de*, *assez de*, *tant de*
+### 3. §§MDEMPH0§§, §§MDEMPH1§§, §§MDEMPH2§§
 
-*Trop de personnes parlent.*  
-*Assez de temps est disponible.*  
-*Tant de problèmes restent à résoudre.*
+§§MDEMPH0§§  
+§§MDEMPH0§§  
+§§MDEMPH0§§
 
 Кількісний вираз не «передає» автоматично множину чи однину.
 
 ### 4. Кількісний іменник
 
-*Une grande quantité de données est disponible.*  
-*Un grand nombre de candidats sont présents.*
+§§MDEMPH0§§  
+§§MDEMPH0§§
 
-У першій конструкції центр — *quantité*. У другій формальна структура й референція до кандидатів взаємодіють, тому її не варто механічно прирівнювати до *une quantité de*.
+У першій конструкції центр — §§MDEMPH0§§. У другій формальна структура й референція до кандидатів взаємодіють, тому її не варто механічно прирівнювати до §§MDEMPH1§§.
 
-### 5. *La plupart*
+### 5. §§MDEMPH0§§
 
-*La plupart des candidats sont présents.*
+§§MDEMPH0§§
 
-Це не просто синонім *un groupe de*: множинна референція є центральною для конструкції.
+Це не просто синонім §§MDEMPH0§§: множинна референція є центральною для конструкції.
 
-### 6. *Une partie*
+### 6. §§MDEMPH0§§
 
-*Une partie des documents est manquante.*
+§§MDEMPH0§§
 
-У нейтральному письмі формальне узгодження з *partie* є надійною моделлю. Контекстуальне узгодження за членами групи потрібно розглядати окремо.
+У нейтральному письмі формальне узгодження з §§MDEMPH0§§ є надійною моделлю. Контекстуальне узгодження за членами групи потрібно розглядати окремо.
 
 ### 7. Прикметники
 
-*Beaucoup de personnes sont présentes.*  
-*Beaucoup de travail est nécessaire.*
+§§MDEMPH0§§  
+§§MDEMPH0§§
 
-*présentes* узгоджується з *personnes*, *nécessaire* — з *travail*.
+§§MDEMPH0§§ узгоджується з §§MDEMPH1§§, §§MDEMPH2§§ — з §§MDEMPH3§§.
 
 ### 8. Український контраст
 
@@ -134,16 +134,16 @@ tags: []
 2. Визнач модель після нього.
 3. Знайди іменникову групу.
 4. Встанови число її референта.
-5. Якщо кількісний компонент є іменником (*quantité, nombre, partie*), проаналізуй його окремо.
+5. Якщо кількісний компонент є іменником (§§MDEMPH0§§), проаналізуй його окремо.
 6. Перевір можливе смислове узгодження.
-7. Узгодь дієслово, прикметник або *participe passé*.
+7. Узгодь дієслово, прикметник або §§MDEMPH0§§.
 
 ### Мінітест
 
-*Beaucoup d’étudiants ___.* → **travaillent**.
+§§MDEMPH1§§ → §§MDEMPH0§§.
 
-*Beaucoup de travail ___.* → **reste**.
+§§MDEMPH1§§ → §§MDEMPH0§§.
 
-*Peu de temps ___ nécessaire.* → **est**.
+§§MDEMPH1§§ → §§MDEMPH0§§.
 
-*La plupart des documents ___ disponibles.* → **sont**.
+§§MDEMPH1§§ → §§MDEMPH0§§.

@@ -34,94 +34,94 @@ tags: []
 
 Основні засоби:
 
-- **quand / lorsque** — коли;
-- **pendant que** — поки;
-- **avant que + subjonctif** — перш ніж;
-- **après que + indicatif** — після того як;
-- **depuis que + indicatif** — відколи;
-- **dès que / aussitôt que + indicatif** — щойно;
-- **jusqu'à ce que + subjonctif** — доки не.
+- §§MDEMPH0§§ — коли;
+- §§MDEMPH0§§ — поки;
+- §§MDEMPH0§§ — перш ніж;
+- §§MDEMPH0§§ — після того як;
+- §§MDEMPH0§§ — відколи;
+- §§MDEMPH0§§ — щойно;
+- §§MDEMPH0§§ — доки не.
 
 ## Quand / lorsque
 
-> **Quand je rentre, je mange.**  
+> §§MDEMPH0§§  
 > Коли я повертаюся додому, я їм.
 
-> **Lorsque le film commence, nous éteignons les lumières.**  
+> §§MDEMPH0§§  
 > Коли починається фільм, ми вимикаємо світло.
 
-**Lorsque** часто має дещо книжніший відтінок, але є нормативним.
+§§MDEMPH0§§ часто має дещо книжніший відтінок, але є нормативним.
 
 ## Avant que
 
-> **Pars avant qu'il ne soit trop tard.**  
+> §§MDEMPH0§§  
 > Іди, перш ніж стане надто пізно.
 
-Після **avant que** вживається **subjonctif**.
+Після §§MDEMPH0§§ вживається §§MDEMPH1§§.
 
-У **ne soit** тут можливе **ne explétif** — воно не створює звичайного заперечення.
+У §§MDEMPH0§§ тут можливе §§MDEMPH1§§ — воно не створює звичайного заперечення.
 
 ## Après que
 
-> **Après qu'il est arrivé, nous avons commencé.**  
+> §§MDEMPH0§§  
 > Після того як він прибув, ми почали.
 
-У нормативній моделі **après que** традиційно керує **indicatif**, оскільки подія подається як факт.
+У нормативній моделі §§MDEMPH0§§ традиційно керує §§MDEMPH1§§, оскільки подія подається як факт.
 
 ## Depuis que
 
-> **Depuis qu'il habite ici, nous nous voyons souvent.**  
+> §§MDEMPH0§§  
 > Відтоді як він живе тут, ми часто бачимося.
 
 Конструкція задає часову точку, від якої триває ситуація.
 
 ## Dès que / aussitôt que
 
-> **Je t'appelle dès que j'arrive.**  
+> §§MDEMPH0§§  
 > Я подзвоню тобі, щойно приїду.
 
-> **Aussitôt qu'il sera prêt, nous partirons.**  
+> §§MDEMPH0§§  
 > Щойно він буде готовий, ми вирушимо.
 
 Після цих конструкцій уживається indicatif.
 
 ## Jusqu'à ce que
 
-> **Attends ici jusqu'à ce que je revienne.**  
+> §§MDEMPH0§§  
 > Почекай тут, доки я не повернуся.
 
-Після **jusqu'à ce que** — **subjonctif**.
+Після §§MDEMPH0§§ — §§MDEMPH1§§.
 
 Порівняйте:
 
-> **jusqu'à ce que je revienne** — підрядне речення;
+> §§MDEMPH0§§ — підрядне речення;
 
-> **jusqu'à mon retour** — іменна конструкція.
+> §§MDEMPH0§§ — іменна конструкція.
 
 ## Pendant que
 
-> **Je cuisine pendant que tu mets la table.**  
+> §§MDEMPH0§§  
 > Я готую, поки ти накриваєш на стіл.
 
 Конструкція підкреслює одночасність.
 
 ## Час і часи дієслова
 
-> **Quand je suis arrivé, Paul était déjà parti.**  
+> §§MDEMPH0§§  
 > Коли я прийшов, Поль уже пішов.
 
 Сам часовий сполучник не визначає автоматично вибір минулого часу. Важливе співвідношення подій.
 
 ## Типові помилки
 
-❌ *Avant qu'il est arrivé...*  
-✅ **Avant qu'il soit arrivé...**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
-❌ *Après qu'il soit arrivé...* як автоматичне правило.  
-✅ **Après qu'il est arrivé...** у нормативній моделі з indicatif.
+❌ §§MDEMPH0§§ як автоматичне правило.  
+✅ §§MDEMPH0§§ у нормативній моделі з indicatif.
 
-❌ *Jusqu'à que je revienne...*  
-✅ **Jusqu'à ce que je revienne...**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
 ## Пов'язані теми
 

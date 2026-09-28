@@ -21,165 +21,165 @@ aliases: []
 variety: []
 sources: []
 ---
-# Прийменник **de**
+# Прийменник §§MDEMPH0§§
 
 ## 1. Головна ідея
 
-**de** має багато функцій:
+§§MDEMPH0§§ має багато функцій:
 
-- **venir de Paris** — приїхати з Парижа;
-- **le livre de Marie** — книжка Марії;
-- **parler de politique** — говорити про політику;
-- **une tasse de café** — чашка кави;
-- **beaucoup de travail** — багато роботи;
-- **avoir besoin de travailler** — потребувати працювати.
+- §§MDEMPH0§§ — приїхати з Парижа;
+- §§MDEMPH0§§ — книжка Марії;
+- §§MDEMPH0§§ — говорити про політику;
+- §§MDEMPH0§§ — чашка кави;
+- §§MDEMPH0§§ — багато роботи;
+- §§MDEMPH0§§ — потребувати працювати.
 
-Не існує одного українського перекладу *de*.
+Не існує одного українського перекладу §§MDEMPH0§§.
 
 ## 2. Походження
 
-- **Je viens de Kyiv.**
-- **Il revient de France.**
-- **Elle sort de la maison.**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
 З артиклями:
 
-- **de + le → du**
-- **de + les → des**
-- **de + la → de la**
-- **de + l’ → de l’**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
 Тому:
 
-- **du cinéma**
-- **des États-Unis**
-- **de la gare**
-- **de l’université**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
 ## 3. Належність і відношення
 
-**de + іменник** часто виражає відношення між двома іменниками:
+§§MDEMPH0§§ часто виражає відношення між двома іменниками:
 
-- **le livre de Marie**
-- **la porte de la maison**
-- **le centre de Paris**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
 Це не тотожне українському родовому відмінку в усіх випадках, але часто функціонально близьке до нього.
 
-## 4. Матеріал: не плутати з *en*
+## 4. Матеріал: не плутати з §§MDEMPH0§§
 
 У французькій:
 
-- **une table en bois** — дерев’яний/із дерева стіл;
-- **une bouteille de verre** — скляна пляшка / пляшка зі скла.
+- §§MDEMPH0§§ — дерев’яний/із дерева стіл;
+- §§MDEMPH0§§ — скляна пляшка / пляшка зі скла.
 
 Вибір залежить від конструкції та значення. Не створюйте правила «матеріал = de».
 
 ## 5. Тема
 
-- **parler de politique**
-- **rêver de vacances**
-- **se souvenir de son enfance**
-- **avoir peur de quelque chose**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
 Порівняйте:
 
-- **parler à Paul** — говорити з Полем;
-- **parler de Paul** — говорити про Поля.
+- §§MDEMPH0§§ — говорити з Полем;
+- §§MDEMPH0§§ — говорити про Поля.
 
 ## 6. Кількість
 
-Після кількісних слів і виразів зазвичай **de/d’**:
+Після кількісних слів і виразів зазвичай §§MDEMPH0§§:
 
-- **beaucoup de livres**
-- **peu d’eau**
-- **trop de travail**
-- **assez de temps**
-- **un kilo de pommes**
-- **une bouteille d’eau**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
 Не:
 
-❌ *beaucoup des livres* — якщо йдеться просто про велику кількість книжок.
+❌ §§MDEMPH0§§ — якщо йдеться просто про велику кількість книжок.
 
-Але **beaucoup des livres que j’ai lus** можливе, коли **des = de + les** і група конкретизована.
+Але §§MDEMPH0§§ можливе, коли §§MDEMPH1§§ і група конкретизована.
 
 ## 7. Заперечення
 
 Порівняйте:
 
-- **J’ai des amis. → Je n’ai pas d’amis.**
-- **Je bois du café. → Je ne bois pas de café.**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
 Але визначений артикль зберігається:
 
-- **J’aime le café. → Je n’aime pas le café.**
+- §§MDEMPH0§§
 
-Тому *de* після заперечення треба пояснювати через тип іменникової групи, а не як механічну частку заперечення.
+Тому §§MDEMPH0§§ після заперечення треба пояснювати через тип іменникової групи, а не як механічну частку заперечення.
 
-## 8. **de + infinitif**
+## 8. §§MDEMPH0§§
 
-Багато дієслів і конструкцій керують **de + infinitif**:
+Багато дієслів і конструкцій керують §§MDEMPH0§§:
 
-- **essayer de comprendre**
-- **décider de partir**
-- **oublier de fermer**
-- **avoir besoin de travailler**
-- **être heureux de venir**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
-Але інші слова вимагають **à** або нульової конструкції:
+Але інші слова вимагають §§MDEMPH0§§ або нульової конструкції:
 
-- **réussir à comprendre**
-- **commencer à travailler**
-- **vouloir partir**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
-Це потрібно вивчати як **керування**.
+Це потрібно вивчати як §§MDEMPH0§§.
 
 ## 9. Після прикметників
 
-Деякі прикметники мають конструкцію **de + infinitif/іменник**:
+Деякі прикметники мають конструкцію §§MDEMPH0§§:
 
-- **heureux de venir**
-- **capable de travailler**
-- **fier de son travail**
-- **difficile à comprendre**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
-Порівняння **de** та **à** тут особливо важливе, бо воно часто не перекладається буквально українською.
+Порівняння §§MDEMPH0§§ та §§MDEMPH1§§ тут особливо важливе, бо воно часто не перекладається буквально українською.
 
 ## 10. Кількість без артикля
 
-Після **de** в кількісній конструкції не додавайте автоматично *le/la/des*:
+Після §§MDEMPH0§§ в кількісній конструкції не додавайте автоматично §§MDEMPH1§§:
 
-- **beaucoup de travail**
-- **un peu de sucre**
-- **trois litres d’eau**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
 Але конкретизована група може мати визначений артикль:
 
-- **beaucoup des étudiants de cette classe**
+- §§MDEMPH0§§
 
-Тут **des = de + les**.
+Тут §§MDEMPH0§§.
 
 ## 11. Елізія
 
-Перед голосним або *h muet*:
+Перед голосним або §§MDEMPH0§§:
 
-**de + voyelle → d’**
+§§MDEMPH0§§
 
-- **d’eau**
-- **d’amis**
-- **d’habitude**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
 Це фонетико-графічна елізія, не окремий прийменник.
 
-## 12. **de** чи **à**?
+## 12. §§MDEMPH0§§ чи §§MDEMPH1§§?
 
 Мінімальні пари:
 
-- **venir de Paris / aller à Paris**
-- **parler de Paul / parler à Paul**
-- **se souvenir de Marie / téléphoner à Marie**
-- **avoir besoin de quelque chose / penser à quelque chose**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
 Ці пари показують, чому прийменник треба вчити разом із керованим словом.
 
@@ -187,34 +187,34 @@ sources: []
 
 Українська може виражати те саме відношення відмінком:
 
-- **книжка Марії**
-- **говорити про Марію**
-- **приїхати з Києва**
-- **склянка води**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
 
-Французька часто використовує **de**, але відповідність не механічна.
+Французька часто використовує §§MDEMPH0§§, але відповідність не механічна.
 
 ## 14. Алгоритм
 
 1. Знайдіть слово, яке керує групою.
-2. Перевірте його модель: **de + nom**, **de + infinitif**, **à + nom**, **à + infinitif** тощо.
-3. Якщо це походження — перевірте **de**.
-4. Якщо це кількість — перевірте конструкцію **de + nom**.
-5. Якщо це **de + le/les**, застосуйте **du/des**.
+2. Перевірте його модель: §§MDEMPH0§§, §§MDEMPH1§§, §§MDEMPH2§§, §§MDEMPH3§§ тощо.
+3. Якщо це походження — перевірте §§MDEMPH0§§.
+4. Якщо це кількість — перевірте конструкцію §§MDEMPH0§§.
+5. Якщо це §§MDEMPH0§§, застосуйте §§MDEMPH1§§.
 6. Якщо це заперечення, перевірте, чи група невизначена, чи визначена.
 
 ### Типові помилки
 
-❌ *beaucoup des livres* у значенні «багато книжок взагалі».  
-✅ **beaucoup de livres**
+❌ §§MDEMPH0§§ у значенні «багато книжок взагалі».  
+✅ §§MDEMPH0§§
 
-❌ *Je viens à Paris* у значенні походження.  
-✅ **Je viens de Paris.**
+❌ §§MDEMPH0§§ у значенні походження.  
+✅ §§MDEMPH0§§
 
-❌ *Je décide à partir.*  
-✅ **Je décide de partir.**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
-❌ *Je réussis de comprendre.*  
-✅ **Je réussis à comprendre.**
+❌ §§MDEMPH0§§  
+✅ §§MDEMPH0§§
 
-Головний принцип: **de — це не «родовий прийменник», а велика система конструкцій і керування.**
+Головний принцип: §§MDEMPH0§§

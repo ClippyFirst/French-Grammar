@@ -30,22 +30,22 @@ tags: []
 
 ## Основні групи
 
-**Причина:** parce que, puisque, comme.
+§§MDEMPH0§§ parce que, puisque, comme.
 
-**Час:** quand, lorsque, avant que, après que.
+§§MDEMPH0§§ quand, lorsque, avant que, après que.
 
-**Умова:** si, à condition que, à moins que.
+§§MDEMPH0§§ si, à condition que, à moins que.
 
-**Мета:** pour que, afin que.
+§§MDEMPH0§§ pour que, afin que.
 
-**Допустовість:** bien que, quoique.
+§§MDEMPH0§§ bien que, quoique.
 
 ## Сполучник і спосіб
 
 Вибір конструкції може визначати спосіб:
 
-> **Je reste parce qu'il pleut.**
-> **Je sors bien qu'il pleuve.**
+> §§MDEMPH0§§
+> §§MDEMPH0§§
 
 Тому сполучник треба вчити разом із його синтаксичною моделлю, а не як окремий переклад.
 

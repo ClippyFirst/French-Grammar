@@ -26,54 +26,54 @@ tags: []
 ---
 ## Швидка відповідь
 
-**plusieurs**, **certains/certaines** та **d’autres** можуть називати невизначену кількість або частину множинної групи, але поводяться по-різному:
+§§MDEMPH0§§, §§MDEMPH1§§ та §§MDEMPH2§§ можуть називати невизначену кількість або частину множинної групи, але поводяться по-різному:
 
-- *Plusieurs sont partis.* — кілька людей пішли.
-- *Certains sont restés.* — деякі залишилися.
-- *D’autres sont arrivés plus tard.* — інші прийшли пізніше.
+- §§MDEMPH0§§ — кілька людей пішли.
+- §§MDEMPH0§§ — деякі залишилися.
+- §§MDEMPH0§§ — інші прийшли пізніше.
 
-Ключове питання — чи йдеться просто про **кілька**, про **частину від уже заданої множини**, чи про **контраст із першою групою**.
+Ключове питання — чи йдеться просто про §§MDEMPH0§§, про §§MDEMPH1§§, чи про §§MDEMPH2§§.
 
 ## 1. Plusieurs
 
-**Plusieurs** означає «кілька», «декілька» і не вказує точного числа.
+§§MDEMPH0§§ означає «кілька», «декілька» і не вказує точного числа.
 
-*Plusieurs étudiants ont répondu.*  
-*Plusieurs sont absents.*
+§§MDEMPH0§§  
+§§MDEMPH0§§
 
-У ролі займенника **plusieurs** самостійно виконує функцію групи підмета або додатка:
+У ролі займенника §§MDEMPH0§§ самостійно виконує функцію групи підмета або додатка:
 
-*J’en connais plusieurs.* — Я знаю кількох.
+§§MDEMPH0§§ — Я знаю кількох.
 
-Після **plusieurs** не ставимо артикль:
+Після §§MDEMPH0§§ не ставимо артикль:
 
-*plusieurs étudiants*  
-не: *plusieurs des étudiants* у тому самому значенні.
+§§MDEMPH0§§  
+не: §§MDEMPH0§§ у тому самому значенні.
 
-Конструкція **plusieurs des + nom** можлива, коли виділяємо кількох членів конкретної вже визначеної групи:
+Конструкція §§MDEMPH0§§ можлива, коли виділяємо кількох членів конкретної вже визначеної групи:
 
-*Plusieurs des étudiants inscrits ont réussi.*
+§§MDEMPH0§§
 
 ## 2. Certains / certaines
 
-**Certains** і **certaines** означають «деякі» та узгоджуються за родом і числом:
+§§MDEMPH0§§ і §§MDEMPH1§§ означають «деякі» та узгоджуються за родом і числом:
 
-*Certains étudiants travaillent.*  
-*Certaines étudiantes travaillent.*  
-*Certains sont partis.*  
-*Certaines sont restées.*
+§§MDEMPH0§§  
+§§MDEMPH0§§  
+§§MDEMPH0§§  
+§§MDEMPH0§§
 
-На відміну від **plusieurs**, **certains** часто створює відчуття вибору частини з певної сукупності.
+На відміну від §§MDEMPH0§§, §§MDEMPH1§§ часто створює відчуття вибору частини з певної сукупності.
 
 ## 3. D’autres
 
-**D’autres** означає «інші», тобто вводить групу, яка відрізняється від уже згаданих:
+§§MDEMPH0§§ означає «інші», тобто вводить групу, яка відрізняється від уже згаданих:
 
-*Certains ont accepté, d’autres ont refusé.*
+§§MDEMPH0§§
 
 Можливе й розгорнуте:
 
-*Certains étudiants ont accepté, d’autres étudiants ont refusé.*
+§§MDEMPH0§§
 
 Повторення іменника не обов’язкове, якщо референт зрозумілий.
 
@@ -81,55 +81,55 @@ tags: []
 
 Порівняймо:
 
-*Plusieurs ont répondu.*  
+§§MDEMPH0§§  
 → невизначено повідомляємо про кількох.
 
-*Certains ont répondu.*  
+§§MDEMPH0§§  
 → виділяємо частину певної групи.
 
-*Certains ont répondu, d’autres non.*  
+§§MDEMPH0§§  
 → прямо протиставляємо дві підгрупи.
 
 ## 5. Узгодження
 
-**Plusieurs** у цій функції — форма множини без окремого роду:
+§§MDEMPH0§§ у цій функції — форма множини без окремого роду:
 
-*plusieurs hommes*  
-*plusieurs femmes*  
-*plusieurs sont venues*
+§§MDEMPH0§§  
+§§MDEMPH0§§  
+§§MDEMPH0§§
 
-**Certains/certaines** та **d’autres** мають форми, пов’язані з родом:
+§§MDEMPH0§§ та §§MDEMPH1§§ мають форми, пов’язані з родом:
 
-*certains / certaines*  
-*deux autres* / *d’autres*
+§§MDEMPH0§§  
+§§MDEMPH0§§ / §§MDEMPH1§§
 
-У конструкції з **d’autres** займенниковий компонент *autres* узгоджується з пропущеним іменником.
+У конструкції з §§MDEMPH0§§ займенниковий компонент §§MDEMPH1§§ узгоджується з пропущеним іменником.
 
 ## 6. Не плутати займенник і детермінатив
 
-*Plusieurs étudiants sont partis.* — **plusieurs** визначає *étudiants*.
+§§MDEMPH1§§ — §§MDEMPH0§§ визначає §§MDEMPH2§§.
 
-*Plusieurs sont partis.* — **plusieurs** є самостійним займенником.
+§§MDEMPH1§§ — §§MDEMPH0§§ є самостійним займенником.
 
 Так само:
 
-*Certains étudiants...*  
-*Certains...*
+§§MDEMPH0§§  
+§§MDEMPH0§§
 
 Це важливо для синтаксичного аналізу: зовнішня форма може бути однаковою, але функція різна.
 
 ## Алгоритм
 
-1. Чи означає слово просто невизначене число? → **plusieurs**.
-2. Чи виділяється частина конкретної групи? → **certains/certaines**.
-3. Чи протиставляється друга група першій? → **d’autres**.
+1. Чи означає слово просто невизначене число? → §§MDEMPH0§§.
+2. Чи виділяється частина конкретної групи? → §§MDEMPH0§§.
+3. Чи протиставляється друга група першій? → §§MDEMPH0§§.
 4. Якщо іменник пропущений, перевір, чи слово функціонує як займенник.
 5. Перевір узгодження там, де воно формально виражається.
 
 ## Мінітест
 
-*___ étudiants ont posé des questions.* → **Plusieurs**.
+§§MDEMPH1§§ → §§MDEMPH0§§.
 
-*___ sont déjà partis, mais d’autres restent.* → **Certains**.
+§§MDEMPH1§§ → §§MDEMPH0§§.
 
-*Certains ont choisi le train, ___ ont pris le bus.* → **d’autres**.
+§§MDEMPH1§§ → §§MDEMPH0§§.

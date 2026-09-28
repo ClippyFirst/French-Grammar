@@ -30,23 +30,23 @@ tags: []
 
 ## 1. Adjectif + de
 
-> **fier de son travail**
-> **capable de répondre**
-> **heureux de venir**
+> §§MDEMPH0§§
+> §§MDEMPH0§§
+> §§MDEMPH0§§
 
 ## 2. Adjectif + à
 
-> **prêt à partir**
-> **difficile à comprendre**
-> **utile à connaître**
+> §§MDEMPH0§§
+> §§MDEMPH0§§
+> §§MDEMPH0§§
 
-У **Ce texte est difficile à comprendre** інфінітив описує властивість предмета, а не просто дію мовця.
+У §§MDEMPH0§§ інфінітив описує властивість предмета, а не просто дію мовця.
 
 ## 3. Інші прийменники
 
-> **favorable à la proposition**
-> **proche de la gare**
-> **responsable de ce projet**
+> §§MDEMPH0§§
+> §§MDEMPH0§§
+> §§MDEMPH0§§
 
 Прийменник визначається конкретною моделлю.
 
@@ -54,11 +54,11 @@ tags: []
 
 Замість лише:
 
-**favorable = сприятливий**
+§§MDEMPH0§§
 
 корисніше:
 
-**favorable à + nom** → *favorable à la réforme*.
+§§MDEMPH0§§ → §§MDEMPH1§§.
 
 Так учень одразу бачить керування.
 
@@ -68,6 +68,6 @@ tags: []
 
 ## Мінітест
 
-**être favorable ___ une idée** → **à**.
-**être capable ___ agir** → **de**.
-**être proche ___ la gare** → **de**.
+§§MDEMPH0§§ → §§MDEMPH1§§.
+§§MDEMPH0§§ → §§MDEMPH1§§.
+§§MDEMPH0§§ → §§MDEMPH1§§.

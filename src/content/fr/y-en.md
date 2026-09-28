@@ -28,182 +28,182 @@ variant: []
 
 ## Швидка відповідь
 
-**y** та **en** — клитичні займенники, які можуть замінювати певні прийменникові або кількісні групи.
+§§MDEMPH0§§ та §§MDEMPH1§§ — клитичні займенники, які можуть замінювати певні прийменникові або кількісні групи.
 
 Орієнтовно:
 
-- **y** часто пов'язаний із **à + річ** або місцем;
-- **en** часто пов'язаний із **de + група** або кількістю.
+- §§MDEMPH0§§ часто пов'язаний із §§MDEMPH1§§ або місцем;
+- §§MDEMPH0§§ часто пов'язаний із §§MDEMPH1§§ або кількістю.
 
 Але це не механічні формули «à = y» і «de = en»: треба враховувати тип конструкції.
 
 ## 1. y для місця
 
-> **Je vais à Paris. → J’y vais.**
+> §§MDEMPH0§§
 
-> **Nous sommes à la maison. → Nous y sommes.**
+> §§MDEMPH0§§
 
-> **Elle habite à Lyon. → Elle y habite.**
+> §§MDEMPH0§§
 
-У таких випадках **y** виконує замісну функцію для просторової групи.
+У таких випадках §§MDEMPH0§§ виконує замісну функцію для просторової групи.
 
 ## 2. y для à + річ
 
-> **Je pense à ce problème. → J’y pense.**
+> §§MDEMPH0§§
 
-> **Je réponds à cette question. → J’y réponds.**
+> §§MDEMPH0§§
 
-> **Nous nous intéressons à cette question. → Nous nous y intéressons.**
+> §§MDEMPH0§§
 
 Для особи автоматична заміна не працює:
 
-> **Je pense à Paul. → Je pense à lui.**
+> §§MDEMPH0§§
 
 А:
 
-> **Je parle à Paul. → Je lui parle.**
+> §§MDEMPH0§§
 
 Отже, вибір залежить від керування дієслова та типу референта.
 
 ## 3. en для de + група
 
-> **Je parle de ce livre. → J’en parle.**
+> §§MDEMPH0§§
 
-> **Nous avons besoin de temps. → Nous en avons besoin.**
+> §§MDEMPH0§§
 
-> **Elle se souvient de cette histoire. → Elle s’en souvient.**
+> §§MDEMPH0§§
 
 Для осіб можливі наголошені форми:
 
-> **Je parle de Marie. → Je parle d’elle.**
+> §§MDEMPH0§§
 
-Тому не перетворюйте будь-яке **de + personne** автоматично на **en**.
+Тому не перетворюйте будь-яке §§MDEMPH0§§ автоматично на §§MDEMPH1§§.
 
 ## 4. en і кількість
 
-**En** може замінювати іменну групу, а числовий/кількісний компонент залишається:
+§§MDEMPH0§§ може замінювати іменну групу, а числовий/кількісний компонент залишається:
 
-> **J’ai trois livres. → J’en ai trois.**
+> §§MDEMPH0§§
 
-> **Tu veux des pommes ? — Oui, j’en veux.**
+> §§MDEMPH0§§
 
-> **Il a beaucoup de travail. → Il en a beaucoup.**
+> §§MDEMPH0§§
 
-У **J’en ai trois** займенник замінює *trois livres* як іменну групу, а кількість **trois** зберігається.
+У §§MDEMPH0§§ займенник замінює §§MDEMPH2§§ як іменну групу, а кількість §§MDEMPH1§§ зберігається.
 
 ## 5. Partitif і en
 
-> **Tu veux du café ?**
+> §§MDEMPH0§§
 
-> **Oui, j’en veux.**
+> §§MDEMPH0§§
 
-> **Elle mange de la soupe.**
+> §§MDEMPH0§§
 
-> **Elle en mange.**
+> §§MDEMPH0§§
 
-У таких конструкціях **en** замінює групу з partitif/de.
+У таких конструкціях §§MDEMPH0§§ замінює групу з partitif/de.
 
 ## 6. Позиція
 
 У простому реченні:
 
-> **J’y vais.**
+> §§MDEMPH0§§
 
-> **J’en parle.**
+> §§MDEMPH0§§
 
 У запереченні:
 
-> **Je n’y vais pas.**
+> §§MDEMPH0§§
 
-> **Je n’en veux pas.**
+> §§MDEMPH0§§
 
 У passé composé:
 
-> **J’y suis allé.**
+> §§MDEMPH0§§
 
-> **J’en ai acheté.**
+> §§MDEMPH0§§
 
 З інфінітивом:
 
-> **Je vais y aller.**
+> §§MDEMPH0§§
 
-> **Je veux en acheter.**
+> §§MDEMPH0§§
 
 З прономінальним дієсловом:
 
-> **Je m’en souviens.**
+> §§MDEMPH0§§
 
 ## 7. Impératif
 
 У стверджувальному impératif y/en стоять після дієслова:
 
-> **Vas-y !**
+> §§MDEMPH0§§
 
-> **Parles-en !**
+> §§MDEMPH0§§
 
-> **Donnez-m’en !**
+> §§MDEMPH0§§
 
 У негативному impératif вони повертаються перед дієсловом:
 
-> **N’y va pas !**
+> §§MDEMPH0§§
 
-> **N’en parle pas !**
+> §§MDEMPH0§§
 
 ## 8. y/en та COD/COI
 
 Порівняйте:
 
-> **Je vois Marie. → Je la vois.**
+> §§MDEMPH0§§
 
-> **Je parle à Marie. → Je lui parle.**
+> §§MDEMPH0§§
 
-> **Je pense à ce problème. → J’y pense.**
+> §§MDEMPH0§§
 
-> **Je parle de ce problème. → J’en parle.**
+> §§MDEMPH0§§
 
 Це різні типи заміни. Не слід класифікувати їх лише за українським питанням «кого? чого?».
 
 ## Для україномовного учня
 
-Українська не має прямої однословної відповідності для **y** та **en**. Їх часто доводиться перекладати нульовим займенником, відмінковою формою або повторенням змісту.
+Українська не має прямої однословної відповідності для §§MDEMPH0§§ та §§MDEMPH1§§. Їх часто доводиться перекладати нульовим займенником, відмінковою формою або повторенням змісту.
 
 Тому корисно вчити:
 
-**дієслово + модель керування + замісну форму**
+§§MDEMPH0§§
 
-> **penser à quelque chose → y penser**
+> §§MDEMPH0§§
 
-> **parler de quelque chose → en parler**
+> §§MDEMPH0§§
 
 а не просто:
 
-> **y = цьому**
+> §§MDEMPH0§§
 
-> **en = цього**
+> §§MDEMPH0§§
 
 ## Типові помилки
 
-❌ *Je pense à Paul → J’y pense.*
+❌ §§MDEMPH0§§
 
 У стандартній нейтральній конструкції:
 
-✅ **Je pense à lui.**
+✅ §§MDEMPH0§§
 
-❌ *Je parle de ce livre → Je lui parle.*
+❌ §§MDEMPH0§§
 
-✅ **J’en parle.**
+✅ §§MDEMPH0§§
 
-❌ *J’en ai trois livres.*
+❌ §§MDEMPH0§§
 
-✅ **J’en ai trois.**
+✅ §§MDEMPH0§§
 
-❌ *Je y vais.*
+❌ §§MDEMPH0§§
 
-✅ **J’y vais.**
+✅ §§MDEMPH0§§
 
 ## Куди далі
 
-- **Порядок clitiques**
-- **COD / COI**
-- **Артиклі та кількість**
-- **Керування прийменниками**
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
+- §§MDEMPH0§§
