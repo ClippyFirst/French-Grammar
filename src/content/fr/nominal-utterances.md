@@ -4,7 +4,7 @@ title_fr: "Énoncés nominaux, averbaux et elliptiques"
 description_uk: "Як французька будує висловлення без особової дієслівної форми: номінальні групи, фрагменти, еліпсис, відповіді та усне мовлення."
 category: discourse
 order: 734
-canonical_ids: ["FR-734"]
+
 prerequisites:
   - phrase-enonce
   - ellipsis
