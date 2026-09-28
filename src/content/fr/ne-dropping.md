@@ -2,8 +2,6 @@
 title_uk: "Випадіння ne"
 title_fr: "La chute de ne"
 description_uk: "Системний опис випадіння ne в сучасному усному французькому: структура, регістр, заперечення та межі варіантності."
-canonical_ids:
-  - "FR-644"
 level: B1
 category: negation
 register: informal
