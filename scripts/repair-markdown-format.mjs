@@ -32,6 +32,14 @@ function protectInlineCode(line) {
   return { value, parts };
 }
 
+function protectValidEmphasis(value, parts) {
+  return value
+    .replace(/\*\*([^*\n]*?\S)\*\*/g, (full) => { const token = '§§MDEMPH' + parts.length + '§§'; parts.push(full); return token; })
+    .replace(/(?<!\*)\*([^*\n]*?\S)\*(?!\*)/g, (full) => { const token = '§§MDEMPH' + parts.length + '§§'; parts.push(full); return token; })
+    .replace(/__([^_\n]*?\S)__/g, (full) => { const token = '§§MDEMPH' + parts.length + '§§'; parts.push(full); return token; })
+    .replace(/(?<!_)_([^_\n]*?\S)_(?!_)/g, (full) => { const token = '§§MDEMPH' + parts.length + '§§'; parts.push(full); return token; });
+}
+
 function restoreInlineCode(value, parts) {
   return value.replace(/§§MDINLINE(\d+)§§/g, (_, index) => parts[Number(index)]);
 }
@@ -51,7 +59,8 @@ function repairHtmlInline(line) {
 
 export function repairLine(line) {
   const protectedLine = protectInlineCode(line);
-  let value = protectedLine.value;
+  const emphasisParts = [];
+  let value = protectValidEmphasis(protectedLine.value, emphasisParts);
   value = value
     .replace(/\*\*([ \t]+)([^*\n]*?)([ \t]+)\*\*/g, '**$2**')
     .replace(/\*\*([ \t]+)([^*\n]*?)\*\*/g, '**$2**')
