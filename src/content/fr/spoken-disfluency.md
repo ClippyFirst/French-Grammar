@@ -4,7 +4,7 @@ title_fr: "Hésitations, auto-corrections et interruptions dans l’oral"
 description_uk: "Вагання, повтори, reformulation, self-repair і переривання в сучасній усній французькій: як аналізувати їх без змішування з граматичними помилками."
 category: discourse
 order: 740
-canonical_ids: ["FR-740"]
+
 prerequisites:
   - spoken-french
   - discourse
