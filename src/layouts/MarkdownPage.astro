@@ -36,13 +36,13 @@ const tocItems = headings ? tocFromHeadings(headings) : [];
   </Fragment>
   <Header slot="header" />
   <Footer slot="footer" />
-  <article class="prose">
+  <article class="prose reference-article">
     <Breadcrumbs crumbs={crumbs} />
     <div class="content-grid">
       {tocItems.length > 0 ? <TOC items={tocItems} /> : null}
       <div>
-        <header class="article-head">
-          <h1>{data.title_uk}</h1>
+        <header class="article-head" aria-labelledby="article-title">
+          <h1 id="article-title">{data.title_uk}</h1>
           <p class="fr-title">{data.title_fr}</p>
           <p class="lead">{data.description_uk}</p>
         </header>
