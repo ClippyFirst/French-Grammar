@@ -8,10 +8,10 @@
 | Метрика | Значення |
 |---|---:|
 | Канонічних тем | 740 |
-| Тем із хоча б однією статтею | 730 |
-| Покриття | 98.6% |
-| Тем без статті | 10 |
-| Тем із кількома статтями | 5 |
+| Тем із хоча б однією статтею | 740 |
+| Покриття | 100% |
+| Тем без статті | 0 |
+| Тем із кількома статтями | 0 |
 | Тем, прив’язаних до deprecated-файла | 0 |
 
 ## Матриця
@@ -578,7 +578,7 @@
 | `FR-558` | [Безособові конструкції та узгодження](../content/fr/impersonal-accord.md) |
 | `FR-559` | [Складні випадки французького узгодження](../content/fr/complex-agreement.md) |
 | `FR-560` | [Порівняльний і найвищий ступінь](../content/fr/comparative-superlative.md) |
-| `FR-561` | — |
+| `FR-561` | [plus que / moins que / aussi ... que: порівняльні конструкції](../content/fr/comparative-que.md) |
 | `FR-562` | [autant / davantage](../content/fr/autant-davantage.md) |
 | `FR-563` | [meilleur / mieux: прикметникове та прислівникове порівняння](../content/fr/meilleur-mieux.md) |
 | `FR-564` | [pire / plus mauvais: порівняння mauvais](../content/fr/pire-plus-mauvais.md) |
@@ -632,10 +632,10 @@
 | `FR-612` | [Непряме питання](../content/fr/indirect-question.md) |
 | `FR-613` | [Непрямий наказ і прохання](../content/fr/indirect-command-request.md) |
 | `FR-614` | [Узгодження часів у непрямій мові](../content/fr/reported-speech-sequence-of-tenses.md) |
-| `FR-615` | — |
-| `FR-616` | — |
-| `FR-617` | — |
-| `FR-618` | — |
+| `FR-615` | [Заміна особових займенників](../content/fr/reported-speech-pronoun-shift.md) |
+| `FR-616` | [Заміна часових маркерів](../content/fr/reported-speech-time-markers.md) |
+| `FR-617` | [Заміна просторових маркерів](../content/fr/reported-speech-place-markers.md) |
+| `FR-618` | [Conditionnel у непрямій мові](../content/fr/reported-speech-conditionnel.md) |
 | `FR-619` | [Узгодження модальності](../content/fr/reported-speech-modality.md) |
 | `FR-620` | [Пунктуація цитування](../content/fr/quotation-punctuation.md) |
 | `FR-621` | [Тема і рема: інформаційна організація французького висловлення](../content/fr/theme-rheme.md) |
@@ -661,7 +661,7 @@
 | `FR-641` | [Формальний регістр](../content/fr/formal-register.md) |
 | `FR-642` | [Неформальний регістр](../content/fr/informal-register.md) |
 | `FR-643` | [Літературний регістр](../content/fr/literary-register.md) |
-| `FR-644` | — |
+| `FR-644` | [Випадіння ne](../content/fr/ne-deletion.md) |
 | `FR-645` | [Усні скорочення](../content/fr/oral-reductions.md) |
 | `FR-646` | [Розмовні питання](../content/fr/colloquial-questions.md) |
 | `FR-647` | [Розмовний порядок займенників](../content/fr/colloquial-pronoun-order.md) |
@@ -741,42 +741,28 @@
 | `FR-721` | [Дієслова сприйняття: інфінітив чи підрядне речення](../content/fr/perception-infinitive-complement.md) |
 | `FR-722` | [Faire + infinitif: каузативна конструкція](../content/fr/causative-faire-infinitive.md) |
 | `FR-723` | [Laisser + infinitif: дозволова конструкція](../content/fr/laisser-infinitive.md) |
-| `FR-724` | — |
+| `FR-724` | [Суб'єкт інфінітива та контроль](../content/fr/infinitive-control.md) |
 | `FR-725` | [Неповні дієслівні парадигми](../content/fr/defective-verbs.md) |
 | `FR-726` | [Присвійність, означений артикль і частини тіла](../content/fr/body-parts-definite-contrast.md) |
 | `FR-727` | [Присвійність, означений артикль, частини тіла та одяг](../content/fr/possession-body-clothes.md) |
 | `FR-728` | [Французькі interrogatives ↔ українські способи формування питань](../content/fr/interrogative-adverbs.md) |
 | `FR-729` | [Окличні конструкції у французькій](../content/fr/exclamatives.md) |
 | `FR-730` | [Інверсія поза звичайними питаннями](../content/fr/inversion-outside-questions.md) |
-| `FR-731` | — |
+| `FR-731` | [Avoir beau + infinitif: уступальна конструкція](../content/fr/concessive-avoir-beau.md) |
 | `FR-732` | [Інклюзивне письмо та сучасна орфографічна практика](../content/fr/inclusive-writing.md) |
 | `FR-733` | [Фраза, syntagme, речення та висловлення](../content/fr/phrase-enonce.md) |
 | `FR-734` | [Бездієслівні, номінальні та еліптичні висловлення](../content/fr/elliptical-utterances.md) |
-| `FR-735` | — |
+| `FR-735` | [Екстракція та синтаксичні залежності на відстані](../content/fr/extraction-constructions.md) |
 | `FR-736` | [Дейксис: особа, простір, час і текст](../content/fr/deixis.md) |
 | `FR-737` | [Звертання, інтер'єкції та дискурсивні частки](../content/fr/address-interjections.md) |
 | `FR-738` | [Звертання, інтер'єкції та дискурсивні частки](../content/fr/address-interjections.md) |
 | `FR-739` | [Просодія як граматичний і дискурсивний ресурс](../content/fr/prosody.md) |
-| `FR-740` | — |
+| `FR-740` | [Вагання, самокорекція та переривання в усному мовленні](../content/fr/spoken-disfluency.md) |
 
 ## Missing
 
-- `FR-561`
-- `FR-615`
-- `FR-616`
-- `FR-617`
-- `FR-618`
-- `FR-644`
-- `FR-724`
-- `FR-731`
-- `FR-735`
-- `FR-740`
+_Немає._
 
 ## Duplicate mappings
 
-- `FR-492` → `relative-clause-structure`, `relative-clauses`
-- `FR-493` → `defining-relatives`, `relative-clauses`
-- `FR-494` → `nonrestrictive-relatives`, `relative-clauses`
-- `FR-505` → `relative-antecedent`, `relative-clauses`
-- `FR-506` → `multiple-antecedents-relative`, `relative-clauses`
-
+_Немає._
