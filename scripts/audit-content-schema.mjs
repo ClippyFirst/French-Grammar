@@ -101,7 +101,7 @@ for (const file of files) {
     }
 
     if (enums[field] && type !== 'empty') {
-      const value = meta.value.replace(/^(['"])(.*)\\1$/, '$2');
+      const value = meta.value.replace(/^(['"])(.*)\1$/, '$2');
       if (!enums[field].has(value)) {
         issues.push({ path: display, line: meta.lineNo, field, problem: 'invalid value: ' + meta.value });
       }
