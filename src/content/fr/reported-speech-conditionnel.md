@@ -3,7 +3,7 @@ title_uk: "Conditionnel у непрямій мові"
 title_fr: "Le conditionnel dans le discours indirect"
 description_uk: "Функції conditionnel для майбутнього в минулому та передавання майбутньої дії з минулої точки відліку."
 category: "Синтаксис"
-canonical_ids: ["FR-618"]
+
 prerequisites: ["indirect-speech"]
 related: ["direct-speech", "quoting"]
 level: B2
