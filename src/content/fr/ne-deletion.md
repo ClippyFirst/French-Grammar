@@ -3,7 +3,7 @@ title_uk: "Випадіння ne"
 title_fr: "La chute de ne"
 description_uk: "Коли в усному французькому запереченні *ne* може випадати, як це пов’язано з регістром і чому це не тотожне нейтральній писемній нормі."
 category: "Дискурс і регістр"
-canonical_ids: ["FR-644"]
+
 prerequisites: []
 related: ["direct-speech", "indirect-speech"]
 level: B2
