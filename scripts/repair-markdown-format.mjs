@@ -53,18 +53,18 @@ export function repairLine(line) {
   const protectedLine = protectInlineCode(line);
   let value = protectedLine.value;
   value = value
-    .replace(/\*\*\s+([^\n]*?\S)\s+\*\*/g, '**$1**')
-    .replace(/\*\*\s+([^\n]*?\S)\*\*/g, '**$1**')
-    .replace(/\*\*([^\n]*?\S)\s+\*\*/g, '**$1**')
-    .replace(/(?<!\*)\*\s+([^\n]*?\S)\s+\*(?!\*)/g, '*$1*')
-    .replace(/(?<!\*)\*\s+([^\n]*?\S)\*(?!\*)/g, '*$1*')
-    .replace(/(?<!\*)\*([^\n]*?\S)\s+\*(?!\*)/g, '*$1*')
-    .replace(/__\s+([^\n]*?\S)\s+__/g, '__$1__')
-    .replace(/__\s+([^\n]*?\S)__/g, '__$1__')
-    .replace(/__([^\n]*?\S)\s+__/g, '__$1__')
-    .replace(/(?<!_)_\s+([^\n]*?\S)\s+_(?!_)/g, '_$1_')
-    .replace(/(?<!_)_\s+([^\n]*?\S)_(?!_)/g, '_$1_')
-    .replace(/(?<!_)_([^\n]*?\S)\s+_(?!_)/g, '_$1_');
+    .replace(/\*\*([ \t]+)([^*\n]*?)([ \t]+)\*\*/g, '**$2**')
+    .replace(/\*\*([ \t]+)([^*\n]*?)\*\*/g, '**$2**')
+    .replace(/\*\*([^*\n]*?)([ \t]+)\*\*/g, '**$1**')
+    .replace(/(?<!\*)\*([ \t]+)([^*\n]*?)([ \t]+)\*(?!\*)/g, '*$2*')
+    .replace(/(?<!\*)\*([ \t]+)([^*\n]*?)\*(?!\*)/g, '*$2*')
+    .replace(/(?<!\*)\*([^*\n]*?)([ \t]+)\*(?!\*)/g, '*$1*')
+    .replace(/__([ \t]+)([^_\n]*?)([ \t]+)__/g, '__$2__')
+    .replace(/__([ \t]+)([^_\n]*?)__/g, '__$2__')
+    .replace(/__([^_\n]*?)([ \t]+)__/g, '__$1__')
+    .replace(/(?<!_)_([ \t]+)([^_\n]*?)([ \t]+)_(?!_)/g, '_$2_')
+    .replace(/(?<!_)_([ \t]+)([^_\n]*?)_(?!_)/g, '_$2_')
+    .replace(/(?<!_)_([^_\n]*?)([ \t]+)_(?!_)/g, '_$1_');
   value = restoreInlineCode(value, protectedLine.parts);\n  return repairHtmlInline(value);
 }
 
