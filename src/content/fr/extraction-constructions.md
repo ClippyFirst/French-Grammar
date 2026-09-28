@@ -4,7 +4,7 @@ title_fr: "Extraction et dépendances à longue distance"
 description_uk: "Системний довідник про винесення компонентів у французькій: питання, відносні конструкції, cleft-конструкції та інші залежності між виділеним компонентом і його синтаксичною позицією."
 category: complex
 order: 735
-canonical_ids: ["FR-735"]
+
 prerequisites:
   - word-order
   - questions
