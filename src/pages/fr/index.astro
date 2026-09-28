@@ -27,18 +27,16 @@ const crumbs = [
   <article class="prose">
     <Breadcrumbs crumbs={crumbs} />
     <div class="container">
-      <header class="article-head">
+      <header class="directory-head">
         <h1>Всі теми</h1>
-        <p class="lead">Перегляньте теми за категоріями або скористайтеся пошуком.</p>
+        <p class="lead">Повний каталог граматики. Виберіть категорію або скористайтеся пошуком.</p>
       </header>
       {sections.map((s) => {
         const cat = categories.find((c) => c.key === s.id.replace('h-', ''));
         return (
-          <section key={s.id} class="category-section">
-            <h2>
-              <a href={'/fr/' + cat.key + '/'}>{cat.uk}</a>
-            </h2>
-            <p style="color: var(--ink-soft); font-size: 0.9rem; margin-top: -0.5rem; margin-bottom: 0.75rem;">
+          <section class="category-section" aria-labelledby={s.id}>
+            <h2 id={s.id}><a href={'/fr/' + cat.key + '/'}>{cat.uk}</a></h2>
+            <p class="category-description">
               {cat.description}
             </p>
             <ul class="topic-list">
