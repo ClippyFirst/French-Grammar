@@ -1,60 +1,45 @@
 # French Grammar — full QA report
 
-Started: 2026-09-28T14:12:08.617Z
+Started: 2026-09-28T14:15:43.485Z
 Repository: ClippyFirst/French-Grammar
 Working directory: F:\GitHub\Grammars\French Grammar
 ## test
 
 Command: C:\Program Files\nodejs\node.exe --test
-Started: 2026-09-28T14:12:08.619Z
-file:///F:/GitHub/Grammars/French%20Grammar/test/canonical-coverage.test.mjs:17
-test('parseCanonicalIds also extracts quoted multiline IDs', () => {\n  const source = `---\ncanonical_ids:\n  - "FR-451"\n  - 'FR-452'\n---\n`;\n  assert.deepEqual(parseCanonicalIds(source), ['FR-451', 'FR-452']);\n});\n\ntest('parseCanonicalIds also extracts inline arrays', () => {
-                                                                    ^
-
-SyntaxError: Invalid or unexpected token
-    at compileSourceTextModule (node:internal/modules/esm/utils:318:16)
-    at ModuleLoader.moduleStrategy (node:internal/modules/esm/translators:89:18)
-    at #translate (node:internal/modules/esm/loader:434:20)
-    at afterLoad (node:internal/modules/esm/loader:502:29)
-    at ModuleLoader.loadAndTranslate (node:internal/modules/esm/loader:507:12)
-    at #getOrCreateModuleJobAfterResolve (node:internal/modules/esm/loader:560:36)
-    at afterResolve (node:internal/modules/esm/loader:607:52)
-    at ModuleLoader.getOrCreateModuleJob (node:internal/modules/esm/loader:613:12)
-    at node:internal/modules/esm/loader:632:32
-    at TracingChannel.tracePromise (node:diagnostics_channel:362:14)
-
-Node.js v24.19.0
-✖ test\canonical-coverage.test.mjs (85.3253ms)
-✔ relatedFor resolves a plain canonical slug (3.0773ms)
-✔ relatedFor preserves category/slug references for legacy content (0.256ms)
-✔ relatedFor does not silently resolve an ambiguous plain slug (0.2236ms)
-✔ canonicalCategory normalizes legacy site categories (0.2229ms)
-✔ slugFromId normalizes extension and nested IDs (0.1749ms)
-✔ navigation helpers group legacy categories under canonical sections (0.4603ms)
-✔ category catalog and layers stay in sync (0.2302ms)
-ℹ tests 8
+Started: 2026-09-28T14:15:43.488Z
+✔ parseCanonicalIds extracts canonical IDs from frontmatter (2.2503ms)
+✔ parseCanonicalIds also extracts quoted multiline IDs (0.3124ms)
+✔ parseCanonicalIds also extracts inline arrays (0.3185ms)
+✔ auditCanonicalCoverage reports missing, invalid and duplicate mappings (1.0715ms)
+✔ auditCanonicalCoverage detects duplicate catalog IDs and duplicate IDs inside one file (0.5719ms)
+✔ auditCanonicalCoverage reports canonical mappings on deprecated files (0.2406ms)
+✔ parseStatus normalizes legacy status values (0.3486ms)
+✔ auditCanonicalCoverage detects a non-contiguous canonical catalog (0.202ms)
+✔ parseCatalogIds ignores historical audit bullet lists outside the live catalog (0.4308ms)
+✔ relatedFor resolves a plain canonical slug (3.6259ms)
+✔ relatedFor preserves category/slug references for legacy content (0.5378ms)
+✔ relatedFor does not silently resolve an ambiguous plain slug (0.3034ms)
+✔ canonicalCategory normalizes legacy site categories (0.2296ms)
+✔ slugFromId normalizes extension and nested IDs (0.1928ms)
+✔ navigation helpers group legacy categories under canonical sections (0.4726ms)
+✔ category catalog and layers stay in sync (0.2429ms)
+ℹ tests 16
 ℹ suites 0
-ℹ pass 7
-ℹ fail 1
+ℹ pass 16
+ℹ fail 0
 ℹ cancelled 0
 ℹ skipped 0
 ℹ todo 0
-ℹ duration_ms 298.4211
+ℹ duration_ms 293.9216
 
-✖ failing tests:
-
-test at test\canonical-coverage.test.mjs:1:1
-✖ test\canonical-coverage.test.mjs (85.3253ms)
-  'test failed'
-
-Finished: 2026-09-28T14:12:09.043Z
-Exit code: 1
+Finished: 2026-09-28T14:15:43.890Z
+Exit code: 0
 Signal: none
 Duration: 0.4s
 ## audit:canonical
 
 Command: C:\Program Files\nodejs\node.exe scripts/audit-canonical-coverage.mjs
-Started: 2026-09-28T14:12:09.043Z
+Started: 2026-09-28T14:15:43.890Z
 # Canonical coverage audit
 
 - Catalog topics: 740
@@ -206,14 +191,14 @@ Started: 2026-09-28T14:12:09.043Z
 - FR-735: src/content/fr/extraction-constructions.md, src/content/fr/extraction.md
 - FR-740: src/content/fr/hesitation-self-correction.md, src/content/fr/spoken-disfluency.md
 
-Finished: 2026-09-28T14:12:09.297Z
+Finished: 2026-09-28T14:15:44.184Z
 Exit code: 0
 Signal: none
 Duration: 0.3s
 ## audit:site-categories
 
 Command: C:\Program Files\nodejs\node.exe scripts/audit-site-categories.mjs --strict
-Started: 2026-09-28T14:12:09.298Z
+Started: 2026-09-28T14:15:44.184Z
 === FRENCH-GRAMMAR SITE CATEGORY AUDIT ===
 
 Files: 593
@@ -575,14 +560,14 @@ Duplicate generated routes: 0
 --- Duplicate generated routes ---
 —
 
-Finished: 2026-09-28T14:12:09.585Z
+Finished: 2026-09-28T14:15:44.443Z
 Exit code: 0
 Signal: none
 Duration: 0.3s
 ## audit:content-schema
 
 Command: C:\Program Files\nodejs\node.exe scripts/audit-content-schema.mjs
-Started: 2026-09-28T14:12:09.585Z
+Started: 2026-09-28T14:15:44.444Z
 === FRENCH-GRAMMAR CONTENT SCHEMA SHAPE AUDIT ===
 
 Files scanned: 593
@@ -590,21 +575,21 @@ Issues: 0
 
 —
 
-Finished: 2026-09-28T14:12:09.833Z
+Finished: 2026-09-28T14:15:44.733Z
 Exit code: 0
 Signal: none
-Duration: 0.2s
+Duration: 0.3s
 ## audit:canonical:matrix
 
 Command: C:\Program Files\nodejs\node.exe scripts/generate-canonical-matrix.mjs
-Started: 2026-09-28T14:12:09.833Z
+Started: 2026-09-28T14:15:44.733Z
 Wrote F:\GitHub\Grammars\French Grammar\docs\canonical_topic_article_matrix.md
 
-Finished: 2026-09-28T14:12:10.127Z
+Finished: 2026-09-28T14:15:44.985Z
 Exit code: 0
 Signal: none
 Duration: 0.3s
 ## build
 
 Command: npm.cmd run build
-Started: 2026-09-28T14:12:10.127Z
+Started: 2026-09-28T14:15:44.985Z
