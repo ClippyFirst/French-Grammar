@@ -1,12 +1,13 @@
 // Офіційні граматичні теми для підготовки до НМТ та ЄВІ з французької мови.
 // Формулювання зберігаються французькою; exam позначає пряме входження
-// конкретної підтемы до відповідної програми.
+// конкретної підтеми до відповідної програми.
 // Для ЄВІ ширші офіційні блоки зіставляються з конкретними статтями довідника.
 
 export const examSections = [
   {
     key: 'nominal',
     title: 'Іменна група',
+    frTitle: 'Groupe nominal',
     topics: [
       ['Les articles indéfinis, définis et partitifs', 'Article', 'both'],
       ["L'article zéro", 'Article', 'nmt'],
@@ -30,7 +31,8 @@ export const examSections = [
   },
   {
     key: 'verb',
-    title: 'Verbe',
+    title: 'Дієслово',
+    frTitle: 'Verbe',
     topics: [
       ['La forme affirmative', 'Verbe', 'evi'],
       ["Le présent de l'indicatif", 'Verbe', 'both'],
@@ -62,6 +64,7 @@ export const examSections = [
   {
     key: 'other',
     title: 'Інші граматичні конструкції',
+    frTitle: 'Autres constructions grammaticales',
     topics: [
       ['Les adverbes de fréquence', 'Adverbe', 'both'],
       ['Les adverbes de quantité', 'Adverbe', 'both'],
