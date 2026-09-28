@@ -8,7 +8,6 @@ canonical_ids:
   - "FR-451"
   - "FR-452"
   - "FR-453"
-  - "FR-454"
   - "FR-455"
   - "FR-456"
 prerequisites:
