@@ -4,7 +4,7 @@ title_fr: "Les verbes de mouvement suivis de l'infinitif"
 description_uk: "Як aller, venir, partir, courir та інші дієслова руху поєднуються з інфінітивом і як розрізняти рух як дію та рух як компонент конструкції."
 category: verbs
 order: 720
-canonical_ids: ["FR-720"]
+
 prerequisites: ["infinitive", "verbal-periphrases", "aller"]
 related: ["futur-proche", "verbal-periphrases", "pronouns-infinitive", "word-order"]
 contrast: ["futur-proche", "infinitive"]
