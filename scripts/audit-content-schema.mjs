@@ -1,5 +1,6 @@
 import fs from 'node:fs';
 import path from 'node:path';
+import yaml from 'js-yaml';
 
 const root = process.cwd();
 const contentDir = path.join(root, 'src', 'content', 'fr');
@@ -31,64 +32,51 @@ function collect(dir, relativeDir = '') {
   return files;
 }
 
-function parseFrontmatter(source) {
-  if (!source.startsWith('---\n') && !source.startsWith('---\r\n')) {
-    return { error: 'missing opening ---' };
-  }
+function extractFrontmatter(source) {
+  if (!/^---\r?\n/.test(source)) return { error: 'missing opening ---' };
   const match = source.match(/^---\r?\n([\s\S]*?)\r?\n---(?:\r?\n|$)/);
   if (!match) return { error: 'missing closing ---' };
+  return { body: match[1], startLine: 2 };
+}
 
-  const lines = match[1].split(/\r?\n/);
-  const fields = new Map();
+function yamlErrorLocation(error, startLine = 2) {
+  const mark = error?.mark;
+  return {
+    line: Number.isInteger(mark?.line) ? startLine + mark.line : startLine,
+    column: Number.isInteger(mark?.column) ? mark.column + 1 : 1,
+  };
+}
 
-  for (let i = 0; i < lines.length; i += 1) {
-    const line = lines[i];
-    const m = line.match(/^([A-Za-z_][A-Za-z0-9_-]*):(?:[ \t]*(.*))?$/);
-    if (!m) continue;
-
-    const field = m[1];
-    let value = (m[2] ?? '').trim();
-    const lineNo = i + 2;
-
-    // Support YAML block sequences such as:
-    // variety:
-    //   - FR
-    //   - QC
-    if (value === '' && i + 1 < lines.length && /^\s+-\s+/.test(lines[i + 1])) {
-      const items = [];
-      let j = i + 1;
-      while (j < lines.length && /^\s+-\s+/.test(lines[j])) {
-        items.push(lines[j].replace(/^\s+-\s+/, '').trim());
-        j += 1;
-      }
-      value = '[' + items.join(', ') + ']';
-      i = j - 1;
+function validateValue(issues, display, field, value, line = 1) {
+  if (arrays.has(field)) {
+    if (!Array.isArray(value)) {
+      issues.push({ path: display, line, field, problem: 'expected array, found ' + (value === null ? 'null' : typeof value) });
+      return;
     }
-
-    fields.set(field, { value, lineNo });
+    if (field === 'canonical_ids' && value.some((item) => typeof item !== 'string' || !/^FR-\d{3}$/.test(item))) {
+      issues.push({ path: display, line, field, problem: 'canonical_ids must contain only FR-### values' });
+    }
+    if (field === 'variety' && value.some((item) => typeof item !== 'string' || !enums.variety.has(item))) {
+      issues.push({ path: display, line, field, problem: 'variety contains an invalid value' });
+    }
+    return;
   }
 
-  return { fields };
-}
+  if (numbers.has(field) && typeof value !== 'number') {
+    issues.push({ path: display, line, field, problem: 'expected number, found ' + (value === null ? 'null' : typeof value) });
+    return;
+  }
 
-function classify(value) {
-  if (value === '') return 'empty';
-  if (/^\[.*\]$/.test(value)) return 'array';
-  if (value === 'true' || value === 'false') return 'boolean';
-  if (/^-?(?:0|[1-9]\d*)(?:\.\d+)?$/.test(value)) return 'number';
-  if (/^(?:null|~)$/.test(value)) return 'null';
-  return 'scalar';
-}
+  if (booleans.has(field) && typeof value !== 'boolean') {
+    issues.push({ path: display, line, field, problem: 'expected boolean, found ' + (value === null ? 'null' : typeof value) });
+    return;
+  }
 
-function unquote(value) {
-  return value.replace(/^(['"])(.*)\1$/, '$2');
-}
-
-function validCanonicalIds(value) {
-  if (!/^\[.*\]$/.test(value)) return false;
-  const inner = value.slice(1, -1).trim();
-  if (inner === '') return true;
-  return inner.split(',').every((item) => /^\s*(['"])?FR-\d{3}\1\s*$/.test(item));
+  if (enums[field] && value !== null && value !== undefined) {
+    if (typeof value !== 'string' || !enums[field].has(value)) {
+      issues.push({ path: display, line, field, problem: 'invalid value: ' + JSON.stringify(value) });
+    }
+  }
 }
 
 const files = collect(contentDir);
@@ -96,60 +84,53 @@ const issues = [];
 
 for (const file of files) {
   const source = fs.readFileSync(file.absolute, 'utf8');
-  const fm = parseFrontmatter(source);
   const display = path.posix.join('src/content/fr', file.relative);
+  const fm = extractFrontmatter(source);
 
   if (fm.error) {
     issues.push({ path: display, line: 1, field: 'frontmatter', problem: fm.error });
     continue;
   }
 
+  let data;
+  try {
+    data = yaml.load(fm.body) ?? {};
+  } catch (error) {
+    const loc = yamlErrorLocation(error, fm.startLine);
+    issues.push({
+      path: display,
+      line: loc.line,
+      field: 'frontmatter',
+      problem: 'invalid YAML: ' + (error?.reason || error?.message || String(error)),
+      column: loc.column,
+    });
+    continue;
+  }
+
+  if (!data || typeof data !== 'object' || Array.isArray(data)) {
+    issues.push({ path: display, line: 1, field: 'frontmatter', problem: 'frontmatter must be a YAML mapping' });
+    continue;
+  }
+
   for (const field of required) {
-    if (!fm.fields.has(field) || fm.fields.get(field).value === '') {
+    if (!(field in data) || data[field] === null || data[field] === '') {
       issues.push({ path: display, line: 1, field, problem: 'missing required field' });
     }
   }
 
-  for (const [field, meta] of fm.fields) {
-    const type = classify(meta.value);
-
-    if (arrays.has(field)) {
-      if (type === 'scalar' || type === 'number' || type === 'boolean' || type === 'null') {
-        issues.push({ path: display, line: meta.lineNo, field, problem: 'expected array, found ' + type + ': ' + meta.value });
-      }
-      if (field === 'canonical_ids' && type === 'array' && !validCanonicalIds(meta.value)) {
-        issues.push({ path: display, line: meta.lineNo, field, problem: 'canonical_ids must contain only FR-### values' });
-      }
-      continue;
-    }
-
-    if (numbers.has(field) && type !== 'number' && type !== 'empty') {
-      issues.push({ path: display, line: meta.lineNo, field, problem: 'expected number, found ' + type + ': ' + meta.value });
-      continue;
-    }
-
-    if (booleans.has(field) && type !== 'boolean' && type !== 'empty') {
-      issues.push({ path: display, line: meta.lineNo, field, problem: 'expected boolean, found ' + type + ': ' + meta.value });
-      continue;
-    }
-
-    if (enums[field] && type !== 'empty') {
-      const value = unquote(meta.value);
-      if (!enums[field].has(value)) {
-        issues.push({ path: display, line: meta.lineNo, field, problem: 'invalid value: ' + meta.value });
-      }
-    }
+  for (const [field, value] of Object.entries(data)) {
+    validateValue(issues, display, field, value);
   }
 }
 
 const lines = [
-  '=== FRENCH-GRAMMAR CONTENT SCHEMA SHAPE AUDIT ===',
+  '=== FRENCH-GRAMMAR CONTENT SCHEMA + YAML AUDIT ===',
   '',
   'Files scanned: ' + files.length,
   'Issues: ' + issues.length,
   '',
   ...(issues.length
-    ? issues.map((issue) => '- ' + issue.path + ':' + issue.line + ' → ' + issue.field + ' → ' + issue.problem)
+    ? issues.map((issue) => '- ' + issue.path + ':' + issue.line + (issue.column ? ':' + issue.column : '') + ' → ' + issue.field + ' → ' + issue.problem)
     : ['—']),
   '',
 ];
