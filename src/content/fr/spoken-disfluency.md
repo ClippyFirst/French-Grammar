@@ -1,4 +1,6 @@
 ---
+canonical_ids:
+  - "FR-740"
 title_uk: "Вагання, самокорекція та переривання в усному мовленні"
 title_fr: "Hésitations, auto-corrections et interruptions dans l’oral"
 description_uk: "Вагання, повтори, reformulation, self-repair і переривання в сучасній усній французькій: як аналізувати їх без змішування з граматичними помилками."
