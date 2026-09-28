@@ -632,7 +632,7 @@ Relative — це частина §§MDEMPH0§§, а не ізольований
 5. §§MDEMPH0§§
 6. §§MDEMPH0§§
 7. §§MDEMPH0§§
-8. **Перевірте рід і число §§MDEMPH0§§-форм.**
+8. §§MDEMPH0§§
 9. §§MDEMPH0§§, якщо relative пояснювальна.
 10. §§MDEMPH0§§
 11. §§MDEMPH0§§
