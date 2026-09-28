@@ -7,14 +7,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="generator" content="Astro" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <script is:inline>
+      (() => {
+        try {
+          const stored = localStorage.getItem('theme');
+          const theme = stored === 'dark' || stored === 'light'
+            ? stored
+            : (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+          document.documentElement.setAttribute('data-theme', theme);
+        } catch {}
+      })();
+    </script>
     <slot name="head" />
     <meta name="robots" content="index, follow" />
     <link rel="stylesheet" href="/styles/global.css" />
     <script defer src="/js/main.js"></script>
-    <!-- Пошук Pagefind -->
     <link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
-    <script type="module" src="/pagefind/pagefind-ui.js" data-pagefind-ui>
-    </script>
+    <script type="module" src="/pagefind/pagefind-ui.js" data-pagefind-ui></script>
   </head>
   <body class="site">
     <a class="skip-link" href="#main">Перейти до контенту</a>
@@ -23,21 +32,5 @@
       <slot />
     </main>
     <slot name="footer" />
-    <script>
-      // Простий перемикач теми без зовнішніх JS-залежностей.
-      var stored = localStorage.getItem('theme') || 'light';
-      document.documentElement.setAttribute('data-theme', stored);
-      var toggle = document.getElementById('theme-toggle');
-      if (toggle) {
-        toggle.addEventListener('click', function () {
-          var next =
-            document.documentElement.getAttribute('data-theme') === 'dark'
-              ? 'light'
-              : 'dark';
-          document.documentElement.setAttribute('data-theme', next);
-          localStorage.setItem('theme', next);
-        });
-      }
-    </script>
   </body>
 </html>
