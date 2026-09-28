@@ -36,6 +36,19 @@ function restoreInlineCode(value, parts) {
   return value.replace(/§§MDINLINE(\d+)§§/g, (_, index) => parts[Number(index)]);
 }
 
+function repairHtmlInline(line) {
+  return line.replace(/(<(?:p|span|div|li|td|th)(?:\\s+[^>]*)?>)(.*?)(<\\/(?:p|span|div|li|td|th)>)/g, (full, open, inner, close) => {
+    if (!/[*_]{1,2}\\S/.test(inner)) return full;
+    const repaired = repairLine(inner);
+    const html = repaired
+      .replace(/\\*\\*([^*\\n]+?)\\*\\*/g, '<strong>$1</strong>')
+      .replace(/(?<!\\*)\\*([^*\\n]+?)\\*(?!\\*)/g, '<em>$1</em>')
+      .replace(/__([^_\\n]+?)__/g, '<strong>$1</strong>')
+      .replace(/(?<!_)_([^_\\n]+?)_(?!_)/g, '<em>$1</em>');
+    return open + html + close;
+  });
+}
+
 export function repairLine(line) {
   const protectedLine = protectInlineCode(line);
   let value = protectedLine.value;
@@ -52,7 +65,7 @@ export function repairLine(line) {
     .replace(/(?<!_)_\s+([^\n]*?\S)\s+_(?!_)/g, '_$1_')
     .replace(/(?<!_)_\s+([^\n]*?\S)_(?!_)/g, '_$1_')
     .replace(/(?<!_)_([^\n]*?\S)\s+_(?!_)/g, '_$1_');
-  return restoreInlineCode(value, protectedLine.parts);
+  value = restoreInlineCode(value, protectedLine.parts);\n  return repairHtmlInline(value);
 }
 
 export function repairSource(source) {
