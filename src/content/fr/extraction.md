@@ -26,7 +26,7 @@ tags:
   - синтаксис
   - залежність
 level: C1
-depth: reference
+depth: high
 register: neutral
 variety: [FR]
 status: review
