@@ -2,7 +2,7 @@
 title_uk: "Міра та інтенсивність: très, assez, trop, tellement, si"
 title_fr: "La mesure et l'intensité : très, assez, trop, tellement, si"
 description_uk: "Довідка про вираження міри та інтенсивності з прикметниками, прислівниками й дієсловами та про відмінність від кількості іменників."
-canonical_ids: ["FR-573"]
+canonical_ids: ["FR-573", "FR-135"]
 level: B1
 category: quantification
 register: neutral
