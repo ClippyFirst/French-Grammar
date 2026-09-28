@@ -4,6 +4,7 @@ title_fr: "Le comparatif et le superlatif"
 description_uk: "Система порівняння у французькій: plus, moins, aussi, autant, meilleur, mieux, pire, plus mauvais та superlatif."
 category: adjectives
 canonical_ids:
+  - "FR-560"
   - "FR-561"
   - "FR-130"
 order: 130
