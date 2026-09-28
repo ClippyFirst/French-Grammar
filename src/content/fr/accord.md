@@ -4,15 +4,7 @@ title_fr: "L'accord en français"
 description_uk: "Системний довідник про узгодження підмета й дієслова, прикметників, детермінативів та participe passé з être, avoir і займенниковими дієсловами."
 category: agreement
 canonical_ids:
-  - "FR-545"
-  - "FR-546"
-  - "FR-547"
-  - "FR-548"
-  - "FR-549"
-  - "FR-551"
-  - "FR-552"
   - "FR-553"
-  - "FR-554"
 order: 23
 prerequisites:
   - noun-gender
