@@ -19,7 +19,7 @@ tags: [conditionnel présent, умовний спосіб, гіпотеза, в�
 level: B1
 depth: high
 register: neutral
-variety: FR
+variety: [FR]
 contrastive_uk: high
 status: review
 sources:
