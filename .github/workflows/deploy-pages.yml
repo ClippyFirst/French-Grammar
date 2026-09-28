@@ -30,8 +30,32 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Build
-        run: npm run qa
+      - name: Unit and integration tests
+        run: npm test
+
+      - name: Audit canonical coverage
+        run: npm run audit:canonical
+
+      - name: Audit site categories
+        run: npm run audit:site-categories
+
+      - name: Audit content schema
+        run: npm run audit:content-schema
+
+      - name: Audit search
+        run: npm run audit:search
+
+      - name: Audit markdown formatting
+        run: npm run audit:markdown-format
+
+      - name: Generate canonical matrix
+        run: npm run audit:canonical:matrix
+
+      - name: Build static site
+        run: npm run build
+
+      - name: Audit production build
+        run: npm run audit:alpha
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v4
