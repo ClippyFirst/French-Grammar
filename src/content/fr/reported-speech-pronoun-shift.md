@@ -1,4 +1,6 @@
 ---
+canonical_ids:
+  - "FR-615"
 title_uk: "Заміна особових займенників"
 title_fr: "Le changement des pronoms au discours indirect"
 description_uk: "Як змінюються je, tu, nous, vous та присвійні форми при зміні точки відліку в непрямій мові."
