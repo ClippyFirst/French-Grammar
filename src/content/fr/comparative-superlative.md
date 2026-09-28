@@ -5,7 +5,6 @@ description_uk: "Система порівняння у французькій: 
 category: adjectives
 canonical_ids:
   - "FR-560"
-  - "FR-561"
   - "FR-130"
 order: 130
 prerequisites:
