@@ -2,7 +2,7 @@
 title_uk: "Суб'єкт інфінітивної конструкції та контроль"
 title_fr: "Le contrôle du sujet dans les constructions infinitives"
 description_uk: "Як визначати виконавця дії інфінітива у французьких конструкціях: спільний суб'єкт, контроль, різні суб'єкти, сприйняття та каузативні моделі."
-canonical_ids: ["FR-724"]
+
 level: B2
 category: "Контрастивна граматика"
 register: neutral
