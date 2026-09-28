@@ -3,7 +3,7 @@ title_uk: "Заміна просторових маркерів"
 title_fr: "Le changement des marqueurs spatiaux"
 description_uk: "Як контекст впливає на ici, là, venir, aller та інші просторові засоби під час передавання чужого висловлювання."
 category: "Синтаксис"
-canonical_ids: ["FR-617"]
+
 prerequisites: ["indirect-speech"]
 related: ["direct-speech", "quoting"]
 level: B2
