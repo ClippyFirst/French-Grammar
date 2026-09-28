@@ -2,7 +2,7 @@
 title_uk: "Складні дієслівні вирази та вербальні перифрази"
 title_fr: "Les expressions verbales complexes et les périphrases verbales"
 description_uk: "Як аналізувати французькі складні дієслівні конструкції та перифрази: час, аспект, фазовість, модальність, керування інфінітивом і відмінність від простих часових форм."
-canonical_ids: ["FR-719"]
+
 level: B2
 category: "Контрастивна граматика"
 register: neutral
