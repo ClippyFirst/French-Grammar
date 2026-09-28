@@ -63,7 +63,30 @@ function runStage(label, command, args) {
     const timeout = setTimeout(() => {
       timedOut = true;
       appendFileSync(reportPath, `\n[qa-runner] TIMEOUT after ${STAGE_TIMEOUT_MS / 60000} minutes; terminating stage.\n`, 'utf8');
-      child.kill('SIGTERM');
+      if (process.platform === 'win32') {
+        const killer = spawn('taskkill', ['/PID', String(child.pid), '/T', '/F'], {
+          windowsHide: true,
+          stdio: 'ignore',
+        });
+        killer.on('close', () => {
+          if (!settled) {
+            settled = true;
+            clearTimeout(timeout);
+            console.log(`QA: ${label} timed out.`);
+            resolveStage({ label, code: 124 });
+          }
+        });
+      } else {
+        child.kill('SIGTERM');
+        setTimeout(() => {
+          if (!settled) {
+            settled = true;
+            clearTimeout(timeout);
+            console.log(`QA: ${label} timed out.`);
+            resolveStage({ label, code: 124 });
+          }
+        }, 5000);
+      }
     }, STAGE_TIMEOUT_MS);
 
     child.on('error', (error) => {
